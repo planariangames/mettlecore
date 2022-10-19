@@ -1,0 +1,27 @@
+title: METTLE Core
+logo: "/images/Logo.png"
+email: zhongjake@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  System Reference Document, Press Kit, and Frequently Asked Questions about
+  METTLE Core, a pulp adventure RPG by Jake Eldritch of Planarian Games.
+baseurl: /mettlecore/ # the subpath of your site, e.g. /blog
+url: "https://planariangames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: PlanarianGames
+github_username:  planariangames
+
+# Build settings
+theme: "just-the-docs" #replaced minima -RJM
+plugins:
+  - jekyll-feed
+
+# Callouts
+callouts:
+  highlight:
+    title: TL;DR
+    color: yellow
+  outcomes:
+    title: Outcomes
+    color: blue
+  note:
+    title: Note
+    color: red
