@@ -10,7 +10,7 @@ twitter_username: PlanarianGames
 github_username:  planariangames
 
 # Build settings
-#theme: "just-the-docs" #replaced minima -RJM
+# theme: "just-the-docs" #replaced minima -RJM
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
