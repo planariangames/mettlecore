@@ -11,6 +11,7 @@ github_username:  planariangames
 
 # Build settings
 theme: "just-the-docs" #replaced minima -RJM
+remote_theme: "pmarsceill/just-the-docs" #added to build on site
 plugins:
   - jekyll-feed
 
