@@ -71,8 +71,9 @@ situational modifiers.
 - **2H** takes two hands to wield.
 - **Ammo** is the number of shots before reloading with a *Use* Action.
 - **Block** adds a bonus to Block Checks when wielded.
-- **Burst** raises the Attack bonus by that amount, hitting harder and
-easing Split Attacks. +1/+2/+3 uses 5/10/20 bullets respectively.
+- **Burst** adds extra Attacks by wasting ammo. 5 ammo is 2 Attacks, 15 is 3,
+30 is 4, etc. These Attacks cannot Split. Jams are a common Twist and prevent
+ further fire until cleared.
 - **Cover** adds a Cover bonus to <span class="smallcaps">Poise</span>
 when targeted by an Attack.
 - **Grapple** use the weapon’s Attack bonus on Grapple Checks.
@@ -89,10 +90,11 @@ assume the weapon can be lobbed at 4 Difficulty per Zone away.
 - **Reach** weapons do not take return damage from a Block made against
 them unless the blocker is also using a Reach weapon.
 - **Scoped** weapons reduce the penalty for Range (only) by that amount.
+- **Spread** halves Attack Difficulty if target is no further than 1 Zone away. 
 - **Stun** weapons do their full damage when making Subdual attacks. Some
 can only make Subdual attacks, shown as “(only).”
 - **Superior** weapons are well-made; raise Attack bonus and Cost by one.
-- **Wrap** weapons are flexible and ignore a foe’s Cover bonuses.
+- **Wrap** weapons are flexible and ignore a foe’s Cover/shield bonuses.
 
 {: .text-center}
 **WEAPONS**
@@ -123,16 +125,16 @@ can only make Subdual attacks, shown as “(only).”
 |     Net                  |           Frame         |     Entangle                            |       1     |       2     |
 |     Polearm              |          Frame+3        |     2H                                  |       2     |       3     |
 |     Quarterstaff         |          Frame+2        |     2H,   Stun                          |       2     |       2     |
-|     Rifle, assault       |             7           |     2H, Burst 2,   Ammo 30, Range L     |       1     |       3     |
+|     Rifle, assault       |             7           |     2H, Burst,   Ammo 30, Range L     |       1     |       3     |
 |     Rifle,   hunting     |             7           |     2H,   Ammo 5, Range L, Scope 2      |       1     |       3     |
 |     Shield, large        |          Frame+1        |     Cover +2                            |       2     |       3     |
 |     Shield,   medium     |          Frame+1        |     Block   +1, Cover +1                |       1     |       3     |
 |     Shield, small        |          Frame+1        |     Block +2                            |       -     |       3     |
-|     Shotgun              |             8           |     2H,   Range S                       |       1     |       3     |
+|     Shotgun              |             8           |     2H,   Range S, Spread +2                       |       1     |       3     |
 |     Sling                |          Frame+1        |     Range M                             |       -     |       1     |
 |     Spear                |          Frame+3        |     Range   S, Reach                    |       2     |       2     |
 |     Stun gun             |             7           |     Stun (only)                         |       -     |       3     |
-|     Sub-machinegun       |             6           |     2H,   Range M, Burst 2              |       0     |       3     |
+|     Sub-machinegun       |             6           |     2H,   Range M, Burst              |       0     |       3     |
 |     Sword                |          Frame+3        |                                         |       1     |       3     |
 |     Sword,   great       |          Frame+4        |     2H                                  |       2     |       3     |
 |     Taser                |             7           |     Stun (only),   Reach                |       -     |       3     |

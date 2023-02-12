@@ -99,11 +99,12 @@ of Edge, consider using it on a Twist .
 
 Modifiers may add or subtract dice from a Check. For example, +2 means
 add two dice. Treat these modifiers just like a Roll where only the
-largest bonus and penalty counts. Modifiers can also apply to
-Difficulty, but only where specifically noted. For example, how shields
-raise <span class="smallcaps">Poise</span> for evading attacks. Players
+largest bonus and penalty counts. Players
 should expect a +1 to +3 bonus for having the proper tools or leverage
 for a task.
+
+Modifiers can also apply to Difficulty. For example, shields and cover increase
+ the Difficulty of an Attack by adding to POISE.
 
 The Guide should assume competence and only call for a Check when the
 outcome is interesting or uncertain. Players should brazenly presume

@@ -189,7 +189,7 @@ class="smallcaps">Poise</span> pool between them as evenly as possible.
 For example, an attacker with 5 <span class="smallcaps">Poise</span> and
 3 <span class="smallcaps">Frame</span> could make two ***Split
 Attacks*** at 6D (3+3) and 5D (2+3), or other combinations. If a foe
-Blocks, this interrupts the next split Attack.<span id="_Ref63821460"
+Blocks, this interrupts the next split Attack until resolved.<span id="_Ref63821460"
 class="anchor"></span> Modifiers are part of the Attack bonus and do not
 split.
 
