@@ -337,7 +337,7 @@ those on the chart below - talk with your Guide instead.
 |     5,3    |     Spent some time in jail…                     |
 |     5,4    |     Started a business...                        |
 |     5,5    |     Stowed away on a passing ship…               |
-|     5,6    |     Strove mightily in a great contest…          |
+|     5,6    |     Struggled in a great contest…          |
 |     6,1    |     Survived on a deserted island…               |
 |     6,2    |     Taught a valuable skill…                     |
 |     6,3    |     Took care of an ailing relative...           |
@@ -361,7 +361,7 @@ in the trunk, etc.
 
 ### Credit
 
-This is how much money, funding, access, or abstract “pull” a character
+The money, funding, access, or abstract “pull” a character
 has. The Guide assigns Credit based on the setting and Character
 circumstances. This is usually a 2 or 3 for most games. Credit can
 change wildly during play as the wheel of fortune turns.

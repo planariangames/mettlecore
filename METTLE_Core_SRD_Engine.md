@@ -39,7 +39,7 @@ penalty counts.
 ### d66
 
 Some random tables in this book use a ***d66*** Roll. For these, roll
-one d6 and then another. For example, if you roll a 6 and a 2, you go to
+one d6 and then another. For example, if you roll a 6 and a 2, go to
 the row for “6, 2” on the table.
 
 ##  Checks
@@ -191,7 +191,7 @@ chances of succeeding but make Edge certain if you do. A player using a
 Raise should describe how their character is putting extra flair into
 the action, such as a front flip over a car or twisting the knife.
 
-You can still call for a Twist if this backfires!
+You can still use raised dice for a Twist if this backfires!
 
 {: .highlight }
 >-   Set some dice aside as sixes before a Check to guarantee Edge.
@@ -222,7 +222,7 @@ appreciate it.
 The namesake of this game, Mettle stands for the will to live and how
 close the character is to their doom. In game terms, it is <span
 class="smallcaps">Motive</span> plus Armor. This is not a *direct*
-measure of injury. Physical damage is a “flesh wound” until it drops
+measure of injury. Physical damage is just a “flesh wound” until it drops
 Mettle into the negatives. Mettle refills entirely upon starting a new
 Scene, and Rallies  can even restore it in the
 heat of battle.
@@ -240,8 +240,8 @@ lose their Action and their <span class="smallcaps">Poise</span> drops
 to zero. They may or may not be dead, depending on a later Recover
  Check.
 
-If a hit is not a Felling blow, the Player may declare they are
-***Shaken*** instead. This wound negates the damage from that hit
+If a hit is not a Felling blow, the Player may choose to declare their character
+is ***Shaken*** and describe their injury. This negates the damage from that hit
 entirely, but they lose their Free Move and discard 1s from any Checks.
 They can do this once more but become ***Broken***. A Broken character
 loses their Free Move and discards both 1s and 2s from their Checks.
@@ -292,7 +292,9 @@ to exhaustion. This penalty is usually equal to the number of days
 without rest.
 - **Incapacitated:** unconscious or paralyzed. A temporary version of
 Fallen - lose Free Move, <span class="smallcaps">Poise</span>, and
-Action
+Action.
+- **Rattled:** shocked or dismayed by a Rattle (p.47) or other trauma. Inflicts
+a penalty to Rallies until next Scene.
 - **Surprised:** caught unawares, you do not get an Action for the first Scene when
 Initiative  starts. Next Scene, you are no longer
 Surprised, and this effect ends.

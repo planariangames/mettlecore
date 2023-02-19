@@ -134,7 +134,7 @@ character with the higher pool chooses who to pass to.
 |     Persuade    |     Nature vs. Motive                                         |     Sway the minds   of others.        |
 |     Race        |     Focus vs. Difficulty                                      |     Take the   lead.                   |
 |     Rally       |     Nature vs. Current Mettle                                 |     Shrug off   damage.                |
-|     Rattle      |     Nature vs. Motive                                         |     Penalize a   foe’s next Action.    |
+|     Rattle      |     Nature vs. Motive                                         |     Penalize a   foe’s Rallies.    |
 |     Sneak       |     Poise vs. Motive                                          |     Avoid   negative attention.        |
 |     Use         |     Focus vs. Difficulty                                      |     Miscellaneous   actions.           |
 
@@ -229,38 +229,34 @@ weapons, but this doubles the Difficulty.
 A last-ditch attempt to get out of harm’s way, eating up all their
 effort. This works differently than most Actions as it is a Check of
 <span class="smallcaps">Poise</span> vs. the actual *Score* of the
-incoming Attack. If successful, they avoid taking any of that damage. If
-there is any Edge, the dodger chooses a new target. This new target must
-be in the same Zone or line of fire. They take damage equal to Edge plus
-the incoming Attack bonus (only), soaked by <span
-class="smallcaps">Frame</span>. If there is no Edge, they cannot
-misdirect the attack.
+incoming Attack. . If there is any Edge, it becomes a bonus to their Poise
+for avoiding later Attacks until their next Action.
 
-Like Block, a Dodge may negate a Felling blow.
+Like Block, a Dodge may negate even a Felling blow.
 
 **Check:** <span class="smallcaps">Poise</span> vs. Attack Score
 
 {: .outcomes }
 
 >- **Success:** dodge attack entirely.
->- **Edge:** *Adds to Attack bonus as damage another target.*
+>- **Edge:** *bonus to Poise defense until their next Action.*
 >- **Failure:** still hit by attack.
 >- **Twists:** *Strain, lose next Action, lose Cover, etc.*
 
-The Score of a successful Attack will be higher than the target’s <span
-class="smallcaps">Poise.</span> This makes Dodge an unlikely act of
-desperation. However, one can Dodge a failed Attack as well! This makes
-it easier to trick their flailing foe into striking someone else –
-another enemy, a bridge support, etc.<span id="_Ref94451177"
-class="anchor"></span>
+The Score of a successful Attack will be higher than the target’s POISE. This
+makes Dodge a desperate and unlikely act. However, one can Dodge a failed Attack
+ as well! This ***Misdirects*** their flailing foe into striking something else –
+ another enemy, a bridge support, etc. A Misdirected Attack inflicts damage
+ equal to the original Attack bonus plus any Edge spent from the Dodge, soaked
+ by the target’s Frame.
 
 ### Know
 
 In-character knowledge can uncover helpful facts. For example, a scholar
 translating hieroglyphs inscribed on a door, a detective inferring
 weight from a set of footprints, a fashionista guessing how long a
-corpse’s outfit has been out of style, a gambler trying to spot their
-opponent’s tell, etc. Know is a Check of <span
+corpse’s outfit has been out of style, a gambler trying to spot a tell, etc.
+Know is a Check of <span
 class="smallcaps">Nature</span> vs. fiat Difficulty, or vs. <span
 class="smallcaps">Motive</span> if used on a person. If using an
 investigative or knowledge-related <span class="smallcaps">Focus</span>,
@@ -450,20 +446,21 @@ Action is only effective if the target can understand the onslaught of
 indignity hurled at them. This is a Check of <span
 class="smallcaps">Nature</span> vs. <span
 class="smallcaps">Motive</span>, but a spiteful, authoritative, or
-comedic <span class="smallcaps">Focus</span> can do just as well. The
-target cannot stop thinking about the insult if successful. This makes
-them very error prone, inflicting a penalty to their next Action.
+comedic <span class="smallcaps">Focus</span> can do just as well. This afflicts
+ them with self-doubt and a penalty to upcoming Rallies.
 
 **Check:** <span class="smallcaps">Nature</span> vs. <span
 class="smallcaps">Motive</span>
 
 {: .outcomes }
->- **Success:** Foe’s next Action faces -1 penalty.
+>- **Success:** Foe takes -1 to Rallies until next Scene.
 >- **Edge:** *each Edge worsens penalty by one.*
->- **Failure:** Foe shrugs off the ineffectual intimidation.
+>- **Failure:** Foe shrugs off the insult.
 >- **Twists:** *Strain, reveal secret, offend ally, draw more foes,
 etc.*
 
+The penalty lasts until the end of the Scene. They may obsess about it later
+but the actual sting fades with time.
 Penalties from multiple rattlers do not stack. A target only feels the
 most hurtful heckling that round.
 
@@ -484,8 +481,8 @@ class="smallcaps">Motive</span>
 {: .outcomes }
 
 >- **Success:** Remain unnoticed by your foes.
->- **Edge:** Adds to Attack bonus during Surprise, or steal/plant that
-many small items.
+>- **Edge:** Adds to Attack bonus during Surprise, steal or plant that
+many small items, etc.
 >- **Failure:** They notice you.
 >- **Twists:** *Strain, leave telltale clues, end up in different area,
 drop gear, etc.*
@@ -710,9 +707,8 @@ later at destination, lose supplies or trade goods.*
 An ***Encounter*** is an event rolled or chosen by the Guide. These can
 be dangerous, obnoxious, beneficial, or just interesting. Examples
 include running across enemies, becoming fatigued, or finding a
-mysterious statue. Even on a success, the Guide may want to Roll and
-describe the area to give the players a feel for the setting. One trick
-is to think up a dangerous Encounter but only describe the telltale
+mysterious statue. Even on a success, the Guide may want to Roll an
+Encounter but only describe the telltale
 signs (tracks, noises, spoor, etc.) of what they would have faced.
 
 Rivals or foes can Travel too, giving them their own Edge result. The
@@ -746,8 +742,8 @@ dart or staying in a cave filled with poison gas.
 
 Diseases or radiation subtract <span class="smallcaps">Poise</span> from
 the Roll instead of <span class="smallcaps">Frame.</span> Roll for these
-during the next Montage. It is rare for a victim to know exactly how
-they were exposed, so treat it as a fun, gross mystery.
+during the next Montage. It is rare for a victim to know exactly when and how
+they were exposed. Treat it as a gross mystery.
 
 {: .text-center }
 **AFFLICTIONS**

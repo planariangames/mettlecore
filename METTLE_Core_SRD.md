@@ -15,4 +15,4 @@ license allows for commercial use.
 
 To use for your games, just cite this or similar:
 
- *“This work is based on METTLE Core; a product of Planarian Games, developed, authored, and edited by Jake Eldritch, and licensed for our use under the Creative Commons Attribution 4.0 International License:* <http://creativecommons.org/licenses/by/4.0/>
+ *“This work is based on the text of METTLE Core; a product of Planarian Games, developed, authored, and edited by Jake Eldritch, and licensed for our use under the Creative Commons Attribution 4.0 International License:* <http://creativecommons.org/licenses/by/4.0/>
