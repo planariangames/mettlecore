@@ -52,9 +52,10 @@ and what state the world is in.
 Offered a prize? Embroiled in a mystery? This helps them come up with
 motives related to the situation.
 
-Many groups find **Safety Tools** help avoid unfun or traumatic
-subjects. These are rapidly evolving techniques, so search for the one
-currently best for your group.
+Many of the old Pulp adventure stories that inspired the genre have just
+*god-awful* notions on topics like race and sex. Thankfully, **Safety Tools**
+ help to avoid unfun or traumatic subjects. These are rapidly evolving, so
+search for the best current technique for your group.
 
 If there is time left, start up a short introduction scenario!
 

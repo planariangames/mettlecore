@@ -137,17 +137,15 @@ class="smallcaps">Focus</span> is special because it can replace other
 Attributes if higher and better suited for the task. For example, a
 *Royal Fencing Instructor* could use their <span
 class="smallcaps">Focus</span> instead of <span
-class="smallcaps">Poise</span> when wielding a light sword, or in place
-of their <span class="smallcaps">Nature</span> when scolding their
-dilettante students. Being able to rely on more than one Attribute to do
-something also helps when one of them is Strained
- or otherwise lowered by circumstance.
+class="smallcaps">Nature</span> when wielding a light sword.
+Being able to rely on more than one Attribute to do
+something really helps when one of them is Strained
+ or otherwise hindered by circumstance.
 
-Assume that characters are generally competent and may use half of their
-<span class="smallcaps">Focus</span> pool even for tasks unrelated to
-their Descriptor. For example, a very skilled Carpenter *could* pilot a
-plane, if poorly. Some tasks are impossible regardless of <span
-class="smallcaps">Focus</span>, of course.
+Assume that characters are generally competent and may use their FOCUS pool
+even for tasks unrelated to their Descriptor, but at double the Difficulty.
+For example, a very skilled Carpenter *could* pilot a plane, if poorly.
+Some tasks are impossible regardless of FOCUS, of course.
 
 A character has only one <span class="smallcaps">Focus</span> but may
 take several Backgrounds  for variety.
@@ -157,6 +155,19 @@ is lowered, that becomes the new max for Backgrounds.
 
 **<u>Example Descriptors</u>:** *cat burglar, astromech pilot, village
 blacksmith, unemployed librarian, time-traveling lunatic, courtier,
+etc.*
+
+### <span class="smallcaps">Frame</span>
+
+Adventurers come in all shapes and sizes. The pool reflects how
+physically powerful the character is within those constraints: their
+might, ferocity, and vitality. <span class="smallcaps">Frame</span>
+helps bear burdens as well as dish out and take damage in combat. The
+Descriptor should show their body type or build and can even include their
+species if non-human.
+
+**<u>Example Descriptors:</u>** *medium, tall and lanky, short, chunky,
+average build, athletic, pot-bellied, lanky, plump, stout, sprightly,
 etc.*
 
 ### <span class="smallcaps">Motive</span>
@@ -175,13 +186,13 @@ vampires, etc.*
 
 ### <span class="smallcaps">Nature</span>
 
-Sheer force of personality. A high pool can drastically alter the effect
-of a Descriptor! For example, the mysterious stranger and the cranky
-teenager may both be *Sullen*, but only one of them makes it look good.
-Social Checks default to this pool, as do Rallies and Rattles in combat.
-Characters are more complex than this, so view the Descriptor for <span
-class="smallcaps">Nature</span> as only the tip of their personal
-iceberg.
+Sheer force of personality. Most Social and Combat Checks default to this pool,
+ both merely expressions of the fire that burns within their heart. Characters
+ are more complex than this, so view the Descriptor for NATURE as only the tip
+ of their personal iceberg.
+A high pool can drastically alter the effect of this Descriptor! The masked
+vigilante and the cranky teenager may both be Sullen, but only one of them
+makes it look good.
 
 **<u>Example Descriptors:</u>** *Sullen, earnest, mellow, intense,
 friendly, feisty, high self-esteem, manipulative, affable, strange,
@@ -191,26 +202,13 @@ pensive, etc.*
 
 The way an adventurer moves is often the first thing one notices about
 them. For an enemy, it may be the last! Check this for coordinated
-Actions like fighting, dancing, climbing, swimming, and sneaking. It
-also acts as a measure of general bodily health. The Descriptor should
-show how they present themselves to the world.
+Actions like dancing, dodging, climbing, swimming, and sneaking. It
+also acts as a measure of general bodily health. The Descriptor should show
+how they strut upon the world’s stage.
 
 **<u>Example Descriptors:</u>** *Smooth & graceful, lightning reflexes,
 clumsy, walks with a limp, stiff-legged gait, fast-paced, takes it
 slow.*
-
-### <span class="smallcaps">Frame</span>
-
-Adventurers come in all shapes and sizes. The pool reflects how
-physically powerful the character is within those constraints: their
-might, ferocity, and vitality. <span class="smallcaps">Frame</span>
-helps bear burdens as well as dish out and take damage in combat. The
-Descriptor should show their body type or build and can include their
-species if non-human.
-
-**<u>Example Descriptors:</u>** *medium, tall and lanky, short, chunky,
-average build, athletic, pot-bellied, lanky, plump, stout, sprightly,
-etc.*
 
 <center><strong>DESCRIPTOR SEEDS</strong></center>
 

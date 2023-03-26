@@ -125,8 +125,8 @@ character with the higher pool chooses who to pass to.
 {: .lh-0}
 |     Action      |     Check                                                     |     Successful Outcome                 |
 |-----------------|:-------------------------------------------------------------:|----------------------------------------|
-|     Attack      |     Poise + Attack   bonus     - target Frame, vs. Poise      |     Inflict   damage on foe.           |
-|     Block       |     Poise + Attack bonus     - attacker   Frame, vs. Poise    |     Deflect incoming   damage.         |
+|     Attack      |     Nature + Attack   bonus     - target Frame, vs. Poise      |     Inflict   damage on foe.           |
+|     Block       |     Nature + Attack bonus     - attacker   Frame, vs. Poise    |     Deflect incoming   damage.         |
 |     Dodge       |     Poise vs. Attack Score                                    |     Avoid   incoming damage.           |
 |     Know        |     Focus vs. Difficulty                                      |     Reveal   relevant info.            |
 |     Move        |     Poise vs. Difficulty                                      |     Overcome   an obstacle.            |
@@ -143,7 +143,7 @@ character with the higher pool chooses who to pass to.
 Adventurers get a lot of mileage out of bone-headed violence, so learn
 this Action well. This applies to any physical strike, whether unarmed,
 melee, ranged, or even supernatural. Start with your <span
-class="smallcaps">Poise</span>, add the weapon’s Attack bonus, subtract
+class="smallcaps">Nature</span>, add the weapon’s Attack bonus, subtract
 your target’s <span class="smallcaps">Frame</span>, and then Check what
 remains versus their <span class="smallcaps">Poise</span>. If
 successful, inflict one plus Edge damage as described in the Mettle
@@ -151,7 +151,7 @@ section . Use a relevant military or martial arts
 related <span class="smallcaps">Focus</span> in place of <span
 class="smallcaps">Poise</span>, if higher.
 
-**Check** (<span class="smallcaps">Poise</span> + Attack bonus – target
+**Check** (<span class="smallcaps">Nature</span> + Attack bonus – target
 <span class="smallcaps">Frame</span>) vs. target’s <span
 class="smallcaps">Poise</span>
 
@@ -184,8 +184,8 @@ weapons inflict half damage for this, only Stun weapons use full.
 current Speed instead of Poise. See Vehicles  for
 details.
 
-You can make multiple attacks by dividing the <span
-class="smallcaps">Poise</span> pool between them as evenly as possible.
+Make multiple attacks by dividing the <span
+class="smallcaps">Nature</span> pool between them as evenly as possible.
 For example, an attacker with 5 <span class="smallcaps">Poise</span> and
 3 <span class="smallcaps">Frame</span> could make two ***Split
 Attacks*** at 6D (3+3) and 5D (2+3), or other combinations. If a foe
@@ -243,12 +243,11 @@ Like Block, a Dodge may negate even a Felling blow.
 >- **Failure:** still hit by attack.
 >- **Twists:** *Strain, lose next Action, lose Cover, etc.*
 
-The Score of a successful Attack will be higher than the target’s POISE. This
-makes Dodge a desperate and unlikely act. However, one can Dodge a failed Attack
- as well! This ***Misdirects*** their flailing foe into striking something else –
- another enemy, a bridge support, etc. A Misdirected Attack inflicts damage
- equal to the original Attack bonus plus any Edge spent from the Dodge, soaked
- by the target’s Frame.
+The Score of a successful Attack will be higher than the target’s POISE.
+This makes Dodge a desperate and unlikely act.
+
+- **Misdirect** tricks their flailing foe into striking something else – another enemy, a bridge support, etc. A Misdirected Attack inflicts damage equal to the original raw Attack bonus plus any spent Edge from the Dodge, soaked by the target’s FRAME.
+
 
 ### Know
 
@@ -454,12 +453,12 @@ class="smallcaps">Motive</span>
 
 {: .outcomes }
 >- **Success:** Foe takes -1 to Rallies until next Scene.
->- **Edge:** *each Edge worsens penalty by one.*
+>- **Edge:** *each Edge worsens Rally penalty by one.*
 >- **Failure:** Foe shrugs off the insult.
 >- **Twists:** *Strain, reveal secret, offend ally, draw more foes,
 etc.*
 
-The penalty lasts until the end of the Scene. They may obsess about it later
+The penalty lasts until the end of the Scene. They may gripe about it later
 but the actual sting fades with time.
 Penalties from multiple rattlers do not stack. A target only feels the
 most hurtful heckling that round.
