@@ -137,8 +137,8 @@ This is the Adventurer’s calling in life, and the size of their dice pool tell
 FOCUS is special because it can replace other Attributes if higher and better suited for the task.
 For example, a *Royal Fencing Instructor* could use their FOCUS instead of NATURE when wielding a light sword.
 Being able to rely on more than one Attribute to do something really helps when one of them is Strained or otherwise hindered by circumstance.
-Guides will often just grant information or automatic success with the right FOCUS Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know about the Parthenon, while those with less relevant Descriptors may have to make Checks.
 
+Guides will often just grant information or automatic success with the right FOCUS Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know about the Parthenon, while those with less relevant Descriptors may have to make Checks.
 
 Assume that characters are generally competent and may use their FOCUS pool
 even for tasks unrelated to their Descriptor, but at double the Difficulty.

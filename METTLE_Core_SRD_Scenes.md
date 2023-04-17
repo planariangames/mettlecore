@@ -125,7 +125,7 @@ character with the higher pool chooses who to pass to.
 {: .lh-0}
 |     Action      |     Check                                                     |     Successful Outcome                 |
 |-----------------|:-------------------------------------------------------------:|----------------------------------------|
-|     Attack      |     NATURE + Attack   bonus     - target FRAME, vs. POISE      |     Inflict   damage on foe.           |
+|     Attack      |     NATURE + DAM     - target FRAME, vs. POISE      |     Inflict   damage on foe.           |
 |     Block       |     NATURE + DAM     - attacker   FRAME, vs. POISE    |     Deflect incoming   damage.         |
 |     Dodge       |     POISE vs. Attack Score                                    |     Avoid   incoming damage.           |
 |     Know        |     FOCUS vs. Difficulty                                      |     Reveal   relevant info.            |
@@ -817,6 +817,7 @@ The insidious threat of poison is trope in pulp adventure stories, from venomous
 |     Curare dart          |     7D         |     Paralysis, respiratory arrest, etc.    |
 |     Cobra   venom        |     9D         |     Delirium, nausea,   weakness, etc.     |
 |     Tranquilizer dart    |     8D*        |     Fatigue, dizziness, etc.               |
+
 * *tranquilizers are half Difficulty on Recover Check.*
 
 The Potence in the table is by no means a final, as raising or lowering the dosage changes the Potence of poisons. Dose for size using the FRAME Conversion chart (p.94). For example, to put down a 12- FRAME, elephant, set the Potence well above 13.

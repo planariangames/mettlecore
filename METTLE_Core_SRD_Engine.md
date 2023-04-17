@@ -213,7 +213,7 @@ heat of battle.
 Characters may suffer ***Damage*** from hazards
 or attacks . Each point lowers their current
 Mettle by one. If their Mettle drops into the negatives, that is a
-***Felling blow**,* and they suffer the ***Fallen*** Status. The Fallen
+***Felling blow***, and they suffer the ***Fallen*** Status. The Fallen
 lose their Action and their POISE drops
 to zero. They may or may not be dead, depending on a later Recover
  Check.
