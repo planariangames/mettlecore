@@ -62,6 +62,7 @@ special qualities, its Load, and Cost.
 
 - **2H** takes two hands to wield.
 - **Ammo** is the number of shots before reloading with a *Use* Action.
+- **Blast** also inflicts DAM as Area Attack to all in target’s Zone.
 - **Block** adds a bonus to Block Checks when wielded.
 - **Burst** adds extra Attacks by wasting ammo. 5 ammo is 2 Attacks, 15 is 3,
 30 is 4, etc. These Attacks cannot Split. Jams are a common Twist and prevent
@@ -102,13 +103,15 @@ can only make Subdual attacks, shown as “(only).”
 |     Brass Knuckles       |          FRAME+1        |     Stun                                |       -     |       2     |
 |     Bullwhip             |          FRAME+1        |     Reach,   Wrap, Grapple              |       1     |       2     |
 |     Club                 |          FRAME+2        |     Stun                                |       1     |       1     |
-|     Crossbow,   heavy    |             6           |     2H,   Range L                       |       2     |       3     |
-|     Crossbow, light      |             5           |     2H, Range M                         |       1     |       3     |
+|     Crossbow,   heavy    |             6           |     2H,   Range L, Ammo 1 (2 Actions)   |       2     |       3     |
+|     Crossbow, light      |             5           |     2H, Range M, Ammo 1                 |       1     |       3     |
 |     Dagger/Knife         |          FRAME+2        |     Range   S                           |       -     |       2     |
 |     Dart                 |          FRAME+1        |     Range S                             |       -     |       1     |
+|     Dynamite, stick      |             7           |     Range S, Blast, Ammo 1 (light fuse) |       -     |       2     |
 |     Flail                |          FRAME+2        |     Wrap                                |       1     |       3     |
 |     Flail, great         |          FRAME+3        |     2H, Wrap                            |       2     |       3     |
 |     Garrote              |          FRAME+1        |     Grapple                             |       -     |       1     |
+|     Grenade              |             8           |     Range S, Blast                      |       -     |       3     |
 |     Handgun, heavy       |             7           |     Range M, Ammo   6                   |       0     |       3     |
 |     Handgun,   light     |             6           |     Range   M, Ammo 9                   |       0     |       3     |
 |     Hatchet              |          FRAME+2        |     Range S                             |       1     |       2     |
