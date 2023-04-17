@@ -191,6 +191,10 @@ were a Check, but skip adding up the Score and go straight to counting Edge
 dice. Twists and Raises do not apply. If none of the dice turn up 4-6 you may
 end up with an Edge Count of zero – meaning the character got off scot-free!
 
+Modifiers may apply to Edge Counts just like a Check.
+As such, these always apply to the dice pool, never to the result.
+FRAME Soaks most damaging Edge Counts.
+
 {: .highlight }
 >- Edge Count: skip adding up the Score and just count Edge.
 
