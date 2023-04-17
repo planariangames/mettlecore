@@ -37,8 +37,7 @@ A thorough way to cover all the bases and orient the Players is to use
 the Five W’s: Who, What, Where, When, and Why.
 
 - **Who** are the characters? International spies? An urban rescue unit? A
-mystery-solving knitting circle? Suggest <span
-class="smallcaps">Focus</span> Attributes to help them make characters
+mystery-solving knitting circle? Suggest FOCUS Attributes to help them make characters
 who fit the idea.
 - **What** is the game about? Solve a mystery or crime case? Track down a
 spy? Deliver a precious package? Give them the starting plot.
@@ -136,8 +135,8 @@ in Little China, The Wicker Man, Saving Private Ryan,*
 or person. Guaranteed to be a stealth or chase scene somewhere.
 **Examples:** *The Transporter, Pulp Fiction, Children of Men, From
 Russia with Love, Tears of the Sun, etc.*
-- **Whodunit:** Embroil the party in a mystery they must solve. Will
-involve lots of Know Checks and player ingenuity, so make sure to drop
+- **Whodunit:** Embroil the party in a mystery they must solve.
+These involve lots of Know Checks and player ingenuity, so make sure to drop
 enough clues to keep it moving. **Examples:** *Chinatown, Live and Let
 Die, Clue, The Maltese Falcon, etc.*
 
@@ -260,16 +259,16 @@ contacts, shopkeepers, enemies, key figures in the setting, and random
 passersby. Only key NPCs should have full Attributes. For the unnamed, a
 single ***NPC pool*** will do for Attributes *and* Mettle. Think
 “Stunned Bystander 3D” or “Hostile Village Elder 5D.” If they try
-something out of character, halve the pool as usual. If one of their
-Attributes is far higher, such as <span class="smallcaps">Frame</span>
+something out of character, double the Difficulty as usual. If one of their
+Attributes is far higher, such as FRAME
 for a large creature, list it in parentheses.
 
-### Freeform <span class="smallcaps">Focus</span> Descriptors
+### Freeform FOCUS Descriptors
 
 METTLE Core gives thematic examples but does limit players to a
 definitive list of skills to choose from. While specific settings may
 hint at good ones, these are supposed to be up to the Player. You decide
-if a given <span class="smallcaps">Focus</span> is relevant to a task.
+if a given FOCUS is relevant to a task.
 Most of the time, you should say yes. If it is not obvious why and the
 Player doesn’t have a clever explanation, they should default to about
 half their dice pool. In extreme cases, do not allow the action at all.

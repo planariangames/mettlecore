@@ -125,35 +125,35 @@ character with the higher pool chooses who to pass to.
 {: .lh-0}
 |     Action      |     Check                                                     |     Successful Outcome                 |
 |-----------------|:-------------------------------------------------------------:|----------------------------------------|
-|     Attack      |     Nature + Attack   bonus     - target Frame, vs. Poise      |     Inflict   damage on foe.           |
-|     Block       |     Nature + Attack bonus     - attacker   Frame, vs. Poise    |     Deflect incoming   damage.         |
-|     Dodge       |     Poise vs. Attack Score                                    |     Avoid   incoming damage.           |
-|     Know        |     Focus vs. Difficulty                                      |     Reveal   relevant info.            |
-|     Move        |     Poise vs. Difficulty                                      |     Overcome   an obstacle.            |
-|     Perform     |     Focus vs. Difficulty                                      |     Attract   positive attention.      |
-|     Persuade    |     Nature vs. Motive                                         |     Sway the minds   of others.        |
-|     Race        |     Focus vs. Difficulty                                      |     Take the   lead.                   |
-|     Rally       |     Nature vs. Current Mettle                                 |     Shrug off   damage.                |
-|     Rattle      |     Nature vs. Motive                                         |     Penalize a   foe’s Rallies.    |
-|     Sneak       |     Poise vs. Motive                                          |     Avoid   negative attention.        |
-|     Use         |     Focus vs. Difficulty                                      |     Miscellaneous   actions.           |
+|     Attack      |     NATURE + Attack   bonus     - target FRAME, vs. POISE      |     Inflict   damage on foe.           |
+|     Block       |     NATURE + DAM     - attacker   FRAME, vs. POISE    |     Deflect incoming   damage.         |
+|     Dodge       |     POISE vs. Attack Score                                    |     Avoid   incoming damage.           |
+|     Know        |     FOCUS vs. Difficulty                                      |     Reveal   relevant info.            |
+|     Move        |     POISE vs. Difficulty                                      |     Overcome   an obstacle.            |
+|     Perform     |     FOCUS vs. Difficulty                                      |     Attract   positive attention.      |
+|     Persuade    |     NATURE vs. MOTIVE                                         |     Sway the minds   of others.        |
+|     Race        |     FOCUS vs. Difficulty                                      |     Take the   lead.                   |
+|     Rally       |     NATURE vs. Current Mettle                                 |     Shrug off   damage.                |
+|     Rattle      |     NATURE vs. MOTIVE                                         |     Penalize a   foe’s Rallies.    |
+|     Sneak       |     POISE vs. MOTIVE                                          |     Avoid   negative attention.        |
+|     Use         |     FOCUS vs. Difficulty                                      |     Miscellaneous   actions.           |
 
 ### Attack
 
 Adventurers get a lot of mileage out of bone-headed violence, so learn
 this Action well. This applies to any physical strike, whether unarmed,
-melee, ranged, or even supernatural. Start with your <span
-class="smallcaps">Nature</span>, add the weapon’s Attack bonus, subtract
-your target’s <span class="smallcaps">Frame</span>, and then Check what
-remains versus their <span class="smallcaps">Poise</span>. If
+melee, ranged, or even supernatural. Start with your
+NATURE, add the weapon’s DAM, subtract
+your target’s FRAME, and then Check what
+remains versus their POISE. If
 successful, inflict one plus Edge damage as described in the Mettle
 section . Use a relevant military or martial arts
-related <span class="smallcaps">Focus</span> in place of <span
-class="smallcaps">Poise</span>, if higher.
+related FOCUS in place of
+NATURE, if higher.
 
-**Check** (<span class="smallcaps">Nature</span> + Attack bonus – target
-<span class="smallcaps">Frame</span>) vs. target’s <span
-class="smallcaps">Poise</span>
+**Check** (NATURE + DAM – target
+FRAME) vs. target’s
+POISE
 
 {: .outcomes }
 
@@ -163,16 +163,18 @@ class="smallcaps">Poise</span>
 >- **Twists:** *Strain*, *drop weapon, lose next Action, waste ammo,
 etc.*
 
-There are several broad types of attacks:
+There are many types of attacks:
 
 - **Melee Attacks** are close combat strikes on a foe in the same Zone.
 These can be narrated as decisive strikes or flurries of blows.
 - **Ranged Attacks** strike from a Zone or more away. The Difficulty is
-the greater of either the target’s <span class="smallcaps">Poise</span>
+the greater of either the target’s POISE
 or the Range .
 - **Grapple Attacks** restrain a foe. This is an unarmed Attack unless
 using a Grappling weapon. Damage becomes the target’s penalty to all
 Checks instead. Repeat each Round to continue the hold.
+- **Area Attacks** hit everyone in a Zone or more, skipping the Check.
+Damage is an Edge Count of DAM - FRAME for each target.
 - **Control Attacks** change the position or situation of foes. Instead of
 inflicting damage these disarm them, provoke them into targeting their
 attacker next, push or pull them a Zone, etc. If the target refuses the
@@ -181,25 +183,25 @@ control, they suffer the original damage instead.
 blow, they inflict the Incapacitated status instead of damage. Regular
 weapons inflict half damage for this, only Stun weapons use full.
 - **Vehicle Attacks** like ramming work much like regular Attacks but use
-current Speed instead of Poise. See Vehicles  for
+current Speed instead of NATURE. See Vehicles  for
 details.
 
-Make multiple attacks by dividing the <span
-class="smallcaps">Nature</span> pool between them as evenly as possible.
-For example, an attacker with 5 <span class="smallcaps">Poise</span> and
-3 <span class="smallcaps">Frame</span> could make two ***Split
+Make multiple attacks by dividing the
+NATURE pool between them as evenly as possible.
+For example, an attacker with 5 POISE and
+3 FRAME could make two ***Split
 Attacks*** at 6D (3+3) and 5D (2+3), or other combinations. If a foe
-Blocks, this interrupts the next split Attack until resolved.<span id="_Ref63821460"
-class="anchor"></span> Modifiers are part of the Attack bonus and do not
+Blocks, this interrupts the next split Attack until resolved. id="_Ref63821460"
+class="anchor"> Modifiers are part of the DAM and do not
 split.
 
 ### Block
 
 A Block pits your own strike against your foe’s. Just like the Attack it
-defends against, start with your <span class="smallcaps">Poise</span>,
-add your weapon’s Attack bonus, subtract the attacker’s <span
-class="smallcaps">Frame</span>, and then Check what remains versus their
-<span class="smallcaps">Poise</span>. Edge reduces damage from the
+defends against, start with your POISE,
+add your weapon’s DAM, subtract the attacker’s
+FRAME, and then Check what remains versus their
+POISE. Edge reduces damage from the
 incoming blow. If this would negate more than the original damage, it
 ***Counters*** and the original attacker suffers the excess damage!
 
@@ -208,9 +210,7 @@ Action after the original Attack, even interrupting a Split Attack or
 negating a Felling Blow. It can also interrupt Initiative to defend an
 ally in the same Zone, replacing them as the target.
 
-**Check:** (<span class="smallcaps">Poise</span> + Attack bonus – target
-<span class="smallcaps">Frame</span>) vs. attacker’s <span
-class="smallcaps">Poise</span>
+**Check:** (POISE + DAM – target FRAME) vs. attacker’s POISE
 
 {: .outcomes }
 
@@ -228,41 +228,35 @@ weapons, but this doubles the Difficulty.
 
 A last-ditch attempt to get out of harm’s way, eating up all their
 effort. This works differently than most Actions as it is a Check of
-<span class="smallcaps">Poise</span> vs. the actual *Score* of the
-incoming Attack. . If there is any Edge, it becomes a bonus to their Poise
+POISE vs. the actual *Score* of the
+incoming Attack. . If there is any Edge, it becomes a bonus to their POISE
 for avoiding later Attacks until their next Action.
 
 Like Block, a Dodge may negate even a Felling blow.
 
-**Check:** <span class="smallcaps">Poise</span> vs. Attack Score
+**Check:** POISE vs. Attack Score
 
 {: .outcomes }
 
 >- **Success:** dodge attack entirely.
->- **Edge:** *bonus to Poise defense until their next Action.*
+>- **Edge:** *bonus to POISE defense until their next Action.*
 >- **Failure:** still hit by attack.
 >- **Twists:** *Strain, lose next Action, lose Cover, etc.*
 
-The Score of a successful Attack will be higher than the target’s POISE.
+The Score of a successful Attack is always higher than the target’s POISE.
 This makes Dodge a desperate and unlikely act.
 
-- **Misdirect** tricks their flailing foe into striking something else – another enemy, a bridge support, etc. A Misdirected Attack inflicts damage equal to the original raw Attack bonus plus any spent Edge from the Dodge, soaked by the target’s FRAME.
-
+- **Misdirect** tricks their flailing foe into striking something else – another enemy, a bridge support, etc.
+A Misdirected Attack inflicts damage equal to an Edge Count of: original DAM, plus any spent Edge from the Dodge, minus the target’s FRAME Soak.
 
 ### Know
 
-In-character knowledge can uncover helpful facts. For example, a scholar
-translating hieroglyphs inscribed on a door, a detective inferring
-weight from a set of footprints, a fashionista guessing how long a
-corpse’s outfit has been out of style, a gambler trying to spot a tell, etc.
-Know is a Check of <span
-class="smallcaps">Nature</span> vs. fiat Difficulty, or vs. <span
-class="smallcaps">Motive</span> if used on a person. If using an
-investigative or knowledge-related <span class="smallcaps">Focus</span>,
-it is up to the Player to say why it grants info.
+In-character knowledge can uncover helpful facts.
+For example, a scholar translating hieroglyphs inscribed on a door, a detective inferring weight from a set of footprints, a fashionista guessing how long a corpse’s outfit has been out of style, a gambler trying to spot a tell, etc.
+Know is a Check of FOCUS vs. a fiat Difficulty for facts, or vs. MOTIVE if used to judge a person.
+If using an investigative or knowledge-related FOCUS, it is up to the Player to say why it grants info.
 
-**Check:** <span class="smallcaps">Nature</span> vs. Difficulty (or vs.
-<span class="smallcaps">Motive</span> if a person)
+**Check:** FOCUS vs. Difficulty (or vs. MOTIVE if a person)
 
 {: .outcomes }
 
@@ -284,8 +278,8 @@ the players what they see without gating it behind a Check.
 This dedicates an Action towards movement: running, climbing, jumping,
 swimming, etc. A character usually just takes their Move, only Checking
 if there is an obstacle. Avoiding traps, ducking through brambles,
-swimming, clambering over debris, etc. may call for a Check of <span
-class="smallcaps">Poise</span> vs. a Difficulty set by the Guide.
+swimming, clambering over debris, etc. may call for a Check of
+POISE vs. a Difficulty set by the Guide.
 Exceptionally fast characters may move more than one Zone in a single
 Move, while slow ones may take two Moves or more to cross a single Zone.
 
@@ -294,7 +288,7 @@ their Action. Using the Free Move then a Move Action is “running,” and
 crosses two Zones. One cannot take their Free Move after an Action or to
 Move through an obstacle, as below.
 
-**Check:** <span class="smallcaps">Poise</span> vs. Difficulty
+**Check:** POISE vs. Difficulty
 
 {: .outcomes }
 
@@ -308,8 +302,8 @@ Obstacles, scaling larger foes, and traps can be worth a Move Check:
 - **Obstacles** like walls, rivers, brambles, etc. hinder moves into the
 Zone. For example, you must scale or breach a wall to enter.
 - **Scaling:** larger foes count as their own Zone or more to climb upon
-and deal with riders, etc. Difficulty is the larger foe or mount’s <span
-class="smallcaps">Poise</span>.
+and deal with riders, etc. Difficulty is the larger foe or mount’s
+POISE.
 - **Traps** like falls, pits, spikes, lava, etc. do not prevent movement
 but do cause injury or inconvenience on a failure.
 
@@ -320,15 +314,15 @@ obstacles decides who wins.
 ### Perform
 
 Impress, sway or draw a crowd with talents like singing, comedy,
-oration, dancing, instruments, etc. Perform Checks a specific <span
-class="smallcaps">Focus</span> vs. the highest <span
-class="smallcaps">Motive</span> in a crowd. Performers may get a bonus
+oration, dancing, instruments, etc. Perform Checks a specific
+FOCUS vs. the highest
+MOTIVE in a crowd. Performers may get a bonus
 if they know what a crowd wants to see or hear. Performances also make a
 great distraction so other party members can do nefarious things.
 
-**Check:** <span class="smallcaps">Focus</span> vs. <span
-class="smallcaps">Motive</span> (or highest <span
-class="smallcaps">Motive</span> in the audience)
+**Check:** FOCUS vs.
+MOTIVE (or highest
+MOTIVE in the audience)
 
 {: .outcomes }
 
@@ -352,13 +346,13 @@ they meet later is a fan!
 Haggling, seduction, diplomacy, lies, threats, bribery, negotiation,
 parley, etc. All are valid alternatives or preludes to battle. This is
 not mind-control, and merely shifts the social situation in favor of the
-winner. Persuade is a Check of <span class="smallcaps">Nature</span> vs.
-<span class="smallcaps">Motive</span>. The side with more leverage may
+winner. Persuade is a Check of NATURE vs.
+MOTIVE. The side with more leverage may
 get a bonus or better narrative outcome.
 
-**Check:** <span class="smallcaps">Nature</span> vs. <span
-class="smallcaps">Motive</span> (or highest <span
-class="smallcaps">Motive</span> in the audience)
+**Check:** NATURE vs.
+MOTIVE (or highest
+MOTIVE in the audience)
 
 {: .outcomes }
 
@@ -419,13 +413,13 @@ judgment as usual.
 ### Rally
 
 Restores Mettle by shaking off the pain of flesh wounds. This is a Check
-of <span class="smallcaps">Nature</span> vs. the current Mettle of the
+of NATURE vs. the current Mettle of the
 character. One can only Rally if *chosen* to receive Initiative by
 another. They are too distracted to Rally if they took Initiative
 because a friend or foe *targeted* them. This makes teamwork among
 Players especially important for Rallies.
 
-**Check:** <span class="smallcaps">Nature</span> vs. current Mettle
+**Check:** NATURE vs. current Mettle
 
 {: .outcomes }
 
@@ -434,22 +428,22 @@ Players especially important for Rallies.
 >- **Failure:** Do not clear any damage.
 >- **Twists:** *Strain, reveal secret, offend ally, draw more foes, etc.*
 
-If the gracious ally who passed Initiative to them has a higher <span
-class="smallcaps">Nature</span>, the Rallying character may Check on
+If the gracious ally who passed Initiative to them has a higher
+NATURE, the Rallying character may Check on
 that instead of their own. Play it up as words of encouragement.
 
 ### Rattle
 
 Taunting, threatening, trash-talking, and demoralizing an enemy. This
 Action is only effective if the target can understand the onslaught of
-indignity hurled at them. This is a Check of <span
-class="smallcaps">Nature</span> vs. <span
-class="smallcaps">Motive</span>, but a spiteful, authoritative, or
-comedic <span class="smallcaps">Focus</span> can do just as well. This afflicts
+indignity hurled at them. This is a Check of
+NATURE vs.
+MOTIVE, but a spiteful, authoritative, or
+comedic FOCUS can do just as well. This afflicts
  them with self-doubt and a penalty to upcoming Rallies.
 
-**Check:** <span class="smallcaps">Nature</span> vs. <span
-class="smallcaps">Motive</span>
+**Check:** NATURE vs.
+MOTIVE
 
 {: .outcomes }
 >- **Success:** Foe takes -1 to Rallies until next Scene.
@@ -469,18 +463,18 @@ Moving silently and hiding in shadows are great ways to evade foes and
 get into places you aren’t supposed to be. This only allows you to
 *remain* unnoticed by others. It is not possible if someone is looking
 right at you, or you do not have anywhere to hide. This is a Check of
-<span class="smallcaps">Poise</span> vs. <span
-class="smallcaps">Motive</span>, or the highest <span
-class="smallcaps">Motive</span> in a group. A Stealthy Focus can swap in
-for <span class="smallcaps">Poise</span>, if higher.
+POISE vs.
+MOTIVE, or the highest
+MOTIVE in a group. A Stealthy FOCUS can swap in
+for POISE, if higher.
 
-**Check:** <span class="smallcaps">Poise</span> vs. <span
-class="smallcaps">Motive</span>
+**Check:** POISE vs.
+MOTIVE
 
 {: .outcomes }
 
 >- **Success:** Remain unnoticed by your foes.
->- **Edge:** Adds to Attack bonus during Surprise, steal or plant that
+>- **Edge:** Adds to DAM during Surprise, steal or plant that
 many small items, etc.
 >- **Failure:** They notice you.
 >- **Twists:** *Strain, leave telltale clues, end up in different area,
@@ -500,10 +494,10 @@ for the survivors.
 This covers miscellaneous moves using a device, tool or item. For
 example, pulling a sticky lever, starting an unfamiliar vehicle, picking
 a lock, etc. This is usually unchecked. If it calls for one, use a
-relevant <span class="smallcaps">Focus</span> vs. a fiat Difficulty. Let
+relevant FOCUS vs. a fiat Difficulty. Let
 a failure stand - move the story along instead of allowing retries.
 
-**Check:** <span class="smallcaps">Focus</span> vs. Difficulty
+**Check:** FOCUS vs. Difficulty
 
 {: .outcomes }
 
@@ -530,22 +524,22 @@ emergencies, and procrastination prevent further industry.
 {: .lh-0}
 |     Montage    |     Check                     |     Successful Outcome              |
 |----------------|:-----------------------------:|-------------------------------------|
-|     Craft      |     Focus vs.   Difficulty    |     Finish project.                 |
-|     Hustle     |     Focus vs. Difficulty      |     Regain Credit or Contact.       |
-|     Recover    |     Focus vs. Difficulty      |     Stabilize or heal wounds.       |
+|     Craft      |     FOCUS vs.   Difficulty    |     Finish project.                 |
+|     Hustle     |     FOCUS vs. Difficulty      |     Regain Credit or Contact.       |
+|     Recover    |     FOCUS vs. Difficulty      |     Stabilize or heal wounds.       |
 |     Relax      |     None                      |     Restore Strained Attributes.    |
-|     Study      |     Focus vs. Difficulty      |     Search for clues or answers.    |
-|     Travel     |     Focus vs. Difficulty      |     Arrive safely.                  |
+|     Study      |     FOCUS vs. Difficulty      |     Search for clues or answers.    |
+|     Travel     |     FOCUS vs. Difficulty      |     Arrive safely.                  |
 
 ### Craft
 
 If players want to try their hand at lengthy undertakings such as art,
 smithing, repair, writing, lockpicking, etc., they must gather the right
-materials and make a Check on a relevant <span
-class="smallcaps">Focus</span>. Only call for Checks if there is time
+materials and make a Check on a relevant
+FOCUS. Only call for Checks if there is time
 pressure or real doubt about being able to finish.
 
-**Check:** <span class="smallcaps">Focus</span> vs. Difficulty
+**Check:** FOCUS vs. Difficulty
 
 {: .outcomes }
 
@@ -571,13 +565,13 @@ is that they may still fail one, leaving the project unfinished.
 This Action spends time and effort to recover strained Credit or
 relations with Contacts. This does not add new Contacts or boost
 existing ones over your current Credit maximum. The Difficulty for this
-is either the Travel Difficulty of the area (for Credit) or the <span
-class="smallcaps">Motive</span> of the Contact. A business, trade, or
-criminal <span class="smallcaps">Focus</span> is useful here, depending
+is either the Travel Difficulty of the area (for Credit) or the
+MOTIVE of the Contact. A business, trade, or
+criminal FOCUS is useful here, depending
 on the nature of the deal.
 
-**Check:** <span class="smallcaps">Focus</span> vs. local Travel
-Difficulty or <span class="smallcaps">Motive</span> of Contact.
+**Check:** FOCUS vs. local Travel
+Difficulty or MOTIVE of Contact.
 
 {: .outcomes }
 
@@ -592,16 +586,14 @@ the emergent story along, like important gear or clues.
 
 ### Recover
 
-This is for life and death situations well beyond the ordinary stitching
-of wounds. Recover Checks <span class="smallcaps">Focus</span> vs. local
-Travel Difficulty or a Fallen patient’s negative Mettle, whichever is
-greater. Success only stabilizes the patient. Spending all Edge clears
-one Status: either Shaken, Broken, or Fallen. Failure inflicts a new
-Shaken/Broken/Fallen Status. if the patient already has all three, they
-die.
+This is for life and death situations well beyond the ordinary stitching of
+wounds. Recover Checks FOCUS vs. local Travel Difficulty, a Fallen patient’s
+negative Mettle, or the Disease Difficulty – whichever is greater. Success
+only stabilizes the patient. Spending all Edge clears one Status: either
+Shaken, Broken, or Fallen. Failure inflicts a new Status from that list.
+If the patient already has all three, they die.
 
-**Check:** <span class="smallcaps">Focus</span> vs. Travel Difficulty or
-negative Mettle.
+**Check:** FOCUS vs. Travel/Disease Difficulty or negative Mettle.
 
 {: .outcomes }
 
@@ -611,15 +603,14 @@ negative Mettle.
 >- **Twists:** *Strain, takes another Montage to find out result, Strain
 Resources, waste medicine or surgical tools.*
 
-If a Shaken or Broken character opts out of a Recovery Montage, it
-counts as a Recovery failure. A Fallen character may Recover on their
-own by Checking <span class="smallcaps">Motive</span> vs. the local
-Travel Difficulty.
+If a Shaken or Broken character opts out of a Recovery Montage, it counts as a Recovery failure.
+A Fallen character may Recover on their own by Checking MOTIVE vs. the usual Difficulty.
+If they rise, they face double Difficulty to treat themselves, as a general rule.
+If treated by others, the Difficulty is of course normal.
+Recovery takes time. If the Montage is less than a week, the Guide may disallow Recovery.
+If the character is too debilitated, the best option is to play another character until they are back on their feet.
+Holding up the whole party to heal up one character is a real drag.
 
-Do not use Recover to cure an Affliction such as poison or disease.
-Instead, use a Know Check on a medical <span
-class="smallcaps">Focus</span> to reveal the antidote or cure, if such a
-thing is available.<span id="_Ref109217679" class="anchor"></span>
 
 ### Relax
 
@@ -629,13 +620,13 @@ opportunities arise as events like a night out on the town, a shopping
 trip, group meditation, a visit to the hot springs, a birthday party,
 etc. Those who take part clear one Strain from each Attribute.
 
-This gets even better if *anyone* in the group has a relevant
+This gets even better if *anyone* in the group has a relevant FOCUS or
 Background, such as when carousing in a city with one of its native
 sons. In that case, each participant gets to clear one more Strain from
 a single chosen Attribute. This only applies once even if other
 Backgrounds could also enhance the outing.
 
-There is no Roll or Check for this Montage, use it to explore the
+There is no Check for this Montage, use it to explore the
 lighter sides of your characters.
 
 ### Study
@@ -645,10 +636,10 @@ time-consuming version of the Know Action. For example, an investigator
 returning to the crime scene for more clues, an occult researcher
 hitting the forbidden books section of the library, a clown visiting the
 hall of eggshell faces to understand his rival, a gambler scouting out
-the action at a local casino, etc. Study Checks a relevant <span
-class="smallcaps">Focus</span> vs. a fiat Difficulty.
+the action at a local casino, etc. Study Checks a relevant
+FOCUS vs. a fiat Difficulty.
 
-**Check:** <span class="smallcaps">Focus</span> vs. Difficulty
+**Check:** FOCUS vs. Difficulty
 
 {: .outcomes }
 
@@ -678,8 +669,8 @@ Bushel*.” If the journey is as important as the destination, use this
 Montage to give it more weight. The players get to make decisions and
 the Guide gets to add drama with encounters!
 
-Travel is a Group Check of the best navigation or area knowledge <span
-class="smallcaps">Focus</span>, with the Difficulty being how rough the
+Travel is a Group Check of the best navigation or area knowledge
+FOCUS, with the Difficulty being how rough the
 area between is. Success means they arrived safely, and failure a
 dangerous or troublesome encounter along the way. You can also “zoom in”
 further, requiring individual Travel Checks to get to interesting places
@@ -693,7 +684,7 @@ the size of the map. Adventurers “travel on their stomachs.” Lacking
 food or other needs inflicts a -1 penalty per day to the Travel Check as
 they scrounge for supplies. This makes it important to prepare well.
 
-**Check:** <span class="smallcaps">Focus</span> vs. Difficulty
+**Check:** FOCUS vs. Difficulty
 
 {: .outcomes }
 
@@ -706,14 +697,13 @@ later at destination, lose supplies or trade goods.*
 An ***Encounter*** is an event rolled or chosen by the Guide. These can
 be dangerous, obnoxious, beneficial, or just interesting. Examples
 include running across enemies, becoming fatigued, or finding a
-mysterious statue. Even on a success, the Guide may want to Roll an
-Encounter but only describe the telltale
-signs (tracks, noises, spoor, etc.) of what they would have faced.
+mysterious statue. Even on a success, the Guide may want to roll an
+Encounter but only describe the telltale signs (tracks, noises, spoor, etc.)
+of what they would have faced.
 
 Rivals or foes can Travel too, giving them their own Edge result. The
 highest Edge arrives first, which can be important for staking claims or
-laying ambushes. If that doesn’t apply, they may also meet a helpful
-NPC, find a hidden area, stumble across an unusual artifact, etc.
+laying ambushes.
 
 ## Scenery
 
@@ -721,70 +711,20 @@ Active foes and enemies are not the only danger faced by characters,
 whether inside or outside of combat. This section holds all sorts of
 hazardous features to spice up a Scene.
 
-### Affliction
-
-Virulent plagues, toxic court treachery, a sickly miasma, radioactive
-death zones, or venomous creatures are ugly ways to die. These differ by
-potence, method of exposure, interval between Rolls, and effect.
-
-Exposure triggers a Roll of 1d6 + Potence, subtracting the victim’s
-<span class="smallcaps">Frame</span> from the result. If the result is
-positive, it becomes a penalty to all Checks. Write the Affliction
-status and its current penalty on the character sheet (i.e., “Affliction
--2”). If the penalty exceeds the Motive of the character, they suffer
-the Effect instead.
-
-Afflictions are persistent. Every Interval afterward, the Affliction
-loses one Potence and Rolls again. This ends when Potence drops to zero.
-Potence restores upon re-exposure. For example, taking another sleep
-dart or staying in a cave filled with poison gas.
-
-Diseases or radiation subtract <span class="smallcaps">Poise</span> from
-the Roll instead of <span class="smallcaps">Frame.</span> Roll for these
-during the next Montage. It is rare for a victim to know exactly when and how
-they were exposed. Treat it as a gross mystery.
-
-{: .text-center }
-**AFFLICTIONS**
-
-{: .lh-0 }
-|     Source                   |     Potence    |     minus    |     Interval    |     Effect    |
-|------------------------------|:--------------:|:------------:|:---------------:|:-------------:|
-|     Common cold              |        1       |     Poise    |      Montage    |     Fallen    |
-|     Monitor   lizard bite    |        2       |     Poise    |      Montage    |     Fallen    |
-|     Poison dart              |        2       |     Frame    |      Action     |     Fallen    |
-|     Rattlesnake   venom      |        3       |     Frame    |      Montage    |     Fallen    |
-|     Tranquilizer dart        |        3       |     Frame    |      Action     |     Incap.    |
-
-You can cure Afflictions with the right antidote, herb, or drug. This
-drops Potence to zero, ending any penalty or Effect. If uncertain, an
-Know Check based on medical knowledge can tell what works and if
-treatment is even available.
-
 ### Cover
 
-Combatants can use objects in the environment to protect themselves from
-ranged attacks, referred to as taking ***Cover***. There are two types
-of Cover: ***Partial*** and ***Total***. Partial Cover adds +2 to <span
-class="smallcaps">Poise</span> when targeted and Total Cover prevents
-targeting entirely for both the attacker and the defender. One may pop
-out of Total Cover and target another character, but it then counts as
-Partial until the start of their next Action.
-
-“Taking cover” in combat only requires a Move into the area with the
-desired Cover. Whether one has it depends on where the attacker and
-target are in relation to each other. For example, a stone wall only
-grants Cover against attackers on the other side. A chain link fence
-might grant full Cover against throwing axes but only +1 against
-gunshots, etc. Use your best judgment.
-
-Shields are portable Cover, and as such do not stack with Cover.
+Combatants can use nearby obstacles to protect themselves from ranged attacks, referred to as taking ***Cover***.
+There are two ways to use Cover: ***Partial*** and ***Total***.
+Taking Partial Cover adds +2 to POISE vs. incoming attacks and Total Cover prevents targeting entirely for both attacker and defender. Area Attacks do half damage in Partial Cover and none in Full Cover.
+One may pop out of Total Cover and target another character, but it then counts as only Partial until their next Action.
+Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side.
+A chain link fence grants full Cover against throwing axes but only +1 against gunshots, etc.
+If Cover is easily penetrated by an attack, such as a wooden wall versus a tank cannon, it can only ever count as Partial. Use your judgment as always.
 
 {: .highlight }
->-   *Partial Cover:* +2 to <span class="smallcaps">Poise</span> vs.
-    incoming Attacks
->-   *Total Cover*: no incoming or outgoing Attacks succeed. If you pop
-    out to Attack, it becomes Partial Cover until your next Action.
+>-   *Partial Cover:* +2 to POISE vs.
+    incoming Attacks, half damage from Area Attacks.
+>-   *Total Cover*: cannot target or be targeted.
 
 ### Deprivation
 
@@ -794,66 +734,99 @@ adventurer needs one serving of rations, a liter or so of water each
 day, roughly six hours of rest, and ample air. Lacking these can have
 real effects:
 
-- **Hunger:** each week without food Strains base <span
-class="smallcaps">Frame</span> by one. At 0, the character has starved
-to death. Each day of normal rations restores 1 <span
-class="smallcaps">Frame</span>. This *does not* stack with the similar
-effects of Thirst.
-- **Thirst:** each day without water Strains <span
-class="smallcaps">Frame</span> by one. At 0, they die from dehydration.
-Each day of normal drinking restores 1 <span
-class="smallcaps">Frame</span>. This *does not* stack with the similar
-effects of Hunger.
+- **Hunger:** each week without food Strains base
+FRAME by one. At 0, the character has starved
+to death. Each day of normal rations restores 1
+FRAME lost to hunger.
+- **Thirst:** each day without water Strains
+FRAME by one. At 0, they die from dehydration.
+Each day of normal drinking restores 1
+FRAME lost to thirst.
 - **Fatigue:** each day without rest inflicts a -1 penalty to all Checks.
 A full day of rest removes this effect. A fatigued character might fall
 asleep as a Twist on a failed Check.
-- **Suffocation:** a character can hold their breath for 1d6 + <span
-class="smallcaps">Poise</span> Rounds (~6 seconds each) before
-Incapacitation. They then get another set of rounds equal to <span
-class="smallcaps">Poise</span> before dying. Resuscitation is a normal
-Recover Check.
+- **Suffocation:** a creature can hold their breath for a number of Rounds
+(~6 seconds each) equal to their POISE plus an Edge Count of their MOTIVE
+before Incapacitation. They then get another set of rounds equal to POISE
+before dying. Resuscitation is a Recover Check.
 
-These are not very heroic ways to go and are mainly here to give a good
-reason to buy rations, shelter, and water. This sort of “resource
-management” is a whole sub-game some players really enjoy.
+These are not very heroic ways to go. Mainly, they are here to give a good
+reason to buy rations, shelter, and water. This sort of “resource management”
+is a whole sub-game some players really enjoy.
+
+{: .highlight }
+>-   **Hunger:** -1 Frame per week, restored by food.
+>-   **Thirst:** -1 Frame per day, restored by water.
+>-   **Fatigue:** -1 penalty per day, restored by sleep.
+>-   **Suffocation:** Hold breath for POISE rounds, + MOTIVE  Edge Count.
+
+### Disease
+An ignoble but ever-present theme in pulp adventure, what with foolhardy explorers looting long-sealed tombs or struggling with bouts of Malaria.
+On the Montage after exposure, make a Recovery Check versus the disease Difficulty.
+If they fail, they suffer the symptoms as well as the usual Status.
+If they succeed, they are free and clear and do not even spend the Montage.
+It is rare for a victim to know exactly when and how they were exposed.
+Treat it as a mystery for them to solve.
+
+<center><strong>SAMPLE DISEASES</strong></center>
+
+{: .lh-0}
+|     Source                 |     Difficulty    |     Common Symptoms                     |
+|----------------------------|:-----------------:|-----------------------------------------|
+|     Common cold            |     2             |     Coughing, Sneezing, Aching, etc.    |
+|     Malaria                |     5             |     Chills, sweating, nausea, etc.      |
+|     Monitor lizard bite    |     4             |     Weakness, pain, swelling, etc.      |
+
+{: .highlight }
+>-   **Disease:** Recovery Check next Montage to avoid Symptoms/Status.
 
 ### Falls
 
-Damage of course depends on how far the character fell. This is a Roll
-of 1d6, adding +1 for every building story or ~5 meters, soaked by <span
-class="smallcaps">Poise</span>. A short fall such as a trip or tumbling
-into a trench does 1d6, a fall from a second story window or tree does
-1d6+1, a fall from a tall tree or a few floors of a building usually
-does 1d6+3, etc. The most one can take is 1d6+10, such as jumping off a
-cliff. Survival from terminal velocity is thus *possible*, but extremely
-*unlikely*.
-
-The daring may ***Plummet*** onto an enemy below, adding one to their
-Attack bonus for every plus on the falling Roll. They still suffer their
-own falling damage as normal.
+Damage of course depends on how far the character fell, typically 1, plus 1 for every building story or ~5-meter vertical Zone.  
+This damage applies directly to Mettle and only soaks by a POISE Edge Count.
+For example, a short fall like tumbling into a trench does 1, a second story window or tree does 2, a tall tree or several floors of a building may doe 4, etc.
+The most one can take is 20, such as jumping off a cliff.
+Damage may vary: hard ground like concrete or rubble may inflict +1, spikes or traps +2, water may be -2, jumping purposefully instead of falling reliably grants -1 etc.
+The truly daring may Plummet onto an enemy below, raising their DAM by one for every Zone fallen. They still suffer their own falling damage, soaked by a POISE Edge Count as usual.
 
 {: .highlight }
->-   **Falls:** 1d6 damage, +1 per 5 full meters or so, soaked with <span
-    class="smallcaps">Poise</span>.
->-   **Plummet:** +1 to Attack bonus per 5 full meters fallen.
+>-   **Falls:** u	Falls: 1 damage, +1 per Zone (~5m), minus POISE Edge Count.
+>-   **Plummet:** +1 to DAM per full Zone fallen.
 
 ### Fire
 
-Man's greatest elemental friend and enemy, fire is a common hazard in
-games and fiction. This does damage each round until the target escapes
-the source. Fire damage depends on how big the fire is and how hot it is
-burning, subtracting <span class="smallcaps">Frame</span> as usual. For
-example, a torch or campfire would do 1d6, a raging Bonfire 1d6+2 or so,
-and a forge or lava flow 1d6+4.
-
-Some targets are naturally flammable, such as wood, mummies,
-tree-monsters, or rags. Others become flammable via napalm, gasoline, or
-magical curses. Flammable targets take on the Burning Status, meaning
-they cannot Rally and continue to take the same damage each Round until
-extinguished or burnt to cinders.
+Fire does damage as an Edge Count each round until the target escapes it.
+This damage depends on how big the fire is and how hot it is burning, subtracting FRAME as the usual Soak.
+For example, a torch or campfire would do 5 or s, a raging Bonfire 10, and a forge or lava flow 15 or more.
+Prolonged exposure will raise the damage.
+Some targets are naturally flammable, such as wood, mummies, tree-monsters, or rags.
+Others become flammable via napalm, gasoline, or magical curses.
+Flammable targets take on the Burning Status, meaning they cannot Rally and continue to take the same damage each Round until extinguished or burnt to cinders.
 
 {: .highlight }
->-   **Fire:** 1d6 for small, 1d6+2 for medium, 1d6+4 for large
+>-   **Fire:** damage is an Edge Count of intensity - FRAME.
+
+### Poison
+The insidious threat of poison is trope in pulp adventure stories, from venomous snakes to blowgun darts and court treachery. Exposure to poison triggers an Edge Count of its Potence minus the victim’s  FRAME soak. Any Edge becomes a penalty to all Checks for that Scene. This “builds up,” stacking with later Poison penalties. Record the current penalty on the character sheet (i.e., “Poisoned, -2D”). If the penalty exceeds the Motive of the character, they are Fallen.
+
+<center><strong>SAMPLE POISONS</strong></center>
+
+{: .lh-0}
+|     Source               |     Potence    |     Common Symptoms                        |
+|--------------------------|:--------------:|--------------------------------------------|
+|     Curare dart          |     7D         |     Paralysis, respiratory arrest, etc.    |
+|     Cobra   venom        |     9D         |     Delirium, nausea,   weakness, etc.     |
+|     Tranquilizer dart    |     8D*        |     Fatigue, dizziness, etc.               |
+* *tranquilizers are half Difficulty on Recover Check.*
+
+The Potence in the table is by no means a final, as raising or lowering the dosage changes the Potence of poisons. Dose for size using the FRAME Conversion chart (p.94). For example, to put down a 12- FRAME, elephant, set the Potence well above 13.
+Tranquilizers are less deadly than regular poisons, halving the Difficulty of the Recover Check. They are still quite dangerous and should not be used lightly.
+Antidotes usually halve a specific poison’s Potence. A Know Check with a medical Focus may reveal an antidote.
+
+{: .highlight }
+>-   **Poison:** penalty is Potence – FRAME Edge Count.
+>-   if penalty is over MOTIVE, the victim is Fallen.
+
 
 ### Traps
 
@@ -878,14 +851,14 @@ hidden traps.
 - **Flooding room:** this small adjoining room has a strange idol in the
 center. If players linger, the doors close and it begins to fill with
 water, flooding entirely in 5 Rounds. If anyone kneels before the idol
-the water drains away. *Difficulty 8, Drowning.*
+the water drains away. *Difficulty 8, Suffocation.*
 - **Pitfall:** a carefully weighted trapdoor covers a shaft down to the
 next floor. Triggered by the first one to walk onto it, anyone nearby
-could also blunder in. *Difficulty 4, 1d6 Falling damage.*
+could also blunder in. *Difficulty 4, 3 Falling damage.*
 - **Scything blade:** a pressure plate in the hallway triggers a massive
 hidden blade to swing towards the victim. The victim hears a metallic
 whirring at head height and has a split second to get horizontal and
-avoid decapitation. *Difficulty 6, 2d6 damage.*
+avoid decapitation. *Difficulty 6, 9D Edge Count damage.*
 - **Tripwire:** stout twine between two trees around the bandit camp sets
 off a crude tin-can alarm. *Difficulty 4, alerts the bandits.*
 
@@ -895,7 +868,7 @@ trap as written.
 
 ### Visibility
 
-Things like darkness, underbrush, and smoke make tasks related to vision
+Darkness, underbrush, and smoke make tasks related to vision
 more difficult. In general, dim light is worth a -1 penalty and total
 darkness a -3. Equipment such as torches or night vision goggles can
 remove this penalty. Sudden flashes of bright light can also inflict a

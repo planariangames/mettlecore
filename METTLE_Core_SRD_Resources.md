@@ -14,11 +14,10 @@ nav_order: 4
 
 If you expect trouble, and you really should, it is best to wear some
 sort of armor. Armor adds directly to Mettle, which is otherwise just
-<span class="smallcaps">Motive</span>. The tradeoff is the more
+MOTIVE. The tradeoff is the more
 protection a set of Armor gives, the more difficult it is to move. In
-other words, if Load exceeds the wearer’s <span
-class="smallcaps">Frame</span>, it inflicts an encumbrance penalty to
-<span class="smallcaps">Poise</span>. This can complicate actions such
+other words, if Load exceeds the wearer’s FRAME, it inflicts an encumbrance penalty to
+POISE. This can complicate actions such
 as swimming, climbing, travel, and sneaking.
 
 The table below gives examples of armor common to a modern setting, as
@@ -54,17 +53,10 @@ rescue, or powered suits.
 ##  Weapons
 
 The following weapons chart gives examples of some of the more popular
-weapons. Each weapon has a Name to describe it, its Attack bonus, any
+weapons. Each weapon has a Name to describe it, its DAM, any
 special qualities, its Load, and Cost.
 
-**Attack bonus** adds to <span class="smallcaps">Poise</span> on the
-Attack Check before subtracting your opponent’s <span
-class="smallcaps">Frame</span>. For most muscle-powered weapons, this is
-<span class="smallcaps">Frame</span> plus the modifier listed in the
-weapons table below. For firearms, this is equal to the listed value
-alone. A relevant <span class="smallcaps">Focus</span> can replace <span
-class="smallcaps">Poise</span>, if higher. Attack bonus stacks with
-situational modifiers.
+**Derived Attack Modifier (DAM)** adds to the Attack Check before subtracting your opponent’s FRAME. For most muscle-powered weapons, this is FRAME plus the bonus listed in the weapons table below. For firearms, this is equal to the listed value alone. DAM is applied before considering any lesser situational modifiers.
 
 ### Specials
 
@@ -74,14 +66,14 @@ situational modifiers.
 - **Burst** adds extra Attacks by wasting ammo. 5 ammo is 2 Attacks, 15 is 3,
 30 is 4, etc. These Attacks cannot Split. Jams are a common Twist and prevent
  further fire until cleared.
-- **Cover** adds a Cover bonus to <span class="smallcaps">Poise</span>
+- **Shield** adds a bonus to POISE defense vs. incoming Attacks.
 when targeted by an Attack.
-- **Grapple** use the weapon’s Attack bonus on Grapple Checks.
-- **Entangle** incapacitates instead of doing damage: Check Poise vs. the
+- **Grapple** use the weapon’s DAM on Grapple Checks.
+- **Entangle** incapacitates instead of doing damage: Check POISE vs. the
 original “damage” each Round to escape.
-- **Inferior:** weapons are shoddy; lower Attack bonus and Cost by one.
+- **Inferior:** weapons are shoddy; lower DAM and Cost by one.
 - **Range** is how far one can throw or shoot the weapon. This replaces
-the target’s Poise as Difficulty, if higher. If no range is given,
+the target’s POISE as Difficulty, if higher. If no range is given,
 assume the weapon can be lobbed at 4 Difficulty per Zone away.
 >-   Range **S** (Short) is 3 Difficulty per Zone away.
 >-   Range **M** (Medium) is 2 Difficulty per Zone away.
@@ -90,10 +82,10 @@ assume the weapon can be lobbed at 4 Difficulty per Zone away.
 - **Reach** weapons do not take return damage from a Block made against
 them unless the blocker is also using a Reach weapon.
 - **Scoped** weapons reduce the penalty for Range (only) by that amount.
-- **Spread** halves Attack Difficulty if target is no further than 1 Zone away. 
+- **Spread** halves Attack Difficulty if target is no further than 1 Zone away.
 - **Stun** weapons do their full damage when making Subdual attacks. Some
 can only make Subdual attacks, shown as “(only).”
-- **Superior** weapons are well-made; raise Attack bonus and Cost by one.
+- **Superior** weapons are well-made; raise DAM and Cost by one.
 - **Wrap** weapons are flexible and ignore a foe’s Cover/shield bonuses.
 
 {: .text-center}
@@ -101,44 +93,44 @@ can only make Subdual attacks, shown as “(only).”
 
 {: .lh-0}
 
-|     Weapon type              |     Attack     bonus    |     Special*                            |     Load    |     Cost    |
+|     Weapon type              |     DAM    |     Special*                            |     Load    |     Cost    |
 |:-------------------------|:-----------------------:|-----------------------------------------|:-----------:|:-----------:|
-|     Axe/mace             |          Frame+3        |     -                                   |       1     |       2     |
-|     Axe/mace,   great    |          Frame+4        |     -                                   |       2     |       3     |
-|     Bow, long            |          Frame+2        |     2H, Range L,   Ammo 12              |       2     |       3     |
-|     Bow,   short         |          Frame+1        |     2H,   Range M, Ammo 12              |       1     |       3     |
-|     Brass Knuckles       |          Frame+1        |     Stun                                |       -     |       2     |
-|     Bullwhip             |          Frame+1        |     Reach,   Wrap, Grapple              |       1     |       2     |
-|     Club                 |          Frame+2        |     Stun                                |       1     |       1     |
+|     Axe/mace             |          FRAME+3        |     -                                   |       1     |       2     |
+|     Axe/mace,   great    |          FRAME+4        |     -                                   |       2     |       3     |
+|     Bow, long            |          FRAME+2        |     2H, Range L,   Ammo 12              |       2     |       3     |
+|     Bow,   short         |          FRAME+1        |     2H,   Range M, Ammo 12              |       1     |       3     |
+|     Brass Knuckles       |          FRAME+1        |     Stun                                |       -     |       2     |
+|     Bullwhip             |          FRAME+1        |     Reach,   Wrap, Grapple              |       1     |       2     |
+|     Club                 |          FRAME+2        |     Stun                                |       1     |       1     |
 |     Crossbow,   heavy    |             6           |     2H,   Range L                       |       2     |       3     |
 |     Crossbow, light      |             5           |     2H, Range M                         |       1     |       3     |
-|     Dagger/Knife         |          Frame+2        |     Range   S                           |       -     |       2     |
-|     Dart                 |          Frame+1        |     Range S                             |       -     |       1     |
-|     Flail                |          Frame+2        |     Wrap                                |       1     |       3     |
-|     Flail, great         |          Frame+3        |     2H, Wrap                            |       2     |       3     |
-|     Garrote              |          Frame+1        |     Grapple                             |       -     |       1     |
+|     Dagger/Knife         |          FRAME+2        |     Range   S                           |       -     |       2     |
+|     Dart                 |          FRAME+1        |     Range S                             |       -     |       1     |
+|     Flail                |          FRAME+2        |     Wrap                                |       1     |       3     |
+|     Flail, great         |          FRAME+3        |     2H, Wrap                            |       2     |       3     |
+|     Garrote              |          FRAME+1        |     Grapple                             |       -     |       1     |
 |     Handgun, heavy       |             7           |     Range M, Ammo   6                   |       0     |       3     |
 |     Handgun,   light     |             6           |     Range   M, Ammo 9                   |       0     |       3     |
-|     Hatchet              |          Frame+2        |     Range S                             |       1     |       2     |
-|     Lance                |          Frame+3        |     2H,   Reach                         |       2     |       3     |
-|     Machete              |          Frame+2        |     Tool (+1   Travel in some areas)    |       1     |       2     |
-|     Net                  |           Frame         |     Entangle                            |       1     |       2     |
-|     Polearm              |          Frame+3        |     2H                                  |       2     |       3     |
-|     Quarterstaff         |          Frame+2        |     2H,   Stun                          |       2     |       2     |
+|     Hatchet              |          FRAME+2        |     Range S                             |       1     |       2     |
+|     Lance                |          FRAME+3        |     2H,   Reach                         |       2     |       3     |
+|     Machete              |          FRAME+2        |     Tool (+1   Travel in some areas)    |       1     |       2     |
+|     Net                  |           FRAME         |     Entangle                            |       1     |       2     |
+|     Polearm              |          FRAME+3        |     2H                                  |       2     |       3     |
+|     Quarterstaff         |          FRAME+2        |     2H,   Stun                          |       2     |       2     |
 |     Rifle, assault       |             7           |     2H, Burst,   Ammo 30, Range L     |       1     |       3     |
 |     Rifle,   hunting     |             7           |     2H,   Ammo 5, Range L, Scope 2      |       1     |       3     |
-|     Shield, large        |          Frame+1        |     Cover +2                            |       2     |       3     |
-|     Shield,   medium     |          Frame+1        |     Block   +1, Cover +1                |       1     |       3     |
-|     Shield, small        |          Frame+1        |     Block +2                            |       -     |       3     |
+|     Shield, large        |          FRAME+1        |     Shield +2                            |       2     |       3     |
+|     Shield,   medium     |          FRAME+1        |     Block   +1, Shield +1                |       1     |       3     |
+|     Shield, small        |          FRAME+1        |     Block +2                            |       -     |       3     |
 |     Shotgun              |             8           |     2H,   Range S, Spread +2                       |       1     |       3     |
-|     Sling                |          Frame+1        |     Range M                             |       -     |       1     |
-|     Spear                |          Frame+3        |     Range   S, Reach                    |       2     |       2     |
+|     Sling                |          FRAME+1        |     Range M                             |       -     |       1     |
+|     Spear                |          FRAME+3        |     Range   S, Reach                    |       2     |       2     |
 |     Stun gun             |             7           |     Stun (only)                         |       -     |       3     |
 |     Sub-machinegun       |             6           |     2H,   Range M, Burst              |       0     |       3     |
-|     Sword                |          Frame+3        |                                         |       1     |       3     |
-|     Sword,   great       |          Frame+4        |     2H                                  |       2     |       3     |
+|     Sword                |          FRAME+3        |                                         |       1     |       3     |
+|     Sword,   great       |          FRAME+4        |     2H                                  |       2     |       3     |
 |     Taser                |             7           |     Stun (only),   Reach                |       -     |       3     |
-|     Unarmed              |           Frame         |     Stun                                |       -     |       -     |
+|     Unarmed              |           FRAME         |     Stun                                |       -     |       -     |
 
 *\*Special features are for a “typical” modern weapon of its kind. If
 modeling a specific weapon, adjust as needed.*
@@ -147,7 +139,7 @@ modeling a specific weapon, adjust as needed.*
 
 Part of the joy of making a setting is thinking about what tools are
 available to help those within it achieve their goals. Different items
-will be available depending on the portrayed time period.
+should be available depending on the time period portrayed.
 
 ### Miscellaneous Items
 
@@ -176,7 +168,7 @@ also include a *cell phone* in more recent modern games.
 
 No man is an island, and even a well-rounded party can find they lack
 ability or patience for certain tasks. In general, you get what you pay
-for. A Hireling’s <span class="smallcaps">Focus</span>
+for. A Hireling’s FOCUS
  is usually equal to two plus the Funds spent
 hiring them (Funds+2), with other Attributes being average unless the
 Guide wants to spice them up.
@@ -207,49 +199,46 @@ the same Action but may split Attacks between them. Otherwise, treat
 them as individuals.
 
 The mount uses a simplified NPC Pool  for Checks
-it could reasonably make, with their <span
-class="smallcaps">Frame</span> in parentheses. The rider may use their
-riding-related <span class="smallcaps">Focus</span> to get the Mount to
+it could reasonably make, with their FRAME in parentheses. The rider may use their
+riding-related FOCUS to get the Mount to
 do something it does not want to, such as leaping over a dangerous
 obstacle, learning a trick, running to exhaustion, or staying in a
-battlefield. Treat this as a Persuade Check (rider’s <span
-class="smallcaps">Focus</span> vs. mount’s Pool<span
-class="smallcaps">)</span>. A trained mount behaves differently in
+battlefield. Treat this as a Persuade Check (rider’s FOCUS vs. mount’s Pool). A trained mount behaves differently in
 certain conditions. For example, a war horse does not balk at combat or
 gunfire.
 
 {: .text-center}
 **MOUNTS**
 
-- **Camel:** *Pool 4(<span class="smallcaps">Frame</span> 7), Speed 2,
-Attack (kick 7D)*. Ships of the desert, hardy and stubborn.
-- **Donkey:** *Pool 4(<span class="smallcaps">Frame</span> 5), Speed 2,
-Attack (kick 5D)*. Like a small but sturdy horse. Shines on rough
+- **Camel:** *Pool 4(FRAME 7), Speed 2,
+Attack (kick 7 DAM)*. Ships of the desert, hardy and stubborn.
+- **Donkey:** *Pool 4(FRAME 5), Speed 2,
+Attack (kick 5 DAM)*. Like a small but sturdy horse. Shines on rough
 terrain as a pack or riding animal.
-- **Elephant:** *Pool 4(<span class="smallcaps">Frame</span> 12), Speed 1,
-Attack (stomp 12D)*. Mighty and steady.
-- **Horse:** *Pool 4 (<span class="smallcaps">Frame</span> 7), Speed 3,
-Attack (kick 7D)*. A strong, fast, and awe-inspiring mount for the ages.
-- **Mule**: *Pool 4(<span class="smallcaps">Frame</span> 7), Speed 2,
-Attack (kick 7D)*. A sturdy mount or beast of burden with a lot of
+- **Elephant:** *Pool 4(FRAME 12), Speed 1,
+Attack (stomp 12 DAM)*. Mighty and steady.
+- **Horse:** *Pool 4 (FRAME 7), Speed 3,
+Attack (kick 7 DAM)*. A strong, fast, and awe-inspiring mount for the ages.
+- **Mule**: *Pool 4(FRAME 7), Speed 2,
+Attack (kick 7 DAM)*. A sturdy mount or beast of burden with a lot of
 attitude.
 
 ## Vehicles
 
 Airplanes, mecha, or bulldozers have ratings for their ease of handling,
-maximum speed, and <span class="smallcaps">Frame</span>. When necessary,
-the driver or pilot Checks their <span class="smallcaps">Focus</span>
+maximum speed, and FRAME. When necessary,
+the driver or pilot Checks their FOCUS
 vs. their current Speed. Current Speed also serves as the Difficulty for
 foes to target it in combat.
 
 - **Handling:** how easily it turns compared to others of its class. The
-modifier adds to the relevant <span class="smallcaps">Focus</span> on
+modifier adds to the relevant FOCUS on
 Checks made to control it.
 - **Speed:** how fast it can go. This affects the Move and Race Actions in
 slightly different ways. Current Speed acts as a Move in Zones and as a
-substitute <span class="smallcaps">Poise</span> score.
-- **<span class="smallcaps">Frame</span>:** Size and weight. Armored
-vehicles just add <span class="smallcaps">Frame</span> instead of using
+substitute POISE score.
+- **FRAME:** Size and weight. Armored
+vehicles just add FRAME instead of using
 character armor rules.
 
 The terrain favored by a vehicle should be obvious from their type.
@@ -271,20 +260,19 @@ Handling pool drops to half or lower.
 A Crash is when a vehicle loses control and hits an obstacle, usually by
 accident. This affects speedy and delicate vehicles far more than slow
 and sturdy ones. A vehicle suffers a Roll of 1d6 plus Speed as damage,
-soaked by <span class="smallcaps">Frame</span> as usual. Occupants will
-suffer 1d6 plus Speed damage, soaked with their own <span
-class="smallcaps">Frame</span>(s). Occupants will take half damage if
+soaked by FRAME as usual. Occupants
+suffer 1d6 plus Speed damage, soaked with their own FRAME(s). Occupants take half damage if
 wearing seatbelts or other safety equipment.
 
 {: .highlight}
->-   **Crash:** 1d6 + Speed - <span class="smallcaps">Frame</span> damage
+>-   **Crash:** 1d6 + Speed - FRAME damage
 
 ### Ramming
 
 This purposeful assault turns your vehicle into a deadly but fragile
-weapon. Check the vehicle’s current Speed, with an Attack bonus equal to
-its Frame, minus the target’s Frame, versus its current Speed. Ramming a
-pedestrian is versus their Poise.
+weapon. Check the vehicle’s current Speed, with an DAM equal to
+its FRAME, minus the target’s FRAME, versus its current Speed. Ramming a
+pedestrian is versus their POISE.
 
 The ramming vehicle may suffer collateral damage from this risky stunt.
 Handle this as a Twist on a failed Ramming Check. This has the same
@@ -293,11 +281,10 @@ effect as a Crash, above.
 In a head on collision, add the speed of both vehicles together.
 
 {: .highlight}
->-   **Ram Vehicle:** \[Speed + <span class="smallcaps">Frame</span> –
-    target <span class="smallcaps">Frame</span>\] vs. current Speed
->-   **Ram Pedestrian:** \[Speed + <span class="smallcaps">Frame</span> –
-    target <span class="smallcaps">Frame</span>\] vs. <span
-    class="smallcaps">Poise</span>
+>-   **Ram Vehicle:** \[Speed + FRAME –
+    target FRAME\] vs. current Speed
+>-   **Ram Pedestrian:** \[Speed + FRAME –
+    target FRAME\] vs. POISE
 
 ### Speed Scaling
 
@@ -311,22 +298,22 @@ example of this.
 **VEHICLES**
 
 {: .lh-0}
-|     Vehicle type               |     Handling    |     Speed    |     Frame    |     Cost    |
+|     Vehicle type               |     Handling    |     Speed    |     FRAME    |     Cost    |
 |----------------------------|:---------------:|:------------:|:------------:|:-----------:|
-|     Bicycle                |      Focus+2    |       2      |       1      |       3     |
-|     Bus, school            |       Focus     |       4      |       13     |       6     |
-|     Car,   compact         |      Focus+2    |       5      |       9      |       5     |
-|     Car, sedan             |      Focus+1    |       5      |       9      |       5     |
-|     Car,   sports          |      Focus+2    |       6      |       9      |       6     |
-|     Car, SUV               |      Focus+1    |       5      |       10     |       5     |
-|     Dirt   bike            |      Focus+2    |       3      |       4      |       4     |
-|     Helicopter, attack     |      Focus+1    |       6      |       11     |       7     |
-|     Helicopter,   light    |      Focus+2    |       5      |       8      |       6     |
-|     Jet, Fighter           |      Focus+1    |       10     |       14     |       7     |
-|     Jet,   Jumbo           |       Focus     |       8      |       19     |       7     |
-|     Motorcycle             |      Focus+2    |       5      |       5      |       5     |
-|     Seaplane               |       Focus     |       6      |       11     |       6     |
-|     Tank, combat           |      Focus+1    |       3      |       16     |       7     |
-|     Truck,   garbage       |       Focus     |       4      |       15     |       6     |
-|     Truck, monster         |      Focus+1    |       4      |       11     |       6     |
-|     Truck,   pickup        |      Focus+1    |       5      |       10     |       5     |
+|     Bicycle                |      FOCUS+2    |       2      |       1      |       3     |
+|     Bus, school            |       FOCUS     |       4      |       13     |       6     |
+|     Car,   compact         |      FOCUS+2    |       5      |       9      |       5     |
+|     Car, sedan             |      FOCUS+1    |       5      |       9      |       5     |
+|     Car,   sports          |      FOCUS+2    |       6      |       9      |       6     |
+|     Car, SUV               |      FOCUS+1    |       5      |       10     |       5     |
+|     Dirt   bike            |      FOCUS+2    |       3      |       4      |       4     |
+|     Helicopter, attack     |      FOCUS+1    |       6      |       11     |       7     |
+|     Helicopter,   light    |      FOCUS+2    |       5      |       8      |       6     |
+|     Jet, Fighter           |      FOCUS+1    |       10     |       14     |       7     |
+|     Jet,   Jumbo           |       FOCUS     |       8      |       19     |       7     |
+|     Motorcycle             |      FOCUS+2    |       5      |       5      |       5     |
+|     Seaplane               |       FOCUS     |       6      |       11     |       6     |
+|     Tank, combat           |      FOCUS+1    |       3      |       16     |       7     |
+|     Truck,   garbage       |       FOCUS     |       4      |       15     |       6     |
+|     Truck, monster         |      FOCUS+1    |       4      |       11     |       6     |
+|     Truck,   pickup        |      FOCUS+1    |       5      |       10     |       5     |

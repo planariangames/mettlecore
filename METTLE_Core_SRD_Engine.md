@@ -10,38 +10,6 @@ nav_order: 2
 - TOC
 {:toc}
 
-## Rolls
-
-Call for a ***Roll*** when success or failure is irrelevant, and you
-just need an amount. This is useful for random tables, enemy numbers,
-“ambient” damage from hazards, falls, traps, etc. To do this, roll the
-dice and add up the faces. The “d” in a Roll is always lower case. For
-example, a “3d6” roll would give a number from 3-18.
-
-Sometimes you will halve or double the result of a Roll. If halved, the
-general ***halving*** rule in this game is to round up.
-
-### Modifiers
-
-***Modifiers***, such as ***Bonuses*** (+) or ***Penalties*** (-) may
-apply to a Roll, such as “2d6+4” giving a result from 6 to 16, or
-“2d6-4” for a result from 0 to +8. A penalty can only drop a result to
-zero, never into the negative. To keep things moving for *situational*
-modifiers; bonuses do not stack with other bonuses and penalties do not
-stack with other penalties. Only the largest situational bonus and/or
-penalty counts.
-
-{: .highlight }
->1.  Roll the die or dice.
->2.  Add up the die face results.
->3.  Add bonus or subtract penalty.
-
-### d66
-
-Some random tables in this book use a ***d66*** Roll. For these, roll
-one d6 and then another. For example, if you roll a 6 and a 2, go to
-the row for “6, 2” on the table.
-
 ##  Checks
 
 A ***Check*** is when you are “checking” to see if an action succeeds or
@@ -97,15 +65,6 @@ of Edge, consider using it on a Twist .
 |      5+     |     Legendary             |
 
 
-Modifiers may add or subtract dice from a Check. For example, +2 means
-add two dice. Treat these modifiers just like a Roll where only the
-largest bonus and penalty counts. Players
-should expect a +1 to +3 bonus for having the proper tools or leverage
-for a task.
-
-Modifiers can also apply to Difficulty. For example, shields and cover increase
- the Difficulty of an Attack by adding to POISE.
-
 The Guide should assume competence and only call for a Check when the
 outcome is interesting or uncertain. Players should brazenly presume
 success and only stop for a Check if the Guide demands it.
@@ -129,6 +88,13 @@ gauge chances of success. This also means you can directly contest
 single Attributes, using one as the active Check and the other as its
 passive Difficulty.
 
+
+### Modifiers
+The entire FRAME Attribute acts as a special modifier to most Attacks (p.41): it forms the ***Derived Attack Modifier (DAM)*** for inflicting damage and as a defensive ***Soak*** penalty versus incoming damage.
+Aside from that, do not let other little situational modifiers pile up and bog down your game.
+Only count the largest bonus and penalty.
+For example, a situation with +1D, +3D, and -1D Modifiers ends up granting a bonus of +2D (+3D & -1D).
+
 ### Twists
 
 If you fail a Check but have Edge, you may call for a ***Twist***. This
@@ -144,20 +110,20 @@ turning it into a success!
 The default Twist is ***Strain***, meaning you temporarily lose one die
 from the Attribute used. Write the new lower pool in parentheses to the
 right of the old one. Twists can only Strain <span
-class="smallcaps">Focus</span>, <span class="smallcaps">Nature</span>,
-and <span class="smallcaps">Poise</span> as the others are not Checked.
-The lowest you an Attribute can go is zero, at which point you will need
+FOCUS, NATURE,
+and POISE as the others are not Checked.
+The lowest you an Attribute can go is zero, at which point you need
 bonus dice to do anything. Strained Attributes restore with a Relax
 Montage .
 
-You can make up another Twist if Strain seems too harsh and the
-situation inspires a different complication. These should be immediate
-setbacks that apply *regardless of success or failure*. For example,
-losing a weapon, breaking gear, straining relationships or finances,
-inflicting collateral damage, blurting out something incriminating, etc.
-That said, it can also be fun to propose a merely dramatic Twist to move
-the story forward. Perhaps they remember a current foe from their
-backstory or accidentally took the wrong suitcase!
+Make up another Twist if Strain seems too harsh and the situation inspires a
+different complication. These should be immediate setbacks that apply
+*regardless of success or failure* and *derive from the fiction*. For example,
+losing a weapon, breaking gear, harming a relationship, inflicting collateral
+damage, blurting out something incriminating, etc. That said, it can also be
+fun to propose a merely dramatic Twist to move the story forward. Perhaps
+they remember a current foe from their backstory or accidentally took the
+wrong suitcase!
 
 Anyone can help come up with a creative Twist. If the Guide *or* Player
 does not like it, they can always resort to Strain. This is a safety
@@ -167,7 +133,7 @@ call off the Twist and accept failure as the gift it is.
 {: .highlight }
 >-   On a failure, you may call for a Twist and then reroll Edge dice.
 >-   The default Twist is a Strain, which lowers an Attribute by one.
->-   Other Twists are encouraged but subject to the Guide’s approval.
+>-   Other Twists are encouraged but subject to approval.
 
 <center><strong>TWIST SEEDS</strong></center>
 
@@ -210,25 +176,37 @@ than one helper, they should work on a related task instead.
 
 Either way, the member with the highest pool can Raise or call for a
 Twist. If they choose Strain, it only applies to them. That is the
-sacrifice a leader makes for their team, and hopefully they will
+sacrifice a leader makes for their team, and hopefully they
 appreciate it.
 
 {: .highlight }
 >-   Weakest-link: Check highest, keep \#dice = lowest.
 >-   Strongest-link: leader and helper Check, keep \#dice = highest.
 
+### Edge Counts
+Half-Checks where success is automatic and only Edge matters. These come into
+play when modeling the effects of inanimate or “ambient” hazards like crashes,
+poison, falls, and explosions. To make an Edge Count, just roll dice as if it
+were a Check, but skip adding up the Score and go straight to counting Edge
+dice. Twists and Raises do not apply. If none of the dice turn up 4-6 you may
+end up with an Edge Count of zero – meaning the character got off scot-free!
+
+{: .highlight }
+>- Edge Count: skip adding up the Score and just count Edge.
+
+
 ##  Mettle
 
 The namesake of this game, Mettle stands for the will to live and how
 close the character is to their doom. In game terms, it is <span
-class="smallcaps">Motive</span> plus Armor. This is not a *direct*
+MOTIVE plus Armor. This is not a *direct*
 measure of injury. Physical damage is just a “flesh wound” until it drops
 Mettle into the negatives. Mettle refills entirely upon starting a new
 Scene, and Rallies  can even restore it in the
 heat of battle.
 
 {: .highlight }
->-   Mettle = <span class="smallcaps">Motive +</span> Armor
+>-   Mettle = MOTIVE + Armor
 
 ### Taking Damage
 
@@ -236,7 +214,7 @@ Characters may suffer ***Damage*** from hazards
 or attacks . Each point lowers their current
 Mettle by one. If their Mettle drops into the negatives, that is a
 ***Felling blow**,* and they suffer the ***Fallen*** Status. The Fallen
-lose their Action and their <span class="smallcaps">Poise</span> drops
+lose their Action and their POISE drops
 to zero. They may or may not be dead, depending on a later Recover
  Check.
 
@@ -255,7 +233,7 @@ than it is to fade away. You can always make a new character.
 {: .highlight }
 >-   **Shaken:** Lose Free Move, discard 1s on Checks.
 >-   **Broken:** Lose Free Move, discard 1s & 2s on Checks.
->-   **Fallen:** No Action and 0 <span class="smallcaps">Poise</span>.
+>-   **Fallen:** No Action and 0 POISE.
 
 ### Mettle Surges
 
@@ -263,7 +241,7 @@ Combatants can exert flurries of intense action, especially when fresh
 to battle. Whenever Initiative  is in play, each
 point of Mettle they sacrifice grants them a bonus on their Attack Check
 . This has limits; one cannot spend more Mettle
-than their Motive, nor can they spend enough to lower Mettle below zero.
+than their MOTIVE, nor can they spend enough to lower Mettle below zero.
 
 {: .highlight }
 >-   **Surge:** spend Mettle to add a bonus to your Attack.
@@ -281,17 +259,17 @@ reading. Other Checks less reliant on sight face a -3 penalty. Others
 may use Sneak against them as if they have Cover.
 - **Deafened:** cannot perform hearing-related tasks, like listening to
 speech or music. A Sign language or lip-reading <span
-class="smallcaps">Focus</span> may make up for this. Others may use
+FOCUS may make up for this. Others may use
 Sneak against them as if they have Cover.
 - **Encumbered :** carrying Load over their <span
-class="smallcaps">Frame</span>. Every Zone crossed now takes up two
+FRAME. Every Zone crossed now takes up two
 Moves. If they try to carry twice their <span
-class="smallcaps">Frame</span>, they are Incapacitated instead.
+FRAME, they are Incapacitated instead.
 - **Fatigued :** take a penalty to all Checks due
 to exhaustion. This penalty is usually equal to the number of days
 without rest.
 - **Incapacitated:** unconscious or paralyzed. A temporary version of
-Fallen - lose Free Move, <span class="smallcaps">Poise</span>, and
+Fallen - lose Free Move, POISE, and
 Action.
 - **Rattled:** shocked or dismayed by a Rattle (p.47) or other trauma. Inflicts
 a penalty to Rallies until next Scene.
@@ -357,9 +335,9 @@ sunlight. “If we can just go out on the porch, so I can check the color
 in natural light.”
 
 **Guide:** Oh, good idea, but he might get suspicious or think you will
-run off with it, let’s do a <span class="smallcaps">Nature</span> Check.
+run off with it, let’s do a NATURE Check.
 
-**Dana/Viktor:** My <span class="smallcaps">Nature</span> is
+**Dana/Viktor:** My NATURE is
 “Curmudgeon” with 3D. I start fiddling with my wallet, maybe I’ll get a
 bonus if he sees I have cash?
 
@@ -367,7 +345,7 @@ bonus if he sees I have cash?
 
 Dana throws the pool of four dice, landing on 3, 2, 2, and 6. This is a
 Score of 7 (3+2+2) and 1 Edge (the 6). This easily beats the Clerk’s
-<span class="smallcaps">Motive</span> of 4. The Edge means this should
+MOTIVE of 4. The Edge means this should
 distract him for a while.
 
 **Guide:** He walks out with you into the sunlight and goes into a whole
@@ -384,10 +362,10 @@ loud enough to alert the clerk.
 **Troy/Kirin:** I lift a little to relieve the strain on the hinges and
 sneak in quietly, as is my way.
 
-**Guide:** Bold but Check <span class="smallcaps">Poise</span> - it is
+**Guide:** Bold but Check POISE - it is
 very squeaky.
 
-**Troy/Kirin:** Cool, at <span class="smallcaps">Poise</span> 5, this
+**Troy/Kirin:** Cool, at POISE 5, this
 character has some moves.
 
 Troy throws his five dice, landing on 1, 2, 2, 5, & 6. That’s a Score of

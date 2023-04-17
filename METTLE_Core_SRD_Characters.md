@@ -14,7 +14,7 @@ nav_order: 1
 
 This can be a tough choice unless you have a Dickensian knack for clever
 names. A solid idea is to go with something audacious and easy to
-pronounce. This will also help others at your table remember it. If you
+pronounce. This also helps others at your table remember it. If you
 get stuck, come back to it later. There is space at the end for pronouns
 to reflect sex and/or gender.
 
@@ -23,7 +23,7 @@ Dr. Asphodel (she/her), Puddin’ Tame, etc.*
 
 ## Step 2: Appearance
 
-This is what others see when they meet the character. These are
+What others see when they meet the character. These are
 adventurers so make them stand out! Look to this section later when you
 need to introduce them to others in-game. Appearances are freeform but
 try to include their apparent age, gender, and a distinctive feature to
@@ -37,10 +37,12 @@ hat.*
 
 <center><strong>APPEARANCE SEEDS</strong></center>
 
-Invent, choose, or Roll on the table below to snap you out of any pesky
+Invent, choose, or roll on the table below to snap you out of any pesky
 creative paralysis. The distinctive features shown below are common
 options but by no means the only ones. Be creative and make these
 choices sing on your character sheet!
+To use a d66 table, roll one six-sided die and then another. For example,
+if you roll a 6 and a 2, go to the distinctive feature in the row for “6, 2.”
 
 {: .lh-0}
 |     d66    |     Distinctive Feature                               |
@@ -84,19 +86,19 @@ choices sing on your character sheet!
 
 ## Step 3: Attributes
 
-These are your character’s ***<span class="smallcaps">Focus</span>,
-<span class="smallcaps">Frame, Motive</span>, <span
-class="smallcaps">Nature</span>,*** and ***<span
-class="smallcaps">Poise</span>*** pools. Attributes lend them substance
+These are your character’s ***FOCUS,
+FRAME, MOTIVE,
+NATURE,*** and ***
+POISE*** pools. Attributes lend them substance
 within the rules of the game. Their ***Pool*** means how many dice they
 grant. The more dice in their pool, the better they are at related
 actions.
 
 Each Attribute also has a ***Descriptor***, a word or phrase fleshing
-out what the Attribute covers. This is vital for the ***<span
-class="smallcaps">Focus</span>*** Attribute and a role-playing aid for
-the others. Players may leave Descriptors blank at creation and discover
-them as they play.
+out what the Attribute covers. This is vital for the ***
+FOCUS*** Attribute and a role-playing aid for
+the others. Having the right Descriptor for a task may even let you just assume success.
+Players may leave Descriptors blank at creation and discover them as they play.
 
 Starting characters are well above average, with room to grow. You can
 make more or less “heroic” characters by changing the number of points
@@ -129,39 +131,35 @@ Attribute pools can improve later with experience points (***XP,***. You get the
 Unusual settings may include extra Attributes for things like
 cybernetics, magic, superpowers, and martial arts.
 
-###  <span class="smallcaps">Focus</span>
+###  FOCUS
 
-This is the Adventurer’s calling in life, and the size of their dice
-pool tells you how good they are at it. <span
-class="smallcaps">Focus</span> is special because it can replace other
-Attributes if higher and better suited for the task. For example, a
-*Royal Fencing Instructor* could use their <span
-class="smallcaps">Focus</span> instead of <span
-class="smallcaps">Nature</span> when wielding a light sword.
-Being able to rely on more than one Attribute to do
-something really helps when one of them is Strained
- or otherwise hindered by circumstance.
+This is the Adventurer’s calling in life, and the size of their dice pool tells you how good they are at it.
+FOCUS is special because it can replace other Attributes if higher and better suited for the task.
+For example, a *Royal Fencing Instructor* could use their FOCUS instead of NATURE when wielding a light sword.
+Being able to rely on more than one Attribute to do something really helps when one of them is Strained or otherwise hindered by circumstance.
+Guides will often just grant information or automatic success with the right FOCUS Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know about the Parthenon, while those with less relevant Descriptors may have to make Checks.
+
 
 Assume that characters are generally competent and may use their FOCUS pool
 even for tasks unrelated to their Descriptor, but at double the Difficulty.
-For example, a very skilled Carpenter *could* pilot a plane, if poorly.
+For example, a very skilled *Carpenter* could pilot a plane, if poorly.
 Some tasks are impossible regardless of FOCUS, of course.
 
-A character has only one <span class="smallcaps">Focus</span> but may
+A character has only one FOCUS but may
 take several Backgrounds  for variety.
-These serve as lesser versions of a <span
-class="smallcaps">Focus</span>. If <span class="smallcaps">Focus</span>
+These serve as lesser versions of a
+FOCUS. If FOCUS
 is lowered, that becomes the new max for Backgrounds.
 
 **<u>Example Descriptors</u>:** *cat burglar, astromech pilot, village
 blacksmith, unemployed librarian, time-traveling lunatic, courtier,
 etc.*
 
-### <span class="smallcaps">Frame</span>
+### FRAME
 
 Adventurers come in all shapes and sizes. The pool reflects how
 physically powerful the character is within those constraints: their
-might, ferocity, and vitality. <span class="smallcaps">Frame</span>
+might, ferocity, and vitality. FRAME
 helps bear burdens as well as dish out and take damage in combat. The
 Descriptor should show their body type or build and can even include their
 species if non-human.
@@ -170,11 +168,11 @@ species if non-human.
 average build, athletic, pot-bellied, lanky, plump, stout, sprightly,
 etc.*
 
-### <span class="smallcaps">Motive</span>
+### MOTIVE
 
 An interesting character has a goal to drive their actions and keep them
-going even when things seem hopeless. <span
-class="smallcaps">Motive</span> forms part of the Mettle score and
+going even when things seem hopeless.
+MOTIVE forms part of the Mettle score and
 serves as passive Difficulty to counter the wiles of stealthy or
 manipulative foes. A strong motive may be unhealthy for a normal person,
 but adventurers tend towards overwhelming drives and fixations. The
@@ -184,7 +182,7 @@ Descriptor may change during play, especially if fulfilled.
 oppressed, consume great quantities, escape from the oubliette, kill
 vampires, etc.*
 
-### <span class="smallcaps">Nature</span>
+### NATURE
 
 Sheer force of personality. Most Social and Combat Checks default to this pool,
  both merely expressions of the fire that burns within their heart. Characters
@@ -198,7 +196,7 @@ makes it look good.
 friendly, feisty, high self-esteem, manipulative, affable, strange,
 pensive, etc.*
 
-### <span class="smallcaps">Poise</span>
+### POISE
 
 The way an adventurer moves is often the first thing one notices about
 them. For an enemy, it may be the last! Check this for coordinated
@@ -214,12 +212,12 @@ slow.*
 
 Thinking up good Descriptors for Attributes can be difficult. Use the
 table below if you need inspiration or want to let chance decide. Reword
-to fit your idea of the character, if needed. The <span
-class="smallcaps">Focus</span> Descriptor is vital, the rest are aides
+to fit your idea of the character, if needed. The
+FOCUS Descriptor is vital, the rest are aides
 to role-playing.
 
 {: .lh-0}
-|     d66    |          Focus        |      Motive    |       Nature     |        Poise      |       Frame     |
+|     d66    |          FOCUS        |      MOTIVE    |       NATURE     |        POISE      |       FRAME     |
 |:----------:|:---------------------:|:--------------:|:----------------:|:-----------------:|:---------------:|
 |     1,1    |         Acrobat       |     Achieve    |       Aloof      |       Brutish     |     Athletic    |
 |     1,2    |         Artist        |     Afflict    |       Blunt      |       Casual      |       Burly     |
@@ -262,19 +260,13 @@ to role-playing.
 
 These short phrases broaden the character by giving them a history and
 extra skills to go with it. You get dice to distribute into Background
-pools equal to the sum of your <span class="smallcaps">Focus</span>,
-<span class="smallcaps">Motive</span>, and <span
-class="smallcaps">Nature</span>. Buy these on a one-for-one basis, with
-a maximum in any one Background equal to <span
-class="smallcaps">Focus</span>. For example, a <span
-class="smallcaps">Focus</span> 5, <span class="smallcaps">Motive</span>
-3, and <span class="smallcaps">Nature</span> 3 grants 11 dice to spend.
-One may switch <span class="smallcaps">Focus</span> and a Background
-later if they are equal, reflecting a change in priorities.
+pools equal to the sum of your FOCUS,MOTIVE, and NATURE.
+Buy these on a one-for-one basis, with a maximum in any one Background equal to FOCUS.
+For example, a FOCUS 5, MOTIVE 3, and NATURE 3 grants 11 dice to spend.
+One may switch FOCUS and a Background later if they are equal, reflecting a change in priorities.
 
-The maximum in any Background is equal to Focus. If Strain lowers <span
-class="smallcaps">Focus</span>, Background pools count as no higher than
-that until restored.
+The maximum in any Background is equal to FOCUS.
+If Strain lowers FOCUS, Background pools count as no higher than that until restored.
 
 One Background must describe their native language and culture.
 Language-granting Backgrounds should include the name of a place, with
@@ -298,7 +290,7 @@ Invent your own or use the table below for inspiration. Two or three
 good Backgrounds are plenty, keeping in mind how many dice you have
 available for each. More so than other tables in character creation, it
 is vital to flesh these out and make them your own. Try to intertwine
-Backgrounds with Contacts and <span class="smallcaps">Motive</span>!
+Backgrounds with Contacts and MOTIVE!
 
 One Background must be your native land and language. You won’t find
 those on the chart below - talk with your Guide instead.
@@ -348,7 +340,7 @@ those on the chart below - talk with your Guide instead.
 Outfitting your character with gear, possessions, and contacts is a
 terrific way to get to know them. Intangibles like debts, favors, oaths,
 promises, burdens of guilt, memberships, rank, personality flaws, or
-deals belong here as well. What they have available will influence how
+deals belong here as well. What they have available influences how
 they deal with situations that arise.
 
 You need only specify important gear that enables or enhances their
@@ -401,11 +393,11 @@ outing. Each burdensome item counts as at least one *Load*, based on how
 many hands it would take an average person to carry. Ignore single small
 items like keys, wallets, daggers, etc. as zero Load.
 
-One can easily carry Load equal to their <span
-class="smallcaps">Frame</span>. If they carry more than this, every Zone
+One can easily carry Load equal to their
+FRAME. If they carry more than this, every Zone
 crossed takes up two Moves. If their Speed was higher than one Zone per
 move, lower it by one instead. If they try to carry over twice their
-<span class="smallcaps">Frame</span>, they are Incapacitated.
+FRAME, they are Incapacitated.
 
 <center><strong>COMMON LOADS</strong></center>
 
@@ -422,17 +414,17 @@ move, lower it by one instead. If they try to carry over twice their
 
 The Load for carrying someone includes Load they have on them. This can
 be important when carrying a hurt ally, packing mounts, etc. Every point
-of Load penalizes Swim (Move) Checks regardless of <span
-class="smallcaps">Frame</span>.
+of Load penalizes Swim (Move) Checks regardless of
+FRAME.
 
 Adventurers may drop bulky items such as backpacks or sacks to avoid
 encumbrance or distract pursuers. This is free but picking it back up is
 a Use Action.
 
 {: .highlight }
->-   Carry Load up to <span class="smallcaps">Frame</span> without
+>-   Carry Load up to FRAME without
     trouble.
->-   If Load is over Frame, it takes two Moves to cross a Zone.
+>-   If Load is over FRAME, it takes two Moves to cross a Zone.
 
 ## Experience
 
@@ -458,8 +450,8 @@ The Guide should ask them, one at a time, something like:
 **Example Highlights:** *Played an Attribute well, came up with a clever
 plan or idea, solved a mystery or puzzle, defeated a dangerous foe
 one-on-one, good sport about a drastic failure, “went along” with a
-social Check, fulfilled or advanced their <span
-class="smallcaps">Motive</span>, etc.*
+social Check, fulfilled or advanced their
+MOTIVE, etc.*
 
 The Guide should be a *little* critical of these and can veto them.
 Disruptive, out of character, or stupid acts are particularly
@@ -487,9 +479,9 @@ rivalry, or lengthy training finally coming to fruition.
 
 ## Example Character
 
-Dana is making a new character for an upcoming game. Her Guide said it
-will be set in an alternate Baltimore circa 1904, centering on mysteries
-with subtle plot-related supernatural elements. Sort of a cross between
+Dana is making a new character for an upcoming game. Her Guide set it
+in an alternate Baltimore circa 1904, centering on mysteries
+with subtle plot-related supernatural elements - sort of a cross between
 *Gangs of New York, Bloodborne,* and *True Detective*.
 
 <center><strong>EXAMPLE CHARACTER</strong>
@@ -506,23 +498,23 @@ injury? She writes in *“A crisply-attired gentleman with a telling limp
 in his right leg.”*
 
 **Step 3 – Attributes:** Dana decides to go with the array to keep
-things simple. She chooses “*Fencing-master*” as his <span
-class="smallcaps">Focus</span> at 5D. She sees him as a cantankerous and
-difficult to deal with, so she puts down “*Competition*” as a <span
-class="smallcaps">Motive</span> at 4D, and “*Curmudgeon*” as his <span
-class="smallcaps">Nature</span> at 3D. The low 2D goes in <span
-class="smallcaps">Poise</span> to reflect his “*old leg injury*” – he is
-not as agile as he was before the accident. The other 3D goes in <span
-class="smallcaps">Frame</span> as he “*svelte but wiry.”* She pauses for
+things simple. She chooses “*Fencing-master*” as his
+FOCUS at 5D. She sees him as a cantankerous and
+difficult to deal with, so she puts down “*Competition*” as a
+MOTIVE at 4D, and “*Curmudgeon*” as his
+NATURE at 3D. The low 2D goes in
+POISE to reflect his “*old leg injury*” – he is
+not as agile as he was before the accident. The other 3D goes in
+FRAME as he “*svelte but wiry.”* She pauses for
 a second; Viktor honestly seems like a bit of a jerk, but also a lot of
 fun to play.
 
 Armed with these details, she goes back to the Name step. She picks the
 last name “Alkaev” from a search of Russian family names.
 
-**Step 4 – Backgrounds**: The sum of his <span
-class="smallcaps">Focus</span>, <span class="smallcaps">Motive</span>,
-and <span class="smallcaps">Nature</span> gives 12 dice to spend on
+**Step 4 – Backgrounds**: The sum of his
+FOCUS, MOTIVE,
+and NATURE gives 12 dice to spend on
 Backgrounds. She gives him “Baltimorean (English) at 4D as he is
 well-educated and keeps up with local events. She also gives him
 “Kitchen Russian (Russian)” at 2D, which makes him conversant in the
