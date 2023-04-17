@@ -257,34 +257,29 @@ Handling pool drops to half or lower.
 
 ### Crashes
 
-A Crash is when a vehicle loses control and hits an obstacle, usually by
-accident. This affects speedy and delicate vehicles far more than slow
-and sturdy ones. A vehicle suffers a Roll of 1d6 plus Speed as damage,
-soaked by FRAME as usual. Occupants
-suffer 1d6 plus Speed damage, soaked with their own FRAME(s). Occupants take half damage if
-wearing seatbelts or other safety equipment.
+A Crash is when a vehicle loses control and hits an obstacle or damages itself avoiding one.
+The vehicle takes damage equal to an Edge Count of its Speed.
+Occupants make the same Edge Count, but soak with their own FRAME(s).
+If not wearing seatbelts or such, count Speed as double.
 
 {: .highlight}
->-   **Crash:** 1d6 + Speed - FRAME damage
+>-   **Crash:** Damage is Edge Count of [current Speed].
+>-   **Occupants:** damage is Edge Count of [Speed - their FRAME].
 
 ### Ramming
 
-This purposeful assault turns your vehicle into a deadly but fragile
-weapon. Check the vehicle’s current Speed, with an DAM equal to
-its FRAME, minus the target’s FRAME, versus its current Speed. Ramming a
-pedestrian is versus their POISE.
+This purposeful assault turns your vehicle into a deadly weapon.
+Check the vehicle’s current Speed, plus its Frame, minus the target’s Frame, versus a Difficulty of its current Speed.
+Ramming a pedestrian is versus their Poise as Difficulty.
 
 The ramming vehicle may suffer collateral damage from this risky stunt.
-Handle this as a Twist on a failed Ramming Check. This has the same
-effect as a Crash, above.
+Handle this as a Twist on a failed Ramming Check. This has the same effect as a Crash, above.
 
 In a head on collision, add the speed of both vehicles together.
 
 {: .highlight}
->-   **Ram Vehicle:** \[Speed + FRAME –
-    target FRAME\] vs. current Speed
->-   **Ram Pedestrian:** \[Speed + FRAME –
-    target FRAME\] vs. POISE
+>-   **Ram Vehicle:** \[Speed + FRAME – target FRAME\] vs. current Speed
+>-   **Ram Pedestrian:** \[Speed + FRAME – target FRAME\] vs. POISE
 
 ### Speed Scaling
 
