@@ -55,7 +55,7 @@ Initiative ends when the conflict is over, by whatever means.
 **INITIATIVE**
 
 <center>
-<img title="Initiative flowchart" width="450" />
+<img 123 title="Initiative flowchart" width="450" />
 </center>
 
 ### Free Move
@@ -339,14 +339,13 @@ Afflictions end when cured or the damage runs out. The victim may then Rally bac
 <strong>SAMPLE AFFLICTIONS</strong>
 </center>
 
-|                     |              |          |                     |
-|---------------------|:------------:|:--------:|---------------------|
-| **Source**          |   **Type**   | **Dose** | Symptoms            |
-| Common cold         |   Disease    |  1d6-3   | Cough, sneezing     |
-| Monitor lizard bite |   Disease    |  1d6-1   | Swelling, gangrene  |
-| Curare dart         |    Poison    |   2d6    | Shortness of breath |
-| Cobra venom         |    Poison    |   2d6    | Fatigue, swelling   |
-| Tranquilizer dart   | Tranquilizer |   1d6    | Fatigue, clumsiness |
+\|---\|:---:\|:---:\|---\|
+\|**Source**\|**Type**\|**Dose**\|Symptoms\|
+\|Common cold\|Disease\|1d6-3\|Cough, sneezing\|
+\|Monitor lizard bite\|Disease\|1d6-1\|Swelling, gangrene\|
+\|Curare dart\|Poison\|2d6\|Shortness of breath\|
+\|Cobra venom\|Poison\|2d6\|Fatigue, swelling\|
+\|Tranquilizer dart\|Tranquilizer\|1d6\|Fatigue, clumsiness\|
 
 Adjust the dosage for the victim's size using the Frame Conversion chart (p.89) as a loose guide. For example, the Dose must be at least 3d6 (3-18) for a 12 Frame elephant.
 
@@ -361,7 +360,7 @@ Combatants can use nearby obstacles to protect themselves from ranged attacks, r
 Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only +1 against gunshots, etc. If Cover is easily penetrated by an attack, such as a wooden wall versus a tank cannon, it can only ever count as Partial. Use your judgment as always.
 
 {: .highlight }
-*Partial Cover:* +2 to POISE vs. incoming Attacks, half damage from Area Attacks.
+**Partial Cover:** +2 to POISE vs. incoming Attacks, half damage from Area Attacks.
 *Total Cover*: cannot target or be targeted.
 
 ### Deprivation
