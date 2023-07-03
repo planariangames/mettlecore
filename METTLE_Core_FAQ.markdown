@@ -30,12 +30,3 @@ I'll even add a section on this site talking up your games when that happens.
 to add an Attribute(s) to cover those. For example a pool of 5 in "Magic" would
 grant 5 Spells, or however you want to do it. You already know I can't stop you! You could also
 just treat them like equipment but that is a matter of taste and setting.
-
-### My dice pools are too high!
-- METTLE Core is designed to keep dice pools low, usually around 5-10 dice.
-Sometimes you can get very high dice pools with extreme mismatches in combat.
-In this case, just use a Raise and set any excess dice to 6.
-This will reduce the dice you have to throw to whatever you can tolerate.
-*For example a starship (30D Attack) attacking a wombat (2D FRAME).
-Of course you are not going to use 28 (30-2) dice, so Raise 20 of them to 6.
-This means you will only throw 8 dice, but get to add 20 to damage.*
