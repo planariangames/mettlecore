@@ -347,8 +347,8 @@ Afflictions end when cured or the damage runs out. The victim may then Rally bac
 Adjust the dosage for the victim's size using the Frame Conversion chart (p.89) as a loose guide. For example, the Dose must be at least 3d6 (3-18) for a 12 Frame elephant.
 
 {: .highlight }
-**Affliction:** Roll Dose for max damage, lose Rally if any damage.
-***Poisons*** do 1/Round, ***Diseases*** do 1/Day, ***Tranqs*** also add Difficulty.
+- **Affliction:** Roll Dose for max damage, lose Rally if any damage. \
+- ***Poisons*** do 1/Round, ***Diseases*** do 1/Day, ***Tranqs*** also add Difficulty.
 
 ### Cover
 

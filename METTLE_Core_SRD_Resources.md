@@ -26,8 +26,7 @@ The table below gives examples of armor common to a modern setting, as well as a
 
 {: .lh-0}
 
-|                  |          |          |          |
-|------------------|----------|----------|----------|
+|------------------|:--------:|:--------:|:--------:|
 | **Armor**        | **Soak** | **Load** | **Cost** |
 | Archaic:         |          |          |          |
 | Light (Leather)  | +1       | 1        | 2        |
@@ -71,7 +70,6 @@ The following weapons chart gives examples of the more popular weapons. Each has
 
 {: .lh-0}
 
-|                |         |         |                                 |          |          |
 |----------------|:-------:|:-------:|---------------------------------|:--------:|:--------:|
 | **Weapon**     | **Hit** | **DM**  | **Special**                     | **Load** | **Cost** |
 | Axe            |   +1D   | Frame+3 | \-                              |    1     |    2     |
@@ -187,8 +185,8 @@ A Vehicle is an extension of the driver and uses their Mettle! This means that s
 A Crash is when a vehicle loses control and hits an obstacle or rolls over avoiding one. The vehicle takes damage equal to 1d6 + its Speed, with no Soak! Occupants also Roll this damage but get to Soak with their Frame and armor, if any. If not wearing seatbelts or similar safety devices, count Speed as double for occupants.
 
 {: .highlight}
-**Crash:** Damage is 1d6 + current Speed, no Soak. \
-**Occupants:** Damage 1d6 + current Speed, soaked by Frame.
+- **Crash:** Damage is 1d6 + current Speed, no Soak. \
+- **Occupants:** Damage 1d6 + current Speed, soaked by Frame.
 
 ### Ramming
 
@@ -199,9 +197,9 @@ The ramming vehicle may suffer collateral damage from this risky stunt. They tak
 In a head-on collision, add the speed of both vehicles together.
 
 {: .highlight}
-**Ram Attack:** Handling vs. current Speed (or Poise for pedestrians). \
-**Ram damage:** Frame + Speed + Edge, soaked by target's Frame. \
-**Return damage:** target Frame + Speed, soaked by your Frame + Edge.
+- **Ram Attack:** Handling vs. current Speed (or Poise for pedestrians). \
+- **Ram damage:** Frame + Speed + Edge, soaked by target's Frame. \
+- **Return damage:** target Frame + Speed, soaked by your Frame + Edge.
 
 ### Speed Scaling
 
@@ -211,22 +209,22 @@ Vehicles with high Speeds are actually much faster than their given Move in huma
 **VEHICLES**
 
 {: .lh-0}
-\| Vehicle type \| Handling \| Speed \| FRAME \| Cost \|
-\|----------------------------\|:---------------:\|:------------:\|:------------:\|:-----------:\|
-\| Bicycle \| FOCUS+2 \| 2 \| 1 \| 3 \|
-\| Bus, school \| FOCUS \| 4 \| 13 \| 6 \|
-\| Car, compact \| FOCUS+2 \| 5 \| 9 \| 5 \|
-\| Car, sedan \| FOCUS+1 \| 5 \| 9 \| 5 \|
-\| Car, sports \| FOCUS+2 \| 6 \| 9 \| 6 \|
-\| Car, SUV \| FOCUS+1 \| 5 \| 10 \| 5 \|
-\| Dirt bike \| FOCUS+2 \| 3 \| 4 \| 4 \|
-\| Helicopter, attack \| FOCUS+1 \| 6 \| 11 \| 7 \|
-\| Helicopter, light \| FOCUS+2 \| 5 \| 8 \| 6 \|
-\| Jet, Fighter \| FOCUS+1 \| 10 \| 14 \| 7 \|
-\| Jet, Jumbo \| FOCUS \| 8 \| 19 \| 7 \|
-\| Motorcycle \| FOCUS+2 \| 5 \| 5 \| 5 \|
-\| Seaplane \| FOCUS \| 6 \| 11 \| 6 \|
-\| Tank, combat \| FOCUS+1 \| 3 \| 16 \| 7 \|
-\| Truck, garbage \| FOCUS \| 4 \| 15 \| 6 \|
-\| Truck, monster \| FOCUS+1 \| 4 \| 11 \| 6 \|
-\| Truck, pickup \| FOCUS+1 \| 5 \| 10 \| 5 \|
+| Vehicle type | Handling | Speed | FRAME | Cost |
+|----------------------------|:---------------:|:------------:|:------------:|:-----------:|
+| Bicycle | FOCUS+2 | 2 | 1 | 3 |
+| Bus, school | FOCUS | 4 | 13 | 6 |
+| Car, compact | FOCUS+2 | 5 | 9 | 5 |
+| Car, sedan | FOCUS+1 | 5 | 9 | 5 |
+| Car, sports | FOCUS+2 | 6 | 9 | 6 |
+| Car, SUV | FOCUS+1 | 5 | 10 | 5 |
+| Dirt bike | FOCUS+2 | 3 | 4 | 4 |
+| Helicopter, attack | FOCUS+1 | 6 | 11 | 7 |
+| Helicopter, light | FOCUS+2 | 5 | 8 | 6 |
+| Jet, Fighter | FOCUS+1 | 10 | 14 | 7 |
+| Jet, Jumbo | FOCUS | 8 | 19 | 7 |
+| Motorcycle | FOCUS+2 | 5 | 5 | 5 |
+| Seaplane | FOCUS | 6 | 11 | 6 |
+| Tank, combat | FOCUS+1 | 3 | 16 | 7 |
+| Truck, garbage | FOCUS | 4 | 15 | 6 |
+| Truck, monster | FOCUS+1 | 4 | 11 | 6 |
+| Truck, pickup | FOCUS+1 | 5 | 10 | 5 |
