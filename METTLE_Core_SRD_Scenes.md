@@ -46,17 +46,15 @@ One may ***Wait*** by selecting a specific Action, such as "Attack" and holding
 Initiative ends when the conflict is over, by whatever means.
 
 {: .highlight}
-\>- First to declare Action triggers Initiative.
-\>- Target goes next, if they have an Action.
-\>- Otherwise, pick anyone else with an Action.
-\>- New Round when no one has Actions left.
+First to declare Action triggers Initiative. \
+Target goes next, if they have an Action. \
+Otherwise, pick anyone else with an Action. \
+New Round when no one has Actions left.
 
 {: .text-center}
 **INITIATIVE**
 
-<center>
-<img 123 title="Initiative flowchart" width="450" />
-</center>
+<center><img src="images/Initiative.png" title="Initiative flowchart" width="450" /></center>
 
 ### Free Move
 
