@@ -33,7 +33,7 @@ A ***Check*** is when you are "checking" to see if an action succeeds or fails b
 
 ### Success & Failure
 
-To make a Check, declare what your character is doing, then roll dice equal to the Attribute or Backstory they are doing it with. Add up the face numbers of all the dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling \[4, 1, 3, 5, 2, 2\] yields a Score of 8 (1+3+2+2) and 2 Edge (4 & 5).
+To make a Check, declare what your character is doing, then roll dice equal to the Attribute or Backstory they are doing it with. Add up the face numbers of all the dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling [4, 1, 3, 5, 2, 2] yields a Score of 8 (1+3+2+2) and 2 Edge (4 & 5).
 
 {: .text-center }
 **READING the DICE**
@@ -49,13 +49,13 @@ To make a Check, declare what your character is doing, then roll dice equal to t
 </center>
 
 {: .lh-0}
-\| Difficulty \| Ranking \|
-\|:-----------------:\|------------------------\|
-\| 1 \| Routine \|
-\| 3 \| Challenging \|
-\| 6 \| Daunting \|
-\| 10 \| Formidable \|
-\| 15 \| Nigh Impossible \|
+| Difficulty | Ranking |
+|:-----------------:|------------------------|
+| 1 | Routine |
+| 3 | Challenging |
+| 6 | Daunting |
+| 10 | Formidable |
+| 15 | Nigh Impossible |
 
 The more Edge you get and still succeed, the better. A higher Edge may mean they did it faster, made it harder to undo, yielded more info, improved quality, added special effects, etc. If you fail but have a lot of Edge, consider using it on a Twist (p.27) to get a second chance.
 
@@ -64,23 +64,23 @@ The more Edge you get and still succeed, the better. A higher Edge may mean they
 </center>
 
 {: .lh-0}
-\| Edge \| Quality of Success \|
-\|:-----------:\|---------------------------\|
-\| 0 \| OK \|
-\| 1 \| Good \|
-\| 2 \| Great \|
-\| 3 \| Excellent \|
-\| 4 \| Amazing \|
-\| 5+ \| Legendary \|
+| Edge | Quality of Success |
+|:-----------:|---------------------------|
+| 0 | OK |
+| 1 | Good |
+| 2 | Great |
+| 3 | Excellent |
+| 4 | Amazing |
+| 5+ | Legendary |
 
 The Guide should assume competence and only call for a Check when the outcome is interesting or uncertain. Players should brazenly presume success and only stop for a Check if the Guide demands it.
 
 One may often just assume success if their Pool is higher than the Difficulty. On the other hand, you might notice it is impossible to beat a Difficulty three times your pool or higher. Try something else!
 
 {: .highlight }
-\>1. Roll dice equal to the relevant pool.
-\>2. *Add* 1s, 2s, and 3s for the "Score" to beat Difficulty.
-\>3. *Count* 4s, 5s, and 6s for the "Edge" to rate Success.
+>1. Roll dice equal to the relevant pool.
+>2. *Add* 1s, 2s, and 3s for the "Score" to beat Difficulty.
+>3. *Count* 4s, 5s, and 6s for the "Edge" to rate Success.
 
 {: .note }
 Some Players like to mark the 1-3 faces of the dice with a
@@ -102,7 +102,7 @@ Don't let too many fiddly little modifiers bog down your scene. If things get ou
 
 ### Twists
 
-If you fail a Check but have Edge, you may call for a ***Twist***. This is a sort of "devil's bargain" that lets you re-roll all the Edge dice in exchange for a dramatic consequence. Tally up the new Score and Edge from the new results. For example, a player Checks 5 dice against a Difficulty of 3. They come up \[**1**, 4, 4, 5, 6\]: Failure! They call for a Twist, keeping their Score of 1 and rolling the four Edge dice again. They get \[**1,3**,5,5\] and combine it with their old Score of 1 for \[**1, 1, 3**, 5, 5\]. The result is a Score of 5 and an Edge of 2, turning it into a success!
+If you fail a Check but have Edge, you may call for a ***Twist***. This is a sort of "devil's bargain" that lets you re-roll all the Edge dice in exchange for a dramatic consequence. Tally up the new Score and Edge from the new results. For example, a player Checks 5 dice against a Difficulty of 3. They come up [**1**, 4, 4, 5, 6]: Failure! They call for a Twist, keeping their Score of 1 and rolling the four Edge dice again. They get [**1,3**,5,5] and combine it with their old Score of 1 for [**1, 1, 3**, 5, 5]. The result is a Score of 5 and an Edge of 2, turning it into a success!
 
  The default Twist is ***Delay,*** meaning you lose your next Action dealing with a complication from the current one. For example, a weapon gets stuck, travelers get lost, a gun jams, a runner trips, a combatant is shaken by the horrors of war, etc. Delays are default because they are easy to come up with and usually well accepted.
 
@@ -111,24 +111,24 @@ Other types of Twists should be *immediate setbacks* that apply *regardless of s
 Anyone can help come up with a creative Twist. If the Guide *or* Player does not like it, they can always fall back to Delay. This is a safety valve that settles the matter so play can continue. The Player can also just call off the Twist and accept failure as the gift it is.
 
 {: .highlight }
-\>- On a failure, you may call for a Twist and then reroll Edge dice.
-\>- The default Twist is Delay; losing your next Action.
-\>- Other Twists are encouraged but subject to approval.
+>- On a failure, you may call for a Twist and then reroll Edge dice.
+>- The default Twist is Delay; losing your next Action.
+>- Other Twists are encouraged but subject to approval.
 
 <center>
 <strong>TWIST SEEDS</strong>
 </center>
 
 {: .lh-0}
-\| \| \|
-\|---\|---\|
-\|**Type**\|**Example Consequences**\|
-\|Confuse\|Lose *trust*: mistaken identity, mistranslation, half-truth...\|
-\|Delay\*\|Lose *next Action*: stuck, stalled, distracted, shaken...\|
-\|Dismay\|Lose *morale*: lost contact, harm relations with others...\|
-\|Expose\|Lose *secret*: cover blown, reveal a secret, leave clues...\|
-\|Imperil\|Lose *safety*: friendly fire, obstacle, unwanted attention...\|
-\|Waste\|Lose *resources*, use up credit, lose or break items...\|
+| | |
+|---|---|
+|**Type**|**Example Consequences**|
+|Confuse|Lose *trust*: mistaken identity, mistranslation, half-truth...|
+|Delay\*|Lose *next Action*: stuck, stalled, distracted, shaken...|
+|Dismay|Lose *morale*: lost contact, harm relations with others...|
+|Expose|Lose *secret*: cover blown, reveal a secret, leave clues...|
+|Imperil|Lose *safety*: friendly fire, obstacle, unwanted attention...|
+|Waste|Lose *resources*, use up credit, lose or break items...|
 
 ### Raises
 
@@ -137,7 +137,7 @@ Daring players may push their luck to get more out of an action. A Raise is when
 Raises are also a good way to manage overly large dice pools, and you can still use raised dice for a Twist if this backfires!
 
 {: .highlight }
-\>- Set some dice aside as sixes before a Check to guarantee Edge.
+>- Set some dice aside as sixes before a Check to guarantee Edge.
 
 ### Teamwork
 
@@ -146,14 +146,14 @@ Sometimes a whole mess of characters is doing the same thing. For example, a cov
 As for whether a group is successful, this depends on what it means to succeed or fail. The group that is sneaking past the guard fails if any one of them does, as that alerts the guard. An individual mountain climber falls alone unless tied to someone else. The group of mechanics succeeds if any of them do; the team still fixed the engine despite any individual bad dice. It should be clear from the situation.
 
 {: .highlight }
-\>- Teamwork: Everyone Checks, lower pools all get +1D
+>- Teamwork: Everyone Checks, lower pools all get +1D
 
 ## Mettle
 
 The namesake of this game, Mettle stands for the will to live and how close the character is to their doom. In game terms, it is Motive plus their highest (non-Frame) Attribute. This is not a *direct* measure of injury. Physical damage is just "flesh wounds" at worst until it drops Mettle into the negatives. If above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle.
 
 {: .highlight }
-\>- Mettle = MOTIVE + highest non-Frame Attribute.
+>- Mettle = MOTIVE + highest non-Frame Attribute.
 
 ### Taking Damage
 
@@ -164,16 +164,16 @@ The Player may deny this by taking the ***Staggered*** Status. This inflicts a 
 Presume the Fallen are ***Dead*** unless someone comes to their aid. This is an Aid (p.41) Check during the next Scene at the latest. The Player may also just declare death if they feel a dramatic event should be fatal. For example, falling into lava, an execution, or staying behind on an exploding space station. It is better to go out with a bang than to fade away -- and hey, now they get to make a new character!
 
 {: .highlight }
-\>- Damage that gets through the target's Soak lowers Mettle.
-\>- **Fallen:** No Action and 0 Poise, may or may not be dead.
-\>- **Staggered:** Lose Free Move & Rally, negative Mettle is a die penalty.
+>- Damage that gets through the target's Soak lowers Mettle.
+>- **Fallen:** No Action and 0 Poise, may or may not be dead.
+>- **Staggered:** Lose Free Move & Rally, negative Mettle is a die penalty.
 
 ### Mettle Surges
 
 Adventurers under stress can transcend their usual limits, especially when fresh to battle. Whenever Initiative (p.38) is in play, each point of Mettle they sacrifice grants them +1D on their Check. This is powerful but has limits; one cannot spend more than their Motive on a single Check, nor spend enough to lower Mettle to zero or below. This lost Mettle is temporary and Rallies back as normal.
 
 {: .highlight }
-\>- **Surge:** spend Mettle to add +1D to a Check during combat.
+>- **Surge:** spend Mettle to add +1D to a Check during combat.
 
 ### Status Effects
 
@@ -184,17 +184,11 @@ multiple sources do not stack.
 Other status effects exist to vex characters aside from Staggered, and Fallen, above. Most are awful but temporary.
 
 -   **Afflicted**: suffering from a disease, poison, or tranquilizer. Cannot Rally and takes ongoing damage until cured or it runs its course.
-
 -   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight face a +3 Difficulty. Others may use Sneak against them as if they have Cover.
-
 -   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading Concept may make up for this. Others may use Sneak against them as if they have Cover.
-
 -   **Encumbered**: carrying Load over their Frame. Every Zone crossed now takes up two Moves. If they try to carry twice their Frame, they are Incapacitated instead.
-
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. Lose Free Move, Poise, and Action.
-
 -   **Rattled**: dismayed by a Rattle or other trauma. Increases the Difficulty of Rallies.
-
 -   **Surprised**: caught unawares, you do not get an Action for the first Scene when Initiative starts. Next Scene, you are no longer Surprised, and this effect ends.
 
 ## Example of Play
