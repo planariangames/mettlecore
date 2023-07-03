@@ -55,7 +55,7 @@ Initiative ends when the conflict is over, by whatever means.
 **INITIATIVE**
 
 <center>
-<img 123 title="Initiative flowchart" width="450" />
+<img title="Initiative flowchart" width="450" />
 </center>
 
 ### Free Move
@@ -115,19 +115,12 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 > -   **Twists:** *Delay*, *drop weapon, also hits unintended target (1d6+DM) waste ammo, etc.*
 
 -   **Melee** **Attacks** are close combat strikes on a foe in the same Zone. Narrate these as decisive strikes or flurries of blows, as you please.
-
 -   **Ranged** **Attacks** travel through Zones up to the weapon's Range. Past this, they face +1 Difficulty per Zone, up to twice the Range.
-
 -   **Area Attacks** skip the Check and just hit everyone in a Zone or more, Damage is 1d6 + DM for each target. If there was an original target hit by the main Attack, it does not also suffer the Area Attack.
-
 -   **Grapple Attacks** raise Difficulty instead of doing damage. This goes by raw Frame; most weapons and armor do not count for either side. The target cannot Move without a Move Check vs. the Difficulty increase, but if successful they also escape the hold. The target also escapes if the Grappler does not reapply the hold next Round.
-
 -   **Disarm** **Attacks** are melee or ranged Attacks that separate the target from their weapon. A Felling blow causes the target to drop the weapon instead of taking damage. An unarmed disarm may ***Seize*** the weapon and wield it themselves.
-
 -   **Stun** **Attacks** knock a foe out instead of killing, such as by a pommel strike, sleeper hold, etc. A Felling blow inflicts the Incapacitated Status instead of damage. Weapons without the *Stun* feature do half damage after Soak on Stun Attacks.
-
 -   **Unarmed Attacks** are less lethal. These have the (relatively!) *Soft* feature, inflicting only half damage after Soak.
-
 -   **Vehicle Attacks** like ramming work much like regular Attacks but factor in current Speed. See Vehicles (p.65) for details.
 
 ### Defend
@@ -182,9 +175,7 @@ This Action is special because everyone gets a ***Free Move*** before their Act
 Obstacles, scaling larger foes, and traps can be worth a Move Check:
 
 -   **Obstacles** like walls, rivers, brambles, etc. hinder moves into the Zone. For example, you must scale or breach a wall to enter.
-
 -   **Scaling:** larger foes count as their own Zone or more to climb upon and deal with riders, etc. The Difficulty is the larger creature's Poise.
-
 -   **Traps** like falls, pits, spikes, lava, etc. do not prevent movement but do cause injury or inconvenience on a failure.
 
 ***Chases*** have the quarry and pursuers Move through a set of chase Zones, with the quarry deciding where to go. How well they overcome obstacles decides who wins.
@@ -326,8 +317,6 @@ This catch-all Action covers miscellaneous feats, normally using a device, tool,
 > -   **Twists:** Delay (gonna need more time here!), break tools, attract
 >     unwanted attention.\*
 
-## 
-
 ## Scenery
 
 Active foes and enemies are not the only danger faced by characters,
@@ -341,9 +330,7 @@ Active foes and enemies are not the only dangers to face. This section holds all
 Adventurers should be wary of venomous snakes, blowgun darts, the miasma of the tomb, and a "mickey" slipped in their drink! These impart a sense of dreadful urgency to any scene. If exposed, the Guide Rolls the Dose dice and applies the effects:
 
 -   **Disease:** Roll Dose, the sufferer cannot Rally and takes 1 damage each day, up to the result. Some diseases take weeks or months instead.
-
 -   **Poison:** Roll Dose and subtract the victim's Frame. If positive, they cannot Rally and take 1 damage each Round, up to the result.
-
 -   **Tranquilizers:** as poison, but the Dose result also raises the victim's Check Difficulties. This tends to put them out of action before death.
 
 Afflictions end when cured or the damage runs out. The victim may then Rally back, if not at negative HP. To keep the suspense alive, the Guide should keep the Dose result secret. Even so, a Know Check based on medical knowledge may suggest some treatments or how long it will take for the affliction to run its course.
@@ -364,8 +351,8 @@ Afflictions end when cured or the damage runs out. The victim may then Rally bac
 Adjust the dosage for the victim's size using the Frame Conversion chart (p.89) as a loose guide. For example, the Dose must be at least 3d6 (3-18) for a 12 Frame elephant.
 
 {: .highlight }
-\>- **Affliction:** Roll Dose for max damage, lose Rally if any damage.
-\>- ***Poisons*** do 1/Round, ***Diseases*** do 1/Day, ***Tranqs*** also add Difficulty.
+**Affliction:** Roll Dose for max damage, lose Rally if any damage.
+***Poisons*** do 1/Round, ***Diseases*** do 1/Day, ***Tranqs*** also add Difficulty.
 
 ### Cover
 
@@ -374,8 +361,8 @@ Combatants can use nearby obstacles to protect themselves from ranged attacks, r
 Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only +1 against gunshots, etc. If Cover is easily penetrated by an attack, such as a wooden wall versus a tank cannon, it can only ever count as Partial. Use your judgment as always.
 
 {: .highlight }
-\>- *Partial Cover:* +2 to POISE vs. incoming Attacks, half damage from Area Attacks.
-\>- *Total Cover*: cannot target or be targeted.
+*Partial Cover:* +2 to POISE vs. incoming Attacks, half damage from Area Attacks.
+*Total Cover*: cannot target or be targeted.
 
 ### Deprivation
 
@@ -392,10 +379,10 @@ Amid fantastic perils, it is still possible to suffer from basic thirst, hunger,
 These are not very heroic ways to go but they give good reason to buy rations, shelter, and water. This sort of "resource management" is a whole sub-game some players enjoy. The Guide may find them useful for evoking a sense of urgency in extreme conditions.
 
 {: .highlight }
-\>- **Hunger:** -1 Frame per week, restored by food.
-\>- **Thirst:** -1 Poise per day, restored by water.
-\>- **Fatigue:** -1 Focus per day, restored by sleep.
-\>- **Suffocation:** Hold breath for 1d6 Rounds before taking damage.
+**Hunger:** -1 Frame per week, restored by food.
+**Thirst:** -1 Poise per day, restored by water.
+**Fatigue:** -1 Focus per day, restored by sleep.
+**Suffocation:** Hold breath for 1d6 Rounds before taking damage.
 
 ### Falls
 
@@ -406,8 +393,8 @@ Hard ground like concrete or rubble may inflict +1, spikes or traps Roll separat
 The truly daring may ***Plummet*** onto an enemy below, raising their DM by two for every Zone fallen. They still suffer their own falling damage, soaked by Poise as usual.
 
 {: .highlight }
-\>- **Falls:** 1d6 damage, +2 per Zone (\~5m), Soak with POISE.
-\>- **Plummet:** +2 to DM per full Zone fallen.
+**Falls:** 1d6 damage, +2 per Zone (\~5m), Soak with POISE.
+**Plummet:** +2 to DM per full Zone fallen.
 
 ### Fire
 
@@ -416,7 +403,7 @@ Fire does damage 1d6 or more damage each round until the target escapes it. This
 Some targets are naturally flammable, such as wood, mummies, tree monsters, or rags. Others become so via napalm, gasoline, or magical curses. Flammable targets take on the Burning Status, meaning they cannot Rally and continue to take the same damage each Round until extinguished or burnt to cinders.
 
 {: .highlight }
-\>- **Fire:** 1d6 or more damage, soaked by FRAME.
+**Fire:** 1d6 or more damage, soaked by FRAME.
 
 ### Traps
 
@@ -456,9 +443,12 @@ Parties may come up with other ways to escape or avoid traps, and you
 should reward creative ideas instead of forcing them to play out the
 trap as written.
 
+{: .highlight }
+**Traps:** Move Check to avoid suffering effects.
+
 ### Visibility
 
 Darkness, underbrush, and smoke make tasks related to vision more difficult. In general, dim light is +1 Difficulty and total darkness +3. Equipment such as torches or night vision goggles can prevent this. Sudden flashes of bright light can also hinder visibility.
 
 {: .highlight }
-\>- Lighting or obscurement inflicts -1 to -3 to sight-related Checks.
+Lighting or obscurement inflicts -1 to -3 to sight-related Checks.
