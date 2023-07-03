@@ -339,8 +339,9 @@ Afflictions end when cured or the damage runs out. The victim may then Rally bac
 <strong>SAMPLE AFFLICTIONS</strong>
 </center>
 
+{: .lh-0}
+\|**Source**\|**Type**\|**Dose**\|**Symptoms**\|
 \|---\|:---:\|:---:\|---\|
-\|**Source**\|**Type**\|**Dose**\|Symptoms\|
 \|Common cold\|Disease\|1d6-3\|Cough, sneezing\|
 \|Monitor lizard bite\|Disease\|1d6-1\|Swelling, gangrene\|
 \|Curare dart\|Poison\|2d6\|Shortness of breath\|
