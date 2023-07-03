@@ -39,7 +39,7 @@ To make a Check, declare what your character is doing, then roll dice equal to t
 **READING the DICE**
 
 <center>
-<img 123 title="Six dice with faces from 1-6. Add up 1-3s, Count 4-6s" width="450" />
+<img src="images/Dice.png" title="Six dice with faces from 1-6. Add up 1-3s, Count 4-6s" width="450" />
 </center>
 
  Your Check succeeds if the Score *beats* the ***Difficulty*** of the task. This can be an arbitrary number set by the Guide or a target's defensive pool. The Score only reveals success or failure; once you exceed the Difficulty you can stop counting.

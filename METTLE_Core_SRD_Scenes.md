@@ -336,13 +336,13 @@ Afflictions end when cured or the damage runs out. The victim may then Rally bac
 </center>
 
 {: .lh-0}
-\|**Source**\|**Type**\|**Dose**\|**Symptoms**\|
-\|---\|:---:\|:---:\|---\|
-\|Common cold\|Disease\|1d6-3\|Cough, sneezing\|
-\|Monitor lizard bite\|Disease\|1d6-1\|Swelling, gangrene\|
-\|Curare dart\|Poison\|2d6\|Shortness of breath\|
-\|Cobra venom\|Poison\|2d6\|Fatigue, swelling\|
-\|Tranquilizer dart\|Tranquilizer\|1d6\|Fatigue, clumsiness\|
+|**Source**|**Type**|**Dose**|**Symptoms**|
+|---|:---:|:---:|---|
+|Common cold|Disease|1d6-3|Cough, sneezing|
+|Monitor lizard bite|Disease|1d6-1|Swelling, gangrene|
+|Curare dart|Poison|2d6|Shortness of breath|
+|Cobra venom|Poison|2d6|Fatigue, swelling|
+|Tranquilizer dart|Tranquilizer|1d6|Fatigue, clumsiness|
 
 Adjust the dosage for the victim's size using the Frame Conversion chart (p.89) as a loose guide. For example, the Dose must be at least 3d6 (3-18) for a 12 Frame elephant.
 

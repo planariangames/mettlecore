@@ -173,14 +173,14 @@ or set your own web up on the Blank faction Tracker.
 **FACTION SEEDS**
 
 {: .lh-0}
-\| Roll \| Enemy \| Backer \| Rival \|
-\|:-----------:\|:---------------------------:\|:-----------------------------:\|:------------------------------:\|
-\| 1 \| Zealous Cult \| Secret Society \| Fellow Adventurer \|
-\| 2 \| Sinister Genius \| Government Agency \| Unpredictable Weirdo \|
-\| 3 \| Ruthless Corporation \| Wealthy Philanthropist \| Sly Trickster \|
-\| 4 \| Shadow Conspiracy \| Curious Scholars \| Bumbling Oaf \|
-\| 5 \| Greedy Criminals \| Religious Order \| Vengeful Ex-member \|
-\| 6 \| Aspiring Overlord \| Mysterious Voice \| Suspicious Investigator \|
+| Roll | Enemy | Backer | Rival |
+|:-----------:|:---------------------------:|:-----------------------------:|:------------------------------:|
+| 1 | Zealous Cult | Secret Society | Fellow Adventurer |
+| 2 | Sinister Genius | Government Agency | Unpredictable Weirdo |
+| 3 | Ruthless Corporation | Wealthy Philanthropist | Sly Trickster |
+| 4 | Shadow Conspiracy | Curious Scholars | Bumbling Oaf |
+| 5 | Greedy Criminals | Religious Order | Vengeful Ex-member |
+| 6 | Aspiring Overlord | Mysterious Voice | Suspicious Investigator |
 
 Each Faction has a box for its name, a cube for its Resources, and arrows for its relationships. Roll 1d6+3 for each Faction, giving the Rival the lowest. Adjust if not satisfied -- these change only from extremely impactful events. The sides of the triangle are bidirectional arrows -- jot down their relation to each other, above and below.
 
@@ -190,21 +190,19 @@ Resources come into play when factions deal with each other. For example, the pa
 **FACTION RELATIONS**
 
 {: .lh-0}
-\| Roll \| Relation \| Elaboration \|
-\|:-----------:\|--------------------\|:--------------------------------------------------------------------\|
-\| 1 \| Colluding \| Working with them as collaborators, secret or open. \|
-\| 2 \| Extorting \| Forcing them to do something or face dire consequences. \|
-\| 3 \| Undermining \| Subtly deteriorating their power and reach. \|
-\| 4 \| Evading \| Hiding, fleeing, defending, and evading conflict. \|
-\| 5 \| Attacking \| Hostile and actively trying to destroy by whatever means. \|
-\| 6 \| Appeasing \| Giving them what they want, to curry favor or halt attack. \|
+| Roll | Relation | Elaboration |
+|:-----------:|--------------------|:--------------------------------------------------------------------|
+| 1 | Colluding | Working with them as collaborators, secret or open. |
+| 2 | Extorting | Forcing them to do something or face dire consequences. |
+| 3 | Undermining | Subtly deteriorating their power and reach. |
+| 4 | Evading | Hiding, fleeing, defending, and evading conflict. |
+| 5 | Attacking | Hostile and actively trying to destroy by whatever means. |
+| 6 | Appeasing | Giving them what they want, to curry favor or halt attack. |
 
 {:. text-center }
 **FACTION TRACKER**
 
-<center>
-<img 123 title="Factions sheet filled out for example setting" />
-</center>
+<center><img src="images/Factions.png" title="Factions sheet filled out for example setting" /></center>
 
 ### Powers
 

@@ -37,44 +37,44 @@ To use a d66 table, roll one six-sided die and then another. For example,
 if you roll a 6 and a 2, go to the distinctive feature in the row for "6, 2."
 
 {: .lh-0}
-\| d66 \| Distinctive Feature \|
-\|:----------:\|:------------------------------------------------------\|
-\| 1,1 \| Bestial (leonine, mousy, bird-like...) \|
-\| 1,2 \| Birthmark (animal-shaped, patchy...) \|
-\| 1,3 \| Cheeks (sunken, ruddy, puffed...) \|
-\| 1,4 \| Chin (cleft, pointy, broad...) \|
-\| 1,5 \| Complexion (freckles, acne, smooth, ruddy ...) \|
-\| 1,6 \| Ears (pointed, cauliflower, huge...) \|
-\| 2,1 \| Eye color (vivid blue, dichromatic, tiger...) \|
-\| 2,2 \| Eye shape (close-set, piercing, wide...) \|
-\| 2,3 \| Eyebrows (patchy, fierce, bushy, none...) \|
-\| 2,4 \| Face (wide, narrow, oval, heart-shaped...) \|
-\| 2,5 \| Facial hair (mustache, goatee, lip fuzz...) \|
-\| 2,6 \| Filthy (bad breath, unwashed, greasy...) \|
-\| 3,1 \| Forehead (sweaty, broad, furrowed...) \|
-\| 3,2 \| Gaudy (polka dots, pastels, paisley....) \|
-\| 3,3 \| Growth (horn, hump, tumor...) \|
-\| 3,4 \| Habit (superstition, nervous tic...) \|
-\| 3,5 \| Hair color (blue, white, red...) \|
-\| 3,6 \| Hair style (pompadour, bald, frizzy...) \|
-\| 4,1 \| Hands (extra finger, webbed, huge...) \|
-\| 4,2 \| Laugh (snorts, honks, comforting...) \|
-\| 4,3 \| Makeup (luxurious, clownish, fierce...) \|
-\| 4,4 \| Mole (beauty mark, distracting...) \|
-\| 4,5 \| Motto (exclamation, meme, curse...) \|
-\| 4,6 \| Mouth (wide, full, luscious, pursed...) \|
-\| 5,1 \| Neck (long, crooked, stubby...) \|
-\| 5,2 \| Noise (creaky, silent, belching...) \|
-\| 5,3 \| Nose (aquiline, flat, long, red...) \|
-\| 5,4 \| Odor (floral, body, ozone, garbage...) \|
-\| 5,5 \| Piercing (eyebrow, nose, tongue...) \|
-\| 5,6 \| Scar (facial burns, old wounds...) \|
-\| 6,1 \| Style (Sporty, punk, business, Boho...) \|
-\| 6,2 \| Tattoo (artistic, tribal, prison...) \|
-\| 6,3 \| Teeth (missing, gap, filed to a point...) \|
-\| 6,4 \| Trinket (lucky hat, jewelry, stuffed animal...) \|
-\| 6,5 \| Unkempt (poorly fit clothes, messy hair...) \|
-\| 6,6 \| Voice (gruff, flat, high-pitched...) \|
+| d66 | Distinctive Feature |
+|:----------:|:------------------------------------------------------|
+| 1,1 | Bestial (leonine, mousy, bird-like...) |
+| 1,2 | Birthmark (animal-shaped, patchy...) |
+| 1,3 | Cheeks (sunken, ruddy, puffed...) |
+| 1,4 | Chin (cleft, pointy, broad...) |
+| 1,5 | Complexion (freckles, acne, smooth, ruddy ...) |
+| 1,6 | Ears (pointed, cauliflower, huge...) |
+| 2,1 | Eye color (vivid blue, dichromatic, tiger...) |
+| 2,2 | Eye shape (close-set, piercing, wide...) |
+| 2,3 | Eyebrows (patchy, fierce, bushy, none...) |
+| 2,4 | Face (wide, narrow, oval, heart-shaped...) |
+| 2,5 | Facial hair (mustache, goatee, lip fuzz...) |
+| 2,6 | Filthy (bad breath, unwashed, greasy...) |
+| 3,1 | Forehead (sweaty, broad, furrowed...) |
+| 3,2 | Gaudy (polka dots, pastels, paisley....) |
+| 3,3 | Growth (horn, hump, tumor...) |
+| 3,4 | Habit (superstition, nervous tic...) |
+| 3,5 | Hair color (blue, white, red...) |
+| 3,6 | Hair style (pompadour, bald, frizzy...) |
+| 4,1 | Hands (extra finger, webbed, huge...) |
+| 4,2 | Laugh (snorts, honks, comforting...) |
+| 4,3 | Makeup (luxurious, clownish, fierce...) |
+| 4,4 | Mole (beauty mark, distracting...) |
+| 4,5 | Motto (exclamation, meme, curse...) |
+| 4,6 | Mouth (wide, full, luscious, pursed...) |
+| 5,1 | Neck (long, crooked, stubby...) |
+| 5,2 | Noise (creaky, silent, belching...) |
+| 5,3 | Nose (aquiline, flat, long, red...) |
+| 5,4 | Odor (floral, body, ozone, garbage...) |
+| 5,5 | Piercing (eyebrow, nose, tongue...) |
+| 5,6 | Scar (facial burns, old wounds...) |
+| 6,1 | Style (Sporty, punk, business, Boho...) |
+| 6,2 | Tattoo (artistic, tribal, prison...) |
+| 6,3 | Teeth (missing, gap, filed to a point...) |
+| 6,4 | Trinket (lucky hat, jewelry, stuffed animal...) |
+| 6,5 | Unkempt (poorly fit clothes, messy hair...) |
+| 6,6 | Voice (gruff, flat, high-pitched...) |
 
 ## Step 3: Attributes
 
@@ -84,7 +84,7 @@ Each Attribute may also bear a ***Descriptor***; a word or phrase fleshing out w
 
 Starting characters are well above average, with room to grow. You can make more or less "heroic" characters by changing the number of points they start with. Choose a starting ***array*** or buy Attributes ***freestyle***. Both methods are equivalent.
 
-**Array method:** this gives a set starting array of **\[5, 4, 3, 3, 2\]**. Put each of the array numbers into each Attribute in any order.
+**Array method:** this gives a set starting array of **[5, 4, 3, 3, 2]**. Put each of the array numbers into each Attribute in any order.
 
 **Freestyle method:** take **22** points to spend between Attributes, as in the table below. The highest costs double, and one cannot put more than half of their points in a single Attribute.
 
@@ -93,14 +93,14 @@ Starting characters are well above average, with room to grow. You can make more
 </center>
 
 {: .lh-0}
-\| Pool \| Rating \| Highest \| Other \|
-\|:-----------:\|:---------------\|:--------------:\|:------------:\|
-\| 1D \| Poor \| 2 \| 1 \|
-\| 2D \| Low \| 4 \| 2 \|
-\| 3D \| Average \| 6 \| 3 \|
-\| 4D \| High \| 8 \| 4 \|
-\| 5D \| Great \| 10 \| 5 \|
-\| 6D \| Amazing \| 12 \| 6 \|
+| Pool | Rating | Highest | Other |
+|:-----------:|:---------------|:--------------:|:------------:|
+| 1D | Poor | 2 | 1 |
+| 2D | Low | 4 | 2 |
+| 3D | Average | 6 | 3 |
+| 4D | High | 8 | 4 |
+| 5D | Great | 10 | 5 |
+| 6D | Amazing | 12 | 6 |
 
 Attribute pools can improve later with experience points. Gain these by recounting memorable events from the last adventure.
 
@@ -163,44 +163,44 @@ slow.*
 Thinking up good Descriptors for Attributes can be challenging. Use the table below if you need inspiration or just want to let Chance decide. Reword and expand to fit your idea of the character, if needed.
 
 {: .lh-0}
-\| d66 \| FOCUS \| MOTIVE \| NATURE \| POISE \| FRAME \|
-\|:----------:\|:---------------------:\|:--------------:\|:----------------:\|:-----------------:\|:---------------:\|
-\| 1,1 \| Acrobat \| Achieve \| Aloof \| Brutish \| Athletic \|
-\| 1,2 \| Artist \| Afflict \| Blunt \| Casual \| Burly \|
-\| 1,3 \| Assassin \| Atone \| Cheerful \| Creaky \| Burly \|
-\| 1,4 \| Athlete \| Avenge \| Cryptic \| Drowsy \| Chunky \|
-\| 1,5 \| Boxer \| Conceal \| Curious \| Feral \| Curvy \|
-\| 1,6 \| Burglar \| Conquer \| Daring \| Fidgety \| Gaunt \|
-\| 2,1 \| Butler \| Control \| Eager \| Formal \| Giant \|
-\| 2,2 \| Celebrity \| Create \| Elegant \| Frantic \| Healthy \|
-\| 2,3 \| Clown \| Desire \| Erratic \| Gentle \| Husky \|
-\| 2,4 \| Cowboy \| Destroy \| Fearful \| Graceful \| Imposing \|
-\| 2,5 \| Criminal \| Devote \| Friendly \| Hasty \| Lanky \|
-\| 2,6 \| Detective \| Endure \| Gloomy \| Jerky \| Leggy \|
-\| 3,1 \| Dilettante \| Enforce \| Intense \| Jittery \| Medium \|
-\| 3,2 \| Doctor \| Enjoy \| Kindly \| Leaning \| Petite \|
-\| 3,3 \| Drifter \| Enrich \| Loyal \| Lively \| Plump \|
-\| 3,4 \| Driver \| Escape \| Mellow \| Looming \| Portly \|
-\| 3,5 \| Engineer \| Explore \| Mirthful \| Loose \| Robust \|
-\| 3,6 \| Explorer \| Honor \| Perky \| Perky \| Rugged \|
-\| 4,1 \| Fencer \| Imitate \| Polite \| Quivering \| Shapely \|
-\| 4,2 \| Gambler \| Impress \| Proud \| Regal \| Short \|
-\| 4,3 \| Hacker \| Learn \| Quaint \| Relaxed \| Slender \|
-\| 4,4 \| Laborer \| Obtain \| Quiet \| Shaky \| Slight \|
-\| 4,5 \| Martial artist \| Outwit \| Reckless \| Shifting \| Squat \|
-\| 4,6 \| Mercenary \| Praise \| Saucy \| Shuffling \| Stocky \|
-\| 5,1 \| Occultist \| Promise \| Serious \| Slinky \| Stout \|
-\| 5,2 \| Pilot \| Protect \| Shifty \| Slouching \| Stubby \|
-\| 5,3 \| Royalty \| Pursue \| Shy \| Sluggish \| Stunted \|
-\| 5,4 \| Sailor \| Recruit \| Sincere \| Smooth \| Svelte \|
-\| 5,5 \| Scholar \| Redeem \| Sinister \| Steady \| Tall \|
-\| 5,6 \| Scientist \| Rescue \| Stoic \| Stiff \| Thick \|
-\| 6,1 \| Socialite \| Reveal \| Stubborn \| Stilted \| Thickset \|
-\| 6,2 \| Soldier \| Revive \| Suave \| Swaggering \| Thin \|
-\| 6,3 \| Spy \| Serve \| Uncouth \| Tense \| Trim \|
-\| 6,4 \| Student \| Steal \| Uplifting \| Tranquil \| Waifish \|
-\| 6,5 \| Vagrant \| Survive \| Weird \| Waddling \| Wide \|
-\| 6,6 \| Vigilante \| Uplift \| Zealous \| Wiggly \| Wiry \|
+| d66 | FOCUS | MOTIVE | NATURE | POISE | FRAME |
+|:----------:|:---------------------:|:--------------:|:----------------:|:-----------------:|:---------------:|
+| 1,1 | Acrobat | Achieve | Aloof | Brutish | Athletic |
+| 1,2 | Artist | Afflict | Blunt | Casual | Burly |
+| 1,3 | Assassin | Atone | Cheerful | Creaky | Burly |
+| 1,4 | Athlete | Avenge | Cryptic | Drowsy | Chunky |
+| 1,5 | Boxer | Conceal | Curious | Feral | Curvy |
+| 1,6 | Burglar | Conquer | Daring | Fidgety | Gaunt |
+| 2,1 | Butler | Control | Eager | Formal | Giant |
+| 2,2 | Celebrity | Create | Elegant | Frantic | Healthy |
+| 2,3 | Clown | Desire | Erratic | Gentle | Husky |
+| 2,4 | Cowboy | Destroy | Fearful | Graceful | Imposing |
+| 2,5 | Criminal | Devote | Friendly | Hasty | Lanky |
+| 2,6 | Detective | Endure | Gloomy | Jerky | Leggy |
+| 3,1 | Dilettante | Enforce | Intense | Jittery | Medium |
+| 3,2 | Doctor | Enjoy | Kindly | Leaning | Petite |
+| 3,3 | Drifter | Enrich | Loyal | Lively | Plump |
+| 3,4 | Driver | Escape | Mellow | Looming | Portly |
+| 3,5 | Engineer | Explore | Mirthful | Loose | Robust |
+| 3,6 | Explorer | Honor | Perky | Perky | Rugged |
+| 4,1 | Fencer | Imitate | Polite | Quivering | Shapely |
+| 4,2 | Gambler | Impress | Proud | Regal | Short |
+| 4,3 | Hacker | Learn | Quaint | Relaxed | Slender |
+| 4,4 | Laborer | Obtain | Quiet | Shaky | Slight |
+| 4,5 | Martial artist | Outwit | Reckless | Shifting | Squat |
+| 4,6 | Mercenary | Praise | Saucy | Shuffling | Stocky |
+| 5,1 | Occultist | Promise | Serious | Slinky | Stout |
+| 5,2 | Pilot | Protect | Shifty | Slouching | Stubby |
+| 5,3 | Royalty | Pursue | Shy | Sluggish | Stunted |
+| 5,4 | Sailor | Recruit | Sincere | Smooth | Svelte |
+| 5,5 | Scholar | Redeem | Sinister | Steady | Tall |
+| 5,6 | Scientist | Rescue | Stoic | Stiff | Thick |
+| 6,1 | Socialite | Reveal | Stubborn | Stilted | Thickset |
+| 6,2 | Soldier | Revive | Suave | Swaggering | Thin |
+| 6,3 | Spy | Serve | Uncouth | Tense | Trim |
+| 6,4 | Student | Steal | Uplifting | Tranquil | Waifish |
+| 6,5 | Vagrant | Survive | Weird | Waddling | Wide |
+| 6,6 | Vigilante | Uplift | Zealous | Wiggly | Wiry |
 
 ## Step 4: Backstories
 
@@ -224,44 +224,44 @@ Invent your own or use the table below for inspiration. Two or three good Backst
 One Backstory must describe your native land and language. You won't find those on the chart below - talk with your Guide instead.
 
 {: .lh-0}
-\| D66 \| Background \|
-\|:----------:\|:-------------------------------------------------\|
-\| 1,1 \| Allied with a ragtag group of rebels... \|
-\| 1,2 \| Barely survived a disaster... \|
-\| 1,3 \| Betrayed by allies or superior... \|
-\| 1,4 \| Betrayed erstwhile allies or superior... \|
-\| 1,5 \| Curated a notable collection of... \|
-\| 1,6 \| Cut their sporting career short... \|
-\| 2,1 \| Ejected from the military... \|
-\| 2,2 \| Elected to public office... \|
-\| 2,3 \| Embroiled in a protest movement... \|
-\| 2,4 \| Failed to achieve their dream... \|
-\| 2,5 \| Formed a music band... \|
-\| 2,6 \| Fought as a soldier in the war... \|
-\| 3,1 \| Found oneself after years of isolation... \|
-\| 3,2 \| Inducted into a secret society... \|
-\| 3,3 \| Invented amazing gadgets... \|
-\| 3,4 \| Joined an expedition to a faraway land... \|
-\| 3,5 \| Learned a foreign language... \|
-\| 3,6 \| Lived a pampered and wealthy life... \|
-\| 4,1 \| Nearly lost it all to their vices... \|
-\| 4,2 \| Obsessed over trivia... \|
-\| 4,3 \| Ostracized for your heretical ideas... \|
-\| 4,4 \| Performed in a traveling circus... \|
-\| 4,5 \| Ran away from home... \|
-\| 4,6 \| Resigned after a great scandal... \|
-\| 5,1 \| Saved a life and changed your own... \|
-\| 5,2 \| Smuggled contraband for a living... \|
-\| 5,3 \| Spent some time in jail... \|
-\| 5,4 \| Started a business... \|
-\| 5,5 \| Stowed away on a passing ship... \|
-\| 5,6 \| Struggled in a great contest... \|
-\| 6,1 \| Survived on a deserted island... \|
-\| 6,2 \| Taught a valuable skill... \|
-\| 6,3 \| Took care of an ailing relative... \|
-\| 6,4 \| Lost something or someone precious... \|
-\| 6,5 \| Took something up as a hobby. \|
-\| 6,6 \| Whiled away their time with cards... \|
+| D66 | Background |
+|:----------:|:-------------------------------------------------|
+| 1,1 | Allied with a ragtag group of rebels... |
+| 1,2 | Barely survived a disaster... |
+| 1,3 | Betrayed by allies or superior... |
+| 1,4 | Betrayed erstwhile allies or superior... |
+| 1,5 | Curated a notable collection of... |
+| 1,6 | Cut their sporting career short... |
+| 2,1 | Ejected from the military... |
+| 2,2 | Elected to public office... |
+| 2,3 | Embroiled in a protest movement... |
+| 2,4 | Failed to achieve their dream... |
+| 2,5 | Formed a music band... |
+| 2,6 | Fought as a soldier in the war... |
+| 3,1 | Found oneself after years of isolation... |
+| 3,2 | Inducted into a secret society... |
+| 3,3 | Invented amazing gadgets... |
+| 3,4 | Joined an expedition to a faraway land... |
+| 3,5 | Learned a foreign language... |
+| 3,6 | Lived a pampered and wealthy life... |
+| 4,1 | Nearly lost it all to their vices... |
+| 4,2 | Obsessed over trivia... |
+| 4,3 | Ostracized for your heretical ideas... |
+| 4,4 | Performed in a traveling circus... |
+| 4,5 | Ran away from home... |
+| 4,6 | Resigned after a great scandal... |
+| 5,1 | Saved a life and changed your own... |
+| 5,2 | Smuggled contraband for a living... |
+| 5,3 | Spent some time in jail... |
+| 5,4 | Started a business... |
+| 5,5 | Stowed away on a passing ship... |
+| 5,6 | Struggled in a great contest... |
+| 6,1 | Survived on a deserted island... |
+| 6,2 | Taught a valuable skill... |
+| 6,3 | Took care of an ailing relative... |
+| 6,4 | Lost something or someone precious... |
+| 6,5 | Took something up as a hobby. |
+| 6,6 | Whiled away their time with cards... |
 
 ## Step 5: Resources
 
@@ -278,14 +278,14 @@ Money, funding, access, or abstract "pull." The Guide assigns Credit based on th
 </center>
 
 {: .lh-0}
-\| Credit \| Afford \| Ranking \|
-\|:-------------:\|-----------------\|--------------------\|
-\| 1 \| \$9 \| Needy \|
-\| 2 \| \$99 \| Struggling \|
-\| 3 \| \$999 \| Comfortable \|
-\| 4 \| \$9,999 \| Prosperous \|
-\| 5 \| \$99,999 \| Affluent \|
-\| 6 \| \$999,999 \| Rich \|
+| Credit | Afford | Ranking |
+|:-------------:|-----------------|--------------------|
+| 1 | \$9 | Needy |
+| 2 | \$99 | Struggling |
+| 3 | \$999 | Comfortable |
+| 4 | \$9,999 | Prosperous |
+| 5 | \$99,999 | Affluent |
+| 6 | \$999,999 | Rich |
 
 A character can afford items with up to as many digits in their price as their Credit. For example, with Credit of 3, one can gear up with items worth up to \$999 (1-2 digits) each. If they want to buy something one Credit digit higher, they lose a digit of Credit temporarily. Lost Credit recovers between campaigns.
 
@@ -308,24 +308,24 @@ One can easily carry Load equal to their Frame. If they carry more than this, ev
 </center>
 
 {: .lh-0}
-\| Item \| Load \|
-\|:---------------------------------------------\|:-----------:\|
-\| Backpack, small & filled with gear. \| 1 \|
-\| Backpack, large & filled with gear. \| 2 \|
-\| Footlocker or chest \| 3 \|
-\| Bag of 1000 or so coins \| 1 \|
-\| Body, Medium (man-sized) \| 4 \|
-\| Body, Small (large dog, etc.) \| 2 \|
-\| Body, Large (Pony, etc.) \| 8 \|
+| Item | Load |
+|:---------------------------------------------|:-----------:|
+| Backpack, small & filled with gear. | 1 |
+| Backpack, large & filled with gear. | 2 |
+| Footlocker or chest | 3 |
+| Bag of 1000 or so coins | 1 |
+| Body, Medium (man-sized) | 4 |
+| Body, Small (large dog, etc.) | 2 |
+| Body, Large (Pony, etc.) | 8 |
 
 The Load for carrying someone includes Load they have on them. This can be important when carrying a hurt ally, packing mounts, etc. Every point of Load penalizes Swim (Move) Checks regardless of Frame.
 
 Adventurers may drop bulky items such as backpacks or sacks to avoid encumbrance or distract pursuers. This is free but picking it back up is a Use Action.
 
 {: .highlight }
-\>- Carry Load up to FRAME without
+- Carry Load up to FRAME without
 trouble.
-\>- If Load is over FRAME, it takes two Moves to cross a Zone.
+- If Load is over FRAME, it takes two Moves to cross a Zone.
 
 ## Experience
 
@@ -354,8 +354,8 @@ To raise the highest Attribute by one, spend twice its current level in XP. To r
 You may spend XP during the actual game, especially during a tense conflict! This represents learning an opponent's moves, growing from a rivalry, or lengthy training finally coming to fruition.
 
 {: .highlight }
-\>- Raise highest: XP = highest Attribute x 2
-\>- Raise other: XP = highest Attribute
+- Raise highest: XP = highest Attribute x 2
+- Raise other: XP = highest Attribute
 
 ## Example Character
 
@@ -375,5 +375,5 @@ Armed with these details, she goes back to the Name step. She picks the last nam
 
 <center>
 <strong>EXAMPLE CHARACTER</strong>
-<img 123 title="Character sheet for Viktor Alkaev" />
+<img src="images/Viktor.png" title="Character sheet for Viktor Alkaev" />
 </center>
