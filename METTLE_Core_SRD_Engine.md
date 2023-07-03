@@ -96,7 +96,7 @@ passive Difficulty.
 
 These are die Bonuses (+D) or Penalties (-D) to a dice pool, applied before the Check. For example, +2D means add two dice, and -2D means take two away. Die bonuses and penalties typically apply to the character and are carried with them from situation to situation. Players should expect a +1D to +3D bonus for using proper tools or good strategy, and rarely suffer penalties aside from their wounds.
 
-Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty reflects the situation and does not tend to stick with a character. This is mostly a tool for the Guide. For example, rain-slicked streets may raise the Difficulty of a foot chase, and partial cover adds to Poise versus most attacks.
+Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty reflects the situation and does not tend to stick with a character. This is mostly a tool for the Guide. For example, rain-slicked streets may raise the Difficulty of a foot chase, and partial cover adds to POISE versus most attacks.
 
 Don't let too many fiddly little modifiers bog down your scene. If things get out of hand, consider only the largest bonus and penalty. The table must use restraint to avoid overdoing it with modifiers.
 
@@ -150,14 +150,14 @@ As for whether a group is successful, this depends on what it means to succeed o
 
 ## Mettle
 
-The namesake of this game, Mettle stands for the will to live and how close the character is to their doom. In game terms, it is Motive plus their highest (non-Frame) Attribute. This is not a *direct* measure of injury. Physical damage is just "flesh wounds" at worst until it drops Mettle into the negatives. If above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle.
+The namesake of this game, Mettle stands for the will to live and how close the character is to their doom. In game terms, it is MOTIVE plus their highest (non-FRAME) Attribute. This is not a *direct* measure of injury. Physical damage is just "flesh wounds" at worst until it drops Mettle into the negatives. If above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle.
 
 {: .highlight }
->- Mettle = MOTIVE + highest non-Frame Attribute.
+>- Mettle = MOTIVE + highest non-FRAME Attribute.
 
 ### Taking Damage
 
-Characters may suffer ***Damage*** from hazards or attacks. Fortunately, they also get a ***Soak*** that reduces this incoming damage by their Frame plus Armor. Each point of damage left after Soak lowers their current Mettle by one. A hit that drops their Mettle to zero or lower is a ***Felling blow***, inflicting the ***Fallen*** Status. Fallen characters lose their Action and have 0 POISE for the Scene.
+Characters may suffer ***Damage*** from hazards or attacks. Fortunately, they also get a ***Soak*** that reduces this incoming damage by their FRAME plus Armor. Each point of damage left after Soak lowers their current Mettle by one. A hit that drops their Mettle to zero or lower is a ***Felling blow***, inflicting the ***Fallen*** Status. Fallen characters lose their Action and have 0 POISE for the Scene.
 
 The Player may deny this by taking the ***Staggered*** Status. This inflicts a point of damage but lets them stay active at 0 or negative Mettle. They can do this again if they take more damage. Staggered characters lose their Free Move, cannot Rally, and suffer a die penalty to Checks equal to their negative Mettle.
 
@@ -165,12 +165,12 @@ Presume the Fallen are ***Dead*** unless someone comes to their aid. This is an
 
 {: .highlight }
 >- Damage that gets through the target's Soak lowers Mettle.
->- **Fallen:** No Action and 0 Poise, may or may not be dead.
+>- **Fallen:** No Action and 0 POISE, may or may not be dead.
 >- **Staggered:** Lose Free Move & Rally, negative Mettle is a die penalty.
 
 ### Mettle Surges
 
-Adventurers under stress can transcend their usual limits, especially when fresh to battle. Whenever Initiative (p.38) is in play, each point of Mettle they sacrifice grants them +1D on their Check. This is powerful but has limits; one cannot spend more than their Motive on a single Check, nor spend enough to lower Mettle to zero or below. This lost Mettle is temporary and Rallies back as normal.
+Adventurers under stress can transcend their usual limits, especially when fresh to battle. Whenever Initiative (p.38) is in play, each point of Mettle they sacrifice grants them +1D on their Check. This is powerful but has limits; one cannot spend more than their MOTIVE on a single Check, nor spend enough to lower Mettle to zero or below. This lost Mettle is temporary and Rallies back as normal.
 
 {: .highlight }
 >- **Surge:** spend Mettle to add +1D to a Check during combat.
@@ -185,9 +185,9 @@ Other status effects exist to vex characters aside from Staggered, and Fallen, a
 
 -   **Afflicted**: suffering from a disease, poison, or tranquilizer. Cannot Rally and takes ongoing damage until cured or it runs its course.
 -   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight face a +3 Difficulty. Others may use Sneak against them as if they have Cover.
--   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading Concept may make up for this. Others may use Sneak against them as if they have Cover.
--   **Encumbered**: carrying Load over their Frame. Every Zone crossed now takes up two Moves. If they try to carry twice their Frame, they are Incapacitated instead.
--   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. Lose Free Move, Poise, and Action.
+-   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading CONCEPT may make up for this. Others may use Sneak against them as if they have Cover.
+-   **Encumbered**: carrying Load over their FRAME. Every Zone crossed now takes up two Moves. If they try to carry twice their FRAME, they are Incapacitated instead.
+-   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. Lose Free Move, POISE, and Action.
 -   **Rattled**: dismayed by a Rattle or other trauma. Increases the Difficulty of Rallies.
 -   **Surprised**: caught unawares, you do not get an Action for the first Scene when Initiative starts. Next Scene, you are no longer Surprised, and this effect ends.
 
@@ -227,17 +227,17 @@ The Guide has gotten together with a few good friends as players: *Dana* and *Tr
 
 **Dana/Viktor:** don't get carried away, he is still here. I start talking about the patina on the brass and say I need to see it in the sunlight. "If we can just go out on the porch, so I can check the color in natural light."
 
-**Guide:** Oh, good idea, but he might get suspicious or think you will run off with it, let's do a Nature Check.
+**Guide:** Oh, good idea, but he might get suspicious or think you will run off with it, let's do a NATURE Check.
 
-**Dana/Viktor:** My "Itinerant Gambler" Concept is 5D, which is much better. Can I use that?
+**Dana/Viktor:** My "Itinerant Gambler" CONCEPT is 5D, which is much better. Can I use that?
 
 **Guide:** Maybe, can you tell me how it applies?
 
-**Dana/Viktor:** err... I guess not, it's not really gambling or traveling, so I guess I'll stick with Nature. That's "Curmudgeon" with 3D. I start grumpily fiddling with my wallet, maybe I'll get a bonus if he sees I have cash?
+**Dana/Viktor:** err... I guess not, it's not really gambling or traveling, so I guess I'll stick with NATURE. That's "Curmudgeon" with 3D. I start grumpily fiddling with my wallet, maybe I'll get a bonus if he sees I have cash?
 
 **Guide:** Sure, but you don't look rich either - let's say +1D.
 
-Dana throws the pool of four dice, landing on 3, 2, 2, and 6. This is a Score of 7 (3+2+2) and 1 Edge (the 6). This easily beats the Clerk's Motive of 4. The Edge means this should distract him for a little while.
+Dana throws the pool of four dice, landing on 3, 2, 2, and 6. This is a Score of 7 (3+2+2) and 1 Edge (the 6). This easily beats the Clerk's MOTIVE of 4. The Edge means this should distract him for a little while.
 
 **Guide:** He walks out with you into the sunlight and goes into a whole story about where the samovar came from. You also notice he is squinting in the sunlight and has awfully pointy teeth.
 
@@ -249,9 +249,9 @@ Dana throws the pool of four dice, landing on 3, 2, 2, and 6. This is a Score of
 
 **Troy/Kirin:** I lift a little to relieve the strain on the hinges and sneak in quietly, as is my way.
 
-**Guide:** Bold but Check Poise - it is very squeaky.
+**Guide:** Bold but Check POISE - it is very squeaky.
 
-**Troy/Kirin:** Cool, at Poise 5, this character has some moves.
+**Troy/Kirin:** Cool, at POISE 5, this character has some moves.
 
 Troy throws his five dice, landing on 1, 2, 2, 5, & 6. That's a Score of 5 (1+2+2) and 2 Effect. The Guide had judged this as a 5 Difficulty task, so Kirin fails despite his natural prowess!
 
@@ -267,7 +267,7 @@ Troy grabs the two Edge dice and rerolls them, leaving his original Score dice a
 
 **Guide:** you are perfectly silent, but the door is also perfectly off its hinges.
 
-**Troy/Kirin:** I shake my head in disbelief, rest it against the frame, and walk upstairs.
+**Troy/Kirin:** I shake my head in disbelief, rest it against the doorframe, and walk upstairs.
 
 **Guide:** Ok. You find yourself in a large empty room with a high ceiling. Soot covers the walls and furniture.
 

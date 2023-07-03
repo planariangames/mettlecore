@@ -17,7 +17,7 @@ title: Resources
 
 The covers of pulp adventures are adorned with lurid images of sweaty men and women of action. Shirts ripped, bodices straining, nary a flak jacket in sight. Don't let that fool you though, these stories are also rife with chain undershirts and iron plates secretly saving these glistening oafs from doom.
 
-So if you expect trouble, and you really should, it is no shame to wear some sort of armor. Armor adds to Frame for Soaking damage. The tradeoff is the more protection a set of Armor gives, the more it burdens the wearer. In other words, if Load exceeds the wearer's Frame, it lowers Poise by that amount. This can complicate actions such as swimming, climbing, and sneaking.
+So if you expect trouble, and you really should, it is no shame to wear some sort of armor. Armor adds to FRAME for Soaking damage. The tradeoff is the more protection a set of Armor gives, the more it burdens the wearer. In other words, if Load exceeds the wearer's FRAME, it lowers POISE by that amount. This can complicate actions such as swimming, climbing, and sneaking.
 
 The table below gives examples of armor common to a modern setting, as well as archaic armor types for comparison.
 
@@ -49,11 +49,11 @@ The following weapons chart gives examples of the more popular weapons. Each has
 
 -   **2H** takes two hands to wield.
 -   **Ammo** is the number of shots before reloading with a *Use* Action.
--   **Full Auto** grants +1D to Attack for every 10 ammo spent. The firer may also spend one Edge per extra hit on the same or different targets. Against multiple targets, the Attack is vs. the *highest* Poise defense in the group. Full Auto weapons can opt for a Burst instead.
+-   **Full Auto** grants +1D to Attack for every 10 ammo spent. The firer may also spend one Edge per extra hit on the same or different targets. Against multiple targets, the Attack is vs. the *highest* POISE defense in the group. Full Auto weapons can opt for a Burst instead.
 -   **Blast** also inflicts 1d6 + DM as Area Attack to others in the target Zone.
 -   **Defend** adds a bonus to Defend Checks when wielded.
 -   **Burst** uses up 3 ammo in one trigger pull to get +2D on the Attack.
--   **Shield** adds a bonus to Poise defense versus incoming Attacks.
+-   **Shield** adds a bonus to POISE defense versus incoming Attacks.
 -   **Grapple** use the weapon's Hit and DM on Grapple Checks.
 -   **Entangle** Grapples using the weapon's Hit and DM and does not take a further Action to maintain the Difficulty increase each round. Target escapes if they beat the increased Difficulty on a Move Check.
 -   **Inferior:** weapons are shoddy; lower Hit and Cost by one.
@@ -72,41 +72,41 @@ The following weapons chart gives examples of the more popular weapons. Each has
 
 |----------------|:-------:|:-------:|---------------------------------|:--------:|:--------:|
 | **Weapon**     | **Hit** | **DM**  | **Special**                     | **Load** | **Cost** |
-| Axe            |   +1D   | Frame+3 | \-                              |    1     |    2     |
-| Axe, great     |   +1D   | Frame+4 | 2H                              |    2     |    3     |
-| Bow            |   \-    | Frame+2 | 2H, Range 4, Ammo 12            |    2     |    3     |
-| Brass Knuckles |   \-    |  Frame  | Stun                            |    \-    |    2     |
-| Bullwhip       |   \-    |  Frame  | Reach, Wrap, Grapple            |    1     |    2     |
-| Club           |   +1D   | Frame+1 | Stun                            |    1     |    1     |
+| Axe            |   +1D   | FRAME+3 | \-                              |    1     |    2     |
+| Axe, great     |   +1D   | FRAME+4 | 2H                              |    2     |    3     |
+| Bow            |   \-    | FRAME+2 | 2H, Range 4, Ammo 12            |    2     |    3     |
+| Brass Knuckles |   \-    |  FRAME  | Stun                            |    \-    |    2     |
+| Bullwhip       |   \-    |  FRAME  | Reach, Wrap, Grapple            |    1     |    2     |
+| Club           |   +1D   | FRAME+1 | Stun                            |    1     |    1     |
 | Crossbow       |   \-    |    6    | 2H, Range 4, Ammo 1             |    2     |    3     |
-| Dagger/Knife   |   +1D   | Frame+1 | Range 0                         |    \-    |    2     |
+| Dagger/Knife   |   +1D   | FRAME+1 | Range 0                         |    \-    |    2     |
 | Dynamite stick |   \-    |    7    | Range 1, Blast, Ammo 1          |    \-    |    2     |
-| Flail          |   +1D   | Frame+2 | Wrap                            |    1     |    3     |
-| Flail, great   |   +1D   | Frame+3 | 2H, Wrap                        |    2     |    3     |
-| Garrote        |   \-    | Frame+1 | Grapple                         |    \-    |    1     |
+| Flail          |   +1D   | FRAME+2 | Wrap                            |    1     |    3     |
+| Flail, great   |   +1D   | FRAME+3 | 2H, Wrap                        |    2     |    3     |
+| Garrote        |   \-    | FRAME+1 | Grapple                         |    \-    |    1     |
 | Grenade, frag. |   \-    |    8    | Range 1, Blast                  |    \-    |    3     |
-| Hatchet        |   +1D   | Frame+1 | Range 0                         |    1     |    2     |
-| Lance          |   +1D   | Frame+3 | 2H, Reach                       |    2     |    3     |
-| Machete        |   +1D   | Frame+2 | Tool (+1D Travel)               |    1     |    2     |
-| Net            |   \-    |  Frame  | Entangle                        |    1     |    2     |
+| Hatchet        |   +1D   | FRAME+1 | Range 0                         |    1     |    2     |
+| Lance          |   +1D   | FRAME+3 | 2H, Reach                       |    2     |    3     |
+| Machete        |   +1D   | FRAME+2 | Tool (+1D Travel)               |    1     |    2     |
+| Net            |   \-    |  FRAME  | Entangle                        |    1     |    2     |
 | Pistol         |   \-    |    5    | Range 2, Ammo 6                 |    0     |    3     |
-| Polearm        |   +1D   | Frame+4 | 2H, Reach                       |    2     |    3     |
-| Quarterstaff   |   +2D   | Frame+2 | 2H, Stun                        |    2     |    2     |
+| Polearm        |   +1D   | FRAME+4 | 2H, Reach                       |    2     |    3     |
+| Quarterstaff   |   +2D   | FRAME+2 | 2H, Stun                        |    2     |    2     |
 | Revolver       |   \-    |    5    | Range 2, Ammo 9                 |    0     |    3     |
 | Rifle          |   \-    |    7    | 2H, Ammo 5, Range 6, Scope      |    1     |    3     |
 | Rifle, assault |   \-    |    7    | 2H, Burst, Ammo 30, Range 5     |    1     |    3     |
-| Shield, large  |   \-    |  Frame  | Shield +2                       |    2     |    3     |
-| Shield, medium |   \-    |  Frame  | Defend +1, Shield +1            |    1     |    3     |
-| Shield, small  |   \-    |  Frame  | Defend +2                       |    \-    |    3     |
+| Shield, large  |   \-    |  FRAME  | Shield +2                       |    2     |    3     |
+| Shield, medium |   \-    |  FRAME  | Defend +1, Shield +1            |    1     |    3     |
+| Shield, small  |   \-    |  FRAME  | Defend +2                       |    \-    |    3     |
 | Shotgun        |   +2D   |    8    | 2H, Range 2                     |    1     |    3     |
-| Sling          |   \-    | Frame+1 | Range 3                         |    \-    |    1     |
+| Sling          |   \-    | FRAME+1 | Range 3                         |    \-    |    1     |
 | SMG            |   \-    |    5    | 2H, Range 3, Full Auto, Ammo 30 |    0     |    3     |
-| Spear          |   +1D   | Frame+2 | Range 1, Reach                  |    2     |    2     |
+| Spear          |   +1D   | FRAME+2 | Range 1, Reach                  |    2     |    2     |
 | Stun gun       |   \-    |   6\*   | Stun (only!)                    |    \-    |    3     |
-| Sword          |   +2D   | Frame+2 | \-                              |    1     |    3     |
-| Sword, great   |   +2D   | Frame+3 | 2H                              |    2     |    3     |
+| Sword          |   +2D   | FRAME+2 | \-                              |    1     |    3     |
+| Sword, great   |   +2D   | FRAME+3 | 2H                              |    2     |    3     |
 | Taser          |   \-    |   6\*   | Stun (only), Reach              |    \-    |    3     |
-| Unarmed        |   \-    |  Frame  | Stun, Soft                      |    \-    |    \-    |
+| Unarmed        |   \-    |  FRAME  | Stun, Soft                      |    \-    |    \-    |
 
 *\*Special features are for a "typical" modern weapon of its kind. If modeling a specific weapon, compare it to the actual weapon and adjust as needed. For example, a smaller "Walther PPK" pistol might do 1 less DM and hold 7 ammo.*
 
@@ -151,24 +151,24 @@ While not technically hirelings, the party may also bribe passersby or layabouts
 
 Riding atop a mount is a great advantage. In combat, the mount and rider count as a single unit. A mounted rider may use the mount's Speed instead of their own and enjoys Partial Cover (+2). The two must share the same Action but may Split Attacks between them. Otherwise, treat them as individuals.
 
- The mount uses a simplified NPC Pool (p.75), with their Frame in parentheses. The rider may use their riding-related Concept to get the Mount to do something it does not want to, such as leaping over a dangerous obstacle, learning a trick, running to exhaustion, or staying in a battlefield. Treat this as a Parley Check (rider's Concept vs. mount's Pool). A trained mount behaves differently in certain conditions. For example, a war horse does not balk at combat or gunfire.
+ The mount uses a simplified NPC Pool (p.75), with their FRAME in parentheses. The rider may use their riding-related Concept to get the Mount to do something it does not want to, such as leaping over a dangerous obstacle, learning a trick, running to exhaustion, or staying in a battlefield. Treat this as a Parley Check (rider's Concept vs. mount's Pool). A trained mount behaves differently in certain conditions. For example, a war horse does not balk at combat or gunfire.
 
 {: .text-center}
 **MOUNTS**
 
--   **Camel:** *Pool 4(Frame 7), Speed 2, Attack (kick 7 DAM)*. Ships of the desert, hardy and stubborn.
--   **Donkey:** *Pool 4(Frame 5), Speed 2, Attack (kick 5 DAM)*. Like a small but sturdy horse. Shines on rough terrain as a pack or riding animal.
--   **Elephant:** *Pool 4(Frame 12), Speed 1, Attack (stomp 12 DAM)*. Mighty and steady.
--   **Horse:** *Pool 4 (Frame 7), Speed 3, Attack (kick 7 DAM)*. A strong, fast, and awe-inspiring mount for the ages.
--   **Mule**: *Pool 4(Frame 7), Speed 2, Attack (kick 7 DAM)*. A sturdy mount or beast of burden with a lot of attitude.
+-   **Camel:** *Pool 4(FRAME 7), Speed 2, Attack (kick 7 DAM)*. Ships of the desert, hardy and stubborn.
+-   **Donkey:** *Pool 4(FRAME 5), Speed 2, Attack (kick 5 DAM)*. Like a small but sturdy horse. Shines on rough terrain as a pack or riding animal.
+-   **Elephant:** *Pool 4(FRAME 12), Speed 1, Attack (stomp 12 DAM)*. Mighty and steady.
+-   **Horse:** *Pool 4 (FRAME 7), Speed 3, Attack (kick 7 DAM)*. A strong, fast, and awe-inspiring mount for the ages.
+-   **Mule**: *Pool 4(FRAME 7), Speed 2, Attack (kick 7 DAM)*. A sturdy mount or beast of burden with a lot of attitude.
 
 ## Vehicles
 
-Cars, airplanes, tanks, and bulldozers have ratings for their ease of handling, maximum speed, and Frame. When necessary, the driver or pilot Checks their Concept vs. their current Speed.
+Cars, airplanes, tanks, and bulldozers have ratings for their ease of handling, maximum speed, and FRAME. When necessary, the driver or pilot Checks their Concept vs. their current Speed.
 
 -   **Handling**: how easily it turns compared to others of its class. The modifier adds to the relevant Concept on Checks to control it.
--   **Speed**: how fast it can go. This affects the Move and Race Actions in slightly different ways. Current Speed acts as a Move in Zones and as a substitute Poise score.
--   **Frame**: Size and weight, same as for Characters.
+-   **Speed**: how fast it can go. This affects the Move and Race Actions in slightly different ways. Current Speed acts as a Move in Zones and as a substitute POISE score.
+-   **FRAME**: Size and weight, same as for Characters.
 
 The terrain favored by a vehicle should be obvious from its type. Unsuitable terrain increases Difficulty or is impassible, depending.
 
@@ -182,24 +182,24 @@ A Vehicle is an extension of the driver and uses their Mettle! This means that s
 
 ### Crashes
 
-A Crash is when a vehicle loses control and hits an obstacle or rolls over avoiding one. The vehicle takes damage equal to 1d6 + its Speed, with no Soak! Occupants also Roll this damage but get to Soak with their Frame and armor, if any. If not wearing seatbelts or similar safety devices, count Speed as double for occupants.
+A Crash is when a vehicle loses control and hits an obstacle or rolls over avoiding one. The vehicle takes damage equal to 1d6 + its Speed, with no Soak! Occupants also Roll this damage but get to Soak with their FRAME and armor, if any. If not wearing seatbelts or similar safety devices, count Speed as double for occupants.
 
 {: .highlight}
-- **Crash:** Damage is 1d6 + current Speed, no Soak. \
-- **Occupants:** Damage 1d6 + current Speed, soaked by Frame.
+- **Crash:** Damage is 1d6 + current Speed, no Soak.
+- **Occupants:** Damage 1d6 + current Speed, soaked by FRAME.
 
 ### Ramming
 
-This purposeful assault turns your vehicle into a deadly weapon. Against another vehicle, make an Attack Check of the Vehicle's Handling versus the target's current Speed. Damage is Frame + Speed + Edge, soaked by the target's Frame. Ramming a pedestrian is the same, but versus their Poise instead of current Speed.
+This purposeful assault turns your vehicle into a deadly weapon. Against another vehicle, make an Attack Check of the Vehicle's Handling versus the target's current Speed. Damage is FRAME + Speed + Edge, soaked by the target's FRAME. Ramming a pedestrian is the same, but versus their POISE instead of current Speed.
 
-The ramming vehicle may suffer collateral damage from this risky stunt. They take automatic damage in return equal to the target's Frame + Speed, soaked by their Frame + Edge.
+The ramming vehicle may suffer collateral damage from this risky stunt. They take automatic damage in return equal to the target's FRAME + Speed, soaked by their FRAME + Edge.
 
 In a head-on collision, add the speed of both vehicles together.
 
 {: .highlight}
-- **Ram Attack:** Handling vs. current Speed (or Poise for pedestrians). \
-- **Ram damage:** Frame + Speed + Edge, soaked by target's Frame. \
-- **Return damage:** target Frame + Speed, soaked by your Frame + Edge.
+- **Ram Attack:** Handling vs. current Speed (or POISE for pedestrians).
+- **Ram damage:** FRAME + Speed + Edge, soaked by target's FRAME.
+- **Return damage:** target FRAME + Speed, soaked by your FRAME + Edge.
 
 ### Speed Scaling
 
@@ -211,20 +211,20 @@ Vehicles with high Speeds are actually much faster than their given Move in huma
 {: .lh-0}
 | Vehicle type | Handling | Speed | FRAME | Cost |
 |----------------------------|:---------------:|:------------:|:------------:|:-----------:|
-| Bicycle | FOCUS+2 | 2 | 1 | 3 |
-| Bus, school | FOCUS | 4 | 13 | 6 |
-| Car, compact | FOCUS+2 | 5 | 9 | 5 |
-| Car, sedan | FOCUS+1 | 5 | 9 | 5 |
-| Car, sports | FOCUS+2 | 6 | 9 | 6 |
-| Car, SUV | FOCUS+1 | 5 | 10 | 5 |
-| Dirt bike | FOCUS+2 | 3 | 4 | 4 |
-| Helicopter, attack | FOCUS+1 | 6 | 11 | 7 |
-| Helicopter, light | FOCUS+2 | 5 | 8 | 6 |
-| Jet, Fighter | FOCUS+1 | 10 | 14 | 7 |
-| Jet, Jumbo | FOCUS | 8 | 19 | 7 |
-| Motorcycle | FOCUS+2 | 5 | 5 | 5 |
-| Seaplane | FOCUS | 6 | 11 | 6 |
-| Tank, combat | FOCUS+1 | 3 | 16 | 7 |
-| Truck, garbage | FOCUS | 4 | 15 | 6 |
-| Truck, monster | FOCUS+1 | 4 | 11 | 6 |
-| Truck, pickup | FOCUS+1 | 5 | 10 | 5 |
+| Bicycle | CONCEPT+2 | 2 | 1 | 3 |
+| Bus, school | CONCEPT | 4 | 13 | 6 |
+| Car, compact | CONCEPT+2 | 5 | 9 | 5 |
+| Car, sedan | CONCEPT+1 | 5 | 9 | 5 |
+| Car, sports | CONCEPT+2 | 6 | 9 | 6 |
+| Car, SUV | CONCEPT+1 | 5 | 10 | 5 |
+| Dirt bike | CONCEPT+2 | 3 | 4 | 4 |
+| Helicopter, attack | CONCEPT+1 | 6 | 11 | 7 |
+| Helicopter, light | CONCEPT+2 | 5 | 8 | 6 |
+| Jet, Fighter | CONCEPT+1 | 10 | 14 | 7 |
+| Jet, Jumbo | CONCEPT | 8 | 19 | 7 |
+| Motorcycle | CONCEPT+2 | 5 | 5 | 5 |
+| Seaplane | CONCEPT | 6 | 11 | 6 |
+| Tank, combat | CONCEPT+1 | 3 | 16 | 7 |
+| Truck, garbage | CONCEPT | 4 | 15 | 6 |
+| Truck, monster | CONCEPT+1 | 4 | 11 | 6 |
+| Truck, pickup | CONCEPT+1 | 5 | 10 | 5 |

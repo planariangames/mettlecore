@@ -86,9 +86,9 @@ The default Twist for Actions is Delay, meaning they lose their next Action beca
 
 ### Aid
 
-This is for life-and-death situations well beyond the ordinary stitching of flesh wounds. This only works on the Staggered or Fallen; those with less severe injuries recover with less drama. Recover Checks Concept vs. current (0 or negative) Mettle, treating it as positive for this purpose. Success stabilizes the patient for the time being, and any Edge heals that much negative Mettle. Failure means the patient was too far gone to save, try not to blame yourself.
+This is for life-and-death situations well beyond the ordinary stitching of flesh wounds. This only works on the Staggered or Fallen; those with less severe injuries recover with less drama. Recover Checks CONCEPT vs. current (0 or negative) Mettle, treating it as positive for this purpose. Success stabilizes the patient for the time being, and any Edge heals that much negative Mettle. Failure means the patient was too far gone to save, try not to blame yourself.
 
-**Check:** Concept vs. current Mettle.
+**Check:** CONCEPT vs. current Mettle.
 
 {: .outcomes }
 
@@ -101,9 +101,9 @@ Beyond this, recovery takes time, a scant resource in adventures. Make this Chec
 
 ### Attack
 
-Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. This applies to any physical strike, whether unarmed, melee, ranged, or even supernatural. Attackers Check Nature vs. their target's Poise. If successful, they inflict the weapon's DM plus any Edge as damage to Mettle. Use a relevant military or martial arts-related Concept in place of Nature, if higher.
+Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. This applies to any physical strike, whether unarmed, melee, ranged, or even supernatural. Attackers Check NATURE vs. their target's POISE. If successful, they inflict the weapon's DM plus any Edge as damage to Mettle. Use a relevant military or martial arts-related CONCEPT in place of NATURE, if higher.
 
-**Check** Nature vs. Poise
+**Check** NATURE vs. POISE
 
 {: .outcomes }
 
@@ -115,7 +115,7 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 -   **Melee** **Attacks** are close combat strikes on a foe in the same Zone. Narrate these as decisive strikes or flurries of blows, as you please.
 -   **Ranged** **Attacks** travel through Zones up to the weapon's Range. Past this, they face +1 Difficulty per Zone, up to twice the Range.
 -   **Area Attacks** skip the Check and just hit everyone in a Zone or more, Damage is 1d6 + DM for each target. If there was an original target hit by the main Attack, it does not also suffer the Area Attack.
--   **Grapple Attacks** raise Difficulty instead of doing damage. This goes by raw Frame; most weapons and armor do not count for either side. The target cannot Move without a Move Check vs. the Difficulty increase, but if successful they also escape the hold. The target also escapes if the Grappler does not reapply the hold next Round.
+-   **Grapple Attacks** raise Difficulty instead of doing damage. This goes by raw FRAME; most weapons and armor do not count for either side. The target cannot Move without a Move Check vs. the Difficulty increase, but if successful they also escape the hold. The target also escapes if the Grappler does not reapply the hold next Round.
 -   **Disarm** **Attacks** are melee or ranged Attacks that separate the target from their weapon. A Felling blow causes the target to drop the weapon instead of taking damage. An unarmed disarm may ***Seize*** the weapon and wield it themselves.
 -   **Stun** **Attacks** knock a foe out instead of killing, such as by a pommel strike, sleeper hold, etc. A Felling blow inflicts the Incapacitated Status instead of damage. Weapons without the *Stun* feature do half damage after Soak on Stun Attacks.
 -   **Unarmed Attacks** are less lethal. These have the (relatively!) *Soft* feature, inflicting only half damage after Soak.
@@ -123,11 +123,11 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 
 ### Defend
 
-A last-ditch attempt to save your skin by reducing the damage from a successful incoming Attack. This takes the form of blocking, parrying, or dodging -- whichever would be more effective or narratively sensible. Check Poise vs. the attacker's Nature. If successful, raise Soak by two against that Attack, plus one for every Edge. Even a failed Defend raises Soak by one.
+A last-ditch attempt to save your skin by reducing the damage from a successful incoming Attack. This takes the form of blocking, parrying, or dodging -- whichever would be more effective or narratively sensible. Check POISE vs. the attacker's NATURE. If successful, raise Soak by two against that Attack, plus one for every Edge. Even a failed Defend raises Soak by one.
 
 Defend must be the very next Action after the original Attack, one cannot wait until later in the Round. This can "undo" the effect of what would otherwise have been a Felling blow. It can also interrupt Initiative to defend an ally in the same Zone, replacing them as the target.
 
-**Check:** Poise vs. Nature
+**Check:** POISE vs. NATURE
 
 {: .outcomes }
 
@@ -140,9 +140,9 @@ Special weapons may grant a bonus to Defend, such as Shields and parrying dagger
 
 ### Know
 
-In-character knowledge can uncover helpful facts. For example, a scholar translating hieroglyphs inscribed on a door, a detective gauging weight from a set of footprints, a party using the library to delve for clues, a fashionista guessing how long a corpse's outfit has been out of style, a gambler trying to spot a tell, etc. Know is a Check of Concept vs. a fiat Difficulty for facts, or vs. Motive if used to judge a person.
+In-character knowledge can uncover helpful facts. For example, a scholar translating hieroglyphs inscribed on a door, a detective gauging weight from a set of footprints, a party using the library to delve for clues, a fashionista guessing how long a corpse's outfit has been out of style, a gambler trying to spot a tell, etc. Know is a Check of CONCEPT vs. a fiat Difficulty for facts, or vs. MOTIVE if used to judge a person.
 
-**Check:** Concept vs. Difficulty (or vs. Motive if a person)
+**Check:** CONCEPT vs. Difficulty (or vs. MOTIVE if a person)
 
 {: .outcomes }
 
@@ -151,13 +151,13 @@ In-character knowledge can uncover helpful facts. For example, a scholar transla
 > -   **Failure:** Guide tells what their CONCEPT should know outright.
 > -   **Twists:** *Delay, half-truth, target alerted, one wrong clue, etc.*
 
-The Player should frame these questions carefully if they want useful info, and Guides should be generous with answers! Having the right Concept can grant better information even without a Check. Always err towards giving out information, as it helps move the story along.
+The Player should FRAME these questions carefully if they want useful info, and Guides should be generous with answers! Having the right CONCEPT can grant better information even without a Check. Always err towards giving out information, as it helps move the story along.
 
 Make a Know Check only to *understand*, not perceive. As such, this does not detect traps, loot, lies, or ambushes. The Guide should usually tell the players what they see without gating it behind a Check. As such, even a failure grants them info -- usually the info they got from the Guide by listening before they reached for the dice.
 
 ### Move
 
-This dedicates an Action towards movement: running, climbing, jumping, swimming, etc. A character usually just takes their Move, only Checking if there is an obstacle. Avoiding traps, ducking through brambles, swimming, clambering over debris, etc. may call for a Check of Poise vs. a Difficulty set by the Guide. Exceptionally fast characters may move more than one Zone in a single Move, while slow ones may take two Moves or more to cross a single Zone.
+This dedicates an Action towards movement: running, climbing, jumping, swimming, etc. A character usually just takes their Move, only Checking if there is an obstacle. Avoiding traps, ducking through brambles, swimming, clambering over debris, etc. may call for a Check of POISE vs. a Difficulty set by the Guide. Exceptionally fast characters may move more than one Zone in a single Move, while slow ones may take two Moves or more to cross a single Zone.
 
 This Action is special because everyone gets a ***Free Move*** before their Action (never after!). Using the Free Move then a Move Action is "running," and crosses two Zones. If faced with an obstacle, they lose the Free Move and use their regular Move Action to overcome it.
 
@@ -173,16 +173,16 @@ This Action is special because everyone gets a ***Free Move*** before their Act
 Obstacles, scaling larger foes, and traps can be worth a Move Check:
 
 -   **Obstacles** like walls, rivers, brambles, etc. hinder moves into the Zone. For example, you must scale or breach a wall to enter.
--   **Scaling:** larger foes count as their own Zone or more to climb upon and deal with riders, etc. The Difficulty is the larger creature's Poise.
+-   **Scaling:** larger foes count as their own Zone or more to climb upon and deal with riders, etc. The Difficulty is the larger creature's POISE.
 -   **Traps** like falls, pits, spikes, lava, etc. do not prevent movement but do cause injury or inconvenience on a failure.
 
 ***Chases*** have the quarry and pursuers Move through a set of chase Zones, with the quarry deciding where to go. How well they overcome obstacles decides who wins.
 
 ### Parley
 
-Haggling, seduction, diplomacy, lies, threats, bribery, and negotiation are all good alternatives or preludes to battle. This is not mind-control and merely shifts the social situation in favor of the winner. Parley is a Check of Nature vs. Motive. The side with more leverage may get a bonus or better narrative outcome.
+Haggling, seduction, diplomacy, lies, threats, bribery, and negotiation are all good alternatives or preludes to battle. This is not mind-control and merely shifts the social situation in favor of the winner. Parley is a Check of NATURE vs. MOTIVE. The side with more leverage may get a bonus or better narrative outcome.
 
-**Check:** Nature vs. Motive (or highest Motive of an audience)
+**Check:** NATURE vs. MOTIVE (or highest MOTIVE of an audience)
 
 {: .outcomes }
 
@@ -229,9 +229,9 @@ Ramming or sideswiping is an Attack. Current speed is king -- a slower vehicle c
 
 ### Rally
 
-Restores Mettle by shaking off the pain of flesh wounds. This is a Check of Motive vs. the current Mettle of the character, restoring one or two points of Mettle, more with Edge. This cannot restore negative Mettle -- at that point, the harm is lasting. Rallies are vital for staying in a long fight against powerful foes.
+Restores Mettle by shaking off the pain of flesh wounds. This is a Check of MOTIVE vs. the current Mettle of the character, restoring one or two points of Mettle, more with Edge. This cannot restore negative Mettle -- at that point, the harm is lasting. Rallies are vital for staying in a long fight against powerful foes.
 
-**Check:** Motive vs. current Mettle
+**Check:** MOTIVE vs. current Mettle
 
 {: .outcomes }
 
@@ -240,15 +240,15 @@ Restores Mettle by shaking off the pain of flesh wounds. This is a Check of Moti
 > -   **Failure:** Restore only one point of Mettle.
 > -   **Twists:** *Delay, reveal secret, offend ally, draw more foes, etc.*
 
-If a gracious ally who passed Initiative to them has a higher Nature than the rallier's Motive, the Rallying character may Check on that instead. Play it up as words of encouragement.
+If a gracious ally who passed Initiative to them has a higher NATURE than the rallier's MOTIVE, the Rallying character may Check on that instead. Play it up as words of encouragement.
 
 A successful Rally also clears the effects of a Rattle, below:
 
 ### Rattle
 
-Taunting, threatening, trash-talking, and demoralizing an enemy. This Action is only effective if the target can understand the onslaught of indignity hurled at them. Rattle is a Check of Nature vs. current Mettle, but a spiteful, authoritative, or comedic Concept can do. This afflicts them with self-doubt and raises the Difficulty of their Rallies. A thoroughly rattled foe is inclined to surrender or flee.
+Taunting, threatening, trash-talking, and demoralizing an enemy. This Action is only effective if the target can understand the onslaught of indignity hurled at them. Rattle is a Check of NATURE vs. current Mettle, but a spiteful, authoritative, or comedic CONCEPT can do. This afflicts them with self-doubt and raises the Difficulty of their Rallies. A thoroughly rattled foe is inclined to surrender or flee.
 
-**Check:** Nature vs. current Mettle
+**Check:** NATURE vs. current Mettle
 
 {: .outcomes }
 
@@ -263,9 +263,9 @@ Difficulty increases from multiple rattlers do not stack. A target only feels th
 
 ### Sneak
 
-Moving silently and hiding in shadows are great ways to evade foes and get into places you aren't supposed to be. This only allows you to *remain* unnoticed by others. It is not possible if someone is looking right at you, or you do not have anywhere to hide. This is a Check of Poise vs. Motive, or the highest Motive in a group. A Stealthy Concept can swap in for Poise, if higher.
+Moving silently and hiding in shadows are great ways to evade foes and get into places you aren't supposed to be. This only allows you to *remain* unnoticed by others. It is not possible if someone is looking right at you, or you do not have anywhere to hide. This is a Check of POISE vs. MOTIVE, or the highest MOTIVE in a group. A Stealthy CONCEPT can swap in for POISE, if higher.
 
-**Check:** Poise vs. Motive
+**Check:** POISE vs. MOTIVE
 
 {: .outcomes }
 
@@ -282,11 +282,11 @@ Moving silently and hiding in shadows are great ways to evade foes and get into 
 
 Traveling between areas often just serves as the narrative opening of a new scene. This is perfectly fine. For example, "*After a bit of the usual traffic on I-95, you find yourselves eating crabs at the Bulging Bushel*." If the journey is as important as the destination, use this Action to give it more weight. The players get to make decisions and the Guide gets to add drama with encounters!
 
-The lead traveler Checks their best navigation or area knowledge Concept, with the Difficulty being how troublesome the area between is. Success means the group arrived safely, and failure is an encounter along the way. You can also "zoom in," requiring individual Travel Checks to get to places *between* the start and goal. In any case, this is meant to enhance not restrict. Parties who want to go somewhere else should be able to "drop a pin" and set an unplanned destination.
+The lead traveler Checks their best navigation or area knowledge CONCEPT, with the Difficulty being how troublesome the area between is. Success means the group arrived safely, and failure is an encounter along the way. You can also "zoom in," requiring individual Travel Checks to get to places *between* the start and goal. In any case, this is meant to enhance not restrict. Parties who want to go somewhere else should be able to "drop a pin" and set an unplanned destination.
 
 A single Travel Check can stand for hours, days, or weeks depending on the distance and vehicles. Adventurers "travel on their stomachs." Lacking rations inflicts a +1 Difficulty per day without as they bicker and scrounge for supplies. It is important to prepare well.
 
-**Check:** Concept vs. Difficulty
+**Check:** CONCEPT vs. Difficulty
 
 {: .outcomes }
 
@@ -301,7 +301,7 @@ Rivals or foes can Travel too, giving them their own Edge result. The highest Ed
 
 ### Use
 
-This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. For example, pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. Otherwise, Check a relevant Concept vs. a fiat Difficulty. Let a failure stand - move the story along instead of allowing retries.
+This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. For example, pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. Otherwise, Check a relevant CONCEPT vs. a fiat Difficulty. Let a failure stand - move the story along instead of allowing retries.
 
 **Check:** FOCUS vs. Difficulty
 
@@ -326,7 +326,7 @@ Active foes and enemies are not the only dangers to face. This section holds all
 Adventurers should be wary of venomous snakes, blowgun darts, the miasma of the tomb, and a "mickey" slipped in their drink! These impart a sense of dreadful urgency to any scene. If exposed, the Guide Rolls the Dose dice and applies the effects:
 
 -   **Disease:** Roll Dose, the sufferer cannot Rally and takes 1 damage each day, up to the result. Some diseases take weeks or months instead.
--   **Poison:** Roll Dose and subtract the victim's Frame. If positive, they cannot Rally and take 1 damage each Round, up to the result.
+-   **Poison:** Roll Dose and subtract the victim's FRAME. If positive, they cannot Rally and take 1 damage each Round, up to the result.
 -   **Tranquilizers:** as poison, but the Dose result also raises the victim's Check Difficulties. This tends to put them out of action before death.
 
 Afflictions end when cured or the damage runs out. The victim may then Rally back, if not at negative HP. To keep the suspense alive, the Guide should keep the Dose result secret. Even so, a Know Check based on medical knowledge may suggest some treatments or how long it will take for the affliction to run its course.
@@ -344,62 +344,59 @@ Afflictions end when cured or the damage runs out. The victim may then Rally bac
 |Cobra venom|Poison|2d6|Fatigue, swelling|
 |Tranquilizer dart|Tranquilizer|1d6|Fatigue, clumsiness|
 
-Adjust the dosage for the victim's size using the Frame Conversion chart (p.89) as a loose guide. For example, the Dose must be at least 3d6 (3-18) for a 12 Frame elephant.
+Adjust the dosage for the victim's size using the FRAME Conversion chart (p.89) as a loose guide. For example, the Dose must be at least 3d6 (3-18) for a 12 FRAME elephant.
 
 {: .highlight }
-- **Affliction:** Roll Dose for max damage, lose Rally if any damage. \
+- **Affliction:** Roll Dose for max damage, lose Rally if any damage.
 - ***Poisons*** do 1/Round, ***Diseases*** do 1/Day, ***Tranqs*** also add Difficulty.
 
 ### Cover
 
-Combatants can use nearby obstacles to protect themselves from ranged attacks, referred to as taking ***Cover***. There are two ways to use Cover: ***Partial*** and ***Total***. Taking Partial Cover adds +2 to Poise Difficulty vs. incoming attacks. Total Cover prevents targeting entirely for both attacker and defender. Area Attacks do half damage in Partial Cover and none in Full Cover. One may pop out of Total Cover and target another character, but it then counts as only Partial until their next Action.
+Combatants can use nearby obstacles to protect themselves from ranged attacks, referred to as taking ***Cover***. There are two ways to use Cover: ***Partial*** and ***Total***. Taking Partial Cover adds +2 to POISE Difficulty vs. incoming attacks. Total Cover prevents targeting entirely for both attacker and defender. Area Attacks do half damage in Partial Cover and none in Full Cover. One may pop out of Total Cover and target another character, but it then counts as only Partial until their next Action.
 
 Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only +1 against gunshots, etc. If Cover is easily penetrated by an attack, such as a wooden wall versus a tank cannon, it can only ever count as Partial. Use your judgment as always.
 
 {: .highlight }
-**Partial Cover:** +2 to POISE vs. incoming Attacks, half damage from Area Attacks.  
-**Total Cover**: cannot target or be targeted.
+- **Partial Cover:** +2 to POISE vs. incoming Attacks, half damage from Area Attacks.  
+- **Total Cover**: cannot target or be targeted.
 
 ### Deprivation
 
 Amid fantastic perils, it is still possible to suffer from basic thirst, hunger, fatigue, and suffocation. An adventurer needs one serving of rations, a canteen (liter or so) of water each day, roughly six hours of rest, and ample air. Lacking these can have real effects:
 
--   **Hunger:** each week without food lowers Frame by one. At zero, the character has starved to death. Each day of normal rations restores 1 Frame lost to hunger.
-
--   **Thirst:** each day without water lowers Poise by one. At zero, they die from dehydration. Each day of normal drinking restores 1 Poise lost to thirst.
-
--   **Fatigue:** each day without rest lowers Concept by one. At zero, they die from exhaustion. A full day of rest removes this effect. A fatigued character might fall asleep as a Twist on a failed Check.
-
+-   **Hunger:** each week without food lowers FRAME by one. At zero, the character has starved to death. Each day of normal rations restores 1 FRAME lost to hunger.
+-   **Thirst:** each day without water lowers POISE by one. At zero, they die from dehydration. Each day of normal drinking restores 1 POISE lost to thirst.
+-   **Fatigue:** each day without rest lowers CONCEPT by one. At zero, they die from exhaustion. A full day of rest removes this effect. A fatigued character might fall asleep as a Twist on a failed Check.
 -   **Suffocation:** one can hold their breath in strenuous conditions for 1d6 rounds, or 2d6 if they have time for deep breaths beforehand. Beyond this, they lose 1 Mettle per round.
 
 These are not very heroic ways to go but they give good reason to buy rations, shelter, and water. This sort of "resource management" is a whole sub-game some players enjoy. The Guide may find them useful for evoking a sense of urgency in extreme conditions.
 
 {: .highlight }
-**Hunger:** -1 Frame per week, restored by food.  
-**Thirst:** -1 Poise per day, restored by water.  
-**Fatigue:** -1 Focus per day, restored by sleep.  
-**Suffocation:** Hold breath for 1d6 Rounds before taking damage.
+- **Hunger:** -1 FRAME per week, restored by food.  
+- **Thirst:** -1 POISE per day, restored by water.  
+- **Fatigue:** -1 CONCEPT per day, restored by sleep.  
+- **Suffocation:** Hold breath for 1d6 Rounds before taking damage.
 
 ### Falls
 
-Damage of course depends on how far the character fell: 1d6, plus 2 for every full building story or \~5-meter vertical Zone.  This damage Soaks with Poise instead of Frame. For example, a short fall like tumbling into a trench does 1d6+2, a second-story window or tree does 1d6+4, a tall tree or several floors of a building may do 1d6+8, etc. Terminal velocity limits damage to 1d6 + 20, such as skydiving without a parachute.
+Damage of course depends on how far the character fell: 1d6, plus 2 for every full building story or \~5-meter vertical Zone.  This damage Soaks with POISE instead of FRAME. For example, a short fall like tumbling into a trench does 1d6+2, a second-story window or tree does 1d6+4, a tall tree or several floors of a building may do 1d6+8, etc. Terminal velocity limits damage to 1d6 + 20, such as skydiving without a parachute.
 
 Hard ground like concrete or rubble may inflict +1, spikes or traps Roll separate damage (1d6+), water may be -2, jumping purposefully instead of falling reliably grants -2, etc.
 
-The truly daring may ***Plummet*** onto an enemy below, raising their DM by two for every Zone fallen. They still suffer their own falling damage, soaked by Poise as usual.
+The truly daring may ***Plummet*** onto an enemy below, raising their DM by two for every Zone fallen. They still suffer their own falling damage, soaked by POISE as usual.
 
 {: .highlight }
-**Falls:** 1d6 damage, +2 per Zone (\~5m), Soak with POISE.  
-**Plummet:** +2 to DM per full Zone fallen.
+- **Falls:** 1d6 damage, +2 per Zone (\~5m), Soak with POISE.  
+- **Plummet:** +2 to DM per full Zone fallen.
 
 ### Fire
 
-Fire does damage 1d6 or more damage each round until the target escapes it. This damage depends on how big the fire is and how hot it is burning, soaked by Frame and armor. For example, a torch or campfire would do 1d6 or so, a raging Bonfire 2d6, and a forge or lava flow 3d6 or more.
+Fire does damage 1d6 or more damage each round until the target escapes it. This damage depends on how big the fire is and how hot it is burning, soaked by FRAME and armor. For example, a torch or campfire would do 1d6 or so, a raging Bonfire 2d6, and a forge or lava flow 3d6 or more.
 
 Some targets are naturally flammable, such as wood, mummies, tree monsters, or rags. Others become so via napalm, gasoline, or magical curses. Flammable targets take on the Burning Status, meaning they cannot Rally and continue to take the same damage each Round until extinguished or burnt to cinders.
 
 {: .highlight }
-**Fire:** 1d6 or more damage, soaked by FRAME.
+- **Fire:** 1d6 or more damage, soaked by FRAME.
 
 ### Traps
 
@@ -440,11 +437,11 @@ should reward creative ideas instead of forcing them to play out the
 trap as written.
 
 {: .highlight }
-**Traps:** Move Check to avoid suffering effects.
+- **Traps:** Move Check to avoid suffering effects.
 
 ### Visibility
 
 Darkness, underbrush, and smoke make tasks related to vision more difficult. In general, dim light is +1 Difficulty and total darkness +3. Equipment such as torches or night vision goggles can prevent this. Sudden flashes of bright light can also hinder visibility.
 
 {: .highlight }
-Lighting or obscurement inflicts -1 to -3 to sight-related Checks.
+- Lighting or obscurement inflicts -1 to -3 to sight-related Checks.

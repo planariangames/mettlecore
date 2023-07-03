@@ -78,9 +78,9 @@ if you roll a 6 and a 2, go to the distinctive feature in the row for "6, 2."
 
 ## Step 3: Attributes
 
-These are your character's ***Concept,*** ***Frame, Motive, Nature,*** and ***Poise*** pools.  Attributes lend them substance within the rules of the game. The more dice there are in an Attribute ***Pool***, the better they are at things related to it. Attributes range from 1 to 6 for starting characters, with a 3 being average. Highly experienced adventurers may exceed those bounds at the Guide's discretion.
+These are your character's ***CONCEPT,*** ***FRAME, MOTIVE, NATURE,*** and ***POISE*** pools.  Attributes lend them substance within the rules of the game. The more dice there are in an Attribute ***Pool***, the better they are at things related to it. Attributes range from 1 to 6 for starting characters, with a 3 being average. Highly experienced adventurers may exceed those bounds at the Guide's discretion.
 
-Each Attribute may also bear a ***Descriptor***; a word or phrase fleshing out what the Attribute covers. This defined scope is vital for the ***Concept*** Attribute and useful for the others. Having the right Descriptor for a task may even let you just assume success. Players may leave Descriptors blank at creation and discover them as they play.
+Each Attribute may also bear a ***Descriptor***; a word or phrase fleshing out what the Attribute covers. This defined scope is vital for the ***CONCEPT*** Attribute and useful for the others. Having the right Descriptor for a task may even let you just assume success. Players may leave Descriptors blank at creation and discover them as they play.
 
 Starting characters are well above average, with room to grow. You can make more or less "heroic" characters by changing the number of points they start with. Choose a starting ***array*** or buy Attributes ***freestyle***. Both methods are equivalent.
 
@@ -104,17 +104,17 @@ Starting characters are well above average, with room to grow. You can make more
 
 Attribute pools can improve later with experience points. Gain these by recounting memorable events from the last adventure.
 
-Circumstances or equipment may change an Attribute pool. In this case, put the modified pool in parentheses to the right. For example, "Poise 4(5)". Use the original *unaltered* pool for calculating Experience, Backstories, and Mettle.
+Circumstances or equipment may change an Attribute pool. In this case, put the modified pool in parentheses to the right. For example, "POISE 4(5)". Use the original *unaltered* pool for calculating Experience, Backstories, and Mettle.
 
 Unusual settings may introduce entirely new Attributes for things like cybernetics, magic, superpowers, and martial arts.
 
 ### CONCEPT
 
-This is the Adventurer's calling in life, and the size of their dice pool tells you how good they are at it. Concept is special because it can replace other Attributes if higher and better suited for the task. For example, a *Royal Fencing Instructor* could use their Concept instead of Nature when wielding a light sword. This is only for the active side of a Check. Concept cannot swap in for the passive Difficulty.
+This is the Adventurer's calling in life, and the size of their dice pool tells you how good they are at it. CONCEPT is special because it can replace other Attributes if higher and better suited for the task. For example, a *Royal Fencing Instructor* could use their CONCEPT instead of NATURE when wielding a light sword. This is only for the active side of a Check. CONCEPT cannot swap in for the passive Difficulty.
 
-Guides often grant free information or automatic success with the right Concept Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon, while those with less relevant Descriptors may have to make Checks.
+Guides often grant free information or automatic success with the right CONCEPT Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon, while those with less relevant Descriptors may have to make Checks.
 
-Assume that characters are generally competent and may use their Concept pool even for tasks unrelated to their Descriptor, but at double Difficulty. For example, a very skilled *Carpenter* could pilot a plane, if poorly. A relevant Backstory can bypass the added Difficulty.
+Assume that characters are generally competent and may use their CONCEPT pool even for tasks unrelated to their Descriptor, but at double Difficulty. For example, a very skilled *Carpenter* could pilot a plane, if poorly. A relevant Backstory can bypass the added Difficulty.
 
 **<u>Example Descriptors</u>:** *cat burglar, astromech pilot, village
 blacksmith, unemployed librarian, time-traveling lunatic, courtier,
@@ -122,9 +122,9 @@ etc.*
 
 ### FRAME
 
-Adventurers come in all shapes and sizes. The pool reflects the physical power of the character: their might, vigor, and vitality. As such, Frame helps bear burdens as well as dish out and take damage in combat. The Descriptor should include their body type or build and even their species if non-human.
+Adventurers come in all shapes and sizes. The pool reflects the physical power of the character: their might, vigor, and vitality. As such, FRAME helps bear burdens as well as dish out and take damage in combat. The Descriptor should include their body type or build and even their species if non-human.
 
-Frame is an unusual Attribute because it scales with size, often well out of normal human character range. It is not subject to Checks and does not count as the highest Attribute for Mettle and Backstories.
+FRAME is an unusual Attribute because it scales with size, often well out of normal human character range. It is not subject to Checks and does not count as the highest Attribute for Mettle and Backstories.
 
 **<u>Example Descriptors:</u>** *medium, tall and lanky, short, chunky,
 average build, athletic, pot-bellied, lanky, plump, stout, sprightly,
@@ -132,7 +132,7 @@ etc.*
 
 ### MOTIVE
 
-An interesting character is fueled by a goal that drives their actions and keeps them going even when things seem hopeless. Motive forms part of the Mettle score, enables one to Rally (p.48) back into action when overwhelmed, and alerts them to the wiles of stealthy or manipulative foes. A strong motive may be unhealthy for a normal person, but adventurers often harbor overwhelming drives and passions. The Descriptor may change during play, especially if fulfilled.
+An interesting character is fueled by a goal that drives their actions and keeps them going even when things seem hopeless. MOTIVE forms part of the Mettle score, enables one to Rally (p.48) back into action when overwhelmed, and alerts them to the wiles of stealthy or manipulative foes. A strong MOTIVE may be unhealthy for a normal person, but adventurers often harbor overwhelming drives and passions. The Descriptor may change during play, especially if fulfilled.
 
 **<u>Example Descriptors</u>:** *Avenge my master, bring justice to the
 oppressed, consume great quantities, escape from the oubliette, kill
@@ -140,7 +140,7 @@ vampires, etc.*
 
 ### NATURE
 
-This pool embodies sheer force of personality. Most Social *and* Combat Checks default to this pool, both mere expressions of the fire that burns within their heart. Characters are more complex than this, so view the Descriptor for Nature as only the tip of their personal iceberg.
+This pool embodies sheer force of personality. Most Social *and* Combat Checks default to this pool, both mere expressions of the fire that burns within their heart. Characters are more complex than this, so view the Descriptor for NATURE as only the tip of their personal iceberg.
 
 A high pool can drastically alter the effect of this Descriptor! The masked vigilante and the cranky teenager may both be *Sullen*, but only one of them makes it look good.
 
@@ -163,7 +163,7 @@ slow.*
 Thinking up good Descriptors for Attributes can be challenging. Use the table below if you need inspiration or just want to let Chance decide. Reword and expand to fit your idea of the character, if needed.
 
 {: .lh-0}
-| d66 | FOCUS | MOTIVE | NATURE | POISE | FRAME |
+| d66 | CONCEPT | MOTIVE | NATURE | POISE | FRAME |
 |:----------:|:---------------------:|:--------------:|:----------------:|:-----------------:|:---------------:|
 | 1,1 | Acrobat | Achieve | Aloof | Brutish | Athletic |
 | 1,2 | Artist | Afflict | Blunt | Casual | Burly |
@@ -204,7 +204,7 @@ Thinking up good Descriptors for Attributes can be challenging. Use the table be
 
 ## Step 4: Backstories
 
-These short phrases broaden the character by giving them a history and the skills to go with it. Each character may have as many Backstories as their highest non-Frame Attribute, usually 4-5 for a starting adventurer. These can be good or bad experiences, virtues, vices, likes, dislikes, etc. Their main advantage is they serve as extra Concepts. When making a Concept Check for something it doesn't cover, they can forego the usual double Difficulty by calling on a related Backstory instead.
+These short phrases broaden the character by giving them a history and the skills to go with it. Each character may have as many Backstories as their highest non-FRAME Attribute, usually 4-5 for a starting adventurer. These can be good or bad experiences, virtues, vices, likes, dislikes, etc. Their main advantage is they serve as extra CONCEPTs. When making a CONCEPT Check for something it doesn't cover, they can forego the usual double Difficulty by calling on a related Backstory instead.
 
 One Backstory must describe their native language and culture. Language-granting Backstories should include the name of a place, with the language in parentheses. For example, *Raised on the mean streets of New York (English)* or *Pampered Sicilian Nobility (Italian).* Check language-granting Backstories for cultural knowledge or local flavor.
 
@@ -219,7 +219,7 @@ figurines, etc.*
 <strong>BACKGROUND SEEDS</strong>
 </center>
 
-Invent your own or use the table below for inspiration. Two or three good Backstories are plenty to start with. More so than other tables in character creation, it is vital to flesh these out and make them your own. Try to intertwine Backstories with Contacts and Motive!
+Invent your own or use the table below for inspiration. Two or three good Backstories are plenty to start with. More so than other tables in character creation, it is vital to flesh these out and make them your own. Try to intertwine Backstories with Contacts and MOTIVE!
 
 One Backstory must describe your native land and language. You won't find those on the chart below - talk with your Guide instead.
 
@@ -301,7 +301,7 @@ If a character abuses their Contacts, they may lose them. The only way to bring 
 
 An adventurer can only carry so much, even after returning from a lucrative outing. Each burdensome item counts as at least one ***Load***, based on how many hands it would take an average person to carry. Ignore single small items like keys, wallets, daggers, etc. as zero Load.
 
-One can easily carry Load equal to their Frame. If they carry more than this, every Zone crossed takes up two Moves. If their Speed was higher than one Zone per move, lower it by one instead. If they try to carry over twice their Frame, they are Incapacitated.
+One can easily carry Load equal to their FRAME. If they carry more than this, every Zone crossed takes up two Moves. If their Speed was higher than one Zone per move, lower it by one instead. If they try to carry over twice their FRAME, they are Incapacitated.
 
 <center>
 <strong>COMMON LOADS</strong>
@@ -318,7 +318,7 @@ One can easily carry Load equal to their Frame. If they carry more than this, ev
 | Body, Small (large dog, etc.) | 2 |
 | Body, Large (Pony, etc.) | 8 |
 
-The Load for carrying someone includes Load they have on them. This can be important when carrying a hurt ally, packing mounts, etc. Every point of Load penalizes Swim (Move) Checks regardless of Frame.
+The Load for carrying someone includes Load they have on them. This can be important when carrying a hurt ally, packing mounts, etc. Every point of Load penalizes Swim (Move) Checks regardless of FRAME.
 
 Adventurers may drop bulky items such as backpacks or sacks to avoid encumbrance or distract pursuers. This is free but picking it back up is a Use Action.
 
@@ -341,7 +341,7 @@ Each player then gets a turn to talk about a memorable event or ***Highlight***�
 
 Give them two rounds of this for a medium-length game session, and three for a long one. This means typical XP awards are from one to three XP, depending on the length of the last session.
 
-**Examples:** *came up with a clever plan or idea, solved a mystery or puzzle, defeated a dangerous foe, good sport about a drastic failure, "went along" with a social Check, fulfilled their Motive, etc.*
+**Examples:** *came up with a clever plan or idea, solved a mystery or puzzle, defeated a dangerous foe, good sport about a drastic failure, "went along" with a social Check, fulfilled their MOTIVE, etc.*
 
 If a player is bringing up highlights the rest of the table finds obnoxious, consider that XP are partly diagnostic. Finding out what a player thinks is worthy tells you how they want to play. Talk it over.
 
@@ -349,7 +349,7 @@ Players who miss a session can still get XP from the last one they attended, and
 
 ### Spending XP
 
-To raise the highest Attribute by one, spend twice its current level in XP. To raise any "lesser" Attribute by one, spend XP equal to the highest. If two or more of the highest Attributes are equal, the one you are raising counts as the highest. Frame may count as the highest Attribute for XP.
+To raise the highest Attribute by one, spend twice its current level in XP. To raise any "lesser" Attribute by one, spend XP equal to the highest. If two or more of the highest Attributes are equal, the one you are raising counts as the highest. FRAME may count as the highest Attribute for XP.
 
 You may spend XP during the actual game, especially during a tense conflict! This represents learning an opponent's moves, growing from a rivalry, or lengthy training finally coming to fruition.
 
@@ -365,11 +365,11 @@ Dana is making a new character for an upcoming game. Her Guide set it in an alte
 
 **Step 2 -- Appearance** Dana thinks it would be fun to play a sardonic H.R. Mencken type with a sword cane. She decides on a thin, well-dressed mature gentleman. Maybe suffering from an old leg injury? She writes *"A crisply-attired gentleman with a telling limp in his right leg."*
 
-**Step 3** **-- Attributes:** Dana decides to go with the array to keep things simple. She rolls "*Gambler*" as his Concept, spices it up as *"Itinerant Gambler,"* and gives it 5D. She sees him as difficult to deal with, so she chooses "*Competition*" as his Motive at 4D, and "*Curmudgeon*" as his Nature at 3D. The low 2D goes in Poise to reflect his "*old leg injury*" -- he is not as agile as he was before the accident. The other 3D goes in Frame as he is "*svelte but wiry."* His Mettle is nine; four from Motive and five from his highest Attribute. She pauses for a second; Viktor honestly seems like a bit of a jerk, but also a lot of fun to play.
+**Step 3** **-- Attributes:** Dana decides to go with the array to keep things simple. She rolls "*Gambler*" as his CONCEPT, spices it up as *"Itinerant Gambler,"* and gives it 5D. She sees him as difficult to deal with, so she chooses "*Competition*" as his MOTIVE at 4D, and "*Curmudgeon*" as his NATURE at 3D. The low 2D goes in POISE to reflect his "*old leg injury*" -- he is not as agile as he was before the accident. The other 3D goes in FRAME as he is "*svelte but wiry."* His Mettle is nine; four from MOTIVE and five from his highest Attribute. She pauses for a second; Viktor honestly seems like a bit of a jerk, but also a lot of fun to play.
 
 Armed with these details, she goes back to the Name step. She picks the last name "Alkaev" from a search of Russian family names.
 
-**Step 4 -- Backstories**: His highest Attribute (Concept) is 5D, so he has up to five Backstories. Going right to his tragic past, he gets *Master Fencer who Lost his Dream after a Leg Injury.* Next, she gives him *Struggling Baltimorean Bachelor (English)*, which should make him fit in well with the setting. She also gives him *Raised by Russian Immigrants (Russian)* as his origin, which makes him conversant in the language. It may also be useful for cooking if it comes up! This leaves two Backstories she can reveal later.
+**Step 4 -- Backstories**: His highest Attribute (CONCEPT) is 5D, so he has up to five Backstories. Going right to his tragic past, he gets *Master Fencer who Lost his Dream after a Leg Injury.* Next, she gives him *Struggling Baltimorean Bachelor (English)*, which should make him fit in well with the setting. She also gives him *Raised by Russian Immigrants (Russian)* as his origin, which makes him conversant in the language. It may also be useful for cooking if it comes up! This leaves two Backstories she can reveal later.
 
 **Step 5 -- Resources:** Dana's Guide assigns 2 (Struggling) for Credit based on Viktor's situation. Dana decides he usually wears a *brown suit* and lives in a *modest apartment*. He carries an *elegant sword cane*, a *pocket knife*, a *pocket watch & fob*, and a *deck of cards*. He has two contacts for now: "Oleg" as someone he owes money to, and "Samuelson" as an old fencing rival. In keeping with his personality, these are somewhat hostile relationships, but this is fine: Oleg may help Viktor just to finally get his money back, and Samuelson out of a sense of professional guilt. She can work out his other Resources as needed.
 
