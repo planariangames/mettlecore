@@ -237,7 +237,7 @@ Restores Mettle by shaking off the pain of flesh wounds. This is a Check of Moti
 
 {: .outcomes }
 
-> -   Success:\*\* Restore two Mettle and end the effect of a Rattle.
+> -   **Success**: Restore two Mettle and end the effect of a Rattle.
 > -   **Edge:** *Restore that many extra Mettle.*
 > -   **Failure:** Restore only one point of Mettle.
 > -   **Twists:** *Delay, reveal secret, offend ally, draw more foes, etc.*
@@ -277,9 +277,7 @@ Moving silently and hiding in shadows are great ways to evade foes and get into 
 > -   **Twists:** *Delay, leave telltale clues, end up in different area, drop gear, etc.*  
 
 -   **Hiding** is a matter of finding Cover rather than a checked Action. If their seekers move into a position where the Cover would fail, the hider can try a Sneak Check to slip away. The better the hiding spot, the less likely they will need to slip away from it.
-
 -   **Surprise** attacks can trigger after a successful Sneak. The surprised side goes a Round without an Action. Next Round things go back to normal for the survivors.
-
 -   **Steal/Plant** small objects under 1 Load, with Edge adding extras. Good for framing a suspect, snitching a set of keys, leaving trackers, live grenades, etc. Often done instead of an Attack or Defense, leaving the seemingly victorious foe unaware of their loss or gain.
 
 ### Travel
@@ -361,8 +359,8 @@ Combatants can use nearby obstacles to protect themselves from ranged attacks, r
 Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only +1 against gunshots, etc. If Cover is easily penetrated by an attack, such as a wooden wall versus a tank cannon, it can only ever count as Partial. Use your judgment as always.
 
 {: .highlight }
-**Partial Cover:** +2 to POISE vs. incoming Attacks, half damage from Area Attacks.
-*Total Cover*: cannot target or be targeted.
+**Partial Cover:** +2 to POISE vs. incoming Attacks, half damage from Area Attacks.  
+**Total Cover**: cannot target or be targeted.
 
 ### Deprivation
 
@@ -379,9 +377,9 @@ Amid fantastic perils, it is still possible to suffer from basic thirst, hunger,
 These are not very heroic ways to go but they give good reason to buy rations, shelter, and water. This sort of "resource management" is a whole sub-game some players enjoy. The Guide may find them useful for evoking a sense of urgency in extreme conditions.
 
 {: .highlight }
-**Hunger:** -1 Frame per week, restored by food.
-**Thirst:** -1 Poise per day, restored by water.
-**Fatigue:** -1 Focus per day, restored by sleep.
+**Hunger:** -1 Frame per week, restored by food.  
+**Thirst:** -1 Poise per day, restored by water.  
+**Fatigue:** -1 Focus per day, restored by sleep.  
 **Suffocation:** Hold breath for 1d6 Rounds before taking damage.
 
 ### Falls
@@ -393,7 +391,7 @@ Hard ground like concrete or rubble may inflict +1, spikes or traps Roll separat
 The truly daring may ***Plummet*** onto an enemy below, raising their DM by two for every Zone fallen. They still suffer their own falling damage, soaked by Poise as usual.
 
 {: .highlight }
-**Falls:** 1d6 damage, +2 per Zone (\~5m), Soak with POISE.
+**Falls:** 1d6 damage, +2 per Zone (\~5m), Soak with POISE.  
 **Plummet:** +2 to DM per full Zone fallen.
 
 ### Fire
