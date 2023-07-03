@@ -49,37 +49,21 @@ The following weapons chart gives examples of the more popular weapons. Each has
 ### Specials
 
 -   **2H** takes two hands to wield.
-
 -   **Ammo** is the number of shots before reloading with a *Use* Action.
-
 -   **Full Auto** grants +1D to Attack for every 10 ammo spent. The firer may also spend one Edge per extra hit on the same or different targets. Against multiple targets, the Attack is vs. the *highest* Poise defense in the group. Full Auto weapons can opt for a Burst instead.
-
 -   **Blast** also inflicts 1d6 + DM as Area Attack to others in the target Zone.
-
 -   **Defend** adds a bonus to Defend Checks when wielded.
-
 -   **Burst** uses up 3 ammo in one trigger pull to get +2D on the Attack.
-
 -   **Shield** adds a bonus to Poise defense versus incoming Attacks.
-
 -   **Grapple** use the weapon's Hit and DM on Grapple Checks.
-
 -   **Entangle** Grapples using the weapon's Hit and DM and does not take a further Action to maintain the Difficulty increase each round. Target escapes if they beat the increased Difficulty on a Move Check.
-
 -   **Inferior:** weapons are shoddy; lower Hit and Cost by one.
-
 -   **Range** is how many Zones one can shoot or throw the weapon. Beyond this, they fire at +1 Difficulty per Zone, up to twice the Range. A zero (0) Range means it Attacks normally within the Zone but is Difficulty +1 to hit targets in the next. A weapon with no listed Range can be thrown in the same Zone but loses its Hit bonus.
-
 -   **Reach** weapons steal Initiative from an attacker, unless out of Actions or the attacker is also using a Reach weapon.
-
 -   **Scoped** weapons add that many Zones to Range at the cost of an Action.
-
 -   **Soft:** less-lethal weapons like fists or whips. Half damage *after* Soak.
-
 -   **Stun** weapons do their full damage when making Stun attacks. If it *only* Stuns, it does damage but will always Stun on a Felling blow.
-
 -   **Superior** weapons are well-made; raise Hit and Cost by one.
-
 -   **Wrap** weapons are flexible and ignore a foe's Shield Difficulty.
 
 {: .text-center}
@@ -141,15 +125,10 @@ Aside from being vital flavor text, items can enable or enhance actions. Only ju
 These keep an adventurer up and running, and need to be listed as they have specific effects within the system. Cost is for a day's dose, and high doses do not stack effectively -- the benefits and drawbacks cancel out.
 
 -   **Activated charcoal:** negates upcoming Affliction damage from most ingested poisons. Load 0, Resources 1.
-
 -   **Antibiotics:** negates upcoming Affliction damage from bacterial diseases. Load 0, Resources 2.
-
 -   **Painkillers, over the counter:** ignore one die of penalty from negative Mettle. Load 0, Resources 1.
-
 -   **Painkillers, prescription:** ignore two dice of penalty from negative Mettle. Load 0, Resources 2.
-
 -   **Stimulant, over the counter:** ignore a die of Fatigue drain from Concept. Includes coffee. Load 0, Resources 1.
-
 -   **Stimulant, prescription:** ignore two dice of Fatigue drain from Concept, and one die of penalty from negative Mettle. Load 0, Resources 2.
 
 ### Standard Kits
@@ -157,7 +136,6 @@ These keep an adventurer up and running, and need to be listed as they have spec
 These are standard personal possessions characters in certain settings may start with. These are painless ways to make sure a character does not start out missing obvious things.
 
 -   **Explorer's pack:** basic things an adventurer may need. Includes a *Small backpack*, *Snacks (1 day of rations), Canteen (\<1 L), Flashlight, Sack, paracord (\~10 m), knife, lighter, first aid kit, light blanket, notebook, pen, and pencil.* Load 1, Resources 2.
-
 -   **Pockets/Purse:** the contents of a modern person's pockets. Includes *Keys, Wallet, Cash, Credit cards, and ID.* Likely to also include a *cell phone* in more recent modern games. Load: 0, Resources 1.
 
 ## Hirelings
@@ -165,11 +143,8 @@ These are standard personal possessions characters in certain settings may start
 No man is an island, and even a well-rounded party can find they lack the ability or patience for certain tasks. In general, you get what you pay for. A Hireling's CONCEPT is usually equal to the Funds spent hiring them or better, with other Attributes being average unless the Guide wants to spice them up.
 
 -   **Lawyer:** adventurers get into all sorts of shenanigans, lawbreaking, and general stupidity. Fair or foul, a lawyer can get them out of it. Keeping one on retainer can make escaping the consequences of your actions faster and easier.
-
 -   **Local Guide:** hiring a local or street urchin to show you around a new place is a great way to avoid trouble, but they can also expose you to scams. Most want repeat business however and try to take advantage of your naivety in ways you don't notice.
-
 -   **Official:** having a politician, policeman, or well-placed bureaucrat in your pocket is *de rigueur* at higher Resource levels. Your backer may have a few they can share but remember -- so may your foes. Maybe even the same ones!
-
 -   **Servant:** somehow, party members are notoriously unreliable for basic tasks. This can be a driver, butler, porter, or other such useful person.
 
 While not technically hirelings, the party may also bribe passersby or layabouts. These watch a vehicle, reveal info, carry messages, etc. This is also a great way for the Guide to pass on much-needed clues from a source the party has no reason to mistrust.
@@ -184,13 +159,9 @@ Riding atop a mount is a great advantage. In combat, the mount and rider count a
 **MOUNTS**
 
 -   **Camel:** *Pool 4(Frame 7), Speed 2, Attack (kick 7 DAM)*. Ships of the desert, hardy and stubborn.
-
 -   **Donkey:** *Pool 4(Frame 5), Speed 2, Attack (kick 5 DAM)*. Like a small but sturdy horse. Shines on rough terrain as a pack or riding animal.
-
 -   **Elephant:** *Pool 4(Frame 12), Speed 1, Attack (stomp 12 DAM)*. Mighty and steady.
-
 -   **Horse:** *Pool 4 (Frame 7), Speed 3, Attack (kick 7 DAM)*. A strong, fast, and awe-inspiring mount for the ages.
-
 -   **Mule**: *Pool 4(Frame 7), Speed 2, Attack (kick 7 DAM)*. A sturdy mount or beast of burden with a lot of attitude.
 
 ## Vehicles
@@ -198,9 +169,7 @@ Riding atop a mount is a great advantage. In combat, the mount and rider count a
 Cars, airplanes, tanks, and bulldozers have ratings for their ease of handling, maximum speed, and Frame. When necessary, the driver or pilot Checks their Concept vs. their current Speed.
 
 -   **Handling**: how easily it turns compared to others of its class. The modifier adds to the relevant Concept on Checks to control it.
-
 -   **Speed**: how fast it can go. This affects the Move and Race Actions in slightly different ways. Current Speed acts as a Move in Zones and as a substitute Poise score.
-
 -   **Frame**: Size and weight, same as for Characters.
 
 The terrain favored by a vehicle should be obvious from its type. Unsuitable terrain increases Difficulty or is impassible, depending.
@@ -218,8 +187,8 @@ A Vehicle is an extension of the driver and uses their Mettle! This means that s
 A Crash is when a vehicle loses control and hits an obstacle or rolls over avoiding one. The vehicle takes damage equal to 1d6 + its Speed, with no Soak! Occupants also Roll this damage but get to Soak with their Frame and armor, if any. If not wearing seatbelts or similar safety devices, count Speed as double for occupants.
 
 {: .highlight}
-\>- **Crash:** Damage is 1d6 + current Speed, no Soak
-\>- **Occupants:** Damage 1d6 + current Speed, soaked by Frame.
+**Crash:** Damage is 1d6 + current Speed, no Soak. \
+**Occupants:** Damage 1d6 + current Speed, soaked by Frame.
 
 ### Ramming
 
@@ -230,9 +199,9 @@ The ramming vehicle may suffer collateral damage from this risky stunt. They tak
 In a head-on collision, add the speed of both vehicles together.
 
 {: .highlight}
-\>- **Ram Attack:** Handling vs. current Speed (or Poise for pedestrians).
-\>- **Ram damage:** Frame + Speed + Edge, soaked by target's Frame.
-\>- **Return damage:** target Frame + Speed, soaked by your Frame + Edge.
+**Ram Attack:** Handling vs. current Speed (or Poise for pedestrians). \
+**Ram damage:** Frame + Speed + Edge, soaked by target's Frame. \
+**Return damage:** target Frame + Speed, soaked by your Frame + Edge.
 
 ### Speed Scaling
 
