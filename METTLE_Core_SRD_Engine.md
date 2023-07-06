@@ -94,7 +94,7 @@ passive Difficulty.
 
 ### Check Modifiers
 
-These are die Bonuses (+D) or Penalties (-D) to a dice pool, applied before the Check. For example, +2D means add two dice, and -2D means take two away. Die bonuses and penalties typically apply to the character and are carried with them from situation to situation. Players should expect a +1D to +3D bonus for using proper tools or good strategy, and rarely suffer penalties aside from their wounds.
+These are die Bonuses (+D) or Penalties (-D) to a dice pool, applied before the Check. For example, +2D means add two dice, and -2D means take two away. Die bonuses and penalties typically apply to the character and are carried with them from situation to situation. Players should expect a +1D to +3D bonus for using proper tools or good strategy, and do not suffer penalties aside from their wounds.
 
 Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty reflects the situation and does not tend to stick with a character. This is mostly a tool for the Guide. For example, rain-slicked streets may raise the Difficulty of a foot chase, and partial cover adds to POISE versus most attacks.
 
@@ -134,7 +134,7 @@ Anyone can help come up with a creative Twist. If the Guide *or* Player does not
 
 Daring players may push their luck to get more out of an action. A Raise is when you set one or more of the dice in your pool to six before the Check. Do not Check these, they go straight to Edge! This reduces your chances of succeeding but makes Edge certain if you do. A player using a Raise should describe how their character is putting extra flair into the action, such as a front flip over a car or called shot to the head.
 
-Raises are also a good way to manage overly large dice pools, and you can still use raised dice for a Twist if this backfires!
+Raises are also a good way to manage overly large dice pools, and you can still use raised dice for a Twist if they backfire!
 
 {: .highlight }
 >- Set some dice aside as sixes before a Check to guarantee Edge.
@@ -150,10 +150,10 @@ As for whether a group is successful, this depends on what it means to succeed o
 
 ## Mettle
 
-The namesake of this game, Mettle stands for the will to live and how close the character is to their doom. In game terms, it is MOTIVE plus their highest (non-FRAME) Attribute. This is not a *direct* measure of injury. Physical damage is just "flesh wounds" at worst until it drops Mettle into the negatives. If above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle.
+The namesake of this game, Mettle stands for the will to live and how close the character is to their doom. In game terms, it is MOTIVE plus their highest (unmodified) Attribute. This is not a *direct* measure of injury. Physical damage is just "flesh wounds" at worst until it drops Mettle into the negatives. If above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle.
 
 {: .highlight }
->- Mettle = MOTIVE + highest non-FRAME Attribute.
+>- Mettle = MOTIVE + highest Attribute.
 
 ### Taking Damage
 

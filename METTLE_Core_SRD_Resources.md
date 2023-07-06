@@ -37,7 +37,6 @@ The table below gives examples of armor common to a modern setting, as well as a
 | Flak Jacket      | +2       | 1        | 3        |
 | Riot gear        | +3       | 2        | 4        |
 
-Armor may be very well-crafted or ***Superior***, subtracting 1 from Load and adding one to Cost. It may also be ***Inferior***, adding 1 to Load and subtracting one from Cost.
 
 ***BP*** armor is "bulletproof," meaning it halves the first firearm damage it takes after Soak. Afterward, it only functions as regular armor.
 
@@ -56,13 +55,11 @@ The following weapons chart gives examples of the more popular weapons. Each has
 -   **Shield** adds a bonus to POISE defense versus incoming Attacks.
 -   **Grapple** use the weapon's Hit and DM on Grapple Checks.
 -   **Entangle** Grapples using the weapon's Hit and DM and does not take a further Action to maintain the Difficulty increase each round. Target escapes if they beat the increased Difficulty on a Move Check.
--   **Inferior:** weapons are shoddy; lower Hit and Cost by one.
 -   **Range** is how many Zones one can shoot or throw the weapon. Beyond this, they fire at +1 Difficulty per Zone, up to twice the Range. A zero (0) Range means it Attacks normally within the Zone but is Difficulty +1 to hit targets in the next. A weapon with no listed Range can be thrown in the same Zone but loses its Hit bonus.
 -   **Reach** weapons steal Initiative from an attacker, unless out of Actions or the attacker is also using a Reach weapon.
 -   **Scoped** weapons add that many Zones to Range at the cost of an Action.
 -   **Soft:** less-lethal weapons like fists or whips. Half damage *after* Soak.
 -   **Stun** weapons do their full damage when making Stun attacks. If it *only* Stuns, it does damage but will always Stun on a Felling blow.
--   **Superior** weapons are well-made; raise Hit and Cost by one.
 -   **Wrap** weapons are flexible and ignore a foe's Shield Difficulty.
 
 {: .text-center}
@@ -89,10 +86,10 @@ The following weapons chart gives examples of the more popular weapons. Each has
 | Lance          |   +1D   | FRAME+3 | 2H, Reach                       |    2     |    3     |
 | Machete        |   +1D   | FRAME+2 | Tool (+1D Travel)               |    1     |    2     |
 | Net            |   \-    |  FRAME  | Entangle                        |    1     |    2     |
-| Pistol         |   \-    |    5    | Range 2, Ammo 6                 |    0     |    3     |
+| Pistol         |   \-    |    6    | Range 2, Ammo 6                 |    0     |    3     |
 | Polearm        |   +1D   | FRAME+4 | 2H, Reach                       |    2     |    3     |
 | Quarterstaff   |   +2D   | FRAME+2 | 2H, Stun                        |    2     |    2     |
-| Revolver       |   \-    |    5    | Range 2, Ammo 9                 |    0     |    3     |
+| Revolver       |   \-    |    6    | Range 2, Ammo 9                 |    0     |    3     |
 | Rifle          |   \-    |    7    | 2H, Ammo 5, Range 6, Scope      |    1     |    3     |
 | Rifle, assault |   \-    |    7    | 2H, Burst, Ammo 30, Range 5     |    1     |    3     |
 | Shield, large  |   \-    |  FRAME  | Shield +2                       |    2     |    3     |
@@ -100,7 +97,7 @@ The following weapons chart gives examples of the more popular weapons. Each has
 | Shield, small  |   \-    |  FRAME  | Defend +2                       |    \-    |    3     |
 | Shotgun        |   +2D   |    8    | 2H, Range 2                     |    1     |    3     |
 | Sling          |   \-    | FRAME+1 | Range 3                         |    \-    |    1     |
-| SMG            |   \-    |    5    | 2H, Range 3, Full Auto, Ammo 30 |    0     |    3     |
+| SMG            |   \-    |    6    | 2H, Range 3, Full Auto, Ammo 30 |    0     |    3     |
 | Spear          |   +1D   | FRAME+2 | Range 1, Reach                  |    2     |    2     |
 | Stun gun       |   \-    |   6\*   | Stun (only!)                    |    \-    |    3     |
 | Sword          |   +2D   | FRAME+2 | \-                              |    1     |    3     |

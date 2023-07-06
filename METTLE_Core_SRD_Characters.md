@@ -124,7 +124,8 @@ etc.*
 
 Adventurers come in all shapes and sizes. The pool reflects the physical power of the character: their might, vigor, and vitality. As such, FRAME helps bear burdens as well as dish out and take damage in combat. The Descriptor should include their body type or build and even their species if non-human.
 
-FRAME is an unusual Attribute because it scales with size, often well out of normal human character range. It is not subject to Checks and does not count as the highest Attribute for Mettle and Backstories.
+FRAME is an unusual Attribute because it is not subject to Checks and scales with size, especially for large animals or monsters.
+In these cases, note the modified value in parentheses as usual.
 
 **<u>Example Descriptors:</u>** *medium, tall and lanky, short, chunky,
 average build, athletic, pot-bellied, lanky, plump, stout, sprightly,
@@ -204,7 +205,7 @@ Thinking up good Descriptors for Attributes can be challenging. Use the table be
 
 ## Step 4: Backstories
 
-These short phrases broaden the character by giving them a history and the skills to go with it. Each character may have as many Backstories as their highest non-FRAME Attribute, usually 4-5 for a starting adventurer. These can be good or bad experiences, virtues, vices, likes, dislikes, etc. Their main advantage is they serve as extra CONCEPTs. When making a CONCEPT Check for something it doesn't cover, they can forego the usual double Difficulty by calling on a related Backstory instead.
+These short phrases broaden the character by giving them a history and the skills to go with it. Each character may have as many Backstories as their highest unmodified Attribute, usually 5 for a starting adventurer. These can be good or bad experiences, virtues, vices, likes, dislikes, etc. Their main advantage is they serve as extra CONCEPTs. When making a CONCEPT Check for something it doesn't cover, they can forego the usual double Difficulty by calling on a related Backstory instead.
 
 One Backstory must describe their native language and culture. Language-granting Backstories should include the name of a place, with the language in parentheses. For example, *Raised on the mean streets of New York (English)* or *Pampered Sicilian Nobility (Italian).* Check language-granting Backstories for cultural knowledge or local flavor.
 
@@ -349,7 +350,7 @@ Players who miss a session can still get XP from the last one they attended, and
 
 ### Spending XP
 
-To raise the highest Attribute by one, spend twice its current level in XP. To raise any "lesser" Attribute by one, spend XP equal to the highest. If two or more of the highest Attributes are equal, the one you are raising counts as the highest. FRAME may count as the highest Attribute for XP.
+To raise the highest (unmodified) Attribute by one, spend twice its current level in XP. To raise any "lesser" Attribute by one, spend XP equal to the highest. If two or more of the highest Attributes are equal, the one you are raising counts as the highest.
 
 You may spend XP during the actual game, especially during a tense conflict! This represents learning an opponent's moves, growing from a rivalry, or lengthy training finally coming to fruition.
 
