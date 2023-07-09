@@ -313,6 +313,11 @@ This catch-all Action covers miscellaneous feats, normally using a device, tool,
 > -   **Twists:** Delay (gonna need more time here!), break tools, attract
 >     unwanted attention.\*
 
+A party may split a lengthy Use project into shorter ones if there is not enough time to finish it all at once. These subtasks have the same Difficulty but allow for incremental progress or faster completion by a team of skilled workers each handling a separate duty.
+
+Vehicle repairs face a Difficulty equal to their FRAME, making it troublesome to maintain big machines in the field. A proper garage for that vehicle type should ease the Difficulty down to a more manageable level. It takes about a day to fix one die of vehicle Stagger penalty.
+
+
 ## Scenery
 
 Active foes and enemies are not the only danger faced by characters,

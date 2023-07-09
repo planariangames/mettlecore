@@ -48,16 +48,15 @@ The following weapons chart gives examples of the more popular weapons. Each has
 
 -   **2H** takes two hands to wield.
 -   **Ammo** is the number of shots before reloading with a *Use* Action.
--   **Full Auto** grants +1D to Attack for every 10 ammo spent. The firer may also spend one Edge per extra hit on the same or different targets. Against multiple targets, the Attack is vs. the *highest* POISE defense in the group. Full Auto weapons can opt for a Burst instead.
 -   **Blast** also inflicts 1d6 + DM as Area Attack to others in the target Zone.
+-   **Burst** grants +1D to each Split Attack for every 5 ammo spent. This special bonus applies after the Split but must be a Split Attack.
 -   **Defend** adds a bonus to Defend Checks when wielded.
--   **Burst** uses up 3 ammo in one trigger pull to get +2D on the Attack.
--   **Shield** adds a bonus to POISE defense versus incoming Attacks.
--   **Grapple** use the weapon's Hit and DM on Grapple Checks.
 -   **Entangle** Grapples using the weapon's Hit and DM and does not take a further Action to maintain the Difficulty increase each round. Target escapes if they beat the increased Difficulty on a Move Check.
+-   **Grapple** use the weapon's Hit and DM on Grapple Attacks.
 -   **Range** is how many Zones one can shoot or throw the weapon. Beyond this, they fire at +1 Difficulty per Zone, up to twice the Range. A zero (0) Range means it Attacks normally within the Zone but is Difficulty +1 to hit targets in the next. A weapon with no listed Range can be thrown in the same Zone but loses its Hit bonus.
 -   **Reach** weapons steal Initiative from an attacker, unless out of Actions or the attacker is also using a Reach weapon.
 -   **Scoped** weapons add that many Zones to Range at the cost of an Action.
+-   **Shield** adds a bonus to POISE defense versus incoming Attacks.
 -   **Soft:** less-lethal weapons like fists or whips. Half damage *after* Soak.
 -   **Stun** weapons do their full damage when making Stun attacks. If it *only* Stuns, it does damage but will always Stun on a Felling blow.
 -   **Wrap** weapons are flexible and ignore a foe's Shield Difficulty.
@@ -97,7 +96,7 @@ The following weapons chart gives examples of the more popular weapons. Each has
 | Shield, small  |   \-    |  FRAME  | Defend +2                       |    \-    |    3     |
 | Shotgun        |   +2D   |    8    | 2H, Range 2                     |    1     |    3     |
 | Sling          |   \-    | FRAME+1 | Range 3                         |    \-    |    1     |
-| SMG            |   \-    |    6    | 2H, Range 3, Full Auto, Ammo 30 |    0     |    3     |
+| SMG            |   \-    |    6    | 2H, Range 3, Burst, Ammo 30 |    0     |    3     |
 | Spear          |   +1D   | FRAME+2 | Range 1, Reach                  |    2     |    2     |
 | Stun gun       |   \-    |   6\*   | Stun (only!)                    |    \-    |    3     |
 | Sword          |   +2D   | FRAME+2 | \-                              |    1     |    3     |
@@ -148,7 +147,7 @@ While not technically hirelings, the party may also bribe passersby or layabouts
 
 Riding atop a mount is a great advantage. In combat, the mount and rider count as a single unit. A mounted rider may use the mount's Speed instead of their own and enjoys Partial Cover (+2). The two must share the same Action but may Split Attacks between them. Otherwise, treat them as individuals.
 
- The mount uses a simplified NPC Pool (p.75), with their FRAME in parentheses. The rider may use their riding-related Concept to get the Mount to do something it does not want to, such as leaping over a dangerous obstacle, learning a trick, running to exhaustion, or staying in a battlefield. Treat this as a Parley Check (rider's Concept vs. mount's Pool). A trained mount behaves differently in certain conditions. For example, a war horse does not balk at combat or gunfire.
+ The mount uses a simplified NPC Pool, with their FRAME in parentheses. The rider may use their riding-related Concept to get the Mount to do something it does not want to, such as leaping over a dangerous obstacle, learning a trick, running to exhaustion, or staying in a battlefield. Treat this as a Parley Check (rider's Concept vs. mount's Pool). A trained mount behaves differently in certain conditions. For example, a war horse does not balk at combat or gunfire.
 
 {: .text-center}
 **MOUNTS**
@@ -161,7 +160,7 @@ Riding atop a mount is a great advantage. In combat, the mount and rider count a
 
 ## Vehicles
 
-Cars, airplanes, tanks, and bulldozers have ratings for their ease of handling, maximum speed, and FRAME. When necessary, the driver or pilot Checks their Concept vs. their current Speed.
+Cars, airplanes, tanks, and bulldozers are great fun to destroy. If they don’t finish an adventure as burnt-out wrecks, you may be doing it wrong. Until then, they have ratings for their ease of handling, maximum speed, and FRAME. When necessary, the driver or pilot Checks their Concept vs. their current Speed.
 
 -   **Handling**: how easily it turns compared to others of its class. The modifier adds to the relevant Concept on Checks to control it.
 -   **Speed**: how fast it can go. This affects the Move and Race Actions in slightly different ways. Current Speed acts as a Move in Zones and as a substitute POISE score.

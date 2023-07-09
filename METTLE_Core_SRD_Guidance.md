@@ -16,8 +16,8 @@ title: Guidance
 ## Adventures
 
 Naturally, a Guide running METTLE Core wants a game both they and their
-players remember and enjoy. They want a story their friends feel like
-they are a part of. They want a world where their actions matter. For
+players enjoy. A story they feel like
+a part of. A world where their actions matter. For
 this to happen, view the game itself as creating an *opportunity* for a
 great story to arise, rather than telling one outright.
 
@@ -36,7 +36,7 @@ players. Ask them to respect your veto power to limit arguments and help
 keep the game fun for everyone. Ask them what they want to see and do,
 and what they do not. Listen to them.
 
-A thorough way to cover all the bases and orient the Players is to use
+A thorough way to cover all the bases is to use
 the Five W's: Who, What, Where, When, and Why.
 
 -   **Who** are the characters? International spies? An urban rescue unit? A
