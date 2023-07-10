@@ -161,7 +161,7 @@ Characters may suffer ***Damage*** from hazards or attacks. Fortunately, they a
 
 The Player may deny this by taking the ***Staggered*** Status. This inflicts a point of damage but lets them stay active at 0 or negative Mettle. They can do this again if they take more damage. Staggered characters lose their Free Move, cannot Rally, and suffer a die penalty to Checks equal to their negative Mettle.
 
-Presume the Fallen are ***Dead*** unless someone comes to their aid. This is an Aid (p.41) Check during the next Scene at the latest. The Player may also just declare death if they feel a dramatic event should be fatal. For example, falling into lava, an execution, or staying behind on an exploding space station. It is better to go out with a bang than to fade away -- and hey, now they get to make a new character!
+Presume the Staggered or Fallen are ***Dead*** or will die without aid. This takes the form of an Aid (p.41) Check next Scene at the latest. The Player may also just declare death if they feel a dramatic event should be fatal. For example, falling into lava, an execution, or staying behind on an exploding space station. It is better to go out with a bang than to fade away -- and hey, now they get to make a new character!
 
 {: .highlight }
 >- Damage that gets through the target's Soak lowers Mettle.

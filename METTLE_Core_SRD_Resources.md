@@ -174,7 +174,7 @@ Vehicles with cabins grant Total Cover and can pop out to target others with Par
 
 ### Vehicle Damage
 
-A Vehicle is an extension of the driver and uses their Mettle! This means that swapping out battered drivers can be a smart move even if it takes both of their Actions. Status effects from 0 or lower Mettle like Staggered or Fallen are real damage and stick with the Vehicle, however. This means only the vehicle suffers penalties for lasting damage.
+A Vehicle is an extension of the driver and uses their Mettle! This means that swapping out battered drivers can be a smart move even if it takes both of their Actions. This only goes so far - a Felling blow applies to the vehicle instead of the driver. A vehicle can be Fallen or Staggered just like a character. Any penalties from negative Mettle affect Handling until repaired, even if the drivers change.
 
 ### Crashes
 

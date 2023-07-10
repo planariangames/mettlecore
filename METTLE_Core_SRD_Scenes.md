@@ -74,7 +74,7 @@ You do have to decide what your Actions are when you initially Split the pool. I
 
 Sometimes a Scene will take a long time, perhaps days or months. This is common when recovering negative Mettle, undertaking a long project, or traveling. Those not involved may wonder what they are doing during that time. The problem is that this tends to become an adventure that leaves out the character(s) tied up in the long action, or a lengthy argument about how they fill their time.
 
-METTLE Core is an action-adventure game about pressing ever onward, not dealing with leisure time. If the characters want to adventure, the one taking the long action may agree to play a spare PC or NPC. Better, they may each just accept a ***Downtime Voucher***. This is a token they can spend later to retroactively reveal something helpful they did during the Downtime. For example, bought a speedboat or added a new feature to their utility belt. These can be real lifesavers.
+METTLE Core is an action-adventure game about pressing ever onward, not dealing with leisure time. If the rest of the party wants to adventure, the one taking the long action may agree to play a spare PC or NPC. Better, they may each just accept a ***Downtime Voucher***. This is a token they can spend later to retroactively reveal something helpful they did during the Downtime. For example, bought a speedboat or added a new feature to their utility belt. These can be real lifesavers.
 
 ## Actions
 
@@ -315,7 +315,7 @@ This catch-all Action covers miscellaneous feats, normally using a device, tool,
 
 A party may split a lengthy Use project into shorter ones if there is not enough time to finish it all at once. These subtasks have the same Difficulty but allow for incremental progress or faster completion by a team of skilled workers each handling a separate duty.
 
-Vehicle repairs face a Difficulty equal to their FRAME, making it troublesome to maintain big machines in the field. A proper garage for that vehicle type should ease the Difficulty down to a more manageable level. It takes about a day to fix one die of vehicle Stagger penalty.
+Vehicle repairs face a Difficulty equal to their FRAME, making it troublesome to maintain big machines in the field. A proper garage for that vehicle type should ease the Difficulty down to a more manageable level. It takes about a day to fix one die of negative Mettle penalty.
 
 
 ## Scenery
