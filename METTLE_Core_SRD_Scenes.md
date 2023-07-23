@@ -389,7 +389,7 @@ These are not very heroic ways to go but they give good reason to buy rations, s
 
 ### Falls
 
-Damage of course depends on how far the character fell: 1d6, plus 2 for every full building story or \~5-meter vertical Zone.  This damage Soaks with POISE instead of FRAME. For example, a short fall like tumbling into a trench does 1d6+2, a second-story window or tree does 1d6+4, a tall tree or several floors of a building may do 1d6+8, etc. Terminal velocity limits damage to 1d6 + 20, such as skydiving without a parachute.
+Damage of course depends on how far the character fell: 1d6, plus 2 for every full building story or \~5-meter vertical Zone.  This damage Soaks with POISE instead of FRAME. For example, a short fall like tumbling into a trench does 1d6, a second-story window or tree does 1d6+4, a tall tree or several floors of a building may do 1d6+8, etc. Terminal velocity limits damage to 1d6 + 20, such as skydiving without a parachute.
 
 Hard ground like concrete or rubble may inflict +1, spikes or traps Roll separate damage (1d6+), water may be -2, jumping purposefully instead of falling reliably grants -2, etc.
 
