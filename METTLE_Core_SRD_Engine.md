@@ -161,7 +161,7 @@ Characters may suffer ***Damage*** from hazards or attacks. Fortunately, they a
 
 The Player may deny this by taking the ***Staggered*** Status. This inflicts a point of damage but lets them stay active at 0 or negative Mettle. They can do this again if they take more damage. Staggered characters lose their Free Move, cannot Rally, and suffer a die penalty to Checks equal to their negative Mettle.
 
-Presume the Staggered or Fallen are ***Dead*** or will die without aid. This takes the form of an Aid (p.41) Check next Scene at the latest. The Player may also just declare death if they feel a dramatic event should be fatal. For example, falling into lava, an execution, or staying behind on an exploding space station. It is better to go out with a bang than to fade away -- and hey, now they get to make a new character!
+The Staggered and Fallen risk ending up **Dead**. An Aid Check reveals their fate next Scene. One may also just declare death if it feels right. For example, falling into lava or staying behind on an exploding space station. It is better to go out with a bang than to fade away – and hey, now they get to make a new character!
 
 {: .highlight }
 >- Damage that gets through the target's Soak lowers Mettle.
@@ -183,7 +183,7 @@ multiple sources do not stack.
 
 Other status effects exist to vex characters aside from Staggered, and Fallen, above. Most are awful but temporary.
 
--   **Afflicted**: suffering from a disease, poison, or tranquilizer. Cannot Rally and takes ongoing damage until cured or it runs its course.
+-   **Afflicted**: suffering from a disease, poison, or tranquilizer. Lowers max Mettle slowly over time until it runs out or is cured.
 -   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight face a +3 Difficulty. Others may use Sneak against them as if they have Cover.
 -   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading CONCEPT may make up for this. Others may use Sneak against them as if they have Cover.
 -   **Encumbered**: carrying Load over their FRAME. Every Zone crossed now takes up two Moves. If they try to carry twice their FRAME, they are Incapacitated instead.

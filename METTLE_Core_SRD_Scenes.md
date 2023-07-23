@@ -86,18 +86,21 @@ The default Twist for Actions is Delay, meaning they lose their next Action beca
 
 ### Aid
 
-This is for life-and-death situations well beyond the ordinary stitching of flesh wounds. This only works on the Staggered or Fallen; those with less severe injuries recover with less drama. Recover Checks CONCEPT vs. current (0 or negative) Mettle, treating it as positive for this purpose. Success stabilizes the patient for the time being, and any Edge heals that much negative Mettle. Failure means the patient was too far gone to save, try not to blame yourself.
+This is for life-or-death trauma well beyond the ordinary stitching of flesh wounds. As such, it works only on the Staggered or Fallen; those with less severe injuries recover without drama. Aid Checks CONCEPT vs. current (0 or negative) Mettle, treating it as positive for this purpose. Success stabilizes the patient for the time being, and any Edge heals that much negative Mettle after a week’s recovery. Failure means the patient was too far gone, try not to blame yourself.
 
 **Check:** CONCEPT vs. current Mettle.
 
 {: .outcomes }
 
 > -   **Success:** the patient is alive and somewhat stable.
-> -   **Edge:** each restores a point of Mettle.
+> -   **Edge:** each point restores a point of Mettle after a week's rest.
 > -   **Failure:** patient succumbs to their wounds and dies.
 > -   **Twists:** *Delay, patient disfigured, lower Resources, waste medicine or surgical tools.*
 
-Beyond this, recovery takes time, a scant resource in adventures. Make this Check each week, risking death to recover more Mettle. If a PC is too debilitated, the best option is to play another character until they are back on their feet. The Guide can just handwave that they are OK by the next campaign. Holding up the whole party to heal up one character is a real drag. Don't do that to your fellow Players.
+Those alone or left for dead may Aid themselves using their Motive, but at double Difficulty. They may revive with visions of the beyond, or just a deep grudge against those who abandoned them.
+
+If a PC is too debilitated, the best thing to do is to play another character until they are back on their feet. The Guide can just handwave that they are OK by the next campaign.
+
 
 ### Attack
 
@@ -328,13 +331,15 @@ Active foes and enemies are not the only dangers to face. This section holds all
 
 ### Affliction
 
-Adventurers should be wary of venomous snakes, blowgun darts, the miasma of the tomb, and a "mickey" slipped in their drink! These impart a sense of dreadful urgency to any scene. If exposed, the Guide Rolls the Dose dice and applies the effects:
+Adventurers should be wary of venomous snakes, blowgun darts, the miasma of the tomb, and a “mickey” slipped in their drink! These impart dreadful urgency to any scene. If exposed, the Guide Rolls the Dose. Instead of normal damage, Afflictions lower the maximum Mettle of the character over time. This is unaffected by Rallies, but if it lowers Mettle to 0 or below they still become Staggered or Fallen.
 
--   **Disease:** Roll Dose, the sufferer cannot Rally and takes 1 damage each day, up to the result. Some diseases take weeks or months instead.
--   **Poison:** Roll Dose and subtract the victim's FRAME. If positive, they cannot Rally and take 1 damage each Round, up to the result.
--   **Tranquilizers:** as poison, but the Dose result also raises the victim's Check Difficulties. This tends to put them out of action before death.
+-   **Disease:** Roll Dose and lower the victim’s maximum Mettle by one each day, up to the result.
+-   **Poison:** Roll Dose and subtract the victim’s FRAME. If positive, lower their maximum Mettle by one each Round, up to the result.
+-   **Tranquilizers:** as poison, but the Dose result also raises the victim’s Check Difficulties. This tends to put them out of action before death.
 
-Afflictions end when cured or the damage runs out. The victim may then Rally back, if not at negative HP. To keep the suspense alive, the Guide should keep the Dose result secret. Even so, a Know Check based on medical knowledge may suggest some treatments or how long it will take for the affliction to run its course.
+The Guide should keep the Dose result secret to create suspense. Afflictions may work over different time scales (months, years, etc.), the day or round intervals are just convenient defaults.
+
+Afflictions end if the victim is still alive when cured or the result runs out. Max Mettle then recovers by 1 every day for diseases and every Round for poison. A Know Check on a medical CONCEPT may suggest treatments or how long until the affliction runs its course.
 
 <center>
 <strong>SAMPLE AFFLICTIONS</strong>
@@ -345,9 +350,9 @@ Afflictions end when cured or the damage runs out. The victim may then Rally bac
 |---|:---:|:---:|---|
 |Common cold|Disease|1d6-3|Cough, sneezing|
 |Monitor lizard bite|Disease|1d6-1|Swelling, gangrene|
-|Curare dart|Poison|2d6|Shortness of breath|
-|Cobra venom|Poison|2d6|Fatigue, swelling|
-|Tranquilizer dart|Tranquilizer|1d6|Fatigue, clumsiness|
+|Curare dart|Poison|2d6-FRAME|Shortness of breath|
+|Cobra venom|Poison|2d6-FRAME|Fatigue, swelling|
+|Tranquilizer dart|Tranquilizer|1d6-FRAME|Fatigue, clumsiness|
 
 Adjust the dosage for the victim's size using the FRAME Conversion chart (p.89) as a loose guide. For example, the Dose must be at least 3d6 (3-18) for a 12 FRAME elephant.
 
