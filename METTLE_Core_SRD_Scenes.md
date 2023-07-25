@@ -64,17 +64,18 @@ If a character Splits their Action (below) they do not get an extra Free Move to
 
 ### Split Actions
 
-It is possible to ***Split*** an action, which means you take more than one Action by splitting the dice pool between them. Use the highest pool and divide the dice up as evenly as possible between them. If one Action has a much smaller pool, do not give it more dice than its original pool. For example, an attacker with a 5D Attack could make two Attacks, one at 3D and the other at 2D. If a foe Blocks, this interrupts the next Split Action until resolved.
+It is possible to ***Split*** an Action, taking more than one by splitting the dice pool between them. Use the highest pool and divide the dice up as evenly as possible. If one Action has a much smaller pool, do not give it more dice than its original pool. For example, an attacker with a 5D NATURE could make two Attacks, one at 3D and the other at 2D. Die Modifiers apply *after* the Split, treating each Action separately.
 
-Initiative passes to the target normally after each Split Action, if possible. The splitter still counts as having their Action, so they get to take the next part of their Split Action when the Initiative comes back to them. If their target had no Actions, they get to choose themselves and take their Split Actions back-to-back.
+Initiative passes to the target normally after each Split Action, if possible. The splitter still counts as having their Action, so they get to take the next part of it when Initiative comes back to them. If their target had no Actions, they may choose themselves and take their Split Actions back-to-back.
 
-You do have to decide what your Actions are when you initially Split the pool. If the chaos of combat makes an action impossible, you lose the dice dedicated to it. For example, an adventurer firing a pistol at a cyborg gorilla while jumping their motorcycle off a ramp would split their dice for it. If the gorilla yanks them off the motorcycle after their shot, they lose the dice they would have used to control the motorcycle on their next Split Action. Least of their problems.
+decide what your Actions are when you initially Split the pool. If the chaos of combat makes an action impossible, you lose the dice dedicated to it. For example, an adventurer firing a pistol at a cyborg gorilla while jumping their motorcycle off a ramp would split their dice for it. If the gorilla yanks them off the motorcycle after their shot, they lose the dice they would have used to control the motorcycle on their next Split Action. Least of their problems.
+
 
 ### Downtime
 
-Sometimes a Scene will take a long time, perhaps days or months. This is common when recovering negative Mettle, undertaking a long project, or traveling. Those not involved may wonder what they are doing during that time. The problem is that this tends to become an adventure that leaves out the character(s) tied up in the long action, or a lengthy argument about how they fill their time.
+Sometimes a Scene will take a long time, perhaps days or months. This is common when recovering negative Mettle, undertaking a long project, or traveling. Those not involved may wonder what they are doing during that time. The problem is that this tends to become an impromptu adventure that leaves out the character(s) tied up in the long action, or a lengthy argument about how they fill their time.
 
-METTLE Core is an action-adventure game about pressing ever onward, not dealing with leisure time. If the rest of the party wants to adventure, the one taking the long action may agree to play a spare PC or NPC. Better, they may each just accept a ***Downtime Voucher***. This is a token they can spend later to retroactively reveal something helpful they did during the Downtime. For example, bought a speedboat or added a new feature to their utility belt. These can be real lifesavers.
+METTLE Core is an action-adventure game about pressing ever onward, not dealing with leisure time. Those engaged in a long action may agree to play a spare PC or NPC. Better, they may each just accept a ***Downtime Voucher***. This is a token they can spend later to retroactively reveal something helpful they did during the Downtime. For example, bought a speedboat or added a new feature to their utility belt. These can be real lifesavers.
 
 ## Actions
 
@@ -389,9 +390,9 @@ These are not very heroic ways to go but they give good reason to buy rations, s
 
 ### Falls
 
-Damage of course depends on how far the character fell: 1d6, plus 2 for every full building story or \~5-meter vertical Zone.  This damage Soaks with POISE instead of FRAME. For example, a short fall like tumbling into a trench does 1d6, a second-story window or tree does 1d6+4, a tall tree or several floors of a building may do 1d6+8, etc. Terminal velocity limits damage to 1d6 + 20, such as skydiving without a parachute.
+Damage of course depends on how far the character fell: 1d6, plus 2 for every full building story or ~5-meter vertical Zone.  This damage Soaks with POISE instead of FRAME. For example, a short fall like tumbling into a trench does 1d6, a second-story window or tree does 1d6+4, a tall tree or several floors of a building may do 1d6+8, etc. Terminal velocity limits damage to 1d6+20, such as skydiving without a parachute.
 
-Hard ground like concrete or rubble may inflict +1, spikes or traps Roll separate damage (1d6+), water may be -2, jumping purposefully instead of falling reliably grants -2, etc.
+Hard ground like concrete or rubble may inflict +1, spikes or traps Roll separate damage (1d6+), water may be -2, jumping purposefully instead of falling grants -2, etc.
 
 The truly daring may ***Plummet*** onto an enemy below, raising their DM by two for every Zone fallen. They still suffer their own falling damage, soaked by POISE as usual.
 

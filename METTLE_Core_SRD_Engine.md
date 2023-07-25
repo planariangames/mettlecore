@@ -94,11 +94,12 @@ passive Difficulty.
 
 ### Check Modifiers
 
-These are die Bonuses (+D) or Penalties (-D) to a dice pool, applied before the Check. For example, +2D means add two dice, and -2D means take two away. Die bonuses and penalties typically apply to the character and are carried with them from situation to situation. Players should expect a +1D to +3D bonus for using proper tools or good strategy, and do not suffer penalties aside from their wounds.
+These are Bonuses (+D) or Penalties (-D) to a dice pool. For example, +2D means add two dice, and -2D means take two away. Die bonuses and penalties typically stick with the character regardless of the situation. Players should expect +1D to +3D for proper tools or strategy, and do not suffer penalties aside from their wounds.
 
-Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty reflects the situation and does not tend to stick with a character. This is mostly a tool for the Guide. For example, rain-slicked streets may raise the Difficulty of a foot chase, and partial cover adds to POISE versus most attacks.
+Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty tends to reflect the situation instead of the character. Difficulty tweaking is mostly a tool for the Guide. For example, rain-slicked streets may raise the Difficulty of a foot chase, and partial cover adds to POISE versus most attacks.
 
-Don't let too many fiddly little modifiers bog down your scene. If things get out of hand, consider only the largest bonus and penalty. The table must use restraint to avoid overdoing it with modifiers.
+Don’t let too many fiddly little modifiers bog down your scene. If things get out of hand, consider only the largest bonus and penalty. The table must use restraint to avoid overdoing it with modifiers.
+
 
 ### Twists
 
@@ -170,7 +171,7 @@ The Staggered and Fallen risk ending up **Dead**. An Aid Check reveals their fat
 
 ### Mettle Surges
 
-Adventurers under stress can transcend their usual limits, especially when fresh to battle. Whenever Initiative (p.38) is in play, each point of Mettle they sacrifice grants them +1D on their Check. This is powerful but has limits; one cannot spend more than their MOTIVE on a single Check, nor spend enough to lower Mettle to zero or below. This lost Mettle is temporary and Rallies back as normal.
+Adventurers under stress can transcend their usual limits, especially when fresh to battle. Whenever Initiative is in play, each point of Mettle they sacrifice grants them +1D on a Check. This power has limits; one cannot spend more than their MOTIVE in a single Check, nor lower Mettle to zero. This lost Mettle is temporary and Rallies back as normal.
 
 {: .highlight }
 >- **Surge:** spend Mettle to add +1D to a Check during combat.
