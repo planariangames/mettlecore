@@ -160,7 +160,7 @@ The namesake of this game, Mettle stands for the will to live and how close the 
 
 Characters may suffer ***Damage*** from hazards or attacks. Fortunately, they also get a ***Soak*** that reduces this incoming damage by their FRAME plus Armor. Each point of damage left after Soak lowers their current Mettle by one. A hit that drops their Mettle to zero or lower is a ***Felling blow***, inflicting the ***Fallen*** Status. Fallen characters lose their Action and have 0 POISE for the Scene.
 
-The Player may deny this by taking the ***Staggered*** Status. This inflicts a point of damage but lets them stay active at 0 or negative Mettle. They can do this again if they take more damage. Staggered characters lose their Free Move, cannot Rally, and suffer a die penalty to Checks equal to their negative Mettle.
+The Player may deny this by choosing the ***Staggered*** Status. This inflicts a further point of damage but lets the brave fool stay up. They can even do it again if they take more damage. Staggered characters lose their Free Move and must Check vs. a minimum Difficulty of zero each time they want to Move. They also cannot Rally and suffer a die penalty to Checks equal to their negative Mettle.
 
 The Staggered and Fallen risk ending up **Dead**. An Aid Check reveals their fate next Scene. One may also just declare death if it feels right. For example, falling into lava or staying behind on an exploding space station. It is better to go out with a bang than to fade away – and hey, now they get to make a new character!
 
@@ -171,10 +171,10 @@ The Staggered and Fallen risk ending up **Dead**. An Aid Check reveals their fat
 
 ### Mettle Surges
 
-Adventurers under stress can transcend their usual limits, especially when fresh to battle. Whenever Initiative is in play, each point of Mettle they sacrifice grants them +1D on a Check. This power has limits; one cannot spend more than their MOTIVE in a single Check, nor lower Mettle to zero. This lost Mettle is temporary and Rallies back as normal.
+Adventurers under stress can transcend their usual limits, especially when fresh to battle. Whenever Initiative (p.38) is in play, each point of Mettle they sacrifice grants them +1D on any Checks they make that Round. This power has limits; one cannot spend more than their MOTIVE in a single Round, nor lower Mettle to zero (Fallen). This lost Mettle is temporary and Rallies back as normal.
 
 {: .highlight }
->- **Surge:** spend Mettle to add +1D to a Check during combat.
+>- **Surge:** spend Mettle to add +1D to Checks during combat.
 
 ### Status Effects
 
@@ -188,7 +188,7 @@ Other status effects exist to vex characters aside from Staggered, and Fallen, a
 -   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight face a +3 Difficulty. Others may use Sneak against them as if they have Cover.
 -   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading CONCEPT may make up for this. Others may use Sneak against them as if they have Cover.
 -   **Encumbered**: carrying Load over their FRAME. Every Zone crossed now takes up two Moves. If they try to carry twice their FRAME, they are Incapacitated instead.
--   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. Lose Free Move, POISE, and Action.
+-   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
 -   **Rattled**: dismayed by a Rattle or other trauma. Increases the Difficulty of Rallies.
 -   **Surprised**: caught unawares, you do not get an Action for the first Scene when Initiative starts. Next Scene, you are no longer Surprised, and this effect ends.
 

@@ -49,7 +49,7 @@ The following weapons chart gives examples of the more popular weapons. Each has
 -   **2H** takes two hands to wield.
 -   **Ammo** is the number of shots before reloading with a *Use* Action.
 -   **Blast** also inflicts 1d6 + DM as Area Attack to others in the target Zone.
--   **Burst** grants +1D to each Split Attack for every 5 ammo spent. This special bonus applies only to Split Attacks, so Bursts require at least two (split) Attacks.
+-   **Burst** grants an extra hit for every 5 ammo and 1 Edge spent. Damage is the same for each before Soak, minus the Edge spent to Burst. If used on different targets, the original Score must be high enough to hit those targets.
 -   **Defend** adds a bonus to Defend Checks when wielded.
 -   **Entangle** Grapples using the weapon's Hit and DM and does not take a further Action to maintain the Difficulty increase each round. Target escapes if they beat the increased Difficulty on a Move Check.
 -   **Grapple** use the weapon's Hit and DM on Grapple Attacks.

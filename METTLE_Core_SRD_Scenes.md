@@ -56,26 +56,41 @@ New Round when no one has Actions left.
 
 <center><img src="images/Initiative.png" title="Initiative flowchart" width="450" /></center>
 
-### Free Move
+### Movement
 
-In Scenes with Initiative, everyone gets a ***Free Move*** (p.45) before their Action, unless Staggered. If there is an obstacle, they must spend their actual Move Action to cross it. If a character loses their Action for any reason, they do not get their Free Move either.
+During Scenes with Initiative, each combatant gets a Free Move into an adjacent Zone before their Action. This only uses up a Checked Action if hindered somehow, such as by an obstacle or the Staggered status.
 
-If a character Splits their Action (below) they do not get an extra Free Move to go with it. They do get to decide which Split Action it precedes, however.
+Creatures or vehicles with a higher Speed also get more Free Moves. They may Split Actions to deal with obstacles and hazards along the way. If they have no dice left, they must stop at the next hindrance.
+
+{: .highlight}
+Free Move into adjacent Zone before Action unless hindered.
+
 
 ### Split Actions
 
-It is possible to ***Split*** an Action, taking more than one by splitting the dice pool between them. Use the highest pool and divide the dice up as evenly as possible. If one Action has a much smaller pool, do not give it more dice than its original pool. For example, an attacker with a 5D NATURE could make two Attacks, one at 3D and the other at 2D. Die Modifiers apply *after* the Split, treating each Action separately.
+Combatants may enjoy more than one Action in a Round by splitting their dice pool. Decide what the Actions will be, then divide the highest Attribute involved between them, as evenly as possible. For example, an attacker with a 5D Nature could make two Attacks, one at 3D and the other at 2D. Die Modifiers apply *after* the Split, treating each Action separately.
+
+>-If one of the Actions relies on an Attribute with a smaller pool, do not give it more dice than that.
+
+>-If one of the Actions is not Checked, it still uses up the dice allotted to it. If the pools are uneven, wise Players dump their lowest pool in an unchecked Action.
 
 Initiative passes to the target normally after each Split Action, if possible. The splitter still counts as having their Action, so they get to take the next part of it when Initiative comes back to them. If their target had no Actions, they may choose themselves and take their Split Actions back-to-back.
 
-decide what your Actions are when you initially Split the pool. If the chaos of combat makes an action impossible, you lose the dice dedicated to it. For example, an adventurer firing a pistol at a cyborg gorilla while jumping their motorcycle off a ramp would split their dice for it. If the gorilla yanks them off the motorcycle after their shot, they lose the dice they would have used to control the motorcycle on their next Split Action. Least of their problems.
+{: .highlight}
+Split Action: split your best relevant Attribute between Actions.
 
+<center><img src="images/DowntimeVoucher.png" title="Downtime Voucher" width="450" /></center>
 
 ### Downtime
 
-Sometimes a Scene will take a long time, perhaps days or months. This is common when recovering negative Mettle, undertaking a long project, or traveling. Those not involved may wonder what they are doing during that time. The problem is that this tends to become an impromptu adventure that leaves out the character(s) tied up in the long action, or a lengthy argument about how they fill their time.
+Sometimes a Scene will take a long time, perhaps days or months. This is common when recovering negative Mettle, undertaking a long project, or traveling. Those not involved may wonder what they are doing during that time. The Guide will be tempted to ask: “So what are you doing while your buddy is healing up?” Resist this banal urge. The problem is this tends to lead into an impromptu adventure leaving out those tied up in the long action, or worse, a lengthy argument about how they fill their time.
 
-METTLE Core is an action-adventure game about pressing ever onward, not dealing with leisure time. Those engaged in a long action may agree to play a spare PC or NPC. Better, they may each just accept a ***Downtime Voucher***. This is a token they can spend later to retroactively reveal something helpful they did during the Downtime. For example, bought a speedboat or added a new feature to their utility belt. These can be real lifesavers.
+METTLE Core is an action-packed game about boldly pressing ever onward, not micro-managing leisure time. Those engaged in a long action are advised to play a spare PC or NPC if the rest of the table absolutely must sally forth to their doom or glory.
+
+Better, every party member fit enough for mischief during a long break should just accept a Downtime Voucher instead. This is a token their Player can spend later to retroactively reveal something helpful they did during the Downtime. For example, bought a speedboat or added a new feature to their utility belt. These are used during play, and if used cleverly they can be real lifesavers.
+
+{: .highlight}
+Those not involved in a long Scene may get a Downtime Voucher.
 
 ## Actions
 
@@ -125,6 +140,32 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 -   **Unarmed Attacks** are less lethal. These have the (relatively!) *Soft* feature, inflicting only half damage after Soak.
 -   **Vehicle Attacks** like ramming work much like regular Attacks but factor in current Speed. See Vehicles (p.65) for details.
 
+{: .text-center}
+**COMBAT TWISTS**
+
+Twists can be a little loosey-goosey during most Scenes, but Players tend to demand more clarity in combat. After all, they might be losing their character! These are generally well-balanced, but either side may default to Delay as usual if they seem unacceptably harsh or mild.
+
+{: .lh-0}
+
+| Twist          | Example Consequences                                                                                                                                             |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Friendly fire  | Failure to read the room. An ally or precious object in range is hit, taking 1d6+DM damage. Makes a hero unpopular but oafs and villains do this all the time.   |
+| Waste ammo     | Wild shooting hits thin air. Lose all ammo remaining in the weapon, which must have held more than half of its capacity. Reload (Use Action) to fire again.      |
+| Delay          | The default Twist of losing next Action. Describe as a stumble, pulling a weapon out of a foe or object, being justifiably awed by the horrors of violence, etc. |
+| (Default)      |                                                                                                                                                                  |
+| Alienate ally  | Careless words or deeds under high stress. Lose a Contact or the aid of an NPC ally. Act out some ugly drama if a PC is chosen.                                  |
+| Lose cover     | A careless move in the enemy’s sights. Lose all benefit of Cover (p.55). Must actually be in cover and foes must present a ranged threat for this to be valid.   |
+| Provoke foes   | Unwanted attention. Foes focus Attacks on the character, reinforcements arrive (if possible), enemies go all-out with their most fearsome tactics, etc.          |
+| Jammed         | A firearm or other complex item bungs up. Make a Use Action on relevant Concept vs. Difficulty 1d6 to get it working again.                                      |
+| Butter fingers | A weapon or item related to the Action slips from your grasp. May be lost to crevasses or mud, or your foes may get their hands on it before you do.             |
+| Broken         | Weapon or item loses breaks until repaired. Simple melee weapons like a broken sword may still do half damage but complex items become useless.                  |
+
+
+Always let the situation be your guide. Avoid overt humiliation in particular, as it spoils the heroic tone.
+
+Keep in mind that these detailed options are not the only ones you can take. They absolutely should not prevent the group from making their own! These only clarify common cock-ups.
+
+
 ### Defend
 
 A last-ditch attempt to save your skin by reducing the damage from a successful incoming Attack. This takes the form of blocking, parrying, or dodging -- whichever would be more effective or narratively sensible. Check POISE vs. the attacker's NATURE. If successful, raise Soak by two against that Attack, plus one for every Edge. Even a failed Defend raises Soak by one.
@@ -161,9 +202,7 @@ Make a Know Check only to *understand*, not perceive. As such, this does not det
 
 ### Move
 
-This dedicates an Action towards movement: running, climbing, jumping, swimming, etc. A character usually just takes their Move, only Checking if there is an obstacle. Avoiding traps, ducking through brambles, swimming, clambering over debris, etc. may call for a Check of POISE vs. a Difficulty set by the Guide. Exceptionally fast characters may move more than one Zone in a single Move, while slow ones may take two Moves or more to cross a single Zone.
-
-This Action is special because everyone gets a ***Free Move*** before their Action (never after!). Using the Free Move then a Move Action is "running," and crosses two Zones. If faced with an obstacle, they lose the Free Move and use their regular Move Action to overcome it.
+Dedicates an Action towards moving into an adjacent Zone. This is normally covered by the Free Move, which does not use up an Action unless the character is Staggered or hindered somehow. Avoiding traps, ducking through brambles, swimming, clambering over debris, etc. may call for a Check of POISE vs. a Difficulty set by the Guide.
 
 **Check:** POISE vs. Difficulty
 
@@ -174,13 +213,13 @@ This Action is special because everyone gets a ***Free Move*** before their Act
 > -   **Failure:** Stopped by an obstacle or triggered trap.
 > -   **Twists:** *Delay, drop item, cause a hazard, reveal location, etc.*
 
-Obstacles, scaling larger foes, and traps can be worth a Move Check:
+Fast creatures or vehicles have a Speed higher than one, meaning they may Move more than one Zone in a Round. If a fast mover faces multiple Checks along their path, they may use Split Actions to overcome them. These may each qualify for a Free Move beforehand and are subject to Initiative as usual. Slow movers may have fractional speeds (1/2, etc.) and take two Moves or more to cross a single Zone.
 
--   **Obstacles** like walls, rivers, brambles, etc. hinder moves into the Zone. For example, you must scale or breach a wall to enter.
--   **Scaling:** larger foes count as their own Zone or more to climb upon and deal with riders, etc. The Difficulty is the larger creature's POISE.
--   **Traps** like falls, pits, spikes, lava, etc. do not prevent movement but do cause injury or inconvenience on a failure.
-
-***Chases*** have the quarry and pursuers Move through a set of chase Zones, with the quarry deciding where to go. How well they overcome obstacles decides who wins.
+- **Obstacles** like walls, rivers, brambles, etc. hinder movement into the Zone. For example, you must hurdle a broken wall to enter. These usually provide Cover to those who cross them.
+- **Climbing** lets one enter Zones that extend up or down, like cliffs, pits, or large vehicle/creatures. Very large creatures or vehicles may present their own Zone(s) to climb, making it possible for the bold to deal with riders, find entry ports, etc. Difficulty is the large creature’s POISE or vehicle’s max Speed.
+- **Hazards** like falls, pits, quicksand, lava, etc. do not prevent movement but do call for a Check, with injury or inconvenience on a failure. A Hazard is similar to a Trap but is not hidden. For example, entangling vines may trap an intruder in that Zone until they succeed at a later Move Check, while broken bottles just damage those who fail to tread carefully.
+- **Traps** are carefully hidden surprise Hazards. The first to enter a trapped Zone gets a Check to detect it, using a relevant CONCEPT. If successful, the trap does not trigger and may even be disarmed with further Checks. A failure means they suffer the effect. A triggered trap may turn into a Hazard afterward.
+- **Chases** have the quarry and pursuers Move through a set of chase Zones, with the quarry deciding where to go. How well they overcome obstacles, hazards, and climbing along the way decides who wins.
 
 ### Parley
 
@@ -411,23 +450,7 @@ Some targets are naturally flammable, such as wood, mummies, tree monsters, or r
 
 ### Traps
 
-Traps are sinister surprises for daring adventurers; faceless, "ambient"
-hazards without their own will. Every hidden trap has a ***Trigger***,
-such as the Character walking down the hallway, turning a door handle,
-etc. In that moment, it is also possible to detect and avoid it. If
-successful, the Guide describes the trap and asks how they are escaping
-it, such as leaping to the side of the pit or pulling away from a door
-handle. A Character can still suffer if they make a bad choice!
-
-Avoiding a trap is a Move Check upon triggering the device. Assume all
-characters are looking out for traps as best as they can, with no need
-to declare it. If a character declares they are the one to scout for
-traps, graciously let them be the first target of any they run into.
-
-An obvious "trap" such as an open pit or lava pool is more of an
-obstacle the party may just *choose* to avoid. Some are still
-irresistible to curious parties. This is also true of already-known
-hidden traps.
+Traps are sinister surprises for daring adventurers; faceless, “ambient” dangers without their own will. Every hidden trap has a Trigger, such as the Character walking down the hallway, turning a door handle, etc. At that moment, it is also possible to detect it. Detecting a trap is a Move Check upon encountering the device, using POISE or a relevant trap-related CONCEPT. If they succeed, they do not trigger the trap and may avoid it, or even disarm it with a later (Use) Check. If they fail, they suffer the trap’s effect. A triggered trap may then become a Hazard for everyone else.
 
 -   **Flooding room:** this small adjoining room has a strange idol in the
     center. If players linger, the doors close and it begins to fill with
@@ -447,6 +470,8 @@ Parties may come up with other ways to escape or avoid traps, and you
 should reward creative ideas instead of forcing them to play out the
 trap as written.
 
+An obvious “trap” such as an open pit or lava pool is more of a Hazard the party may just choose to avoid. Some are still irresistible to overly curious parties. This is also true of already-known proper hidden traps, which simply turn into Hazards.
+
 {: .highlight }
 - **Traps:** Move Check to avoid suffering effects.
 
@@ -455,4 +480,4 @@ trap as written.
 Darkness, underbrush, and smoke make tasks related to vision more difficult. In general, dim light is +1 Difficulty and total darkness +3. Equipment such as torches or night vision goggles can prevent this. Sudden flashes of bright light can also hinder visibility.
 
 {: .highlight }
-- Lighting or obscurement inflicts -1 to -3 to sight-related Checks.
+- Poor lighting adds +1 to +3 Difficulty.
