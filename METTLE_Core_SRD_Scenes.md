@@ -151,8 +151,7 @@ Twists can be a little loosey-goosey during most Scenes, but Players tend to dem
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Friendly fire  | Failure to read the room. An ally or precious object in range is hit, taking 1d6+DM damage. Makes a hero unpopular but oafs and villains do this all the time.   |
 | Waste ammo     | Wild shooting hits thin air. Lose all ammo remaining in the weapon, which must have held more than half of its capacity. Reload (Use Action) to fire again.      |
-| Delay          | The default Twist of losing next Action. Describe as a stumble, pulling a weapon out of a foe or object, being justifiably awed by the horrors of violence, etc. |
-| (Default)      |                                                                                                                                                                  |
+| Delay (Default)| The default Twist of losing next Action. Describe as a stumble, pulling a weapon out of a foe or object, being justifiably awed by the horrors of violence, etc. |
 | Alienate ally  | Careless words or deeds under high stress. Lose a Contact or the aid of an NPC ally. Act out some ugly drama if a PC is chosen.                                  |
 | Lose cover     | A careless move in the enemy’s sights. Lose all benefit of Cover (p.55). Must actually be in cover and foes must present a ranged threat for this to be valid.   |
 | Provoke foes   | Unwanted attention. Foes focus Attacks on the character, reinforcements arrive (if possible), enemies go all-out with their most fearsome tactics, etc.          |
