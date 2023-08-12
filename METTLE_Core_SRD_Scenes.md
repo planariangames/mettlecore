@@ -145,7 +145,7 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 
 Twists can be a little loosey-goosey during most Scenes, but Players tend to demand more clarity in combat. After all, they might be losing their character! These are generally well-balanced, but either side may default to Delay as usual if they seem unacceptably harsh or mild.
 
-{: .lh-0}
+{: .lh-1}
 
 | Twist          | Example Consequences                                                                                                                                             |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
