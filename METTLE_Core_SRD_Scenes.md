@@ -137,7 +137,7 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 -   **Grapple Attacks** raise Difficulty instead of doing damage. This goes by raw FRAME; most weapons and armor do not count for either side. The target cannot Move without a Move Check vs. the Difficulty increase, but if successful they also escape the hold. The target also escapes if the Grappler does not reapply the hold next Round.
 -   **Disarm** **Attacks** are melee or ranged Attacks that separate the target from their weapon. A Felling blow causes the target to drop the weapon instead of taking damage. An unarmed disarm may ***Seize*** the weapon and wield it themselves.
 -   **Stun** **Attacks** knock a foe out instead of killing, such as by a pommel strike, sleeper hold, etc. A Felling blow inflicts the Incapacitated Status instead of damage. Weapons without the *Stun* feature do half damage after Soak on Stun Attacks.
--   **Unarmed Attacks** are less lethal. These have the (relatively!) *Soft* feature, inflicting only half damage after Soak.
+-   **Unarmed Attacks** are less lethal. These have the (relatively!) *Soft* feature, inflicting only half damage after Soak. This gives combatants time to converse during the excitement.
 -   **Vehicle Attacks** like ramming work much like regular Attacks but factor in current Speed. See Vehicles (p.65) for details.
 
 {: .text-center}

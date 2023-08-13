@@ -70,7 +70,7 @@ The following weapons chart gives examples of the more popular weapons. Each has
 | **Weapon**     | **Hit** | **DM**  | **Special**                     | **Load** | **Cost** |
 | Axe            |   +1D   | FRAME+3 | \-                              |    1     |    2     |
 | Axe, great     |   +1D   | FRAME+4 | 2H                              |    2     |    3     |
-| Bow            |   \-    | FRAME+2 | 2H, Range 4, Ammo 12            |    2     |    3     |
+| Bow            |   \-    | FRAME+2 | 2H, Range 4, Ammo 12 (quiver)   |    2     |    3     |
 | Brass Knuckles |   \-    |  FRAME  | Stun                            |    \-    |    2     |
 | Bullwhip       |   \-    |  FRAME  | Reach, Wrap, Grapple            |    1     |    2     |
 | Club           |   +1D   | FRAME+1 | Stun                            |    1     |    1     |
@@ -85,26 +85,26 @@ The following weapons chart gives examples of the more popular weapons. Each has
 | Lance          |   +1D   | FRAME+3 | 2H, Reach                       |    2     |    3     |
 | Machete        |   +1D   | FRAME+2 | Tool (+1D Travel)               |    1     |    2     |
 | Net            |   \-    |  FRAME  | Entangle                        |    1     |    2     |
-| Pistol         |   \-    |    6    | Range 2, Ammo 6                 |    0     |    3     |
+| Pistol         |   +1D   |    6    | Range 2, Ammo 9                 |    0     |    3     |
 | Polearm        |   +1D   | FRAME+4 | 2H, Reach                       |    2     |    3     |
 | Quarterstaff   |   +2D   | FRAME+2 | 2H, Stun                        |    2     |    2     |
-| Revolver       |   \-    |    6    | Range 2, Ammo 9                 |    0     |    3     |
-| Rifle          |   \-    |    7    | 2H, Ammo 5, Range 6, Scope      |    1     |    3     |
-| Rifle, assault |   \-    |    7    | 2H, Burst, Ammo 30, Range 5     |    1     |    3     |
+| Revolver       |   +1D   |    6    | Range 2, Ammo 6                 |    0     |    3     |
+| Rifle          |   +1D   |    7    | 2H, Ammo 5, Range 6, Scope      |    1     |    3     |
+| Rifle, assault |   +1D    |    7    | 2H, Burst, Ammo 30, Range 5    |    1     |    3     |
 | Shield, large  |   \-    |  FRAME  | Shield +2                       |    2     |    3     |
 | Shield, medium |   \-    |  FRAME  | Defend +1, Shield +1            |    1     |    3     |
 | Shield, small  |   \-    |  FRAME  | Defend +2                       |    \-    |    3     |
-| Shotgun        |   +2D   |    8    | 2H, Range 2                     |    1     |    3     |
-| Sling          |   \-    | FRAME+1 | Range 3                         |    \-    |    1     |
-| SMG            |   \-    |    6    | 2H, Range 3, Burst, Ammo 30 |    0     |    3     |
+| Shotgun        |   +3D   |    8    | 2H, Range 2, Ammo 3             |    1     |    3     |
+| Sling          |   \-    | FRAME+1 | Range 3, Ammo 1                 |    \-    |    1     |
+| SMG            |   +1D   |    6    | 2H, Range 3, Burst, Ammo 30     |    0     |    3     |
 | Spear          |   +1D   | FRAME+2 | Range 1, Reach                  |    2     |    2     |
-| Stun gun       |   \-    |   6\*   | Stun (only!)                    |    \-    |    3     |
+| Stun gun       |   \-    |   6\*   | Stun (only!), Ammo 50           |    \-    |    3     |
 | Sword          |   +2D   | FRAME+2 | \-                              |    1     |    3     |
 | Sword, great   |   +2D   | FRAME+3 | 2H                              |    2     |    3     |
-| Taser          |   \-    |   6\*   | Stun (only), Reach              |    \-    |    3     |
+| Taser          |   \-    |   6\*   | Stun (only), Reach, Ammo 1      |    \-    |    3     |
 | Unarmed        |   \-    |  FRAME  | Stun, Soft                      |    \-    |    \-    |
 
-*\*Special features are for a "typical" modern weapon of its kind. If modeling a specific weapon, compare it to the actual weapon and adjust as needed. For example, a smaller "Walther PPK" pistol might do 1 less DM and hold 7 ammo.*
+*Note: Special features are for a “typical” modern weapon of its kind. If modeling a specific weapon, compare it to the actual weapon and adjust as needed. For example, a smaller “Walther PPK” pistol might get +1D to Hit, do 1 less DM, and hold 7 ammo. In general, heavier calibers of a firearm lose 1D of their Hit bonus but gain 1 DM. Smaller calibers (as above) do the reverse, gaining 1D to hit but lose 1 DM.*
 
 ## Equipment
 
@@ -152,11 +152,11 @@ Riding atop a mount is a great advantage. In combat, the mount and rider count a
 {: .text-center}
 **MOUNTS**
 
--   **Camel:** *Pool 4(FRAME 7), Speed 2, Attack (kick 7 DAM)*. Ships of the desert, hardy and stubborn.
--   **Donkey:** *Pool 4(FRAME 5), Speed 2, Attack (kick 5 DAM)*. Like a small but sturdy horse. Shines on rough terrain as a pack or riding animal.
--   **Elephant:** *Pool 4(FRAME 12), Speed 1, Attack (stomp 12 DAM)*. Mighty and steady.
--   **Horse:** *Pool 4 (FRAME 7), Speed 3, Attack (kick 7 DAM)*. A strong, fast, and awe-inspiring mount for the ages.
--   **Mule**: *Pool 4(FRAME 7), Speed 2, Attack (kick 7 DAM)*. A sturdy mount or beast of burden with a lot of attitude.
+-   **Camel:** *Pool 4D(FRAME 7), Speed 2, Attack (kick 7 DAM)*. Ships of the desert, hardy and stubborn.
+-   **Donkey:** *Pool 4D(FRAME 5), Speed 2, Attack (kick 5 DAM)*. Like a small but sturdy horse. Shines on rough terrain as a pack or riding animal.
+-   **Elephant:** *Pool 4D(FRAME 12), Speed 1, Attack (stomp 12 DAM)*. Mighty and steady.
+-   **Horse:** *Pool 4D(FRAME 7), Speed 3, Attack (kick 7 DAM)*. A strong, fast, and awe-inspiring mount for the ages.
+-   **Mule**: *Pool 4D(FRAME 7), Speed 2, Attack (kick 7 DAM)*. A sturdy mount or beast of burden with a lot of attitude.
 
 ## Vehicles
 
