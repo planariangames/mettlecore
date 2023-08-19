@@ -14,9 +14,11 @@ To be 100% clear about how to do this, we fold every such case into a general "S
 Avoid or resist an Action made by an NPC. NPCs do not Check in this player-facing hack. On their Action, the Guide simply presents their Pool (plus any modifiers) as a Difficulty for the PC to beat. A successful Save means the foe's Action did not succeed. This is a unique defensive **Reaction**\*, meaning that it does not use up an Action, allow Twists, or benefit from Raises.
 
 **Common Save Checks:**
-\>Save vs. Parley is MOTIVE vs. their NATURE.  
-\>Save vs. Sneak is MOTIVE vs. their POISE.  
-\>Save vs. Attack is POISE vs. their NATURE.
+>Save vs. Parley is MOTIVE vs. their NATURE.  
+>Save vs. Sneak is MOTIVE vs. their POISE.  
+>Save vs. Attack is POISE vs. their NATURE.
+
+Detailed NPCs may use a relevant CONCEPT as the Difficulty instead, violating another core rule about passives never being Concept-linked.
 
 {: .outcomes }
 
@@ -39,5 +41,5 @@ Players can still Defend after all this is through, further lowering incoming da
 
 NPCs may split Actions but this divides the Difficulty faced by players instead of the dice Pool.
 
-{: .highlight }
+{: .note }
 **Example:** In the midst of some late-night intruding, Asphodel is attacked by a warehouse guard (Extra, 3D) wielding a baton (+1D Hit, +1 DM). He gets to make a Save Reaction using his 5D POISE, versus a Difficulty of 4 (3D guard, +1D Hit with baton). His Check result is \[2,1, 5 5 4\]. This is a failure as the Score is only 3, less than the guard's 4 Difficulty Attack. The guard's usual flat damage from the baton is 7 (3D Pool +3 DM guard, +1 DM baton), but Asphodel's 3 Edge lowers this to only 4. Can he Soak it? Probably.
