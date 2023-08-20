@@ -49,3 +49,5 @@ NPCs may split Actions but this divides the Difficulty faced by players instead 
 **Example:** In the midst of some late-night intruding, Asphodel is attacked by a warehouse guard.
 The Warehouse Guard is a fairly average 3D Extra, armed with a baton (+1D Hit, +1 DM). Their Attack thus has a Difficulty of 4 (3D Extra Pool + 1D to Hit bonus). If the baton hits, its DM is 7 (3D Extra Pool + 3 Extra FRAME +1 Baton DM).
 Asphodel gets to make a Save Reaction using his 5D POISE, versus a Difficulty of 4. His Check result is \[2, 1, 5, 5, 4\]. This is a failure as the Score is only 3, less than the guard's 4 Difficulty Attack. The guard's damage from the baton is 7, but Asphodel's 3 Edge lowers this to only 4. Can he Soak it? Probably.
+
+The elaboration of the bonuses makes the above example look more complex than it actually is. In the end it is just Save vs. Difficulty, lower damage by Edge if it is an Attack.
