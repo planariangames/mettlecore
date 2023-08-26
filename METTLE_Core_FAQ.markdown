@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+nav_order: 3
 ---
 
 # METTLE Core FAQ

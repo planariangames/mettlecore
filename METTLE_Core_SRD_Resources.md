@@ -147,16 +147,16 @@ While not technically hirelings, the party may also bribe passersby or layabouts
 
 Riding atop a mount is a great advantage. In combat, the mount and rider count as a single unit. A mounted rider may use the mount's Speed instead of their own and enjoys Partial Cover (+2). The two must share the same Action but may Split Attacks between them. Otherwise, treat them as individuals.
 
- The mount uses a simplified NPC Pool, with their FRAME in parentheses. The rider may use their riding-related Concept to get the Mount to do something it does not want to, such as leaping over a dangerous obstacle, learning a trick, running to exhaustion, or staying in a battlefield. Treat this as a Parley Check (rider's Concept vs. mount's Pool). A trained mount behaves differently in certain conditions. For example, a war horse does not balk at combat or gunfire.
+ The mount uses a simplified NPC Pool, showing their usual Pool + FRAME. The rider may use their riding-related Concept to get the Mount to do something it does not want to, such as leaping over a dangerous obstacle, learning a trick, running to exhaustion, or staying in a battlefield. Treat this as a Parley Check (rider's Concept vs. mount's Pool). A trained mount behaves differently in certain conditions. For example, a war horse does not balk at combat or gunfire.
 
 {: .text-center}
 **MOUNTS**
 
--   **Camel:** *Pool 4D(FRAME 7), Speed 2, Attack (kick 7 DAM)*. Ships of the desert, hardy and stubborn.
--   **Donkey:** *Pool 4D(FRAME 5), Speed 2, Attack (kick 5 DAM)*. Like a small but sturdy horse. Shines on rough terrain as a pack or riding animal.
--   **Elephant:** *Pool 4D(FRAME 12), Speed 1, Attack (stomp 12 DAM)*. Mighty and steady.
--   **Horse:** *Pool 4D(FRAME 7), Speed 3, Attack (kick 7 DAM)*. A strong, fast, and awe-inspiring mount for the ages.
--   **Mule**: *Pool 4D(FRAME 7), Speed 2, Attack (kick 7 DAM)*. A sturdy mount or beast of burden with a lot of attitude.
+-   **Camel:** *4D+7, Speed 2, Attack (kick 7 DM)*. Ships of the desert, hardy and stubborn.
+-   **Donkey:** *4D+5, Speed 2, Attack (kick 5 DM)*. Like a small but sturdy horse. Shines on rough terrain as a pack or riding animal.
+-   **Elephant:** *4D+12, Speed 1, Attack (stomp 12 DM)*. Mighty and steady.
+-   **Horse:** *4D+7, Speed 3, Attack (kick 7 DM)*. A strong, fast, and awe-inspiring mount for the ages.
+-   **Mule**: *4D+7, Speed 2, Attack (kick 7 DM)*. A sturdy mount or beast of burden with a lot of attitude.
 
 ## Vehicles
 

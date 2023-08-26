@@ -131,14 +131,6 @@ Anyone can help come up with a creative Twist. If the Guide *or* Player does not
 |Imperil|Lose *safety*: friendly fire, obstacle, unwanted attention...|
 |Waste|Lose *resources*, use up credit, lose or break items...|
 
-### Raises
-
-Daring players may push their luck to get more out of an action. A Raise is when you set one or more of the dice in your pool to six before the Check. Do not Check these, they go straight to Edge! This reduces your chances of succeeding but makes Edge certain if you do. A player using a Raise should describe how their character is putting extra flair into the action, such as a front flip over a car or called shot to the head.
-
-Raises are also a good way to manage overly large dice pools, and you can still use raised dice for a Twist if they backfire!
-
-{: .highlight }
->- Set some dice aside as sixes before a Check to guarantee Edge.
 
 ### Teamwork
 

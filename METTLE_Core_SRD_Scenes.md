@@ -180,7 +180,7 @@ Defend must be the very next Action after the original Attack, one cannot wait u
 > -   **Failure:** +1 to Soak
 > -   **Twists:** *Delay, drop weapon, lose Cover, draw more foes, etc.*
 
-Special weapons may grant a bonus to Defend, such as Shields and parrying daggers.
+Special weapons may grant a bonus to Defend, such as Shields and parrying daggers. This bonus only applies vs. melee Attacks, however.
 
 ### Know
 
