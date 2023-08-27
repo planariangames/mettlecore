@@ -112,9 +112,9 @@ Unusual settings may introduce entirely new Attributes for things like cyberneti
 
 This is the Adventurer's calling in life, and the size of their dice pool tells you how good they are at it. CONCEPT is special because it can replace other Attributes if higher and better suited for the task. For example, a *Royal Fencing Instructor* could use their CONCEPT instead of NATURE when wielding a light sword. This is only for the active side of a Check. CONCEPT cannot swap in for the passive Difficulty.
 
-Guides often grant free information or automatic success with the right CONCEPT Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon, while those with less relevant Descriptors may have to make Checks.
+Guides often grant free information or automatic success with the right CONCEPT Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon, while those with less relevant Descriptors are stuck with making Checks.
 
-Assume that characters are generally competent and may use their CONCEPT pool even for tasks unrelated to their Descriptor, but at double Difficulty. For example, a very skilled *Carpenter* could pilot a plane, if poorly. A relevant Backstory can bypass the added Difficulty.
+Assume that characters are generally competent and may use their CONCEPT pool even for tasks unrelated to their Descriptor, at up to double Difficulty. For example, a very skilled Carpenter could try to pilot a plane at double Difficulty but would face less Difficulty patching its wing. A relevant Backstory can bypass the added Difficulty.
 
 **<u>Example Descriptors</u>:** *cat burglar, astromech pilot, village
 blacksmith, unemployed librarian, time-traveling lunatic, courtier,
