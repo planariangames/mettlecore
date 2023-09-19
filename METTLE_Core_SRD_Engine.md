@@ -163,10 +163,10 @@ The Staggered and Fallen risk ending up **Dead**. An Aid Check reveals their fat
 
 ### Mettle Surges
 
-Adventurers under stress can transcend their usual limits, especially when fresh to battle. Whenever Initiative (p.38) is in play, each point of Mettle they sacrifice grants them +1D on any Checks they make that Round. This power has limits; one cannot spend more than their MOTIVE in a single Round, nor lower Mettle to zero (Fallen). This lost Mettle is temporary and Rallies back as normal.
+Adventurers under stress can transcend their usual limits, especially when fresh to battle. During each Round of Initiative, they can sacrifice one point of METTLE to get +1D on any Checks they make. If the action helps fulfill their Motive, they get +2D instead. Spectacular exemplars of heroic idiocy can even Surge into negative Mettle, suffering the usual Status and serious self-injury or exhaustion. If still positive, lost Mettle is temporary and Rallies back as normal.
 
 {: .highlight }
->- **Surge:** spend Mettle to add +1D to Checks during combat.
+>- **Surge:** spend Mettle to add +1D or +2D to Checks during combat.
 
 ### Status Effects
 

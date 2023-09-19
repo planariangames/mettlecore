@@ -7,7 +7,7 @@ title: Troika!
 
 # Three-fisted tales
 
-# A work in progress
+# (A work in progress)
 
 I like Troika and thought it would be fun to convert it into METTLE. I'm fully aware that some Troika fans are pretty militantly opposed to this and The Melsonian Arts Council is unlikely to hold a parade for me. Those who think I should not have done this should feel free to go and humpback themselves.
 
@@ -18,7 +18,9 @@ All those under the humpbacked sky enjoy a GNOSIS Attribute. This tells you thei
 
 >- **Second Sight**: Anyone with GNOSIS has Second Sight as well. If they focus upon a person they can detect any magical influence. This extends to a number of Zones equal to their GNOSIS. No Check unless the magic is being squirrelly for some reason.
 
->- **Undo**: Anyone with a GNOSIS has the Undo ability as well. This costs double the usual Mettle and is vs. the Gnosis of the original caster. If Undoing a Spell they know, they may add their bonus to the attempt. Lasting Spells with Edge are that much harder to Undo.
+>- **Undo**: Anyone with a GNOSIS has the Undo ability as well. This costs double the usual Mettle and is vs. the Gnosis of the original caster. If Undoing a Spell they know, they may add their bonus to the attempt. Lasting Spells with Edge are that much harder to Undo, and Instant Spells can only be Undone by holding your Action during Initiative.
+
+Like most additional Attributes, Gnosis does not have a Descriptor.
 
 ### New Action: Cast
 Casting a Spell is a reckless choice every time; a thumb in the eye of the gods. Unlike regular actions that only require a Check if the Guide steps in, casting a Spell always flirts with disaster. After Spending the Mettle cost, Check Gnosis versus whatever is used to resist the Spell. Many are unresisted, with a Difficulty of zero! Others are unlikely hail-Mary gambits with a high Difficulty. Checks can be made with a relevant CONCEPT if well-justified, for example by having those Spells in their description.

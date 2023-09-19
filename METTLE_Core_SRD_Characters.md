@@ -133,7 +133,7 @@ etc.*
 
 ### MOTIVE
 
-An interesting character is fueled by a goal that drives their actions and keeps them going even when things seem hopeless. MOTIVE forms part of the Mettle score, enables one to Rally (p.48) back into action when overwhelmed, and alerts them to the wiles of stealthy or manipulative foes. A strong MOTIVE may be unhealthy for a normal person, but adventurers often harbor overwhelming drives and passions. The Descriptor may change during play, especially if fulfilled.
+An interesting character is fueled by a goal that drives their actions and keeps them going even when things seem hopeless. MOTIVE forms part of the Mettle score, enables one to Rally back into action when overwhelmed, improves Mettle Surges related to it, and alerts them to the wiles of stealthy or manipulative foes. A strong motive may be unhealthy for a normal person, but adventurers often harbor overwhelming drives and passions. If the MOTIVE is ever fulfilled, the adventurer may retire or take on a new mission in life.
 
 **<u>Example Descriptors</u>:** *Avenge my master, bring justice to the
 oppressed, consume great quantities, escape from the oubliette, kill
