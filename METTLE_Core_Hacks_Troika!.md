@@ -57,8 +57,6 @@ Pretty much every Troika! weapon is also in the METTLE Core table. Use existing 
 ## Items
 Trivial to convert directly. An item that grants a +1 bonus in Troika! merely grants a +1D bonus in METTLE. For others, don't overthink it.
 
-I like Troika and thought it would be fun to convert it into METTLE. I'm fully aware that some Troika fans are pretty militantly opposed to this and The Melsonian Arts Council is unlikely to hold a parade for me. Those who think I should not have done this should feel free to go and humpback themselves.
-
 ## Spells
 
 ### New Attribute: Gnosis
