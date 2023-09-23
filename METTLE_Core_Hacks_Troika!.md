@@ -19,14 +19,14 @@ You can build your own METTLE/Troika! characters by taking a Troika Background a
 Other special abilities will take more rejiggering, and may be mentioned here later.
 
 ### Attributes
-Troika uses the METTLE set of CONCEPT, FRAME, MOTIVE, NATURE, and POISE. It also adds a GNOSIS Attribute, as described later. You can make a perfectly cromulent character by distributing 26 points; 2 every die for your highest attribute and 1 every die for the others. This is a bit higher than a standard METTLE Core character due to the extra GNOSIS Attribute. All Attributes have a minimum of 1, but no maximum because this genre is very permissive of weird power levels.
+Converted characters use the METTLE set of CONCEPT, FRAME, MOTIVE, NATURE, and POISE. It also adds a GNOSIS Attribute, as described later. You can make a perfectly cromulent character by distributing 26 points; 2 every die for your highest attribute and 1 every die for the others. This is a bit higher than a standard METTLE Core character due to the extra GNOSIS Attribute. All Attributes have a minimum of 1, but no maximum because this genre is very permissive of weird power levels.
 
 Alternately, you can use an array:
 
 >- Standard array: 5, 4, 4, 3, 3, 2
 >- Specialized array: 6, 4, 4, 3, 2, 1
 
-The Specialized array above is great for characters who are not focused on magic. They can dump the minimum 1 in Gnosis and enjoy a higher starting Attribute somewhere else.
+The Specialized array above is great for characters who are not focused on magic. They can dump the minimum 1 into GNOSIS and enjoy a super starting Attribute somewhere else.
 
 All methods use the same amount of points. There is nothing stopping you from starting with more or less.
 
@@ -45,13 +45,14 @@ This helps when converting Special abilities that grant armor as well.
 Pretty much every Troika! weapon is also in the METTLE Core table. Use existing weapons from METTLE Core. The only exceptions are Fusils and Pistolets. Treat these as higher powered handguns and long guns, respectively. Reload them with a Plasmic Core.
 
 ### Fusils and Pistolets
+
 | Weapon   | Hit | DAM | Special | Load |
 | -------- |:---:|:---:| ------- |:----:|
 | Fusil    |  +1D  |  7   | 2H, Range 6, Ammo 6         |   0   |
 | Pistolet |   +1D  |  8   | Range 2, Ammo 8        |   1   |
 
 ## Items
-Trivial to convert directly. Something that grants a +1 bonus in Troika! merely grants a +1D bonus in METTLE. For others, don't overthink it.
+Trivial to convert directly. An item that grants a +1 bonus in Troika! merely grants a +1D bonus in METTLE. For others, don't overthink it.
 
 I like Troika and thought it would be fun to convert it into METTLE. I'm fully aware that some Troika fans are pretty militantly opposed to this and The Melsonian Arts Council is unlikely to hold a parade for me. Those who think I should not have done this should feel free to go and humpback themselves.
 
