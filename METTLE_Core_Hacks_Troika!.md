@@ -5,6 +5,10 @@ parent: Hacks
 title: Troika!
 ---
 
+<center>
+<img src="images/METTLETroika.jpeg" title="METTLE Core and Troika! Books" width="450" />
+</center>
+
 # Three-fisted tales
 
 I love Troika and thought it would be fun to convert it into METTLE. I'm fully aware that some Troika fans are pretty militantly opposed to this and The Melsonian Arts Council is unlikely to hold a parade for me. Those who think I should not have done this should feel free to go and humpback themselves.
