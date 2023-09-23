@@ -7,7 +7,51 @@ title: Troika!
 
 # Three-fisted tales
 
-# (A work in progress)
+I love Troika and thought it would be fun to convert it into METTLE. I'm fully aware that some Troika fans are pretty militantly opposed to this and The Melsonian Arts Council is unlikely to hold a parade for me. Those who think I should not have done this should feel free to go and humpback themselves.
+
+After they finish, they can read this:
+
+*This METTLE Troika! hack is an independent production by Planarian Games and is not affiliated with the Melsonian Arts Council.*
+
+### Backgrounds
+You can build your own METTLE/Troika! characters by taking a Troika Background and converting it into the CONCEPT of a METTLE Character. Treat any Troika! special abilities as if they were equipment. The scale of bonuses and armor are almost identical between the games, conveniently enough.
+
+Other special abilities will take more rejiggering, and may be mentioned here later.
+
+### Attributes
+Troika uses the METTLE set of CONCEPT, FRAME, MOTIVE, NATURE, and POISE. It also adds a GNOSIS Attribute, as described later. You can make a perfectly cromulent character by distributing 26 points; 2 every die for your highest attribute and 1 every die for the others. This is a bit higher than a standard METTLE Core character due to the extra GNOSIS Attribute. All Attributes have a minimum of 1, but no maximum because this genre is very permissive of weird power levels.
+
+Alternately, you can use an array:
+
+>- Standard array: 5, 4, 4, 3, 3, 2
+>- Specialized array: 6, 4, 4, 3, 2, 1
+
+The Specialized array above is great for characters who are not focused on magic. They can dump the minimum 1 in Gnosis and enjoy a higher starting Attribute somewhere else.
+
+All methods use the same amount of points. There is nothing stopping you from starting with more or less.
+
+{: .note }
+
+So Why Didn't I Just Stick with Skill, Luck, and Stamina? Obvious question, and something I abandoned early. Troika! does rely *mainly* on those three, but it also has numerous Skills for Strength, Athletics, Second sight, Spells, etc. If I try to account for each of those I actually wind up with a bigger Attribute set than METTLE. Luck was something I strongly considered adding but in the end I just wasn't feeling it. It tends to be a defensive roll, and I already have Attributes to serve as Difficulties for that. You do miss out on the idea of luck running out.
+
+## Armor
+There are three armor categories in Troika! and METTLE, and they are interchangeable.
+
+Troika! Lightly armoured = METTLE light armor, Modestly armoured = Medium Armor, Heavily Armored = Heavy Armor. Great minds think alike, I guess.
+
+This helps when converting Special abilities that grant armor as well.
+
+## Weapons
+Pretty much every Troika! weapon is also in the METTLE Core table. Use existing weapons from METTLE Core. The only exceptions are Fusils and Pistolets. Treat these as higher powered handguns and long guns, respectively. Reload them with a Plasmic Core.
+
+### Fusils and Pistolets
+| Weapon   | Hit | DAM | Special | Load |
+| -------- |:---:|:---:| ------- |:----:|
+| Fusil    |  +1D  |  7   | 2H, Range 6, Ammo 6         |   0   |
+| Pistolet |   +1D  |  8   | Range 2, Ammo 8        |   1   |
+
+## Items
+Trivial to convert directly. Something that grants a +1 bonus in Troika! merely grants a +1D bonus in METTLE. For others, don't overthink it.
 
 I like Troika and thought it would be fun to convert it into METTLE. I'm fully aware that some Troika fans are pretty militantly opposed to this and The Melsonian Arts Council is unlikely to hold a parade for me. Those who think I should not have done this should feel free to go and humpback themselves.
 
@@ -121,3 +165,7 @@ Casting a Spell is a reckless choice every time; a thumb in the eye of the gods.
 |  Ward                 | 1       | DM          | Instant  | Deflect missile, Difficulty is its DM.                                                                                                |
 |  Web                  | 1       | Zones       | Lasting  | Creates obstacle against leaving those Zones, Gnosis is Difficulty.                                                                   |
 |  Zed                  |    ?    | 0           | Instant  | Unknown, casters disappear instantly.                                                                                                 |
+
+## Bestiary
+
+(UNDER CONSTRUCTION)
