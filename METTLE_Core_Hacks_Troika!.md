@@ -172,3 +172,5 @@ Casting a Spell is a reckless choice every time; a thumb in the eye of the gods.
 ## Bestiary
 
 (UNDER CONSTRUCTION)
+
+Handle these as Extras, for example something man-equivalent would be 3D+3. In METTLE the number before the D is their pool, the number after the plus is their Frame.
