@@ -44,8 +44,11 @@ This helps when converting Special abilities that grant armor as well.
 ## Weapons
 Pretty much every Troika! weapon is also in the METTLE Core table. Use existing weapons from METTLE Core. The only exceptions are Fusils and Pistolets. Treat these as higher powered handguns and long guns, respectively. Reload them with a Plasmic Core.
 
-### Fusils and Pistolets
+<center>
+<strong>FUSILS & PISTOLETS</strong>
+</center>
 
+{: .lh-0}
 | Weapon   | Hit | DAM | Special | Load |
 | -------- |:---:|:---:| ------- |:----:|
 | Fusil    |  +1D  |  7   | 2H, Range 6, Ammo 6         |   0   |
