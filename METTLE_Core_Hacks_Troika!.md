@@ -56,8 +56,8 @@ Pretty much every Troika! weapon is also in the METTLE Core table. Use existing 
 {: .lh-0}
 | Weapon   | Hit | DAM | Special | Load |
 | -------- |:---:|:---:| ------- |:----:|
-| Fusil    |  +1D  |  7   | 2H, Range 6, Ammo 6         |   0   |
-| Pistolet |   +1D  |  8   | Range 2, Ammo 8        |   1   |
+| Fusil    |  +1D  |  8   | 2H, Range 6, Ammo 6         |   1   |
+| Pistolet |   +1D  |  7   | Range 2, Ammo 8        |   0   |
 
 ## Items
 Trivial to convert directly. An item that grants a +1 bonus in Troika! merely grants a +1D bonus in METTLE. For others, don't overthink it.
