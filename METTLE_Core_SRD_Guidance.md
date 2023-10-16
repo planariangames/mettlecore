@@ -249,13 +249,13 @@ story.
 
 The Guide plays perhaps too many NPCs, such as friendly or unfriendly contacts, shopkeepers, enemies, key figures in the setting, and random passersby. Only key NPCs should have full Attributes. For the mostly unnamed, unsung Extras, a single NPC pool will do. The first number, followed by a “D” is their dice pool for Attributes, and their Mettle. This is followed by their FRAME bonus. Think “Stunned Bystander 3D+3” or “Hostile Village Elder 5D+2.” If they try something out of character, double the Difficulty as usual.
 
-<center>*[ Attributes & Mettle ] D + [ FRAME ]*</center>
+<center>*[ Attribute pool ] D + [ FRAME ]*</center>
 
 Extras only get their pool as Mettle, so they have less staying power than more important NPCs. Embrace this disparity or describe their defeats as retreats rather than beatdowns.
 
 ### Freeform CONCEPT Descriptors
 
-METTLE Core gives thematic examples but does not limit players to a definitive list of skills. While specific settings may hint at good ones, these are supposed to be up to the Player. You decide if a given CONCEPT is relevant to a task. Most of the time, you should say yes. If it is not obvious why and the Player doesn’t have a clever explanation, double the Difficulty. In extreme cases, do not allow the action at all. Suggest other ways they might achieve their goal if stuck.
+METTLE Core gives thematic examples but does not limit players to a definitive list of skills. While specific settings may hint at good ones, these are supposed to be up to the Player. You decide if a given CONCEPT is relevant to a task. Most of the time, you should say yes. If it is not obvious why and the Player doesn’t have a clever explanation, raise the Difficulty (up to double). In extreme cases, do not allow the action at all. Suggest other ways they might achieve their goal if stuck.
 
 ### Freeform XP
 

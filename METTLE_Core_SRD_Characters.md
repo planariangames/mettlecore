@@ -30,9 +30,8 @@ What others see when they meet the character. These are *Adventurers* so make th
 </center>
 
 Invent, choose, or roll on the table below to snap you out of any pesky
-creative paralysis. The distinctive features shown below are common
-options but by no means the only ones. Be creative and make these
-choices sing on your character sheet!
+creative paralysis.
+These distinctive features give you just enough to work with. Be creative and make them sing on your character sheet!
 To use a d66 table, roll one six-sided die and then another. For example,
 if you roll a 6 and a 2, go to the distinctive feature in the row for "6, 2."
 
@@ -205,9 +204,9 @@ Thinking up good Descriptors for Attributes can be challenging. Use the table be
 
 ## Step 4: Backstories
 
-These short phrases broaden the character by giving them a history and the skills to go with it. Each character may have as many Backstories as their highest unmodified Attribute, usually 5 for a starting adventurer. These can be good or bad experiences, virtues, vices, likes, dislikes, etc. Their main advantage is they serve as extra CONCEPTs. When making a CONCEPT Check for something it doesn't cover, they can forego the usual double Difficulty by calling on a related Backstory instead.
+These short phrases broaden the character by giving them a history and the skills to go with it. Each character may have as many Backstories as their highest unmodified Attribute, usually 5 for a starting adventurer. These can be good or bad experiences, virtues, vices, likes, dislikes, etc. Their main advantage is they serve as extra CONCEPTs. When making a CONCEPT Check for something it doesn't cover, they can forego the usual double Difficulty by calling on a related Backstory instead. Backstories are not as focused as CONCEPTs and may face Difficulty raises.
 
-One Backstory must describe their native language and culture. Language-granting Backstories should include the name of a place, with the language in parentheses. For example, *Raised on the mean streets of New York (English)* or *Pampered Sicilian Nobility (Italian).* Check language-granting Backstories for cultural knowledge or local flavor.
+One Backstory must describe their native language and culture. Language-granting Backstories include the name of a place, with the language in parentheses. For example, *Raised on the mean streets of New York (English)* or *Pampered Sicilian Nobility (Italian).* Check language-granting Backstories for cultural knowledge or local flavor.
 
 Players may hold off on choosing all their Backstories until they know the setting better. A good rule of thumb is to spend about half of the Backstories on creation. Some like to wait until they need one, and then take it during play to have had it all along. If the highest Attribute increases later, they may also take another Backstory.
 
@@ -266,7 +265,7 @@ One Backstory must describe your native land and language. You won't find those 
 
 ## Step 5: Resources
 
-Outfitting your character is a terrific way to get to know them. Even Intangibles like debts, favors, oaths, promises, burdens of guilt, memberships, rank, etc. belong here as well. What an adventurer has at hand impacts how they deal with the crazy situations they get into.
+Outfitting your character is a terrific way to get to know them. What an adventurer has at hand impacts how they deal with the crazy situations they get into. Even intangibles like debts, favors, oaths, promises, burdens of guilt, memberships, rank, etc. belong here.
 
 You need only specify important gear on the character sheet. When a character would reasonably have something else, be reasonable and assume they do. Even if they did not write it down, a scientist knows people at their lab, someone with a car has a spare tire, etc.
 
@@ -294,13 +293,13 @@ List discrete windfalls, suitcases full of cash, stolen piggybanks, or other tre
 
 ### Contacts
 
-Choose up to as many helpful people or groups as their Credit and write them down in the Resources box. Call upon these for favors or advice, they can even step into the story to save the character in a pinch. As always, you can hold off choosing until later.
+Choose up to as many helpful people or groups as their Credit and write them down in the Resources box. Call upon these for favors or advice. They can even step into the story to save the character in a pinch. As always, you can hold off choosing until later.
 
 If a character abuses their Contacts, they may lose them. The only way to bring them back is to make amends or replace them. They may also fall back into good graces between campaigns, depending on how awful the character was to them.
 
 ### Encumbrance
 
-An adventurer can only carry so much, even after returning from a lucrative outing. Each burdensome item counts as at least one ***Load***, based on how many hands it would take an average person to carry. Ignore single small items like keys, wallets, daggers, etc. as zero Load.
+An adventurer can only carry so much, especially when returning from a lucrative outing. Each burdensome item counts as at least one ***Load***, based on how many hands it would take an average person to carry. Ignore single small items like keys, wallets, daggers, etc. as zero Load.
 
 One can easily carry Load equal to their FRAME. If they carry more than this, every Zone crossed takes up two Moves. If their Speed was higher than one Zone per move, lower it by one instead. If they try to carry over twice their FRAME, they are Incapacitated.
 
@@ -370,7 +369,7 @@ Dana is making a new character for an upcoming game. Her Guide set it in an alte
 
 Armed with these details, she goes back to the Name step. She picks the last name "Alkaev" from a search of Russian family names.
 
-**Step 4 -- Backstories**: His highest Attribute (CONCEPT) is 5D, so he has up to five Backstories. Going right to his tragic past, he gets *Master Fencer who Lost his Dream after a Leg Injury.* Next, she gives him *Struggling Baltimorean Bachelor (English)*, which should make him fit in well with the setting. She also gives him *Raised by Russian Immigrants (Russian)* as his origin, which makes him conversant in the language. It may also be useful for cooking if it comes up! This leaves two Backstories she can reveal later.
+**Step 4 -- Backstories**: His highest Attribute (CONCEPT) is 5D, so he has up to five Backstories. Going right to his tragic past, he gets *Master Fencer who Lost his Dream after a Leg Injury.* Next, she gives him *Struggling Baltimorean Bachelor (English)*, which fits in well with the setting. She also gives him *Raised by Russian Immigrants (Russian)* as his origin, which makes him conversant in the language. It may also be useful for cooking if it comes up! This leaves two Backstories she can reveal later.
 
 **Step 5 -- Resources:** Dana's Guide assigns 2 (Struggling) for Credit based on Viktor's situation. Dana decides he usually wears a *brown suit* and lives in a *modest apartment*. He carries an *elegant sword cane*, a *pocket knife*, a *pocket watch & fob*, and a *deck of cards*. He has two contacts for now: "Oleg" as someone he owes money to, and "Samuelson" as an old fencing rival. In keeping with his personality, these are somewhat hostile relationships, but this is fine: Oleg may help Viktor just to finally get his money back, and Samuelson out of a sense of professional guilt. She can work out his other Resources as needed.
 

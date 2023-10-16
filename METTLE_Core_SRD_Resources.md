@@ -49,7 +49,7 @@ The following weapons chart gives examples of the more popular weapons. Each has
 -   **2H** takes two hands to wield.
 -   **Ammo** is the number of shots before reloading with a *Use* Action.
 -   **Blast** also inflicts 1d6 + DM as Area Attack to others in the target Zone.
--   **Burst** grants an extra hit for every 5 ammo and 1 Edge spent. Damage is the same for each before Soak, minus the Edge spent to Burst. If used on different targets, the original Score must be high enough to hit those targets.
+-   **Burst** grants an extra hit for every 5 ammo and 1 Edge spent. Damage is the same for each hit before Soak, minus the Edge spent to Burst. If used on different targets, the original Score must be high enough to hit those targets.
 -   **Defend** adds a bonus to Defend Checks when wielded.
 -   **Entangle** Grapples using the weapon's Hit and DM and does not take a further Action to maintain the Difficulty increase each round. Target escapes if they beat the increased Difficulty on a Move Check.
 -   **Grapple** use the weapon's Hit and DM on Grapple Attacks.
@@ -108,7 +108,7 @@ The following weapons chart gives examples of the more popular weapons. Each has
 
 ## Equipment
 
-Part of the joy of making a setting is thinking about what tools are available to help those within it achieve their goals. Different items should be available depending on the time period portrayed.
+Part of the joy of making a setting is thinking about what tools are available to help those within it achieve their goals. Different items are available depending on the time period portrayed.
 
 ### Miscellaneous Items
 

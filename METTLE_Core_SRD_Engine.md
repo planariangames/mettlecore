@@ -73,7 +73,7 @@ The more Edge you get and still succeed, the better. A higher Edge may mean they
 | 4 | Amazing |
 | 5+ | Legendary |
 
-The Guide should assume competence and only call for a Check when the outcome is interesting or uncertain. Players should brazenly presume success and only stop for a Check if the Guide demands it.
+It is best for the Guide to assume competence and only call for a Check when the outcome is interesting or uncertain. For their part, Players should brazenly presume success and only stop for a Check if the Guide demands it.
 
 One may often just assume success if their Pool is higher than the Difficulty. On the other hand, you might notice it is impossible to beat a Difficulty three times your pool or higher. Try something else!
 
@@ -94,7 +94,7 @@ passive Difficulty.
 
 ### Check Modifiers
 
-These are Bonuses (+D) or Penalties (-D) to a dice pool. For example, +2D means add two dice, and -2D means take two away. Die bonuses and penalties typically stick with the character regardless of the situation. Players should expect +1D to +3D for proper tools or strategy, and do not suffer penalties aside from their wounds.
+These are Bonuses (+D) or Penalties (-D) to a dice pool. For example, +2D means add two dice, and -2D means take two away. Die bonuses and penalties typically stick with the character regardless of the situation. Players can expect +1D to +3D for proper tools or strategy, and do not suffer penalties aside from their wounds.
 
 Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty tends to reflect the situation instead of the character. Difficulty tweaking is mostly a tool for the Guide. For example, rain-slicked streets may raise the Difficulty of a foot chase, and partial cover adds to POISE versus most attacks.
 
@@ -107,7 +107,7 @@ If you fail a Check but have Edge, you may call for a ***Twist***. This is a sor
 
  The default Twist is ***Delay,*** meaning you lose your next Action dealing with a complication from the current one. For example, a weapon gets stuck, travelers get lost, a gun jams, a runner trips, a combatant is shaken by the horrors of war, etc. Delays are default because they are easy to come up with and usually well accepted.
 
-Other types of Twists should be *immediate setbacks* that apply *regardless of success or failure* and *derive from the fiction*. For example, losing a weapon, breaking gear, harming a relationship, inflicting collateral damage, blurting out something incriminating, etc. That said, it can also be fun to propose a more benign Twist to move the story forward. Perhaps they remember a current foe from their backstory or accidentally took the wrong suitcase!
+Other types of Twists are ideally *immediate setbacks* that apply *regardless of success or failure* and *derive from the fiction*. For example, losing a weapon, breaking gear, harming a relationship, inflicting collateral damage, blurting out something incriminating, etc. That said, it can also be fun to propose a more benign Twist to move the story forward. Perhaps they remember a current foe from their backstory or accidentally took the wrong suitcase!
 
 Anyone can help come up with a creative Twist. If the Guide *or* Player does not like it, they can always fall back to Delay. This is a safety valve that settles the matter so play can continue. The Player can also just call off the Twist and accept failure as the gift it is.
 
@@ -132,15 +132,6 @@ Anyone can help come up with a creative Twist. If the Guide *or* Player does not
 |Waste|Lose *resources*, use up credit, lose or break items...|
 
 
-### Teamwork
-
-Sometimes a whole mess of characters is doing the same thing. For example, a covert squad sneaking past a sleeping guard, a group of mountain climbers, or mechanics repairing an engine. Everyone is usually eager to make their own Check, so let them. The more skilled members lend guidance or serve as an example, granting +1D to anyone whose relevant pool is lower than the highest.
-
-As for whether a group is successful, this depends on what it means to succeed or fail. The group that is sneaking past the guard fails if any one of them does, as that alerts the guard. An individual mountain climber falls alone unless tied to someone else. The group of mechanics succeeds if any of them do; the team still fixed the engine despite any individual bad dice. It should be clear from the situation.
-
-{: .highlight }
->- Teamwork: Everyone Checks, lower pools all get +1D
-
 ## Mettle
 
 The namesake of this game, Mettle stands for the will to live and how close the character is to their doom. In game terms, it is MOTIVE plus their highest (unmodified) Attribute. This is not a *direct* measure of injury. Physical damage is just "flesh wounds" at worst until it drops Mettle into the negatives. If above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle.
@@ -150,7 +141,7 @@ The namesake of this game, Mettle stands for the will to live and how close the 
 
 ### Taking Damage
 
-Characters may suffer ***Damage*** from hazards or attacks. Fortunately, they also get a ***Soak*** that reduces this incoming damage by their FRAME plus Armor. Each point of damage left after Soak lowers their current Mettle by one. A hit that drops their Mettle to zero or lower is a ***Felling blow***, inflicting the ***Fallen*** Status. Fallen characters lose their Action and have 0 POISE for the Scene.
+Characters may suffer ***Damage*** from hazards or attacks. Fortunately, they also get a ***Soak*** that reduces this incoming damage by their FRAME plus Armor. Damage left after Soak lowers their current Mettle by that amount. A hit that drops their Mettle to zero or lower is a ***Felling blow***, inflicting the ***Fallen*** Status. Fallen characters lose their Action and have 0 POISE for the Scene.
 
 The Player may deny this by choosing the ***Staggered*** Status. This inflicts a further point of damage but lets the brave fool stay up. They can even do it again if they take more damage. Staggered characters lose their Free Move and must Check vs. a minimum Difficulty of zero each time they want to Move. They also cannot Rally and suffer a die penalty to Checks equal to their negative Mettle.
 
@@ -163,7 +154,7 @@ The Staggered and Fallen risk ending up **Dead**. An Aid Check reveals their fat
 
 ### Mettle Surges
 
-Adventurers under stress can transcend their usual limits, especially when fresh to battle. During each Round of Initiative, they can sacrifice one point of METTLE to get +1D on any Checks they make. If the action helps fulfill their Motive, they get +2D instead. Spectacular exemplars of heroic idiocy can even Surge into negative Mettle, suffering the usual Status and serious self-injury or exhaustion. If still positive, lost Mettle is temporary and Rallies back as normal.
+Adventurers under stress can transcend their usual limits, especially when fresh to battle. During each Round of Initiative, they can sacrifice one point of METTLE for +1D on any Checks they make. If the action helps fulfill their Motive, they gain +2D instead. Spectacular exemplars of heroic idiocy can even Surge into negative Mettle, suffering the usual Status and serious self-injury or exhaustion. If still positive, lost Mettle is temporary and Rallies back as normal.
 
 {: .highlight }
 >- **Surge:** spend Mettle to add +1D or +2D to Checks during combat.
@@ -183,6 +174,21 @@ Other status effects exist to vex characters aside from Staggered, and Fallen, a
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
 -   **Rattled**: dismayed by a Rattle or other trauma. Increases the Difficulty of Rallies.
 -   **Surprised**: caught unawares, you do not get an Action for the first Scene when Initiative starts. Next Scene, you are no longer Surprised, and this effect ends.
+
+## Procedure
+The prior pages offer a superb explanation of how to do things that call for Checks. This page makes it clear just when to use them. The best advice is to use them rarely; only when a random outcome is interesting. Using the dice too much makes them feel less special and slows down the pacing of a Scene.
+
+On the other hand, it is perfectly fine to run an entire game without resorting to a Check! Players should strive shamelessly to get away with narrating as much as they can without even hinting at the need for one. Play it cool. Leave it to the Guide, or other Players to rat you out for a Check when the action seems dubious.
+
+Consider zooming a Check in or out depending on how much focus you want on a Scene. Zooming in calls for more Checks on complex tasks and zooming out can resolve a whole Scene in one swoop. This aids with pacing and is a hallmark of advanced tables.
+
+<center>
+<strong>PROCEDURE</strong>
+</center>
+
+<center>
+<img src="images/Procedure.png" title="Flowchart of when to use a Check" width="450" />
+</center>
 
 ## Example of Play
 

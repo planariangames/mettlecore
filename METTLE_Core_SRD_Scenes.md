@@ -58,7 +58,7 @@ New Round when no one has Actions left.
 
 ### Movement
 
-During Scenes with Initiative, each combatant gets a Free Move into an adjacent Zone before their Action. This only uses up a Checked Action if hindered somehow, such as by an obstacle or the Staggered status.
+In Scenes with Initiative, everyone can normally make a Free Move (p.47) to an adjacent Zone before their Action. If they face hindrances, like obstacles or being Staggered, they must perform a Checked Move Action instead.
 
 Creatures or vehicles with a higher Speed also get more Free Moves. They may Split Actions to deal with obstacles and hazards along the way. If they have no dice left, they must stop at the next hindrance.
 
@@ -201,7 +201,7 @@ Make a Know Check only to *understand*, not perceive. As such, this does not det
 
 ### Move
 
-Dedicates an Action towards moving into an adjacent Zone. This is normally covered by the Free Move, which does not use up an Action unless the character is Staggered or hindered somehow. Avoiding traps, ducking through brambles, swimming, clambering over debris, etc. may call for a Check of POISE vs. a Difficulty set by the Guide.
+Dedicates an Action towards moving into an adjacent Zone. This is normally covered by the Free Move, which does not use up this Action unless the character is Staggered or hindered somehow. Avoiding traps, ducking through brambles, swimming, clambering over debris, etc. may call for a Check of POISE vs. a Difficulty set by the Guide.
 
 **Check:** POISE vs. Difficulty
 
@@ -212,7 +212,7 @@ Dedicates an Action towards moving into an adjacent Zone. This is normally cover
 > -   **Failure:** Stopped by an obstacle or triggered trap.
 > -   **Twists:** *Delay, drop item, cause a hazard, reveal location, etc.*
 
-Fast creatures or vehicles have a Speed higher than one, meaning they may Move more than one Zone in a Round. If a fast mover faces multiple Checks along their path, they may use Split Actions to overcome them. These may each qualify for a Free Move beforehand and are subject to Initiative as usual. Slow movers may have fractional speeds (1/2, etc.) and take two Moves or more to cross a single Zone.
+Fast creatures or vehicles have a Speed higher than one, meaning they may Move more than one Zone in a Round. If a fast mover faces multiple Checks along their path, they may use Split Actions to overcome them. Slow movers have fractional speeds (1/2, etc.) and take two Moves or more to cross a single Zone.
 
 - **Obstacles** like walls, rivers, brambles, etc. hinder movement into the Zone. For example, you must hurdle a broken wall to enter. These usually provide Cover to those who cross them.
 - **Climbing** lets one enter Zones that extend up or down, like cliffs, pits, or large vehicle/creatures. Very large creatures or vehicles may present their own Zone(s) to climb, making it possible for the bold to deal with riders, find entry ports, etc. Difficulty is the large creature’s POISE or vehicle’s max Speed.
@@ -355,7 +355,7 @@ This catch-all Action covers miscellaneous feats, normally using a device, tool,
 > -   **Twists:** Delay (gonna need more time here!), break tools, attract
 >     unwanted attention.\*
 
-A party may split a lengthy Use project into shorter ones if there is not enough time to finish it all at once. These subtasks have the same Difficulty but allow for incremental progress or faster completion by a team of skilled workers each handling a separate duty.
+A party may split a lengthy Use project into smaller ones with varying Difficulties. This allows for incremental progress and taking advantage of specialized assistants. Naturally, the more people in a cohesive team working on a project, the less time it will also take.
 
 Vehicle repairs face a Difficulty equal to their FRAME, making it troublesome to maintain big machines in the field. A proper garage for that vehicle type should ease the Difficulty down to a more manageable level. It takes about a day to fix one die of negative Mettle penalty.
 
@@ -370,13 +370,13 @@ Active foes and enemies are not the only dangers to face. This section holds all
 
 ### Affliction
 
-Adventurers should be wary of venomous snakes, blowgun darts, the miasma of the tomb, and a “mickey” slipped in their drink! These impart dreadful urgency to any scene. If exposed, the Guide Rolls the Dose. Instead of normal damage, Afflictions lower the maximum Mettle of the character over time. This is unaffected by Rallies, but if it lowers Mettle to 0 or below they still become Staggered or Fallen.
+Adventurers must beware of venomous snakes, blowgun darts, the miasma of the tomb, and a “mickey” slipped in their drink! These impart dreadful urgency to any scene. If exposed, the Guide Rolls the Dose. Instead of normal damage, Afflictions lower the maximum Mettle of the character over time. Rallies cannot raise Mettle above the new maximum, and if Affliction lowers Mettle to 0 or below they become Staggered or Fallen as usual.
 
 -   **Disease:** Roll Dose and lower the victim’s maximum Mettle by one each day, up to the result.
 -   **Poison:** Roll Dose and subtract the victim’s FRAME. If positive, lower their maximum Mettle by one each Round, up to the result.
 -   **Tranquilizers:** as poison, but the Dose result also raises the victim’s Check Difficulties. This tends to put them out of action before death.
 
-The Guide should keep the Dose result secret to create suspense. Afflictions may work over different time scales (months, years, etc.), the day or round intervals are just convenient defaults.
+The Guide keeps the Dose result secret to create suspense. Afflictions may work over different time scales (months, years, etc.), the day or round intervals are just convenient defaults.
 
 Afflictions end if the victim is still alive when cured or the result runs out. Max Mettle then recovers by 1 every day for diseases and every Round for poison. A Know Check on a medical CONCEPT may suggest treatments or how long until the affliction runs its course.
 
@@ -401,7 +401,7 @@ Adjust the dosage for the victim's size using the FRAME Conversion chart (p.89) 
 
 ### Cover
 
-Combatants can use nearby obstacles to protect themselves from ranged attacks, referred to as taking ***Cover***. There are two ways to use Cover: ***Partial*** and ***Total***. Taking Partial Cover adds +2 to POISE Difficulty vs. incoming attacks. Total Cover prevents targeting entirely for both attacker and defender. Area Attacks do half damage in Partial Cover and none in Full Cover. One may pop out of Total Cover and target another character, but it then counts as only Partial until their next Action.
+Combatants can freely use nearby obstacles to protect themselves from ranged attacks, referred to as taking ***Cover***. This does not take an Action if the Cover is in their current Zone. There are two ways to use Cover: ***Partial*** and ***Total***. Taking Partial Cover adds +2 to POISE Difficulty vs. incoming attacks. Total Cover prevents targeting entirely for both attacker and defender. Area Attacks do half damage in Partial Cover and none in Full Cover. One may pop out of Total Cover and target another character, but it then counts as only Partial until their next Action.
 
 Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only +1 against gunshots, etc. If Cover is easily penetrated by an attack, such as a wooden wall versus a tank cannon, it can only ever count as Partial. Use your judgment as always.
 
@@ -465,9 +465,7 @@ Traps are sinister surprises for daring adventurers; faceless, “ambient” dan
 -   **Tripwire:** stout twine between two trees around the bandit camp sets
     off a crude tin-can alarm. *Difficulty 4, alerts the bandits.*
 
-Parties may come up with other ways to escape or avoid traps, and you
-should reward creative ideas instead of forcing them to play out the
-trap as written.
+Clever parties may come up with alternate ways to escape or avoid traps, Reward these creative ideas instead of forcing them to play out the trap as intended.
 
 An obvious “trap” such as an open pit or lava pool is more of a Hazard the party may just choose to avoid. Some are still irresistible to overly curious parties. This is also true of already-known proper hidden traps, which simply turn into Hazards.
 
