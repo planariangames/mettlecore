@@ -28,7 +28,7 @@ Detailed NPCs may use a relevant CONCEPT as the Difficulty instead, violating an
 > -   Failure: NPC Action succeeds. If an Attack, lower the damage by your Edge.  
 > -   Twists: none
 
-Cover and Shield bonuses to POISE apply to Saves. Defend bonuses from weapons do not.
+Cover and Shield bonuses to POISE apply to Saves as die bonuses.
 
 This only departs from standard METTLE Core much when it comes to damage:
 
@@ -38,8 +38,6 @@ NPC foes under a player-facing system do a flat amount of damage, which can be r
 The outcome of damage using this method is probably not identical to the Core default, but should be similar enough.
 
 ### The Defend Action
-
-Players can still Defend after all this is through, further lowering incoming damage. NPCs cannot Check, and should be satisfied with spending their Defend Action to simply Soak one damage plus any Defend bonus from shield weapons. For example, a buckler-wielding NPC opponent may Soak 3 damage in exchange for their Action.
 
 ### Split Actions
 
