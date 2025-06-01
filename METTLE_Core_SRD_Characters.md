@@ -212,9 +212,9 @@ While above zero, Mettle refills upon starting a new Scene. Rallies can restore 
 
 Characters may suffer ***Damage*** from hazards or attacks they face. If their wits fail them, they must rely on their Soak to reduce incoming damage. Soak is usually equal to FRAME plus Armor. Any damage left after Soak lowers current Mettle. If Mettle falls to zero or below, the target is either **Staggered** or **Fallen**:
 
-*Staggered*: Mettle from 0 down to negative MOTIVE. For example, if their MOTIVE is 3, they are Staggered at Mettle 0 to -3. They take a penalty to all Checks equal to their negative Mettle and can no longer Rally.
+- *Staggered*: Mettle from 0 down to negative MOTIVE. For example, if their MOTIVE is 3, they are Staggered at Mettle 0 to -3. They take a penalty to all Checks equal to their negative Mettle and can no longer Rally.
 
-*Fallen*: Mettle dropped below their negative MOTIVE. They lose their Action and have 0 POISE for the Scene. They are likely dead unless they receive aid.
+- *Fallen*: Mettle dropped below their negative MOTIVE. They lose their Action and have 0 POISE for the Scene. They are likely dead unless they receive aid.
 
 {: .highlight }
 >- Damage exceeding Soak reduces Mettle temporarily.
@@ -302,9 +302,9 @@ Do not bother counting most items less than a pound or so. The character sheet a
 Overloaded characters may drop bulky gear such as backpacks to avoid encumbrance or distract pursuers. These can be dropped freely but picking them back up costs an Action (Move).
 
 {: .highlight }
-- Carry weight up to Load step without trouble.
--	-1D to POISE-related Checks for each time weight exceeds Load step
-- Incapacitated if penalty drops a Check to zero dice.
+>- Carry weight up to Load step without trouble.
+>-	-1D to POISE-related Checks for each time weight exceeds Load step
+>- Incapacitated if penalty drops a Check to zero dice.
 
 ## Experience
 
@@ -328,13 +328,13 @@ Players who miss a session can still get XP from the last one they attended, and
 
 ### Spending XP
 
-To raise CONCEPT by one, spend twice its current level in XP. To raise any “lesser” Attribute by one, spend XP equal to CONCEPT.  To raise any “lesser” Attribute by one, spend XP equal to the highest. If two or more of the highest are equal, the one you are raising counts as the highest.
+To raise CONCEPT by one, spend twice its current level in XP. To raise any “lesser” Attribute by one, spend XP equal to CONCEPT.
 
 You may spend XP during the actual game, especially during a tense conflict! This represents learning an opponent’s moves, growing from a rivalry, or lengthy training finally coming to fruition.
 
 {: .highlight }
-- Raise CONCEPT: XP cost = CONCEPT x 2
-- Raise other: XP cost = CONCEPT
+>- Raise CONCEPT: XP cost = CONCEPT x 2
+>- Raise other: XP cost = CONCEPT
 
 ## Example Character
 
