@@ -66,7 +66,7 @@ The following weapons chart gives examples of the more popular weapons. Each has
 
 {: .lh-0}
 | **Weapon**       | **Hit** | **DM**  | **Special**                   | **kg** | **Cost** |
-| ---------------- | ------- | ------- | ----------------------------- | ------ | -------- |
+| ---------------- | :-----: | :-----: | ----------------------------- | :----: | :------: |
 | Axe              | +1D     | Frame+3 | Parry +1                      | 1      | 2        |
 | Axe, great       | +1D     | Frame+4 | Parry +1, 2H                  | 3      | 3        |
 | Bow              | \-      | Frame+2 | 2H, Range 4, Ammo 12 (quiver) | 1      | 3        |
