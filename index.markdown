@@ -14,7 +14,7 @@ You can find METTLE Core at [**DriveThruRPG**](https://www.drivethrurpg.com/prod
 This Core game favors street-level tales of bravery, mystery, and intrigue. It is ideal for detective stories, crime dramas, B-movie mayhem, daring rescues, tense exploration, gritty post-apocalyptic survival, wild-west gunfights, Nazi-clobbering, low fantasy, and grounded science fiction. This focus on so-called "mundane" heroics caters to an often-overlooked style of play and lays down a solid framework for the underlying game system. Upcoming games may indulge settings that rely on magic, superpowers, or miracles of science.
 
 To ask questions, provide feedback, or just talk about what you are doing with
-METTLE Core, check out our [**Twitter**](https://bsky.app/profile/jakeeldritch.bsky.social),
+METTLE Core, check out our [**Bluesky**](https://bsky.app/profile/jakeeldritch.bsky.social),
 [**Discord**](https://discord.gg/Rmv3PBN), or
 [**Facebook**](https://www.facebook.com/PlanarianGames/) sites.
 
