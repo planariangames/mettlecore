@@ -14,17 +14,16 @@ You can find METTLE Core at [**DriveThruRPG**](https://www.drivethrurpg.com/prod
 This Core game favors street-level tales of bravery, mystery, and intrigue. It is ideal for detective stories, crime dramas, B-movie mayhem, daring rescues, tense exploration, gritty post-apocalyptic survival, wild-west gunfights, Nazi-clobbering, low fantasy, and grounded science fiction. This focus on so-called "mundane" heroics caters to an often-overlooked style of play and lays down a solid framework for the underlying game system. Upcoming games may indulge settings that rely on magic, superpowers, or miracles of science.
 
 To ask questions, provide feedback, or just talk about what you are doing with
-METTLE Core, check out our [**Twitter**](https://discord.gg/Rmv3PBN),
-[**Discord**](https://twitter.com/PlanarianGames), or
+METTLE Core, check out our [**Twitter**](https://bsky.app/profile/jakeeldritch.bsky.social),
+[**Discord**](https://discord.gg/Rmv3PBN), or
 [**Facebook**](https://www.facebook.com/PlanarianGames/) sites.
 
 ## Features
 
--  **Action and Adventure:** embark on exhilarating adventures as bold heroes immersed in a world of fast-paced danger and captivating mysteries. Race against the clock, travel the globe, clash with formidable henchmen, unravel cunning traps, thwart the villain's nefarious plot, outwit your scheming rival, and uncover priceless treasure -- or die trying!  Inspired by *Indiana Jones, Treasure Island, James Bond, Tales of the Gold Monkey, Tin-Tin, Porco Rosso, and King Solomon's Mines*, to name but a few.
-
-- **Man is Mortal:** Adventurers are exceptional souls -- larger than life, but not superheroes. Their daring exploits rely on their own skill and resources. Crutches like super-science and magic are usually tools of the enemy, if they exist at all. Their tale may end in wealth and glory or as a tattered corpse in the ruins.
-- **Innovative System:** a novel dice pool keeps the number of dice low, allows for direct contests between abilities, and supports collaborative Twists, Raises, and other fun stunts. Best of all, the intentional hackability of this ruleset leaves plenty of space for your own creative additions.
+- **Action and Adventure:** embark on exhilarating adventures as bold heroes immersed in a world of fast-paced danger and captivating mysteries. Race against the clock, travel the globe, clash with formidable henchmen, unravel cunning traps, thwart the villain's nefarious plot, outwit your scheming rival, and uncover priceless treasure -- or die trying!  Inspired by *Indiana Jones, Treasure Island, James Bond, Tales of the Gold Monkey, Tin-Tin, Porco Rosso, and King Solomon's Mines*, to name but a few.
+- **Man is Mortal:** Adventurers are exceptional souls – larger than life, but not superheroes. Their tale may end in wealth and glory or as a tattered corpse in the ruins.While they outmatch ordinary foes, the greater challenges they face demand their wits as well as might. Crutches like super-science and magic are suspicious tools of the enemy, if they exist at all.
+- **Innovative System:** a novel dice pool keeps the number of dice low, allows for direct contests between abilities, and supports collaborative Twists. Best of all, the intentional hackability of this ruleset leaves plenty of space for your own creative additions.
 - **Engaging Combat:** Move? Attack? Defend? Talk trash? Rally back into action? Grapple? Protect an ally? You have a wealth of options. The unique "Volleyball Initiative" system ensures everyone gets their moment in the spotlight. Stay alert, because your chance to shine can come at any moment!
--   **Devil's Bargains:** players get a chance to weasel their way out of failure using Twists. These come into play only when necessary, empowering players to add drama and shape events.
+- **Exciting Twists:** players get a chance to weasel their way out of failure by asking the rest of the table for a dramatic Twist. These devil’s bargain come into play only when called for, empowering players to add drama and shape events.
 - **Vivid Characters:** Characters start with history, goals, and personalities. No need to ask, "But what's my motivation" -- it's built right in. Characters undergo personal growth and transformation as their players recount their favorite highlights from their adventures.
 - **A Guiding Hand:** brimming with advice and tools for the aspiring guide: thematic ideas for adventures, strategies to foster a sense of fun and excitement, and methods to avoid common pitfalls. Also includes a helpful sheet to keep track of the intricate dynamics between your party's backer, villain, and rival.
