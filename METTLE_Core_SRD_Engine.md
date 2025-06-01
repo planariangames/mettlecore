@@ -125,9 +125,8 @@ The Guide and *other* Players come up with the creative Twist, not the Player ma
 </center>
 
 {: .lh-0}
-| | |
-|---|---|
 |**Type**|**Example Consequences**|
+|---|---|
 |Confuse|Lose *trust*: mistaken identity, mistranslation, half-truth...|
 |Delay\*|Lose *next Action*: stuck, stalled, distracted, shaken...|
 |Dismay|Lose *morale*: lost contact, harm relations with others...|
