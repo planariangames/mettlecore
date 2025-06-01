@@ -247,11 +247,11 @@ story.
 
 ### NPC Creation
 
-The Guide plays perhaps too many NPCs, such as friendly or unfriendly contacts, shopkeepers, enemies, key figures in the setting, and random passersby. Only key NPCs should have full Attributes. For the mostly unnamed, unsung Extras, a single NPC pool will do. The first number, followed by a “D” is their dice pool for Attributes, and their Mettle. This is followed by their FRAME bonus. Think “Stunned Bystander 3D+3” or “Hostile Village Elder 5D+2.” If they try something out of character, double the Difficulty as usual.
+The Guide plays perhaps too many NPCs, such as friendly or unfriendly contacts, shopkeepers, enemies, key figures in the setting, and random passersby. Only key NPCs have full Attributes. For the mostly unnamed, unsung Extras, a single NPC pool will do. The first number, followed by a “D,” is their dice pool for combat Attributes as well as their Mettle. This is followed by their FRAME bonus. Think “Stunned Bystander 3D+3” or “Hostile Village Elder 4D+2.” Raise the pool by one for Checks strongly related to their title, as if it were a Concept.
 
 <center>*[ Attribute pool ] D + [ FRAME ]*</center>
 
-Extras only get their pool as Mettle, so they have less staying power than more important NPCs. Embrace this disparity or describe their defeats as retreats rather than beatdowns.
+As their NPC pool gives them less Mettle than regular characters, they have less staying power in a fight. Embrace this as meeting their doom easier or play it up as a retreat.
 
 ### Freeform CONCEPT Descriptors
 

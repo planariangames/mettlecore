@@ -73,9 +73,6 @@ METTLE Core is an action-packed game about boldly pressing ever onward, not micr
 
 Better, every party member fit enough for mischief during a long break should just accept a Downtime Voucher instead. This is a token their Player can spend later to retroactively reveal something helpful they did during the Downtime. For example, bought a speedboat or added a new feature to their utility belt. These are used during play, and if used cleverly they can be real lifesavers.
 
-{: .text-center}
-**DOWNTIME VOUCHER**
-
 <center><img src="images/DowntimeVoucher.png" title="Downtime Voucher" width="450" /></center>
 
 {: .highlight}
