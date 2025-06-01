@@ -369,8 +369,8 @@ Combatants may switch between these at the start of their Action. Popping out of
 Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only +1 against gunshots, etc. If Cover is easily penetrated by an attack, it can only ever count as Partial. Use your judgment as always.
 
 {: .highlight }
-- **Partial Cover:** half damage from incoming Attacks.
-- **Total Cover**: cannot target or be targeted.
+>- **Partial Cover:** half damage from incoming Attacks.
+>- **Total Cover**: cannot target or be targeted.
 
 ### Deprivation
 
@@ -386,10 +386,10 @@ The days or rounds given are based on a very active adventure. A party taking th
 Strain caused by Deprivation is recovered by meeting the missing need and takes the same time to recover. For example, a drowning character relieves the suffocation Strain by one for each Round once they have access to air again.
 
 {: .highlight }
-- **Hunger:** 1 Strain per day, restored by food.
-- **Thirst:** 3 Strain per day, restored by water.
-- **Fatigue:** 2 Strain per day, restored by sleep.
-- **Suffocation:** 1 Strain per Round, restored by air.
+>- **Hunger:** 1 Strain per day, restored by food.
+>- **Thirst:** 3 Strain per day, restored by water.
+>- **Fatigue:** 2 Strain per day, restored by sleep.
+>- **Suffocation:** 1 Strain per Round, restored by air.
 
 ### Falls
 
@@ -400,8 +400,8 @@ Hard ground like concrete or rubble may inflict +1, spikes or traps Roll separat
 The truly daring may ***Plummet*** onto an enemy below, applying their falling damage bonus above to damage, up to a maximum of +2 The bold diver still suffers their own falling damage, unless their victim is incredibly soft. This is also a good rule of thumb for damage when dropping a weighty item on someone below.
 
 {: .highlight }
-- **Falls:** 1d6 damage, +1 every 3 meters (~10 feet), Soak with POISE.
-- **Plummet:** +1 DM for each point of falling damage bonus, max +2
+>- **Falls:** 1d6 damage, +1 every 3 meters (~10 feet), Soak with POISE.
+>- **Plummet:** +1 DM for each point of falling damage bonus, max +2
 
 ### Fire
 
@@ -412,7 +412,7 @@ Some targets are naturally flammable, such as wood, mummies, tree monsters, or r
 Extinguishing a fire requires a Use Action and some way to put it out, such as water, rolling on the ground, or a fire extinguisher.
 
 {: .highlight }
-- **Fire:** 1d6 or more damage, soaked by FRAME.
+>- **Fire:** 1d6 or more damage, soaked by FRAME.
 
 ### Traps
 
@@ -437,11 +437,11 @@ Clever parties may come up with alternate ways to escape or avoid traps, Reward 
 An obvious “trap” such as an open pit or lava pool is more of a Hazard the party may just choose to avoid. Some are still irresistible to overly curious parties. This is also true of already-known proper hidden traps, which simply turn into Hazards.
 
 {: .highlight }
-- **Traps:** Move Check to avoid suffering effects.
+>- **Traps:** Move Check to avoid suffering effects.
 
 ### Visibility
 
 Darkness, underbrush, and smoke make tasks related to vision more difficult. In general, dim light is +1 Difficulty and total darkness +3. Equipment such as torches or night vision goggles can prevent this. Sudden flashes of bright light can also hinder visibility.
 
 {: .highlight }
-- Poor lighting adds +1 to +3 Difficulty.
+>- Poor lighting adds +1 to +3 Difficulty.
