@@ -15,25 +15,27 @@ title: Engine
 
 ## Rolls
 
-Call for a ***Roll*** when success or failure is irrelevant, and you just need an amount. This is useful for random tables, enemy numbers, "ambient" damage from hazards, falls, traps, etc. To do this, roll the dice and add up the faces. The "d" in a Roll is always lowercase. For example, a "3d6" roll would give a number from 3-18.
+Call for a **Roll** when you need a random number and are not worried about success or failure. This is useful for encounter tables, enemy numbers, damage from hazards, falls, traps, etc. To do this, roll the dice and add up the numbers on the faces. The “d” in a Roll is always lowercase. For example, a “3d6” roll results in a number from 3-18.
 
-Sometimes you halve or double the result of a Roll. If halved, the general ***halving*** rule in this game is to round up.
+While uncommon, you may see fractional rolls for narrower ranges, such as 1-2 (1d6 ÷ 3 or flip a coin) or 1-3 (1d6 ÷ 2). Sometimes you halve or double the result of a Roll. If halved, the general halving rule in this game is to round up. To keep things simple, avoid the use of fractions beyond this.
 
 ### Roll Modifiers
 
-***Bonuses*** (+) or ***Penalties*** (-) may apply to a Roll, such as "2d6+4" giving a result from 6 to 16, or "2d6-4" for a result from 0 to +8. A penalty can only drop a result to zero, never into the negative.
+***Bonuses*** (+) or ***Penalties*** (-) may apply to a Roll, such as “2d6+4” giving a result from 6 to 16, or “2d6-4” for a result from 0 to +8. The result of a roll never drops below zero. As a general rule, do not stack bonuses or penalties from multiple sources, only apply the highest bonus and penalty from the situation.
 
-1.  Roll the die or dice.
+1.  Roll the required dice.
 2.  Add up the die face results.
-3.  Add bonus or subtract penalty.
+3.  Apply any bonuses or penalties.
 
 ## Checks
 
-A ***Check*** is when you are "checking" to see if an action succeeds or fails by rolling a pool of dice. These are central to working the METTLE Core engine, so just learning these lets you easily handle the rest of the system. A Check may also yield unexpected benefits or drawbacks, making it a useful prompt for your group's storytelling.
+A ***Check*** is when you are “checking” to see if an action succeeds or fails by rolling a pool of dice. These are central to working with the METTLE engine, so just learning these lets you easily handle the rest of the system. A Check may also yield unexpected benefits or drawbacks, making it a useful prompt for interesting scenes.
 
 ### Success & Failure
 
-To make a Check, declare what your character is doing, then roll dice equal to the Attribute or Backstory they are doing it with. Add up the face numbers of all the dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling [4, 1, 3, 5, 2, 2] yields a Score of 8 (1+3+2+2) and 2 Edge (4 & 5).
+To make a Check, declare what your character is doing, then roll dice equal to the Attribute they are doing it with. Add up the face numbers of all the dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling [4, 1, 3, 5, 2, 2] yields a Score of 8 (from 1 + 3 + 2 + 2) and 2 Edge (from 4 & 5). Score determines if you succeed, while Edge reflects the quality of success.
+
+Your Check succeeds if the Score equals or exceeds (≥) the **Difficulty** of the task. This can be an arbitrary number set by the Guide or a target’s defensive Attribute. Most Checks do not count excess Score, so once you reach the Difficulty you can stop adding it up.
 
 {: .text-center }
 **READING the DICE**
@@ -41,8 +43,6 @@ To make a Check, declare what your character is doing, then roll dice equal to t
 <center>
 <img src="images/Dice.png" title="Six dice with faces from 1-6. Add up 1-3s, Count 4-6s" width="450" />
 </center>
-
- Your Check succeeds if the Score *beats* the ***Difficulty*** of the task. This can be an arbitrary number set by the Guide or a target's defensive pool. The Score only reveals success or failure; once you exceed the Difficulty you can stop counting.
 
 <center>
 <strong>DIFFICULTY</strong>
@@ -57,7 +57,7 @@ To make a Check, declare what your character is doing, then roll dice equal to t
 | 10 | Formidable |
 | 15 | Nigh Impossible |
 
-The more Edge you get and still succeed, the better. A higher Edge may mean they did it faster, made it harder to undo, yielded more info, improved quality, added special effects, etc. If you fail but have a lot of Edge, consider using it on a Twist (p.27) to get a second chance.
+The more Edge you get and still succeed, the better. A higher Edge may mean they did it faster, made it harder to undo, yielded more info, improved quality, added special effects, etc. Even if you fail, having Edge lets you propose a Twist to get a second chance.
 
 <center>
 <strong>EDGE</strong>
@@ -78,13 +78,15 @@ It is best for the Guide to assume competence and only call for a Check when the
 One may often just assume success if their Pool is higher than the Difficulty. On the other hand, you might notice it is impossible to beat a Difficulty three times your pool or higher. Try something else!
 
 {: .highlight }
->1. Roll dice equal to the relevant pool.
->2. *Add* 1s, 2s, and 3s for the "Score" to beat Difficulty.
->3. *Count* 4s, 5s, and 6s for the "Edge" to rate Success.
+>-	Roll a number of dice equal to the Attribute being used.
+>-	Add up dice showing 1–3 for the Score.
+>-	Count the number of dice showing 4–6 for the Edge.
+>-	Check succeeds if the Score is at or above Difficulty.
+>-	Edge is the quality of success or potential for a Twist on failure.
+
 
 {: .note }
-Some Players like to mark the 1-3 faces of the dice with a
-highlighter or crayon. This can speed up sorting Score & Edge.
+blanking out the 4-6 faces with crayon, tape, marker, paint, etc. can make Checks much easier!
 
 {: .note }
 The average Score of a single die is 1, making it easy to
@@ -94,27 +96,29 @@ passive Difficulty.
 
 ### Check Modifiers
 
-These are Bonuses (+D) or Penalties (-D) to a dice pool. For example, +2D means add two dice, and -2D means take two away. Die bonuses and penalties typically stick with the character regardless of the situation. Players can expect +1D to +3D for proper tools or strategy, and do not suffer penalties aside from their wounds.
+A Character may have Bonuses or penalties (+D or -D) to their pools. For example, +2D means add two dice and -2D means subtract two. Bonuses stem from advantages like equipment or good ideas, while penalties come from disadvantages like injury or encumbrance. Do not stack modifiers, only count the largest bonus and/or penalty.
 
-Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty tends to reflect the situation instead of the character. Difficulty tweaking is mostly a tool for the Guide. For example, rain-slicked streets may raise the Difficulty of a foot chase, and partial cover adds to POISE versus most attacks.
+Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty (+/- Difficulty) usually reflects the situation instead of the character. For example, rain-slicked streets may raise the Difficulty of a foot chase, and a shield adds to POISE Difficulty versus attacks.
 
-Don’t let too many fiddly little modifiers bog down your scene. If things get out of hand, consider only the largest bonus and penalty. The table must use restraint to avoid overdoing it with modifiers.
-
+{: .highlight }
+>- Bonuses and penalties add or subtract dice from Checks.
+>- Difficulty or Defense Modifiers change Difficulty of the task.
 
 ### Twists
 
-If you fail a Check but have Edge, you may call for a ***Twist***. This is a sort of "devil's bargain" that lets you re-roll all the Edge dice in exchange for a dramatic consequence. Tally up the new Score and Edge from the new results. For example, a player Checks 5 dice against a Difficulty of 3. They come up [**1**, 4, 4, 5, 6]: Failure! They call for a Twist, keeping their Score of 1 and rolling the four Edge dice again. They get [**1,3**,5,5] and combine it with their old Score of 1 for [**1, 1, 3**, 5, 5]. The result is a Score of 5 and an Edge of 2, turning it into a success!
+These give a chance to turn a failure into a messy success. If you fail a Check but have Edge, you may call upon the table for a Twist. After the Guide or another Player proposes a suitable Twist, re-roll all Edge dice. Tally up the new Score and Edge. For example, a player Checks 5 dice against a Difficulty of 3. They come up [1, 4, 4, 5, 6]: Failure! They call for a Twist, keeping their Score of 1 and re-rolling the four Edge dice. They get [1, 3, 5, 5] and combine it with their old Score of 1 for [1, 1, 3, 5, 5]. The result is a Score of 5 and an Edge of 2 – success!
 
- The default Twist is ***Delay,*** meaning you lose your next Action dealing with a complication from the current one. For example, a weapon gets stuck, travelers get lost, a gun jams, a runner trips, a combatant is shaken by the horrors of war, etc. Delays are default because they are easy to come up with and usually well accepted.
+ The default Twist is ***Delay,*** meaning you lose your next Action dealing with a complication from the current one. For example, a weapon gets stuck, travelers get lost, a gun jams, a runner stumbles, shaken by the horrors of war, etc. Delay is the default because the effect is simple, aversive, and explanations are easy to come up with.
 
-Other types of Twists are ideally *immediate setbacks* that apply *regardless of success or failure* and *derive from the fiction*. For example, losing a weapon, breaking gear, harming a relationship, inflicting collateral damage, blurting out something incriminating, etc. That said, it can also be fun to propose a more benign Twist to move the story forward. Perhaps they remember a current foe from their backstory or accidentally took the wrong suitcase!
+Other types of Twists are ideally *immediate setbacks* that apply *regardless of success or failure* and *derive from the fiction*. For example, losing a weapon, breaking gear, harming a relationship, inflicting collateral damage, blurting out something incriminating, etc. These should be directly connected to the action triggering the twist – not unrelated coincidences, however unfortunate.
 
-Anyone can help come up with a creative Twist. If the Guide *or* Player does not like it, they can always fall back to Delay. This is a safety valve that settles the matter so play can continue. The Player can also just call off the Twist and accept failure as the gift it is.
+The Guide and *other* Players come up with the creative Twist, not the Player making the Check. If the acting Player (or the Guide!) does not like it, they can always fall back to Delay. This is a safety valve to settle the matter so play can continue. The Player can also just call off the Twist entirely and accept failure as the gift it is.
 
 {: .highlight }
->- On a failure, you may call for a Twist and then reroll Edge dice.
->- The default Twist is Delay; losing your next Action.
->- Other Twists are encouraged but subject to approval.
+>- On a failure, you may call for a Twist if you have Edge.
+>- Ask the table for a suitable complication then reroll Edge dice.
+>- Use the new, partially rerolled result but suffer the Twist.
+
 
 <center>
 <strong>TWIST SEEDS</strong>
@@ -130,50 +134,6 @@ Anyone can help come up with a creative Twist. If the Guide *or* Player does not
 |Expose|Lose *secret*: cover blown, reveal a secret, leave clues...|
 |Imperil|Lose *safety*: friendly fire, obstacle, unwanted attention...|
 |Waste|Lose *resources*, use up credit, lose or break items...|
-
-
-## Mettle
-
-The namesake of this game, Mettle stands for the will to live and how close the character is to their doom. In game terms, it is MOTIVE plus their highest (unmodified) Attribute. This is not a *direct* measure of injury. Physical damage is just "flesh wounds" at worst until it drops Mettle into the negatives. If above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle.
-
-{: .highlight }
->- Mettle = MOTIVE + highest Attribute.
-
-### Taking Damage
-
-Characters may suffer ***Damage*** from hazards or attacks. Fortunately, they also get a ***Soak*** that reduces this incoming damage by their FRAME plus Armor. Damage left after Soak lowers their current Mettle by that amount. A hit that drops their Mettle to zero or lower is a ***Felling blow***, inflicting the ***Fallen*** Status. Fallen characters lose their Action and have 0 POISE for the Scene.
-
-The Player may deny this by choosing the ***Staggered*** Status. This inflicts a further point of damage but lets the brave fool stay up. They can even do it again if they take more damage. Staggered characters lose their Free Move and must Check vs. a minimum Difficulty of zero each time they want to Move. They also cannot Rally and suffer a die penalty to Checks equal to their negative Mettle.
-
-The Staggered and Fallen risk ending up **Dead**. An Aid Check reveals their fate next Scene. One may also just declare death if it feels right. For example, falling into lava or staying behind on an exploding space station. It is better to go out with a bang than to fade away – and hey, now they get to make a new character!
-
-{: .highlight }
->- Damage that gets through the target's Soak lowers Mettle.
->- **Fallen:** No Action and 0 POISE, may or may not be dead.
->- **Staggered:** Lose Free Move & Rally, negative Mettle is a die penalty.
-
-### Mettle Surges
-
-Adventurers under stress can transcend their usual limits, especially when fresh to battle. During each Round of Initiative, they can sacrifice one point of METTLE for +1D on any Checks they make. If the action helps fulfill their Motive, they gain +2D instead. Spectacular exemplars of heroic idiocy can even Surge into negative Mettle, suffering the usual Status and serious self-injury or exhaustion. If still positive, lost Mettle is temporary and Rallies back as normal.
-
-{: .highlight }
->- **Surge:** spend Mettle to add +1D or +2D to Checks during combat.
-
-### Status Effects
-
-Other status effects exist to vex characters aside from Shaken, Broken,
-and Fallen above. Most are awful but temporary. As usual, penalties from
-multiple sources do not stack.
-
-Other status effects exist to vex characters aside from Staggered, and Fallen, above. Most are awful but temporary.
-
--   **Afflicted**: suffering from a disease, poison, or tranquilizer. Lowers max Mettle slowly over time until it runs out or is cured.
--   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight face a +3 Difficulty. Others may use Sneak against them as if they have Cover.
--   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading CONCEPT may make up for this. Others may use Sneak against them as if they have Cover.
--   **Encumbered**: carrying Load over their FRAME. Every Zone crossed now takes up two Moves. If they try to carry twice their FRAME, they are Incapacitated instead.
--   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
--   **Rattled**: dismayed by a Rattle or other trauma. Increases the Difficulty of Rallies.
--   **Surprised**: caught unawares, you do not get an Action for the first Scene when Initiative starts. Next Scene, you are no longer Surprised, and this effect ends.
 
 ## Procedure
 The prior pages offer a superb explanation of how to do things that call for Checks. This page makes it clear just when to use them. The best advice is to use them rarely; only when a random outcome is interesting. Using the dice too much makes them feel less special and slows down the pacing of a Scene.
@@ -212,7 +172,7 @@ The Guide has gotten together with a few good friends as players: *Dana* and *Tr
 
 **Guide:** kind of a fancy Russian tea kettle.
 
-**Dana:** Oh, Viktor would know that! He has a Backstory that involves Russian culture.
+**Dana:** Oh, Viktor would know that! He has a backstory that involves Russian culture.
 
 **Guide:** Good enough.
 
@@ -228,15 +188,15 @@ The Guide has gotten together with a few good friends as players: *Dana* and *Tr
 
 **Guide:** Oh, good idea, but he might get suspicious or think you will run off with it, let's do a NATURE Check.
 
-**Dana/Viktor:** My "Itinerant Gambler" CONCEPT is 5D, which is much better. Can I use that?
+**Dana/Viktor:** My "Itinerant Gambler" CONCEPT is 6D, which is much better. Can I use that?
 
 **Guide:** Maybe, can you tell me how it applies?
 
-**Dana/Viktor:** err... I guess not, it's not really gambling or traveling, so I guess I'll stick with NATURE. That's "Curmudgeon" with 3D. I start grumpily fiddling with my wallet, maybe I'll get a bonus if he sees I have cash?
+**Dana/Viktor:** err… I guess not, it’s not really gambling or traveling, so I guess I’ll stick with NATURE. That’s “Curmudgeon” with 5D. I start grumpily fiddling with my wallet, maybe I’ll get a bonus if he sees I have cash?
 
 **Guide:** Sure, but you don't look rich either - let's say +1D.
 
-Dana throws the pool of four dice, landing on 3, 2, 2, and 6. This is a Score of 7 (3+2+2) and 1 Edge (the 6). This easily beats the Clerk's MOTIVE of 4. The Edge means this should distract him for a little while.
+Dana throws the pool of six dice, landing on 3, 2, 2, 4, 4 and 6. This is a Score of 7 (3+2+2) and 3 Edge (the 4, 4, and 6). This easily beats the Clerk’s MOTIVE of 4. The healthy 3 Edge means this should distract him for a good while.
 
 **Guide:** He walks out with you into the sunlight and goes into a whole story about where the samovar came from. You also notice he is squinting in the sunlight and has awfully pointy teeth.
 
@@ -258,7 +218,7 @@ Troy throws his five dice, landing on 1, 2, 2, 5, & 6. That's a Score of 5 (1+2+
 
 **Dana:** Hmm... you lifted on the hinges, what if the door is so loose it just came off the hinges?
 
-**Guide:** nice, I can work with that. The shopkeeper might notice...
+**Guide:** nice, I can work with that. If you fail and make noise, the missing door will make it obvious what you were up to, and if you succeed the shopkeeper might notice a mislaid door.
 
 **Troy/Kirin:** Ha... ok I'll take it for the Twist reroll.
 
