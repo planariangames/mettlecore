@@ -149,7 +149,7 @@ Consider zooming a Check in or out depending on how much focus you want on a Sce
 <img src="images/Procedure.png" title="Flowchart of when to use a Check" width="450" />
 </center>
 
-```mermaid
+<div class="mermaid">
 graph TD
 	Describe[Describe attempt] --> Risky{{Risky?}}
 	Risky -- Yes --> Check
@@ -175,7 +175,7 @@ graph TD
 	Test2 -- Yes --> Success
 	Edge -- No --> Failure
 	Failure --> Narrate
-```
+</div>
 
 ## Example of Play
 
