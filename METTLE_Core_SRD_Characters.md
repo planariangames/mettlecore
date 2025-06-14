@@ -249,19 +249,6 @@ List discrete windfalls, suitcases full of cash, stolen piggybanks, or other tre
 ### Signature Gear
 Pulp heroes may or may not have special, iconic, tell-tale gear like a domino mask, costume, zoot suit, signet ring, rumpled trench coat, stupid looking hat, gizmo belt, etc. To be signature gear implies that others in the setting would recognize them if they saw it, for better or worse. Some leave this blank and wait for later inspiration.
 
-### Contacts
-
-Choose up to as many helpful people or groups as their Credit and write them down in the Resources box. Call upon these for favors or advice. They can even step into the story to save the character in a pinch. As always, you can hold off choosing until later.
-
-If a character abuses their Contacts, they may lose them. The only way to bring them back is to make amends or replace them. They may also fall back into good graces between campaigns, depending on how awful the character was to them.
-
-### Languages
-Starting characters read, write, and speak their native language fluently unless their players decide otherwise. They can also make Know Checks to understand closely related languages. Learning and retaining other language skills requires an investment of time, effort, and travel. As such, they are limited mainly by one’s Resources.
-
-A starting character can be conversational in as many foreign languages as their Resource score, or fluent at the cost of two languages. These do not have to be taken at creation, in fact it is often better to wait and see what other cultures and languages the party finds itself most engaged with and learn them later between campaigns.
-
-Losing Resources leads to a slow skill deterioration due to lack of practice. The player can decide which languages get rusty and can learn them back very quickly if their situation improves.
-
 ### Encumbrance
 
 Most of the time, Players should be able to avoid tracking how heavy their gear is just by not going overboard with it. On the other hand, one can only carry so much, especially when lugging loads of lovely loot from a lucrative locale. How much they or their vehicles can handle depends on their FRAME.
@@ -326,6 +313,7 @@ Mortal peril can push a combatant beyond their usual limits of violence, at the 
 
 {: .highlight }
 >- **Surge:** Halve current Mettle to regain a spent Action for Initiative.
+
 ## Experience
 
 Characters in METTLE Core set out as highly competent adventurers but there is always room for improvement. This takes the form of earning ***Experience points*** (XP) to raise their Attribute pools. To earn XP, players recount the boldest and bravest events of the last session.
