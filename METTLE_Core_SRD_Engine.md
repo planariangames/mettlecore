@@ -150,31 +150,31 @@ Consider zooming a Check in or out depending on how much focus you want on a Sce
 </center>
 
 <div class="mermaid">
-graph TD
-	Describe[Describe attempt] --> Risky{{Risky?}}
-	Risky -- Yes --> Check
-	Risky -- No --> Success
-	Success --> Narrate[Describe outcome]
-	Check --> Concept{{Fits CONCEPT?}}
-	Concept -- Yes --> Pool[Pool = CONCEPT]
-	Concept -- No --> Default["Pool = MOTIVE for mental
-	Pool = NATURE for social
-	Pool = POISE for athletic"]
-	Pool --> Roll["Roll dice pool
-	Score: add up 1s, 2s, & 3s
-	Edge: count 4s, 5s, & 6s"]
-	Default --> Roll
-	Roll --> Test{{Score >= Difficulty?}}
-	Test -- Yes --> Success
-	Test -- No --> Edge{{Edge?}}
-	Edge -- Yes --> Twist{{Twist?}}
-	Twist -- No --> Failure
-	Twist -- Yes --> Reroll[Reroll Edge dice]
-	Reroll --> Test2{{new Score >= Difficulty?}}
-	Test2 -- No --> Failure
-	Test2 -- Yes --> Success
-	Edge -- No --> Failure
-	Failure --> Narrate
+  graph TD
+  	Describe[Describe attempt] --> Risky{{Risky?}}
+  	Risky -- Yes --> Check
+  	Risky -- No --> Success
+  	Success --> Narrate[Describe outcome]
+  	Check --> Concept{{Fits CONCEPT?}}
+  	Concept -- Yes --> Pool[Pool = CONCEPT]
+  	Concept -- No --> Default["Pool = MOTIVE for mental
+  	Pool = NATURE for social
+  	Pool = POISE for athletic"]
+  	Pool --> Roll["Roll dice pool
+  	Score: add up 1s, 2s, & 3s
+  	Edge: count 4s, 5s, & 6s"]
+  	Default --> Roll
+  	Roll --> Test{{Score >= Difficulty?}}
+  	Test -- Yes --> Success
+  	Test -- No --> Edge{{Edge?}}
+  	Edge -- Yes --> Twist{{Twist?}}
+  	Twist -- No --> Failure
+  	Twist -- Yes --> Reroll[Reroll Edge dice]
+  	Reroll --> Test2{{new Score >= Difficulty?}}
+  	Test2 -- No --> Failure
+  	Test2 -- Yes --> Success
+  	Edge -- No --> Failure
+  	Failure --> Narrate
 </div>
 
 ## Example of Play
