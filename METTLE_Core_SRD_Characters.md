@@ -13,6 +13,7 @@ title: Characters
 - TOC
 {:toc}
 
+---
 ## Step 1: Name
 
 This can be a tough choice unless you have a Dickensian knack for clever names. A solid idea is to go with something audacious and easy to pronounce. This also helps others at your table remember it. If you get stuck, come back to it later. There is space at the end for pronouns to reflect sex and/or gender.
@@ -254,7 +255,7 @@ Money, funding, access, or abstract "pull." The Guide assigns Credit based on th
 
 A character can afford items with up to as many digits in their price as their Credit. For example, with Credit of 3, one can gear up with items worth up to \$999 (1-2 digits) each. If they want to buy something one Credit digit higher, they lose a digit of Credit temporarily. Lost Credit recovers between campaigns.
 
-List discrete windfalls, suitcases full of cash, stolen piggybanks, or other treasures as separate items. This prevents them from affecting Credit and preserves the appeal of special loot.
+List discrete windfalls, suitcases full of cash, stolen piggybanks, or other treasures as separate items. This preserves the appeal of special loot.
 
 ### Signature Gear
 Pulp heroes may or may not have special, iconic, tell-tale gear like a domino mask, costume, zoot suit, signet ring, rumpled trench coat, stupid looking hat, gizmo belt, etc. To be signature gear implies that others in the setting would recognize them if they saw it, for better or worse. Some leave this blank and wait for later inspiration.
@@ -298,7 +299,7 @@ The table below gives the Load step and Shift (max lifted off ground, dragged or
 | 9         | 260           | 2065      |
 | 10        | 360           | 2845      |
 
-Do not bother counting most items less than a pound or so. The character sheet assumes you will be listing items that are not weapons or armor on the back of the sheet, tally that weight in the Back Gear box in the Resources section.
+Do not bother counting most items less than a kilogram or so. The character sheet assumes you will be listing items that are not weapons or armor on the back of the sheet, tally that weight in the Back Gear box in the Resources section.
 Overloaded characters may drop bulky gear such as backpacks to avoid encumbrance or distract pursuers. These can be dropped freely but picking them back up costs an Action (Move).
 
 {: .highlight }
