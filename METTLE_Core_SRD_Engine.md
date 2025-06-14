@@ -141,15 +141,7 @@ On the other hand, it is perfectly fine to run an entire game without resorting 
 
 Consider zooming a Check in or out depending on how much focus you want on a Scene. Zooming in calls for more Checks on complex tasks and zooming out can resolve a whole Scene in one swoop. This aids with pacing and is a hallmark of advanced tables.
 
-<center>
-<strong>PROCEDURE</strong>
-</center>
-
-<center>
-<img src="images/Procedure.png" title="Flowchart of when to use a Check" width="450" />
-</center>
-
-### Mermaid Flowchart (in progress)
+### Procedure Flowchart (in progress)
 
 ```mermaid
 graph TD
