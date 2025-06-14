@@ -145,7 +145,7 @@ Consider zooming a Check in or out depending on how much focus you want on a Sce
 
 ```mermaid
 graph TD
-	Describe[Player describes attempt] --> Risky{{"Risky"}}
+	Describe[Player describes attempt] --> Risky{{Risky}}
 	Risky -- Yes --> Check
 	Risky -- No --> Success
 	Success --> Narrate[Guide describes outcome]
