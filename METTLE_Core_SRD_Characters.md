@@ -6,7 +6,7 @@ title: Characters
 ---
 
 *Players and Guides both need **Characters**, and here is where your journey begins. The Character is your alter ego during a game, akin to how an actor embodies an improv role. You have the freedom to base them on yourself, favorite fictional figures, or entirely original ideas. METTLE Core defaults to a roughly modern setting and this influences the options found below. Character sheets are available online or at the end of this book.*
----
+
 ## Table of Contents
 
 {: .no_toc}
