@@ -144,8 +144,9 @@ Consider zooming a Check in or out depending on how much focus you want on a Sce
 ### Procedure Flowchart (in progress)
 
 ```mermaid
+{% raw %}
 graph TD
-	Describe[Player describes attempt] --> Risky{{Risky}}
+	Describe[Player describes attempt] --> Risky{{Risky?}}
 	Risky -- Yes --> Check
 	Risky -- No --> Success
 	Success --> Narrate[Guide describes outcome]
@@ -169,6 +170,7 @@ graph TD
 	Test2 -- Yes --> Success
 	Edge -- No --> Failure
 	Failure --> Narrate
+{% endraw %}
 ```
 
 ## Example of Play
