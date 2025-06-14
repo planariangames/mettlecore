@@ -79,7 +79,20 @@ if you roll a 6 and a 2, go to the distinctive feature in the row for "6, 2."
 
 ---
 
-## Step 3: Attributes
+## Step 3: Background
+The next step is to think up a short backstory for your character. This places them in the context of the setting, informs later choices about their abilities, and influences what they would know how to do outside of their CONCEPT (p.14). Two or three sentences describing their origin, interests, and a formative dramatic event should do.
+
+- **Origin:** where they come from, their upbringing. This informs the table about their native language(s) and culture.
+- **Interests**: any remarkable or unusual talents, skills, or hobbies such as musical instruments, foreign languages, artistic endeavors, etc.
+- **Drama**: an important formative event that shaped them. This helps come up with a descriptor for the Motive Attribute.
+
+Background can be filled out later as the player learns more about the character. Even a completed Background can change during play if recent events are more important. On the other hand, some players want far more writing space. They should use sheets of paper other than the character sheet for those or perhaps just write a book.
+
+**Example**: *The youngest son of a family of Boston dock workers, he spent his time fishing at the pier and shirking responsibility. When his folks were unfairly evicted by the mayor’s cronies, he secretly joined their operation to take it down from the inside.*
+
+---
+
+## Step 4: Attributes
 
 These are your character's ***CONCEPT,*** ***FRAME, MOTIVE, NATURE,*** and ***POISE*** pools.  Attributes lend them substance within the rules of the game. The more dice there are in an Attribute ***Pool***, the better they are at things related to it. Attributes range from 1 to 6 for starting characters, with a 3 being average. Experienced adventurers may exceed those bounds at the Guide's discretion.
 
@@ -204,36 +217,6 @@ Thinking up good Descriptors for Attributes can be challenging. Use the table be
 | 6,6 | Vigilante | Uplift | Zealous | Wiggly | Wiry |
 
 ---
-## Step 4: Mettle
-
-Distance from doom. This is a mixture of stamina, willpower, and morale, normally equal to the character’s CONCEPT. Damage to Mettle is considered only “flesh wounds,” exhaustion, or vulnerability until it drops to zero or lower, implying far more troubling injuries.
-
-While above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle by doubling current Mettle – up to the maximum of course.
-
-{: .highlight }
->- Mettle = CONCEPT
-
-### Taking Damage
-
-Characters may suffer ***Damage*** from hazards or attacks they face. If their wits fail them, they must rely on their Soak to reduce incoming damage. Soak is usually equal to FRAME plus Armor. Any damage left after Soak lowers current Mettle. If Mettle falls to zero or below, the target is either **Staggered** or **Fallen**:
-
-- *Staggered*: Mettle from 0 down to negative MOTIVE. For example, if their MOTIVE is 3, they are Staggered at Mettle 0 to -3. They take a penalty to all Checks equal to their negative Mettle and can no longer Rally.
-
-- *Fallen*: Mettle dropped below their negative MOTIVE. They lose their Action and have 0 POISE for the Scene. They are likely dead unless they receive aid.
-
-{: .highlight }
->- Damage exceeding Soak reduces Mettle temporarily.
->- Staggered: zero to -MOTIVE. No Rally, negative Mettle is penalty.
->- Fallen: below negative MOTIVE; lose Action and POISE is zero.
-
-### Surges
-
-Mortal peril can push a combatant beyond their usual limits of violence, at the cost of stress and vulnerability. Halve current Mettle to regain their spent Action, making them eligible for Initiative (p.36) again that round. The Surging character must have at least 2 Mettle and the new Action can only be an Attack.
-
-{: .highlight }
->- **Surge:** Halve current Mettle to regain a spent Action for Initiative.
-
----
 
 ## Step 5: Resources
 
@@ -314,6 +297,35 @@ Overloaded characters may drop bulky gear such as backpacks to avoid encumbrance
 >- Incapacitated if penalty drops a Check to zero dice.
 
 ---
+
+## Step 6: Mettle
+
+Distance from doom. This is a mixture of stamina, willpower, and morale, normally equal to the character’s CONCEPT. Damage to Mettle is considered only “flesh wounds,” exhaustion, or vulnerability until it drops to zero or lower, implying far more troubling injuries.
+
+While above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle by doubling current Mettle – up to the maximum of course.
+
+{: .highlight }
+>- Mettle = CONCEPT
+
+### Taking Damage
+
+Characters may suffer ***Damage*** from hazards or attacks they face. If their wits fail them, they must rely on their Soak to reduce incoming damage. Soak is usually equal to FRAME plus Armor. Any damage left after Soak lowers current Mettle. If Mettle falls to zero or below, the target is either **Staggered** or **Fallen**:
+
+- *Staggered*: Mettle from 0 down to negative MOTIVE. For example, if their MOTIVE is 3, they are Staggered at Mettle 0 to -3. They take a penalty to all Checks equal to their negative Mettle and can no longer Rally.
+
+- *Fallen*: Mettle dropped below their negative MOTIVE. They lose their Action and have 0 POISE for the Scene. They are likely dead unless they receive aid.
+
+{: .highlight }
+>- Damage exceeding Soak reduces Mettle temporarily.
+>- Staggered: zero to -MOTIVE. No Rally, negative Mettle is penalty.
+>- Fallen: below negative MOTIVE; lose Action and POISE is zero.
+
+### Surges
+
+Mortal peril can push a combatant beyond their usual limits of violence, at the cost of stress and vulnerability. Halve current Mettle to regain their spent Action, making them eligible for Initiative (p.36) again that round. The Surging character must have at least 2 Mettle and the new Action can only be an Attack.
+
+{: .highlight }
+>- **Surge:** Halve current Mettle to regain a spent Action for Initiative.
 ## Experience
 
 Characters in METTLE Core set out as highly competent adventurers but there is always room for improvement. This takes the form of earning ***Experience points*** (XP) to raise their Attribute pools. To earn XP, players recount the boldest and bravest events of the last session.
