@@ -6,7 +6,7 @@ title: Characters
 ---
 
 *Players and Guides both need **Characters**, and here is where your journey begins. The Character is your alter ego during a game, akin to how an actor embodies an improv role. You have the freedom to base them on yourself, favorite fictional figures, or entirely original ideas. METTLE Core defaults to a roughly modern setting and this influences the options found below. Character sheets are available online or at the end of this book.*
-
+---
 ## Table of Contents
 
 {: .no_toc}
@@ -20,6 +20,7 @@ This can be a tough choice unless you have a Dickensian knack for clever names. 
 
 **Examples:** *Sathington Willoughby, Kreeton, Jeremiah Harper Esquire, Dr. Asphodel (she/her), Puddin' Tame, etc.*
 
+---
 ## Step 2: Appearance
 
 What others see when they meet the character. These are *Adventurers* so make them stand out! Look to this section later when you need to introduce them to others in-game. Appearances are freeform but try to include their apparent age, gender, and an unusual trait to help them stand out. When playing someone with different features than yourself, do so with care and respect.
@@ -75,6 +76,8 @@ if you roll a 6 and a 2, go to the distinctive feature in the row for "6, 2."
 | 6,4 | Trinket (lucky hat, jewelry, stuffed animal...) |
 | 6,5 | Unkempt (poorly fit clothes, messy hair...) |
 | 6,6 | Voice (gruff, flat, high-pitched...) |
+
+---
 
 ## Step 3: Attributes
 
@@ -200,6 +203,7 @@ Thinking up good Descriptors for Attributes can be challenging. Use the table be
 | 6,5 | Vagrant | Survive | Weird | Waddling | Wide |
 | 6,6 | Vigilante | Uplift | Zealous | Wiggly | Wiry |
 
+---
 ## Step 4: Mettle
 
 Distance from doom. This is a mixture of stamina, willpower, and morale, normally equal to the character’s CONCEPT. Damage to Mettle is considered only “flesh wounds,” exhaustion, or vulnerability until it drops to zero or lower, implying far more troubling injuries.
@@ -228,6 +232,8 @@ Mortal peril can push a combatant beyond their usual limits of violence, at the 
 
 {: .highlight }
 >- **Surge:** Halve current Mettle to regain a spent Action for Initiative.
+
+---
 
 ## Step 5: Resources
 
@@ -307,6 +313,7 @@ Overloaded characters may drop bulky gear such as backpacks to avoid encumbrance
 >-	-1D to POISE-related Checks for each time weight exceeds Load step
 >- Incapacitated if penalty drops a Check to zero dice.
 
+---
 ## Experience
 
 Characters in METTLE Core set out as highly competent adventurers but there is always room for improvement. This takes the form of earning ***Experience points*** (XP) to raise their Attribute pools. To earn XP, players recount the boldest and bravest events of the last session.
@@ -336,6 +343,8 @@ You may spend XP during the actual game, especially during a tense conflict! Thi
 {: .highlight }
 >- Raise CONCEPT: XP cost = CONCEPT x 2
 >- Raise other: XP cost = CONCEPT
+
+---
 
 ## Example Character
 
