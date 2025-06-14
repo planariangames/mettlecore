@@ -28,3 +28,8 @@ callouts:
   note:
     title: Note
     color: red
+
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+mermaid:
+  version: "11.6.0"
