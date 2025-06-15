@@ -13,6 +13,8 @@ title: Scenes
 - TOC
 {:toc}
 
+---
+
 ## Staging
 
 A ***Scene*** is an imaginary slice of time and space for holding in-game events, such as a tense negotiation with suspicious police or a frantic chase through the jungle. They are tools to help organize play while retaining enough flexibility for the table to express their own style. This section describes the background parts of a Scene helping everything else run smoothly, such as time, space, and player spotlight.
@@ -46,7 +48,7 @@ This decides who goes when in Scenes where the order of action matters. Usually,
 
 - **Start**: The one who calls for the first attack seizes Initiative, becoming the first holder. If this is disputed, the Guide should err towards giving PCs the privilege. Time is then split into 6-second rounds, and everyone gets an Action to spend within them.
 - **Main**: Initiative then passes from the current holder to the target of the Action, whether enemy or ally. They become the new holder and get to act next. If the target has no Action to spend, the holder must instead pass it to someone who does. If the Action was targeted at oneself or has no apparent target, the holder also just passes it to anyone with an Action.
-- **End**: When everyone has taken their Action, a new Round begins. Everyone gets their Action back, and the last one to go passes Initiative to anyone with an Action – even themselves!
+- **End**: When everyone has taken their Action, a new Round begins. Everyone gets their Action back, so the last one to go can now pass Initiative to their target (or choose, if not applicable).
 
 Normally, combatants must take their turn when chosen. One may Wait by selecting a specific Action, such as “Attack” and holding off until the right moment. They may use their Wait Action any time later, even interrupting someone else’s. They cannot change the type of Action. If no opportunity arises, they choose at the start of the next Round to keep waiting or rejoin the regular Initiative scheme.
 
@@ -77,6 +79,8 @@ Better, every party member fit enough for mischief during a long break should ju
 
 {: .highlight}
 >- Those not involved in a long Scene may get a *Downtime Voucher*.
+
+---
 
 ## Actions
 
@@ -187,25 +191,6 @@ Fast creatures or vehicles with a higher Speed can Move that many Zones in a Rou
 - **Traps** are carefully hidden surprise Hazards. The first to enter a trapped Zone gets a Check to detect it, using a relevant CONCEPT. If successful, the trap does not trigger and may even be disarmed with further Checks. A failure means they suffer the effect. A triggered trap may turn into a Hazard afterward.
 - **Chases** have the quarry and pursuers Move through a set of chase Zones, with the quarry deciding where to go. How well they overcome obstacles, hazards, and climbing along the way decides who wins.
 
-### Parley
-
-Haggling, seduction, diplomacy, lies, threats, bribery, and negotiation are all good alternatives or preludes to battle. This is not mind-control and merely shifts the social situation in favor of the winner. Parley is a Check of NATURE vs. MOTIVE. The side with more leverage may get a bonus or better narrative outcome.
-
-**Check:** NATURE vs. MOTIVE (or highest MOTIVE of an audience)
-
-{: .outcomes }
-
-> -   **Success:** The social situation sways in your favor.
-> -   **Edge:** Adds to Difficulty to persuade otherwise later.
-> -   **Failure:** The social situation plays out as it would.
-> -   **Twists:** *Delay, lose Contact, offend ally, reveal secret, etc.*
-
-Success shifts the narrative for the better, but the views of those involved still depend on the actual argument. If no one uses Parley, the Guide role-plays the reaction as they would expect it to play out.
-
-Edge makes it harder for others to undo the persuasion later. Note this sticky belief in the Resources section of their character sheet; it is now something they “own,” for better or worse.
-
-Players on the losing side of Persuasion can either go along with it or outright reject the manipulation outright. Going along with it can easily justify an XP highlight!
-
 ### Race
 
 High stakes race or chase scenes often benefit from some structure. After dealing with obstacles and dirty tricks, the driver reaching the end with the highest Speed wins. If tied for Speed, the highest Edge wins. Race Checks are POISE vs. current Speed, with obstacles adding Difficulty.
@@ -271,6 +256,25 @@ Moving silently and hiding in shadows are great ways to evade foes and get into 
 {: .note }
 **Group Option**: Normally, the whole party makes individual Checks when sneaking. This can get a little tedious, makes failure all but certain in large groups, and may trigger an ugly blame game amongst players. To avoid this, the Guide may have only the character with the lowest pool make the Check. In case of ties, they may decide amongst themselves.
 
+### Sway
+
+Haggling, seduction, diplomacy, lies, threats, bribery, and negotiation are all good alternatives or preludes to battle. This is not mind-control and merely shifts the social situation in favor of the winner. Sway is a Check of NATURE vs. MOTIVE. The side with more leverage may get a bonus or better narrative outcome.
+
+**Check:** NATURE vs. MOTIVE (or highest MOTIVE of an audience)
+
+{: .outcomes }
+
+> -   **Success:** The social situation sways in your favor.
+> -   **Edge:** Adds to Difficulty to persuade otherwise later.
+> -   **Failure:** The social situation plays out as it would.
+> -   **Twists:** *Delay, lose Contact, offend ally, reveal secret, etc.*
+
+Success shifts the narrative for the better, but the views of those involved still depend on the actual argument. If no one uses Sway, the Guide role-plays the reaction as they would expect it to play out.
+
+Edge makes it harder for others to undo the persuasion later. Note this sticky belief in the Resources section of their character sheet; it is now something they “own,” for better or worse.
+
+Players on the losing side of persuasion can either go along with it or outright reject the manipulation outright. Going along with it can easily justify an XP highlight!
+
 ### Travel
 
 Traveling between areas often just serves as the narrative opening of a new scene. This is perfectly fine. For example, "*After a bit of the usual traffic on I-95, you find yourselves eating crabs at the Bulging Bushel*." If the journey is as important as the destination, use this Action to give it more weight. The players get to make decisions and the Guide gets to add drama with encounters!
@@ -296,21 +300,23 @@ Rivals or foes can Travel too, giving them their own Edge result. The highest Ed
 
 ### Use
 
-This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. Check MOTIVE vs. a fiat Difficulty, unless they have a better relevant CONCEPT. Let a failure stand - move the story along and retry only when something related to the attempt changes.
+This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. When necessary, Check a suitable CONCEPT or the most relevant of MOTIVE, NATURE, or POISE vs. a fiat Difficulty.
 
-**Check:** MOTIVE vs. Difficulty
+Longer projects like auto repairs or picking a complicated lock are not necessarily more difficult. These are better handled by requiring a certain amount of Edge before they are completed. Some tables like to keep track of this by making a progress bar or “clock.” It may take several Checks to build up enough Edge to complete the Use project.
+
+**Check:** MOTIVE, NATURE or POISE vs. Difficulty
 
 {: .outcomes }
 
-> -   **Success:** Completes the task as intended.
-> -   **Edge:** Quicker, better, with flair, add bonus features, etc.
-> -   **Failure:** The task is harder than it looks.
+> -   **Success:** Completes the task as intended, may or may not be *complete*.
+> -   **Edge:** fill in progress bar or clock for longer tasks.
+> -   **Failure:** task fails and must be restarted from the beginning.
 > -   **Twists:** Delay (gonna need more time here!), break tools, attract
 >     unwanted attention, weird flaw, lower Resources., etc. \*
 
 A party may split a lengthy Use project into smaller ones with varying Difficulties. This allows for incremental progress and taking advantage of specialized assistants. Naturally, the more people in a cohesive team working on a project, the less time it will also take.
 
-Vehicle repairs face a Difficulty equal to their listed Speed, making it challenging to maintain high-tech fast machines in the field. Failure means the vehicle is scrap, success means it is at least salvageable for later attempts, and every Edge repairs it by clearing a point of damage penalty. A garage kitted out for that type of vehicle grants a bonus.
+---
 
 ## Scenery
 

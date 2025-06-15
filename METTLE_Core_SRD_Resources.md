@@ -13,6 +13,8 @@ title: Resources
 - TOC
 {:toc}
 
+---
+
 ## Armor
 
 The covers of pulp adventure books and games are adorned with lurid images of sweaty men and women of action. Shirts ripped, bodices straining, nary a flak jacket in sight. Don’t let that fool you though, these stories are also rife with chain undershirts and iron plates secretly saving these glistening oafs from doom.
@@ -39,6 +41,8 @@ The table below gives examples of armor common to a modern setting, as well as a
 
 
 ***BP*** armor is “bulletproof,” meaning it works better against bullets, unless they are armor piercing (AP) type. The BP Soak is in parentheses. This is also how armors that grant special protections against things like fire or electricity would work.
+
+---
 
 ## Weapons
 
@@ -109,6 +113,8 @@ The following weapons chart gives examples of the more popular weapons. Each has
 Listings above are for a “typical” weapon of its kind. To model a specific weapon, compare it to the closest one listed and adjust.
 In general, heavier calibers of a firearm lose 1D of their Hit bonus but gain 1 DM. Smaller calibers (as above) do the reverse, gaining 1D to hit but losing 1 DM.
 
+---
+
 ## Equipment
 
 Part of the joy of making a setting is thinking about what tools are available to help those within it achieve their goals. Different items are available depending on the time period portrayed.
@@ -135,6 +141,8 @@ These are standard personal possessions characters in certain settings may start
 -   **Explorer's pack:** basic things an adventurer may need. Includes a *Small backpack*, *Snacks (1 day of rations), Canteen (\<1 L), Flashlight, Sack, paracord (\~10 m), knife, lighter, first aid kit, light blanket, notebook, pen, and pencil.* 4 kg, Resources 2.
 -   **Pockets/Purse:** the contents of a modern person's pockets. Includes *Keys, Wallet, Cash, Credit cards, and ID.* Likely to also include a *cell phone* in more recent modern games. 0 kg, Resources 1.
 
+---
+
 ## Hirelings
 
 No man is an island, and even a well-rounded party can find they lack the ability or patience for certain tasks. In general, you get what you pay for. A Hireling’s CONCEPT is usually from 5-7D, depending on how good at their jobs they are and how well the party pays them. Otherwise, they can use an average NPC Extra pool of 3D+3 or so. Favorite hirelings often get regular stats, and are prime candidates to step in as replacement characters in the actual party.
@@ -145,6 +153,8 @@ No man is an island, and even a well-rounded party can find they lack the abilit
 -   **Servant:** somehow, party members are notoriously unreliable for basic tasks. This can be a driver, butler, porter, or other such useful person.
 
 While not technically hirelings, the party may also bribe passersby or layabouts. These watch a vehicle, reveal info, carry messages, etc. This is also a great way for the Guide to pass on much-needed clues from a source the party has no reason to mistrust.
+
+---
 
 ## Mounts
 
@@ -160,6 +170,8 @@ The mount uses a simplified NPC Extra Pool, showing their usual Pool + FRAME. Th
 -   **Elephant:** *4D+12, Speed 1, Attack (stomp 12 DM), Load Step 612kg*. Mighty and steady.
 -   **Horse:** *4D+7, Speed 3, Attack (kick 7 DM) Load Step 128kg*. A strong, fast, and awe-inspiring mount for the ages.
 -   **Mule**: *4D+8, Speed 2, Attack (kick 8 DM), Load Step 172kg*. A sturdy mount or beast of burden with a lot of attitude.
+
+---
 
 ## Vehicles
 
@@ -194,6 +206,9 @@ In a head-on collision, add the speed of both vehicles together for the damage t
 
 ### Tire Popping
 Combatants can aim for tires, making the vehicle a real hassle to control. The Difficulty of this Attack is +1 for each tire the vehicle has – the more tires there are, the less taking one out matters! If successful, the target takes half damage after Soak, but the other half of that damage raises the Handling Difficulty until the tires are fixed. For example, a gunshot that targeted a buggy’s tires and did 5 damage after Soak would inflict 3 damage to the vehicle and add 2 to its Handling Difficulty.
+
+### Repairs
+Vehicle repairs fall under the Use Action with a Difficulty equal to their listed Speed, making it challenging to maintain high-tech fast machines in the field. Failure means they lose any accumulated edge and must start over. Success means it is unchanged but promising, and every Edge repairs it by clearing a point of damage penalty. A garage kitted out for that type of vehicle grants a bonus.
 
 ### Boarding
 Other than because it kicks ass, there are at least three situations where one might forcibly board an enemy vehicle. The first is during a Race or Chase, where rowdy passengers can leap onto another team’s vehicle as long as it holds the same Lead (Edge) or lower. The second is a bold pedestrian vaulting into a passing vehicle.  The third relies on a fired grapnel, which enables Boarding even on vehicles with higher Lead.

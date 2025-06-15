@@ -13,6 +13,8 @@ title: Guidance
 - TOC
 {:toc}
 
+---
+
 ## Adventures
 
 Naturally, a Guide running METTLE Core wants a game both they and their
@@ -221,11 +223,12 @@ long run, they can always run out of charges, have disastrous side
 effects, be confiscated by "top men," etc. There are other games and
 settings made for those who regularly traffic with such forces.
 
+---
+
 ## Characters
 
 An expected feature of this genre is the characters are always changing
-or evolving. Players may want to change their character's Attributes,
-Tags, Contacts, Gear, etc. After the first game, you should even
+or evolving. Players may want to change their character's Attributes, Backstory, etc. After the first game, you should even
 recommend this so they can make a character who works for them. In later
 games, ask for some justification but be lenient. No one should feel
 trapped by choices they made before becoming familiar with the rules,

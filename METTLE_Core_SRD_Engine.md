@@ -13,6 +13,8 @@ title: Engine
 - TOC
 {:toc}
 
+---
+
 ## Rolls
 
 Call for a **Roll** when you need a random number and are not worried about success or failure. This is useful for encounter tables, enemy numbers, damage from hazards, falls, traps, etc. To do this, roll the dice and add up the numbers on the faces. The “d” in a Roll is always lowercase. For example, a “3d6” roll results in a number from 3-18.
@@ -27,13 +29,15 @@ While uncommon, you may see fractional rolls for narrower ranges, such as 1-2 (1
 2.  Add up the die face results.
 3.  Apply any bonuses or penalties.
 
+---
+
 ## Checks
 
 A ***Check*** is when you are “checking” to see if an action succeeds or fails by rolling a pool of dice. These are central to working with the METTLE engine, so just learning these lets you easily handle the rest of the system. A Check may also yield unexpected benefits or drawbacks, making it a useful prompt for interesting scenes.
 
 ### Success & Failure
 
-To make a Check, declare what your character is doing, then roll dice equal to the Attribute they are doing it with. Add up the face numbers of all the dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling [4, 1, 3, 5, 2, 2] yields a Score of 8 (from 1 + 3 + 2 + 2) and 2 Edge (from 4 & 5). Score determines if you succeed, while Edge reflects the quality of success.
+To make a Check, declare what your character is doing, then roll dice equal to the Attribute they are doing it with. For Attributes, use CONCEPT if it fits the task, otherwise default to MOTIVE for mental, NATURE for social, or POISE for athletics. Add up the face numbers of all the dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling [4, 1, 3, 5, 2, 2] yields a Score of 8 (from 1 + 3 + 2 + 2) and 2 Edge (from 4 & 5). Score determines if you succeed, while Edge reflects the quality of success.
 
 Your Check succeeds if the Score equals or exceeds (≥) the **Difficulty** of the task. This can be an arbitrary number set by the Guide or a target’s defensive Attribute. Most Checks do not count excess Score, so once you reach the Difficulty you can stop adding it up.
 
@@ -134,6 +138,8 @@ The Guide and *other* Players come up with the creative Twist, not the Player ma
 |Imperil|Lose *safety*: friendly fire, obstacle, unwanted attention...|
 |Waste|Lose *resources*, use up credit, lose or break items...|
 
+---
+
 ## Procedure
 The prior pages offer a superb explanation of how to do things that call for Checks. This page makes it clear just when to use them. The best advice is to use them rarely; only when a random outcome is interesting. Using the dice too much makes them feel less special and slows down the pacing of a Scene.
 
@@ -146,32 +152,34 @@ Consider zooming a Check in or out depending on how much focus you want on a Sce
 ```mermaid
 {% raw %}
 graph TD
-	Describe[Player describes attempt] --> Risky{{Risky?}}
-	Risky -- Yes --> Check
-	Risky -- No --> Success
-	Success --> Narrate[Guide describes outcome]
-	Check --> Concept{{Fits CONCEPT?}}
-	Concept -- Yes --> Pool[Pool = CONCEPT]
-	Concept -- No --> Default["Pool = MOTIVE for mental
+	Describe[Player describes attempt] ==> Risky{{Risky?}}
+	Risky == Yes ==> Check
+	Risky == No ==> Success
+	Success ==> Narrate[Guide describes outcome]
+	Check ==> Concept{{Fits CONCEPT?}}
+	Concept == Yes ==> Pool[Pool = CONCEPT]
+	Concept == No ==> Default["Pool = MOTIVE for mental
 	Pool = NATURE for social
 	Pool = POISE for athletic"]
-	Pool --> Roll["Roll dice pool
+	Pool ==> Roll["Roll dice pool
 	Score: add up 1s, 2s, & 3s
 	Edge: count 4s, 5s, & 6s"]
-	Default --> Roll
-	Roll --> Test{{Score >= Difficulty?}}
-	Test -- Yes --> Success
-	Test -- No --> Edge{{Edge?}}
-	Edge -- Yes --> Twist{{Twist?}}
-	Twist -- No --> Failure
-	Twist -- Yes --> Reroll[Reroll Edge dice]
-	Reroll --> Test2{{new Score >= Difficulty?}}
-	Test2 -- No --> Failure
-	Test2 -- Yes --> Success
-	Edge -- No --> Failure
-	Failure --> Narrate
+	Default ==> Roll
+	Roll ==> Test{{Score >= Difficulty?}}
+	Test == Yes ==> Success
+	Test == No ==> Edge{{Edge?}}
+	Edge == Yes ==> Twist{{Twist?}}
+	Twist == No ==> Failure
+	Twist == Yes ==> Reroll[Reroll Edge dice]
+	Reroll ==> Test2{{new Score >= Difficulty?}}
+	Test2 == No ==> Failure
+	Test2 == Yes ==> Success
+	Edge == No ==> Failure
+	Failure ==> Narrate
 {% endraw %}
 ```
+
+---
 
 ## Example of Play
 
