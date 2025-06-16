@@ -256,9 +256,9 @@ The Guide plays perhaps too many NPCs, such as friendly or unfriendly contacts, 
 
 As their NPC pool gives them less Mettle than regular characters, they have less staying power in a fight. Embrace this as meeting their doom easier or play it up as a retreat.
 
-### Freeform CONCEPT Descriptors
+### What Do You Know?
 
-METTLE Core gives thematic examples but does not limit players to a definitive list of skills. While specific settings may hint at good ones, these are supposed to be up to the Player. You decide if a given CONCEPT is relevant to a task. Most of the time, you should say yes. If it is not obvious why and the Player doesn’t have a clever explanation, raise the Difficulty (up to double). In extreme cases, do not allow the action at all. Suggest other ways they might achieve their goal if stuck.
+METTLE Core gives example CONCEPTS but does not limit players to a definitive list of skills. The table decides if a given CONCEPT is relevant to a task. Most of the time, the answer should be yes. If not, default to another Attribute (Motive, Nature, or Poise) and consider their Background for context. It may seem backwards, but one is only unskilled at something if their player says they are – and all this does is downgrade what they are Checking for. For example, someone who can’t speak French can use a Know Check to spit out a few words.
 
 ### Freeform XP
 

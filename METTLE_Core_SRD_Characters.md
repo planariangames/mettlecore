@@ -126,9 +126,9 @@ Unusual settings may introduce entirely new Attributes for things like cyberneti
 
 ### CONCEPT
 
-This is the Adventurer’s calling in life, and the size of their dice pool tells you how good they are at it. CONCEPT is special because it can replace other Attributes if higher and better suited for the task. For example, a *Royal Fencing Instructor* could use their CONCEPT instead of NATURE when wielding a fencing blade. This is only for the active side of a Check; CONCEPT cannot swap in for other Attributes used as a passive Difficulty/defense. Any Bonuses or Penalties to the original Attribute pool also apply to the CONCEPT pool.
+This is the Adventurer’s calling in life, and the size of their dice pool tells you how good they are at it. CONCEPT is special because it can replace other Attributes if higher and better suited for the task. For example, a *Royal Fencing Instructor* could use their CONCEPT instead of NATURE when wielding a fencing blade. This is only for the active side of a Check; CONCEPT cannot swap in for other Attributes used as a passive Difficulty/defense. Any Bonuses or Penalties to the default Attribute pool also apply to the CONCEPT pool.
 
-Guides often grant free information or automatic success with the right CONCEPT Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon, while those with less relevant Descriptors are stuck with making Checks.
+Guides often grant free information or automatic success with the right CONCEPT Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon without their player so much as touching the dice, while those with less relevant Descriptors may be stuck making Checks.
 
 **<u>Example Descriptors</u>:** *cat burglar, astromech pilot, village
 blacksmith, unemployed librarian, time-traveling lunatic, courtier,
