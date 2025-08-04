@@ -207,7 +207,7 @@ High stakes race or chase scenes often benefit from some structure. After dealin
 A Race expands Zones into much longer stretches of track, each about half mile long and lasting a minute or so. All racers make their checks and compare Edge for the lead. Lead mostly matters in the final stretch, until then Edge can be spent on the Stunts below. These are decided after everyone makes their Check and do not require Initiative. Mixing and matching Edge on different Stunts is allowed:
 
 - **Muscle**: aggressive maneuvering hinders another driver’s Stunts. Spent Edge reduces the Edge of another driver in the same stretch. This can be done at any time to cancel someone else’s Edge Stunt on a one for one basis.
-- **Splatter**: skid up mud or dirt onto the target vehicle with the same lead or lower. Edge inflicts +1 Visibility Cover (max +3) for everyone on the vehicle until each of them cleans it off with an Action.
+- **Splatter**: skid up mud or dirt onto the target vehicle with the same lead or lower. Edge inflicts -1D Visibility Cover (max -3D) for everyone on the vehicle until each of them cleans it off with an Action.
 - **Steady**: races are so intense the driver and passengers cannot normally act. Each Edge spent smooths out the ride so the driver or a chosen passenger may take their Action during the Stretch.
 - **Swerve**: juking or angling, Edge inflicts +1 Difficulty to Attacks made on the vehicle until the next Stretch.
 
@@ -330,7 +330,7 @@ Active foes and enemies are not the only dangers to face. This section holds all
 
 Other status effects exist to vex characters aside from the usual Staggered and Fallen conditions. Most are awful but temporary, lasting until their source is removed or addressed. Record them on the upper right-hand corner of the character sheet in the “Other Status” box until then.
 
--   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight are at +3 Difficulty. Others may use Sneak against them as if they have Cover.
+-   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight are at -3D. Others may use Sneak against them as if they have Cover.
 -   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading CONCEPT may make up for this. Others may use Sneak against them as if they have Cover.
 -   **Encumbered**: Every carrying more gear weight than their carry step allows. Take a -1D POISE Check penalty each time Load Step is exceeded. If the penalty equals their POISE, they are Incapacitated.
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
@@ -449,7 +449,7 @@ An obvious “trap” such as an open pit or lava pool is more of a Hazard the p
 
 ### Visibility
 
-Darkness, underbrush, and smoke make tasks related to vision more difficult. In general, dim light is +1 Difficulty and total darkness +3. Equipment such as torches or night vision goggles can prevent this. Sudden flashes of bright light can also hinder visibility.
+Many actions dependent on vision are hindered by darkness, underbrush, or smoke. In general, dim light inflicts a -1D penalty, regular darkness -2D, and total darkness +3D. Equipment such as torches or night vision goggles can reduce these, unless dealing with smoke. Sudden flashes of bright light can also create obscurement.
 
 {: .highlight }
->- Poor lighting adds +1 to +3 Difficulty.
+>- Darkness or smoke inflicts a -1D to -3D penalty.
