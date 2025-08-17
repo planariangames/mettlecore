@@ -250,7 +250,7 @@ story.
 
 ### NPC Creation
 
-The Guide plays perhaps too many NPCs, such as friendly or unfriendly contacts, shopkeepers, enemies, key figures in the setting, and random passersby. Only key NPCs have full Attributes. For the mostly unnamed, unsung Extras, a single NPC pool will do. The first number, followed by a “D,” is their dice pool for combat Attributes as well as their Mettle. This is followed by their FRAME bonus. Think “Stunned Bystander 3D+3” or “Hostile Village Elder 4D+2.” Raise the pool by one for Checks strongly related to their title, as if it were a Concept.
+The Guide plays perhaps too many NPCs, such as friendly or unfriendly contacts, shopkeepers, enemies, key figures in the setting, and random passersby. Only key NPCs have full Attributes. For the mostly unnamed, unsung Extras, a single NPC pool will do. The first number, followed by a “D,” is their dice pool for combat Attributes as well as their Mettle. This is followed by their FRAME bonus. Think “Stunned Bystander 3D+3” or “Hostile Village Elder 4D+2.” Raise the pool by two for Checks strongly related to their title, as if it were a CONCEPT.
 
 <center>*[ Attribute pool ] D + [ FRAME ]*</center>
 
@@ -259,6 +259,14 @@ As their NPC pool gives them less Mettle than regular characters, they have less
 ### What Do You Know?
 
 METTLE Core gives example CONCEPTS but does not limit players to a definitive list of skills. The table decides if a given CONCEPT is relevant to a task. Most of the time, the answer should be yes. If not, default to another Attribute (Motive, Nature, or Poise) and consider their Background for context. It may seem backwards, but one is only unskilled at something if their player says they are – and all this does is downgrade what they are Checking for. For example, someone who can’t speak French can use a Know Check to spit out a few words.
+
+### Flaws
+
+Some players may want to limit or disadvantage their character in some way, such as nearsightedness, a missing arm, or an addiction. They are free to do so and should find a way to work it into their attributes, appearance, and background. The Guide should do their best to alter the situation or Check to bring it into play. Of those players, a subset will ask for more attribute points or other advantages to "make up for it". Do not give them these. An interesting flaw is its own reward.
+
+### Weapon Guys
+
+In more combat oriented games, the first instinct is to "build" a character around a weapon to make them more efficient. While not encouraged due to being a bit one-note, it is easy to do in METTLE Core by including the weapon name in their CONCEPT. For example, a Marine Sniper or Mercenary Swordsman. This lets them use the implied weapon or group of similar ones at their full CONCEPT as usual.
 
 ### Freeform XP
 
