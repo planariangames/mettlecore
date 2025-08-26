@@ -114,7 +114,7 @@ These give a chance to turn a failure into a messy success. If you fail a Check 
 
  The default Twist is ***Delay,*** meaning you lose your next Action dealing with a complication from the current one. For example, a weapon gets stuck, travelers get lost, a gun jams, a runner stumbles, shaken by the horrors of war, etc. Delay is the default because the effect is simple, aversive, and explanations are easy to come up with.
 
-Other types of Twists are ideally *immediate setbacks* that apply *regardless of success or failure* and *derive from the fiction*. For example, losing a weapon, breaking gear, harming a relationship, inflicting collateral damage, blurting out something incriminating, etc. These should be directly connected to the action triggering the twist – not unrelated coincidences, however unfortunate.
+Other types of Twists are *immediate setbacks* that apply *regardless of success or failure* and *derive from the fiction*. For example, losing a weapon, breaking gear, harming a relationship, inflicting collateral damage, blurting out something incriminating, etc. These should be directly connected to the action triggering the twist – not unrelated coincidences, however unfortunate.
 
 The Guide and *other* Players come up with the creative Twist, not the Player making the Check. If the acting Player (or the Guide!) does not like it, they can always fall back to Delay. This is a safety valve to settle the matter so play can continue. The Player can also just call off the Twist entirely and accept failure as the gift it is.
 

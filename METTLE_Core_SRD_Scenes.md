@@ -123,16 +123,14 @@ Twists can be a little loosey-goosey during most Scenes, but Players tend to dem
 | **Alienate ally**      | Careless words or deeds under high stress. Lose the aid of an NPC ally or play up a conflict between PCs.                                                        |
 | **Broken**             | Weapon or item breaks. Simple melee weapons like a broken sword may still do half damage, complex items become useless unless fixed later.                       |
 | **Butter fingers**     | A weapon or item related to the Action slips from your grasp or is disarmed. Requires a Use or Move Action to retrieve, lest fate or foes find it first.         |
-| **Counter**            | A wily foe predicts the attack. If it still misses, their foe hits them instead, using their new Edge. No downside on a hit.                                     |
 | **Delay**              | The default Twist of losing next Action. Describe as a stumble, pulling a weapon out of a foe or object, being justifiably awed by the horrors of violence, etc. |
-| **Glancing blow**      | The foe actively defends; rolling, parrying, dodging, or just lucky. Does half damage after Soak. No downside on a miss.                                         |
+| **Guarded**      | A bodyguard or other willing ally in the target’s Zone takes the hit for them. Apply the new result to the new target instead.                                         |
 | **Jammed**             | A firearm or other complex item bungs up. Make a Use Action on Motive or relevant Concept vs. Difficulty 1d6 to get it working again.                            |
 | **Out of ammo**        | An attack may use multiple shots, especially with firearms. Using this Twist means the weapon needs an early reload (Use Action) to fire again.                  |
 | **Provoke foes**       | Unwanted attention. Foes focus Attacks on the character, call for reinforcements, or go all-out with their most fearsome tactics.                                |
 | **Sitting Duck**       | A careless move in the enemy’s sights. Lose all benefit of Cover. Must have cover and foes must present a ranged threat for this to be valid.             |
-| **Switch**             | A bodyguard, hostage, object, or bystander in their Zone takes the hit for the target. Apply the new result to the new target instead. No downside on a miss.    |
 
-When making up or describing your own Twists, always let the situation be your guide. Avoid overt humiliation in particular, as it spoils the heroic tone. In combat, give priority to Counter, Glancing blow, and Switch, as they make for interesting defensive play.
+When making up or describing your own Twists, always let the situation be your guide. Avoid overt humiliation in particular, as it spoils the heroic tone.
 
 Keep in mind that these detailed options are not the only ones you can take. They absolutely should not prevent the group from making their own! These only clarify common cock-ups.
 
@@ -207,7 +205,7 @@ High stakes race or chase scenes often benefit from some structure. After dealin
 A Race expands Zones into much longer stretches of track, each about half mile long and lasting a minute or so. All racers make their checks and compare Edge for the lead. Lead mostly matters in the final stretch, until then Edge can be spent on the Stunts below. These are decided after everyone makes their Check and do not require Initiative. Mixing and matching Edge on different Stunts is allowed:
 
 - **Muscle**: aggressive maneuvering hinders another driver’s Stunts. Spent Edge reduces the Edge of another driver in the same stretch. This can be done at any time to cancel someone else’s Edge Stunt on a one for one basis.
-- **Splatter**: skid up mud or dirt onto the target vehicle with the same lead or lower. Edge inflicts -1D Visibility Cover (max -3D) for everyone on the vehicle until each of them cleans it off with an Action.
+- **Splatter**: skid up mud or dirt onto the target vehicle with the same lead or lower. Edge inflicts +1 Difficulty due to low Visibility (max +3) for everyone on the vehicle until each of them cleans it off with an Action.
 - **Steady**: races are so intense the driver and passengers cannot normally act. Each Edge spent smooths out the ride so the driver or a chosen passenger may take their Action during the Stretch.
 - **Swerve**: juking or angling, Edge inflicts +1 Difficulty to Attacks made on the vehicle until the next Stretch.
 
@@ -330,7 +328,7 @@ Active foes and enemies are not the only dangers to face. This section holds all
 
 Other status effects exist to vex characters aside from the usual Staggered and Fallen conditions. Most are awful but temporary, lasting until their source is removed or addressed. Record them on the upper right-hand corner of the character sheet in the “Other Status” box until then.
 
--   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight are at -3D. Others may use Sneak against them as if they have Cover.
+-   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight are at +3 Difficulty. Others may use Sneak against them as if they have Cover.
 -   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading CONCEPT may make up for this. Others may use Sneak against them as if they have Cover.
 -   **Encumbered**: Every carrying more gear weight than their carry step allows. Take a -1D POISE Check penalty each time Load Step is exceeded. If the penalty equals their POISE, they are Incapacitated.
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
@@ -449,7 +447,7 @@ An obvious “trap” such as an open pit or lava pool is more of a Hazard the p
 
 ### Visibility
 
-Many actions dependent on vision are hindered by darkness, underbrush, or smoke. In general, dim light inflicts a -1D penalty, regular darkness -2D, and total darkness +3D. Equipment such as torches or night vision goggles can reduce these, unless dealing with smoke. Sudden flashes of bright light can also create obscurement.
+Many actions dependent on vision are hindered by darkness, underbrush, or smoke. In general, dim light inflicts a +1 Difficulty, regular darkness +2, and total darkness +3. Equipment such as torches or night vision goggles can reduce these, unless dealing with smoke. Sudden flashes of bright light can also create obscurement.
 
 {: .highlight }
->- Darkness or smoke inflicts a -1D to -3D penalty.
+>- Darkness or smoke adds +1 to +3 Difficulty.
