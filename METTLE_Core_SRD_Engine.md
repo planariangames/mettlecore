@@ -138,6 +138,21 @@ The Guide and *other* Players come up with the creative Twist, not the Player ma
 |Imperil|Lose *safety*: friendly fire, obstacle, unwanted attention...|
 |Waste|Lose *resources*, use up credit, lose or break items...|
 
+### Twists Flowchart
+```mermaid
+{% raw %}
+graph TD
+	Fail[Check Fails] ==> Edge{{Have any Edge?}}
+		Edge == Yes ==> Twist{{Call for Twist?}}
+		Edge == No ==> Fail
+	Twist == Yes ==> Table{{Table Twist Acceptable?}}
+	Twist == No ==> Fail
+		Table == Yes ==> Reroll[Reroll Edge]
+		Table == No ==> Delay[Default to Delay Twist]
+	Delay ==> Reroll
+{% endraw %}
+```
+
 ---
 
 ## Procedure
@@ -147,7 +162,7 @@ On the other hand, it is perfectly fine to run an entire game without resorting 
 
 Consider zooming a Check in or out depending on how much focus you want on a Scene. Zooming in calls for more Checks on complex tasks and zooming out can resolve a whole Scene in one swoop. This aids with pacing and is a hallmark of advanced tables.
 
-### Procedure Flowchart (in progress)
+### Procedure Flowchart
 
 ```mermaid
 {% raw %}
