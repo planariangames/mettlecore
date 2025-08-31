@@ -56,7 +56,7 @@ The following weapons chart gives examples of the more popular weapons. Each has
 -   **Block** adds to POISE defense vs. all Attacks.
 -   **Burn** inflicts Burning status, roll damage each round until extinguished or Scene ends.
 -   **Burst** grants an extra hit for every 5 ammo and 1 Edge spent. Damage is the same for each hit, minus the Edge spent. For example, adding 2 hits would cost 2 Edge and 10 ammo. If used on different targets, the original Score must be high enough to hit each.
--   **Entangle** Grapples using the weapon’s Hit and DM but does not take a further Action to maintain the Difficulty increase each round. Target escapes if they beat the increased Difficulty on a Move Check.
+-   **Entangle** damage raises the Difficulty on all Checks instead of doing damage to Mettle. This lasts until someone removes the weapon or the target succeeds on a Move Check.
 -   **Grapple** use the weapon's Hit and DM on Grapple Attacks.
 -   **Parry** adds to POISE defense vs. melee Attacks.
 -   **Range** is how many Zones one can shoot or throw the weapon. Beyond this one must Aim, halving their POISE defense but doubling Range. A melee weapon with no Range may be thrown 1 Zone by Aiming.

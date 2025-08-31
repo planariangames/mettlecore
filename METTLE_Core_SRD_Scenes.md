@@ -92,9 +92,9 @@ The default Twist for Actions is Delay, meaning they lose their next Action beca
 
 ### Attack
 
-Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. This applies to any physical strike, whether unarmed, melee, ranged, or even supernatural. Attackers Check NATURE vs. their target's POISE. If successful, they inflict the weapon's DM plus any Edge as damage to Mettle. If a CONCEPT includes the name of a weapon or fighting style, they may use it in place of NATURE.
+Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check NATURE for melee Attacks and MOTIVE for ranged Attacks, always vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CONCEPT includes the name of a weapon or fighting style, they may use it in place of NATURE or MOTIVE.
 
-**Check** NATURE vs. POISE
+**Check** NATURE vs. POISE for melee, MOTIVE vs. POISE for ranged.
 
 {: .outcomes }
 
@@ -104,12 +104,10 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 > -   **Twists:** *Delay, drop weapon, hits unintended target, runs out of ammo, etc.* See below for detailed combat Twists.
 
 -   **Melee Attacks** are close combat strikes on a foe in the same Zone. Narrate these as decisive strikes or flurries of blows, depending on the character’s fighting style or weapon.
--   **Ranged Attacks** travel through Zones up to the weapon’s Range. A single Attack may represent multiple shots, especially with firearms. Double range by Aiming, but this also halves POISE until next turn.
+-   **Ranged Attacks** travel through Zones up to the weapon’s Range. A single Attack may represent multiple shots, especially with firearms. Double range by Aiming, but halve POISE until next Action.
 -   **Area Attacks** skip the Check and auto-hit everyone in a Zone or more. Damage is 1d6 + DM for each target. Pass Initiative to any surviving target who has an Action, if none choose elsewhere,
--   **Disarm Attacks** relieve the target of their weapon. A blow that would drop their Mettle to 0 or lower forces them to drop their weapon instead of taking damage. An unarmed disarmer may seize the weapon and wield it.
--   **Grapple Attacks** raise Difficulty on all the target’s Checks instead of doing damage. Most weapons do not count for either side. To maintain the hold, the Attacker must Grapple each Round.
+-   **Gambit Attacks** inflict non-lethal consequences like disarms, grapples (lose next Action), tripping (lose free Charge), provoking an attack, pushing or pulling, losing items, knockiuts, subdual, etc. To do these and more, just declare the gambit and attack. On a hit, the target either accepts the gambit or takes the damage.
 -   **Split Attacks** divide the dice pool between two different targets. Each must also be aimed at a different target. Any modifiers affect each split pool separately. Pass Initiative to any surviving target who has an Action, if none choose elsewhere.
--   **Subdual Attacks** pull punches or use less lethal strikes to avoid killing the opponent. Edge is ignored or spent in reverse – to reduce damage instead of adding to it.
 -   **Vehicle Attacks** like ramming work much like regular Attacks but factor in current Speed. See Vehicles section in Resources for details.
 
 {: .text-center}
@@ -147,7 +145,7 @@ This is for life-or-death trauma well beyond bruises and stitches. As such, it w
 > -   **Failure:** patient succumbs to their wounds or died before the aid.
 > -   **Twists:** *Delay, patient disfigured, waste gear or surgical tools, arrogant healer aggravates everyone, etc.*
 
-Those alone or left for dead may Aid themselves using their Motive, but at double Difficulty. They may revive with visions of the beyond, or just a deep grudge against those who abandoned them.
+Staggered (and even Fallen) characters can take this Action and heal on their own – if they can get past their negative Mettle penalty.
 
 If a PC is too debilitated, the best thing to do is to play another character until they are back on their feet. The Guide can just handwave that they are OK by the next campaign.
 

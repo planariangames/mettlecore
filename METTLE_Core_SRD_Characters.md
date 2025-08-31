@@ -146,7 +146,7 @@ etc.*
 
 ### MOTIVE
 
-An interesting character is fueled by an overarching goal that drives their actions and keeps them going even when things seem hopeless. Those with a high MOTIVE are alert and focused. This forms the pool for most untrained mental Checks, keeps them up at negative Mettle, and defends against the wiles of stealthy or manipulative foes. A strong motive may be unhealthy for a normal person, but adventurers often harbor overwhelming drives and passions. If the MOTIVE is ever fulfilled, they may retire or take on a new mission in life.
+An interesting character is fueled by an overarching goal that drives their actions and keeps them going even when things seem hopeless. Those with a high MOTIVE are alert and focused. This forms the pool for most untrained mental Checks, sharpens their aim for ranged attacks, and defends against the wiles of stealthy or manipulative foes. A strong motive may be unhealthy for a normal person, but adventurers often harbor overwhelming drives and passions. If the MOTIVE is ever fulfilled, they may retire or take on a new mission in life.
 
 **<u>Example Descriptors</u>:** *Avenge my master, bring justice to the
 oppressed, consume great quantities, escape from the oubliette, kill
@@ -154,7 +154,7 @@ vampires, etc.*
 
 ### NATURE
 
-This pool embodies sheer force of personality. Most Social and Combat Checks default to this pool, both mere expressions of the fire that burns within their heart. Characters are more complex than this, so view the Descriptor for NATURE as only the tip of their personal iceberg.
+This pool embodies sheer force of personality. Most Social and melee Combat Checks default to this pool, both mere expressions of the fire that burns within their heart. Characters are more complex than this, so view the Descriptor for NATURE as only the tip of their personal iceberg.
 
 A high pool can drastically alter the effect of this Descriptor! The masked vigilante and the cranky teenager may both be *Sullen*, but only one of them makes it look good.
 
@@ -298,9 +298,9 @@ While above zero, Mettle refills upon starting a new Scene. Rallies can restore 
 
 Characters may suffer ***Damage*** from hazards or attacks they face. If their wits fail them, they must rely on their Soak to reduce incoming damage. Soak is usually equal to FRAME plus Armor. Any damage left after Soak lowers current Mettle. If Mettle falls to zero or below, the target is either **Staggered** or **Fallen**:
 
-- *Staggered*: Mettle from 0 down to negative MOTIVE. For example, if their MOTIVE is 3, they are Staggered at Mettle 0 to -3. They take a penalty to all Checks equal to their negative Mettle and can no longer Rally.
+- *Staggered*: characters suffer real physical trauma when Mettle drops to zero or below. They take a penalty to all Checks equal to any negative Mettle and can no longer Rally or Surge.
 
-- *Fallen*: Mettle dropped below their negative MOTIVE. They lose their Action and have 0 POISE for the Scene. They are likely dead unless they receive aid.
+- *Fallen*: upon taking damage to zero or below, a player can declare their character Fallen instead of Staggered. They cannot take Actions and have 0 POISE but halve their negative Mettle.
 
 {: .highlight }
 >- Damage exceeding Soak reduces Mettle temporarily.
