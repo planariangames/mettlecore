@@ -19,7 +19,7 @@ title: Resources
 
 The covers of pulp adventure books and games are adorned with lurid images of sweaty men and women of action. Shirts ripped, bodices straining, nary a flak jacket in sight. Don’t let that fool you though, these stories are also rife with chain undershirts and iron plates secretly saving these glistening oafs from doom.
 
-So, if you expect trouble, and you really should, it is no shame to wear some sort of armor. Worn armor adds to FRAME Soak. The tradeoff is the more protection a set of Armor gives, the more it weighs (kgs.), potentially encumbering the character. Encumbrance penalizes POISE-related actions such as swimming, climbing, and sneaking.
+So, if you expect trouble, and you really should, it is no shame to wear some sort of armor. Worn armor adds to the Mettle score. The tradeoff is the more protection a set of Armor gives, the more it weighs (kgs.), potentially encumbering the character. Encumbrance penalizes POISE-related actions such as swimming, climbing, and sneaking.
 
 The table below gives examples of armor common to a modern setting, as well as archaic armor types for comparison.
 
@@ -28,19 +28,21 @@ The table below gives examples of armor common to a modern setting, as well as a
 
 {: .lh-0}
 
-| **Armor**             | **Soak** | **Special** | **kg** | **Cost** |
+| **Armor**             | **Mettle** | **Special** | **kg** | **Cost** |
 | --------------------- | :------: | :---------: | :----: | :------: |
 | Archaic:              |          |             |        |          |
 |      Light (Leather)  | +1       |             | 7      | 2        |
 |      Medium (Chain)   | +2       |             | 15     | 3        |
 |      Heavy (Plate)    | +3       |             | 25     | 4        |
 | Modern:               |          |             |        |          |
-|      Kevlar vest (BP) | +1(+3)   | BP          | 3      | 3        |
-|      Flak Jacket      | +2(+4)   | BP          | 8      | 3        |
-|      Riot gear        | +3(+5)   | BP          | 15     | 4        |
+|      Kevlar vest (BP) | +1   | BP+2          | 3      | 3        |
+|      Flak Jacket      | +2   | BP+2          | 8      | 3        |
+|      Riot gear        | +3   | BP+2          | 15     | 4        |
 
 
-***BP*** armor is “bulletproof,” meaning it works better against bullets, unless they are armor piercing (AP) type. The BP Soak is in parentheses. This is also how armors that grant special protections against things like fire or electricity would work.
+***BP*** armor is “bulletproof,” meaning it works better against bullets, unless they are armor piercing (AP) type. The BP Soak bonus adds directly to FRAME when soaking damage. For example, someone with a Frame of 3 wearing riot gear would Soak 5 points of damage from firearms before affecting Mettle instead of the usual 3. This is also how armors that grant special protections against things like fire or electricity would work.
+
+Wearing multiple sets of armor does not stack, only count the best.
 
 ---
 
@@ -53,16 +55,16 @@ The following weapons chart gives examples of the more popular weapons. Each has
 -   **2H** takes two hands to wield, so no shield or sidearm.
 -   **Ammo** is the max number of shots before reloading with a *Use* Action. It may have to be reloaded earlier as a Twist.
 -   **Blast** means after they damage the target, they also inflict 1d6 + DM as Area Attack to others in the target Zone. Blasts hit everything not behind Total Cover, ally or enemy.
--   **Block** adds to POISE defense vs. all Attacks.
+-   **Block** adds to current Mettle for upcoming Rally vs. all Attacks.
 -   **Burn** inflicts Burning status, roll damage each round until extinguished or Scene ends.
 -   **Burst** grants an extra hit for every 5 ammo and 1 Edge spent. Damage is the same for each hit, minus the Edge spent. For example, adding 2 hits would cost 2 Edge and 10 ammo. If used on different targets, the original Score must be high enough to hit each.
 -   **Entangle** damage raises the Difficulty on all Checks instead of doing damage to Mettle. This lasts until someone removes the weapon or the target succeeds on a Move Check.
 -   **Grapple** use the weapon's Hit and DM on Grapple Attacks.
--   **Parry** adds to POISE defense vs. melee Attacks.
+-   **Parry** adds to current Mettle for upcoming Rally vs. all Attacks.
 -   **Range** is how many Zones one can shoot or throw the weapon. Beyond this one must Aim, halving their POISE defense but doubling Range. A melee weapon with no Range may be thrown 1 Zone by Aiming.
 -   **Reach** weapons make pre-emptive strikes, stealing initiative from attackers who try to hit them with non-reach melee weapons.
 -   **Scoped** weapons add that many Zones to Range at the cost of an Action.
--   **Stun** weapons inflict Strain instead of damage, ending in Incapacitation.
+-   **Stun** Incapacitate a foe if they inflict damage dropping their Mettle to zero or below but do no damage if it does not.
 -   **Wrap** weapons are flexible and ignore Parry or Block bonuses.
 
 {: .text-center}
@@ -131,8 +133,8 @@ These keep an adventurer up and running, and need to be listed as they have spec
 -   **Antibiotics:** negates upcoming Affliction damage from bacterial diseases. Resources 2.
 -   **Painkillers, over the counter:** ignore one die of penalty from negative Mettle. Resources 1.
 -   **Painkillers, prescription:** ignore two dice of penalty from negative Mettle. Resources 2.
--   **Stimulant, over the counter:** ignore a die of Fatigue drain from Concept. Includes coffee. Resources 1.
--   **Stimulant, prescription:** ignore two dice of Fatigue drain from Concept, and one die of penalty from negative Mettle. Resources 2.
+-   **Stimulant, over the counter:** lower any Fatigue Difficulty plus by one for the day. Includes coffee. Resources 1.
+-   **Stimulant, prescription:** lower any Fatigue Difficulty plus by two and ignore one die of penalty from negative Mettle for the day. Resources 2.
 
 ### Standard Kits
 
@@ -177,9 +179,9 @@ The mount uses a simplified NPC Extra Pool, showing their usual Pool + FRAME. Th
 
 Cars, airplanes, tanks, and bulldozers are great fun to destroy. If they don’t finish an adventure as burnt-out wrecks, you may be doing it wrong. Until then, they have ratings for their ease of handling, maximum speed, and FRAME. When necessary, the driver or pilot Checks their POISE vs. their current Speed.
 
--   **Handling**: how easily it turns compared to others of its class. The modifier adds to Checks to control it. If a penalty drops the current Handling pool to zero, it cannot move.
+-   **Handling**: how easily it turns compared to others of its class. The modifier adds to Checks to control it.
 -   **Speed**: how fast it can go. This affects the Move and Race Actions in slightly different ways. Current Speed acts as a Move in Zones and as a substitute POISE defense versus Attacks
--   **FRAME**: Size and weight, same as for Characters. Encumbrance is a factor for vehicles in the same way as characters, penalizing Handling.
+-   **FRAME**: Size and weight, same as for Characters. Encumbrance is a factor for vehicles in the same way as character, raising the Difficulty for Handling. If a Difficulty plus from Encumbrance exceeds its Handling, the vehicle is overloaded and stops.
 
 The terrain favored by a vehicle should be obvious from its type. Unsuitable terrain increases Difficulty or is impassible, depending.
 
@@ -189,7 +191,7 @@ Vehicles with cabins grant Total Cover and can pop out to target others with Par
 
 ### Vehicle Damage
 
-Vehicles take damage the same way characters do and get a separate Mettle score equal to the max Mettle of their current driver. Being inorganic, they do not take the Staggered or Dead Status; negative Mettle applies as a penalty to handling until repaired. If the penalty is enough to drop the driver’s Check to zero dice, it won’t move for them. For narrative purposes, any soaked damage is cosmetic, with unsoaked damage as bent frame, lost parts, etc.
+Vehicles take damage the same way characters do and get a separate Mettle score equal to the CONCEPT of their current driver. Being inorganic, they do not take the Staggered or Dead Status; negative Mettle applies as a penalty to handling until repaired. If the penalty is enough to drop the driver’s Handling Check to zero dice, it won’t move for them. For narrative purposes, any soaked damage is cosmetic, with unsoaked damage as bent frame, lost parts, etc.
 
 A driver who can Rally (Mettle 1+) applies the Rally to themselves and the vehicle, so both restore their current Mettle.
 

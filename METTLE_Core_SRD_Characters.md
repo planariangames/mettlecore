@@ -120,7 +120,7 @@ Starting characters are well above average, with room to grow. You can make more
 
 Attribute pools can improve later with experience points. Gain these by recounting memorable events from the last adventure.
 
-Circumstances or equipment may change an Attribute pool. In this case, put the modified pool in parentheses to the right. For example, "POISE 4(5)". Use the original *unaltered* pool for calculating Experience, Backstories, and Mettle.
+Circumstances or equipment may change an Attribute pool. In this case, put the adjusted pool in parentheses to the right. For example, “POISE 4(5)”. Unlike Roll or Check bonuses, Attribute adjustments are cumulative or “stack.”
 
 Unusual settings may introduce entirely new Attributes for things like cybernetics, magic, superpowers, and martial arts.
 
@@ -253,52 +253,55 @@ Pulp heroes may or may not have special, iconic, tell-tale gear like a domino ma
 
 Most of the time, Players should be able to avoid tracking how heavy their gear is just by not going overboard with it. On the other hand, one can only carry so much, especially when lugging loads of lovely loot from a lucrative locale. How much they or their vehicles can handle depends on their FRAME.
 
-FRAME determines the Load Step: how much weight they can carry without trouble. Every time they exceed this, they take a penalty to POISE-linked Actions like Move and Travel. As usual, if a more fitting CONCEPT replaces POISE, the penalty applies to it instead. If the penalty drops their pool to zero dice, they are Incapacitated. Vehicles are affected the same way, as Handling Checks depend on POISE.
-For example, an average guy with a FRAME of 3 (Load Step 18) hauling a 20 kg monkey idol out of a museum takes a -1D penalty. Their athletic buddy with a FRAME of 4 (Load Step 25) would be just able to shoulder it with less trouble.
+FRAME determines the Load Step: how much weight they can carry without trouble. Every time they exceed this, they raise the Difficulty of physical actions. If the Difficulty plus is higher than POISE they are Incapacitated. Vehicles are affected the same way.
+
+For example, an average guy with a FRAME of 3 (Load Step 18) hauling a 20kg mini fridge out of an abandoned department store suffers +1 Difficulty. Their athletic buddy with a FRAME of 4 (Load Step 25) can shoulder it with less trouble.
+
 The table below gives the Load step and Shift (max lifted off ground, dragged or pulled) for most common FRAMES.  Load steps are given in kilograms (kg), due to the international nature of pulp adventure.
+ given in kilograms (kg), due to the international nature of pulp adventure.
 
 <center>
 <strong>ENCUMBRANCE</strong>
 </center>
 
 {: .lh-0}
-| Frame | Load Step | Shift |
+| **Frame** | **Load Step** | **Shift** |
 | --------- | ------------- | --------- |
-| 1         | 20            | 145       |
-| 2         | 30            | 230       |
-| 3         | 40            | 300       |
-| 4         | 55            | 420       |
-| 5         | 75            | 575       |
-| 6         | 100           | 790       |
-| 7         | 140           | 1085      |
-| 8         | 190           | 1500      |
-| 9         | 260           | 2065      |
-| 10        | 360           | 2845      |
+| 1         | 9             | 66        |
+| 2         | 14            | 104       |
+| 3         | 18            | 136       |
+| 4         | 25            | 191       |
+| 5         | 34            | 261       |
+| 6         | 45            | 358       |
+| 7         | 64            | 492       |
+| 8         | 86            | 680       |
+| 9         | 118           | 937       |
+| 10        | 163           | 1290      |
 
 Do not bother counting most items less than a kilogram or so. The character sheet assumes you will be listing items that are not weapons or armor on the back of the sheet, tally that weight in the Back Gear box in the Resources section.
 Overloaded characters may drop bulky gear such as backpacks to avoid encumbrance or distract pursuers. These can be dropped freely but picking them back up costs an Action (Move).
 
 {: .highlight }
 >- Carry weight up to Load step without trouble.
->-	-1D to POISE-related Checks for each time weight exceeds Load step
->- Incapacitated if penalty drops a Check to zero dice.
+>- +1 physical Difficulty each time weight exceeds Load step
+>- u	Incapacitated if Difficulty plus exceeds POISE.
 
 ---
 
 ## Step 6: Mettle
 
-Distance from doom. This is a mixture of stamina, willpower, and morale, normally equal to the character’s CONCEPT. Damage to Mettle is considered only “flesh wounds,” exhaustion, or vulnerability until it drops to zero or lower, implying far more troubling injuries.
+Distance from doom. This is a mixture of stamina, willpower, and morale, normally equal to the character’s CONCEPT. Armor adds a bonus to Mettle by deflecting or absorbing blows. Damage to Mettle is considered only “flesh wounds,” exhaustion, or vulnerability until it drops to zero or lower, implying far more troubling injuries.
 
 While above zero, Mettle refills upon starting a new Scene. Rallies can restore it even in the heat of battle by doubling current Mettle – up to the maximum of course.
 
 {: .highlight }
->- Mettle = CONCEPT
+>- Mettle = CONCEPT + Armor
 
 ### Taking Damage
 
-Characters may suffer ***Damage*** from hazards or attacks they face. If their wits fail them, they must rely on their Soak to reduce incoming damage. Soak is usually equal to FRAME plus Armor. Any damage left after Soak lowers current Mettle. If Mettle falls to zero or below, the target is either **Staggered** or **Fallen**:
+Characters may suffer ***Damage*** from hazards or attacks they face. If their wits fail them, they must rely on their Soak to reduce incoming damage. Soak is usually equal to FRAME. Any damage left after Soak lowers current Mettle. If Mettle falls to zero or below, the target is either **Staggered** or **Fallen**:
 
-- *Staggered*: characters suffer real physical trauma when Mettle drops to zero or below. They take a penalty to all Checks equal to any negative Mettle and can no longer Rally or Surge.
+- *Staggered*: characters suffer real physical trauma when Mettle drops to zero or below. They also take a ***Stagger*** die penalty to all Checks equal to any negative Mettle and can no longer Rally or Surge.
 
 - *Fallen*: upon taking damage to zero or below, a player can declare their character Fallen instead of Staggered. They cannot take Actions and have 0 POISE but halve their negative Mettle.
 

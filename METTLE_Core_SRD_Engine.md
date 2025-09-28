@@ -100,13 +100,13 @@ passive Difficulty.
 
 ### Check Modifiers
 
-A Character may have Bonuses or penalties (+D or -D) to their pools. For example, +2D means add two dice and -2D means subtract two. Bonuses stem from advantages like equipment or good ideas, while penalties come from disadvantages like injury or encumbrance. Do not stack modifiers, only count the largest bonus and/or penalty.
+A character may have Bonuses to a Check stemming from good equipment or clever ideas. These add dice to the base pool made from the relevant Attribute. For example, “+2D” means add two dice. Die penalties only come from falling into negative Mettle. Do not stack multiple bonuses, only count the largest.
 
-Modifiers can also apply to the Difficulty of a Check. Raising or lowering Difficulty (+/- Difficulty) usually reflects the situation instead of the character. For example, rain-slicked streets may raise the Difficulty of a foot chase, and a shield adds to POISE Difficulty versus attacks.
+The Difficulty of a Check reflects the situation, and you can raise or lower these as needed. For example, “+1 Difficulty” or “-2 Difficulty. If multiple modifiers apply to the Difficulty, only count the largest bonus and largest (-) penalty.
 
 {: .highlight }
->- Bonuses and penalties add or subtract dice from Checks.
->- Difficulty or Defense Modifiers change Difficulty of the task.
+>- Bonuses add dice to Checks, penalties subtract.
+>- Difficulty of the task may raise or lower.
 
 ### Twists
 

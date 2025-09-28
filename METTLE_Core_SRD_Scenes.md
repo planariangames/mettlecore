@@ -121,6 +121,7 @@ Twists can be a little loosey-goosey during most Scenes, but Players tend to dem
 | **Alienate ally**      | Careless words or deeds under high stress. Lose the aid of an NPC ally or play up a conflict between PCs.                                                        |
 | **Broken**             | Weapon or item breaks. Simple melee weapons like a broken sword may still do half damage, complex items become useless unless fixed later.                       |
 | **Butter fingers**     | A weapon or item related to the Action slips from your grasp or is disarmed. Requires a Use or Move Action to retrieve, lest fate or foes find it first.         |
+| **Clash** |	A trade of blows instead of a clean hit or miss. Target does their raw damage with a wielded weapon either way. Not an option if they cannot harm the attacker. |
 | **Delay**              | The default Twist of losing next Action. Describe as a stumble, pulling a weapon out of a foe or object, being justifiably awed by the horrors of violence, etc. |
 | **Guarded**      | A bodyguard or other willing ally in the target’s Zone takes the hit for them. Apply the new result to the new target instead.                                         |
 | **Jammed**             | A firearm or other complex item bungs up. Make a Use Action on Motive or relevant Concept vs. Difficulty 1d6 to get it working again.                            |
@@ -134,7 +135,7 @@ Keep in mind that these detailed options are not the only ones you can take. The
 
 ### Heal
 
-This is for life-or-death trauma well beyond bruises and stitches. As such, it works only on those who have dropped into negative Mettle. Heal is a Check of the character’s MOTIVE vs. their negative Mettle, counting the negative as a positive for Difficulty’s sake. Success means they are stable for the time being. Any Edge heals Mettle over the course of a day’s rest. Failure means the character dies.
+This is for life-or-death trauma well beyond bruises and stitches. As such, it works only on those who have dropped into negative Mettle. Heal is a Check of the character’s MOTIVE vs. their negative Mettle or ***Stagger***, counting the negative as a positive for Difficulty’s sake. Success means they are stable for the time being. Any Edge heals Mettle over the course of a day’s rest. Failure means the character dies.
 
 **Check:** CONCEPT vs. current Mettle.
 
@@ -143,9 +144,9 @@ This is for life-or-death trauma well beyond bruises and stitches. As such, it w
 > -   **Success:** the patient is alive and somewhat stable.
 > -   **Edge:** each point restores a point of Mettle after a day's rest.
 > -   **Failure:** patient succumbs to their wounds or died before the aid.
-> -   **Twists:** *Delay, patient disfigured, waste gear or surgical tools, arrogant healer aggravates everyone, etc.*
+> -   **Twists:** *Delay, patient disfigured, lost part, wasted gear or surgical tools, arrogant healer aggravates everyone, etc.*
 
-Staggered (and even Fallen) characters can take this Action and heal on their own – if they can get past their negative Mettle penalty.
+Staggered (and even Fallen) characters can take this Action and recover on their own, though the Fallen cannot use medical tools or kits for their bonus.  Penalties for negative Mettle do not count for Heal Checks as they already form the Difficulty. Status effects and situation can still raise or lower Difficulty.
 
 If a PC is too debilitated, the best thing to do is to play another character until they are back on their feet. The Guide can just handwave that they are OK by the next campaign.
 
@@ -203,7 +204,7 @@ High stakes race or chase scenes often benefit from some structure. After dealin
 A Race expands Zones into much longer stretches of track, each about half mile long and lasting a minute or so. All racers make their checks and compare Edge for the lead. Lead mostly matters in the final stretch, until then Edge can be spent on the Stunts below. These are decided after everyone makes their Check and do not require Initiative. Mixing and matching Edge on different Stunts is allowed:
 
 - **Muscle**: aggressive maneuvering hinders another driver’s Stunts. Spent Edge reduces the Edge of another driver in the same stretch. This can be done at any time to cancel someone else’s Edge Stunt on a one for one basis.
-- **Splatter**: skid up mud or dirt onto the target vehicle with the same lead or lower. Edge inflicts +1 Difficulty due to low Visibility (max +3) for everyone on the vehicle until each of them cleans it off with an Action.
+- **Splatter**: skid up mud or dirt onto the target vehicle with the same lead or lower. Edge inflicts +1 Difficulty due to low Visibility (max +4) for everyone on the vehicle until each of them cleans it off with an Action.
 - **Steady**: races are so intense the driver and passengers cannot normally act. Each Edge spent smooths out the ride so the driver or a chosen passenger may take their Action during the Stretch.
 - **Swerve**: juking or angling, Edge inflicts +1 Difficulty to Attacks made on the vehicle until the next Stretch.
 
@@ -211,9 +212,13 @@ The Steady Stunt above allows an Initiative Round of combat within the current s
 
 ### Rally
 
-The character shakes off the pain, stands on their hind legs like a man, and puts their guard back up. A Rally simply doubles current Mettle, not exceeding the maximum of course. Current Mettle must be higher than zero (1+) to Rally.
+The character shakes off the pain, stands on their hind legs like a man, and puts their guard back up. A Rally simply doubles current Mettle, not exceeding the maximum of course. Current Mettle must be higher than zero (1+) to Rally. Rallies are aided by parrying weapons and shields, but only under certain circumstances.
+
+- **Block** adds to current Mettle for upcoming Rally vs. all Attacks, meaning they may even Rally while Staggered if this bonus brings their current Mettle to 1 or above. To qualify, the Rally must be their next Action after the hit.
+- **Parry** adds to current Mettle for upcoming Rally vs. melee Attacks, meaning they may even Rally while Staggered if this bonus brings their current Mettle to 1 or above. To qualify, the Rally must be their next Action after the hit by a melee weapon.
 
 Because of the doubling, a Rally is most effective at half Mettle, and less worthwhile when higher or lower. When to Rally is an important tactical choice, made easier if one has strong allies or cover to give some breathing space during combat.
+
 
 ### Rattle
 
@@ -322,23 +327,11 @@ hazardous features to spice up a Scene.
 
 Active foes and enemies are not the only dangers to face. This section holds all sorts of hazardous features to spice up a Scene.
 
-### Abnormal Status
-
-Other status effects exist to vex characters aside from the usual Staggered and Fallen conditions. Most are awful but temporary, lasting until their source is removed or addressed. Record them on the upper right-hand corner of the character sheet in the “Other Status” box until then.
-
--   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Other Checks less reliant on sight are at +3 Difficulty. Others may use Sneak against them as if they have Cover.
--   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. A Sign language or lip-reading CONCEPT may make up for this. Others may use Sneak against them as if they have Cover.
--   **Encumbered**: Every carrying more gear weight than their carry step allows. Take a -1D POISE Check penalty each time Load Step is exceeded. If the penalty equals their POISE, they are Incapacitated.
--   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
--   **Rattled**: dismayed by a Rattle or other trauma. Prevents Rallies and Surges on their next Action, or more with Edge.
--   **Strained**: suffering from afflictions or deprivations such as poison, disease, thirst, fatigue, hunger, and suffocation. These apply a minimum Difficulty on Checks until relieved. When Strain exceeds Mettle, the outcome is usually death. Strain can have many sources, but these do not stack. Apply only the highest one.
--   **Surprised**: caught unawares, you do not get an Action for the first Scene when Initiative starts. Next Scene, you are no longer Surprised, and this effect ends.
-
 ### Affliction
 
-Adventurers must beware of venomous snakes, blowgun darts, the miasma of the tomb, and a “mickey” slipped in their drink! These impart dreadful urgency to any scene. If exposed to an Affliction, the Guide Rolls its Potence and subtracts the target’s soaking Attribute, typically FRAME for poisons and POISE for diseases. Anything left becomes Strain. Keep rolling each interval for as long as the new Roll is higher than the last. If Strain exceeds the target’s Mettle, they are dead. Less lethal agents like tranquilizers or chronic illnesses inflict the Incapacitated status instead, only resulting in death beyond twice the victim’s Mettle.
+Adventurers must beware of venomous snakes, blowgun darts, the miasma of the tomb, and a “mickey” slipped in their drink! These impart dreadful urgency to any scene. If exposed to an Affliction, the Guide Rolls its Potence and Soaks with FRAME for poisons and POISE for diseases. If there is anything left, they take the Afflicted Status and raise Difficulty by that amount. Keep rolling each interval for as long as the new Roll is higher than the last. If the Difficulty plus exceeds the target’s CONCEPT, they are dead. Less lethal agents like tranquilizers or chronic illnesses inflict the Incapacitated status instead, only resulting in death beyond twice the victim’s CONCEPT.
 
-A result equal to or lower than the prior Roll means the affliction has weakened, so do not Roll the next interval. The Strain remains until they rise the next day or so. A Know Check may suggest a Treatment, which stops the Rolls and clears the Strain effects.
+A result equal to or lower than the prior Roll means the affliction has weakened, so do not Roll the next interval. The Difficulty plus remains until they rise the next day or so. A Know Check may suggest a Treatment, which stops the Rolls and clears the Strain effects.
 
 <center>
 <strong>SAMPLE AFFLICTIONS</strong>
@@ -357,9 +350,9 @@ A result equal to or lower than the prior Roll means the affliction has weakened
 For poisons, the dosage can be adjusted for the victim’s FRAME size. For example, the Potence for a tranquilizer dart must be at least 1d6+6 (7-12) to even slightly affect an 11 FRAME elephant.
 
 {: .highlight }
->-	Potence Roll causes Strain unless Soaked.
+>-	Potence Roll causes +Difficulty unless Soaked.
 >- 	Continue Potence Rolls until one is lower than the last.
->- 	Treatment stops Rolls and clears Strain.
+>- 	Treatment stops Rolls and clears +Difficulty.
 
 ### Cover
 
@@ -370,7 +363,7 @@ Combatants can freely use nearby obstacles to protect themselves from attacks, r
 
 Combatants may switch between these at the start of their Action. Popping out of Total Cover to attack a foe is common, but it only counts as Partial until their next Action.
 
-Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only +1 against gunshots, etc. If Cover is easily penetrated by an attack, it can only ever count as Partial. Use your judgment as always.
+Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only partial against gunshots, etc. If Cover is easily penetrated by an attack, it can only ever count as Partial. Use your judgment as always.
 
 {: .highlight }
 >- **Partial Cover:** half damage from incoming Attacks.
@@ -378,11 +371,9 @@ Whether one has Cover depends on where the attack is coming from. For example, a
 
 ### Deprivation
 
-Amid fantastic perils, it is still possible to suffer from basic thirst, hunger, fatigue, and suffocation. An adventurer needs one serving of rations, a canteen (liter or so) of water each day, roughly six hours of rest, and ample air. Lacking these can have real effects, and when Strain exceeds Mettle, the character has died of them:
+Amid fantastic perils, it is still possible to suffer from basic thirst, hunger, fatigue, and suffocation. An adventurer needs one serving of rations, a canteen (liter or so) of water each day, roughly six hours of rest, and ample air. Lacking these can have real effects, and when Strain exceeds CONCEPT, the character has died of them:
 
--   **Hunger:** every day without food inflicts 1 Strain. A hungry character may alienate others due to irritability as a Twist. Hungry characters can stretch the days between Strain by finding scraps of food or being less active. Rolling 0-1 (1d6 ÷ 3 + 1) is also fair.
--   **Thirst:** each day without water inflicts 3 Strain. A Thirsty character may faint as a Twist. Rolling 1-3 (1d6 ÷ 2) is also fair.
--   **Fatigue:** each day without rest lowers inflicts 2 Strain. A Tired character may hallucinate or even fall asleep as a Twist. Only fatal if the character is prevented from falling asleep entirely, otherwise they pass out when Strain equals Mettle. Rolling 1-2 (1d6 ÷ 2) is also fair.
+
 -   **Suffocation:** each Round without air inflicts 1 Strain. This is a rapid effect and rarely lasts long enough to bother writing down as a Status.
 
 The days or rounds given are based on a very active adventure. A party taking things easy or scrounging here and there can last longer, but this is up to the Guide’s discretion.
@@ -391,15 +382,15 @@ Strain caused by Deprivation is recovered by meeting the missing need and takes 
 
 {: .highlight }
 >- **Hunger:** 1 Strain per day, restored by food.
->- **Thirst:** 3 Strain per day, restored by water.
->- **Fatigue:** 2 Strain per day, restored by sleep.
+>- **Thirst:** 2 Strain per day, restored by water.
+>- **Fatigue:** 1 Strain per day, restored by sleep.
 >- **Suffocation:** 1 Strain per Round, restored by air.
 
 ### Falls
 
 Damage depends on how far the character fell. This is 1d6, plus 1 for every 3 meters (~10 feet) or so.  Fall damage Soaks with POISE instead of FRAME. For example, a short fall like tumbling into a trench does 1d6, a second-story window or tree does 1d6+2, a tall tree or several floors of a building may do 1d6+4, etc. Nearing terminal velocity limits damage to 1d6+20, such as skydiving without a parachute.
 
-Hard ground like concrete or rubble may inflict +1, spikes or traps Roll separate damage (1d6+, soaked by FRAME and Armor), water may be -2, jumping purposefully instead of falling grants -2, etc.
+Hard ground like concrete or rubble may inflict +1, spikes or traps +2, water may be -2, jumping instead of falling grants -2, etc.
 
 The truly daring may ***Plummet*** onto an enemy below, applying their falling damage bonus above to damage, up to a maximum of +2 The bold diver still suffers their own falling damage, unless their victim is incredibly soft. This is also a good rule of thumb for damage when dropping a weighty item on someone below.
 
@@ -417,6 +408,20 @@ Extinguishing a fire requires a Use Action and some way to put it out, such as w
 
 {: .highlight }
 >- **Fire:** 1d6 or more damage, soaked by FRAME.
+
+### Status
+
+Other status effects exist to vex characters aside from the usual Staggered and Fallen conditions. Most are awful but temporary, lasting until their source is removed or addressed. Record them on the upper right-hand corner of the character sheet in the “Other Status” box until then.
+- **Afflicted**: suffering from poison or disease, an ongoing effect. Keep rolling its Potence each interval for as long as the new Roll is higher than the last. If the Difficulty plus exceeds the target’s CONCEPT, they are dead.
+-   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Checks less reliant on sight are at +4 Difficulty. Others may use Sneak against them as if they have Cover.
+-   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. Sign language or lip-reading may make up for this. Others may use Sneak against them as if they have cover.
+-   **Encumbered**: Carrying more gear weight than their carry step allows. Take a general +1 Difficulty to physical tasks each time Load Step is exceeded. If the Difficulty increase exceeds their POISE, they are Incapacitated.
+-   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
+-   **Rattled**: dismayed by a Rattle or other trauma. Prevents Rallies and Surges on their next Action, or more with Edge.
+-   **Surprised**: caught unawares, you do not get an Action for the first Round of Initiative. Next Scene, you are no longer Surprised, and this effect ends.
+-   **Hungry:** each day without food inflicts +1 Difficulty to all tasks. When the Difficulty plus exceeds their CONCEPT, they have starved to death. A hungry character may alienate others due to irritability as a Twist.
+-   **Thirsty:** each day without water inflicts +2 Difficulty to all tasks. When the Difficulty plus exceeds their CONCEPT, they have died of thirst. A Thirsty character may faint as a Twist.
+-   **Fatigued:** each day without rest lowers inflicts +1 Difficulty to all tasks. A Tired character may hallucinate or even fall asleep as a Twist. When the Difficulty plus exceeds their MOTIVE, they fall asleep. If prevented from falling asleep, they die when the Difficulty plus exceeds their CONCEPT.
 
 ### Traps
 
@@ -445,7 +450,7 @@ An obvious “trap” such as an open pit or lava pool is more of a Hazard the p
 
 ### Visibility
 
-Many actions dependent on vision are hindered by darkness, underbrush, or smoke. In general, dim light inflicts a +1 Difficulty, regular darkness +2, and total darkness +3. Equipment such as torches or night vision goggles can reduce these, unless dealing with smoke. Sudden flashes of bright light can also create obscurement.
+Many actions dependent on vision are hindered by darkness, underbrush, or smoke. In general, dim light inflicts a +1 Difficulty, regular darkness +2, and total darkness +4. Equipment such as torches or night vision goggles can reduce these, unless dealing with smoke. Sudden flashes of bright light can also create obscurement.
 
 {: .highlight }
->- Darkness or smoke adds +1 to +3 Difficulty.
+>- Darkness or smoke adds +1 to +4 Difficulty.
