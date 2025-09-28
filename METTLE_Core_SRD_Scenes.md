@@ -354,6 +354,14 @@ For poisons, the dosage can be adjusted for the victim’s FRAME size. For examp
 >- 	Continue Potence Rolls until one is lower than the last.
 >- 	Treatment stops Rolls and clears +Difficulty.
 
+### Breath
+Running out of breath due to being underwater or subject to noxious gases is a rare threat but a great source of tension. Assuming strenuous activity like combat or swimming, a character can hold their breath for 1d6 + POISE (6-second) rounds. After this, they are Incapacitated for another 1d6 + POISE rounds, then Dead. A Heal Check versus the number of minutes Dead can revive them.
+If they have time to prepare, double the effective Poise. For more relaxed breath holds, double or triple the amount of time.
+
+{: .highlight }
+>-	Hold breath for 1d6 + POISE rounds before Incapacitation.
+
+
 ### Cover
 
 Combatants can freely use nearby obstacles to protect themselves from attacks, referred to as taking **Cover**. This must be called at the start of their Action, and the Cover must be in their current Zone. There are two ways to use Cover: Partial and Total.
@@ -368,23 +376,6 @@ Whether one has Cover depends on where the attack is coming from. For example, a
 {: .highlight }
 >- **Partial Cover:** half damage from incoming Attacks.
 >- **Total Cover**: cannot target or be targeted.
-
-### Deprivation
-
-Amid fantastic perils, it is still possible to suffer from basic thirst, hunger, fatigue, and suffocation. An adventurer needs one serving of rations, a canteen (liter or so) of water each day, roughly six hours of rest, and ample air. Lacking these can have real effects, and when Strain exceeds CONCEPT, the character has died of them:
-
-
--   **Suffocation:** each Round without air inflicts 1 Strain. This is a rapid effect and rarely lasts long enough to bother writing down as a Status.
-
-The days or rounds given are based on a very active adventure. A party taking things easy or scrounging here and there can last longer, but this is up to the Guide’s discretion.
-
-Strain caused by Deprivation is recovered by meeting the missing need and takes the same time to recover. For example, a drowning character relieves the suffocation Strain by one for each Round once they have access to air again.
-
-{: .highlight }
->- **Hunger:** 1 Strain per day, restored by food.
->- **Thirst:** 2 Strain per day, restored by water.
->- **Fatigue:** 1 Strain per day, restored by sleep.
->- **Suffocation:** 1 Strain per Round, restored by air.
 
 ### Falls
 
