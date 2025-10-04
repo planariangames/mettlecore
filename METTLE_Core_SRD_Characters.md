@@ -307,8 +307,8 @@ Characters may suffer ***Damage*** from hazards or attacks they face. If their 
 
 {: .highlight }
 >- Damage exceeding Soak reduces Mettle temporarily.
->- Staggered: zero to -MOTIVE. No Rally, negative Mettle is penalty.
->- Fallen: below negative MOTIVE; lose Action and POISE is zero.
+>- Staggered: zero or below. No Rally, negative Mettle is penalty.
+>- Fallen: lose Action and POISE is zero, but halve negative Mettle.
 
 ### Surges
 
