@@ -6,17 +6,24 @@ title: About
 
 <center><img src="images/ItchCover.png" title="METTLE Core cover"/></center>
 
-***METTLE Core*** is a set of powerful and adaptable rules to help you run your own modern action-adventure-themed Role-Playing Game (RPG). This is a social game where you and a group of friends pretend your way through a collaborative story. One person gets to play as the ***Guide***, who runs the game world, comes up with fun scenarios, does the bulk of narration, settles arguments, and plays Non-Player Characters (**NPCs**). The rest get to be ***Players***, who explore the setting as their ***Characters*** like actors playing a role. The dice and rules serve to add risk, settle arguments, and inspire new events.
+***METTLE Core*** is a set of powerful and adaptable rules to help you run your own modern action-adventure-themed Role-Playing Game (RPG). This is a social game where you and a group of friends pretend your way through a collaborative story. One person gets to play as the ***Guide***, who comes up with fun scenarios, settles arguments, and plays Non-Player Characters (**NPCs**). The rest get to be ***Players***, who explore the setting as their ***Characters*** like actors playing a role. The dice and rules serve to add risk, settle arguments, and inspire new events.
 
 You can find METTLE Core at [**DriveThruRPG**](https://www.drivethrurpg.com/product/374145/METTLE-Core?affiliate_id=490690) and
 [**Itch.io**](https://planarian.itch.io/mettle-core).
 
-This Core game favors street-level tales of bravery, mystery, and intrigue. It is ideal for detective stories, crime dramas, B-movie mayhem, daring rescues, tense exploration, gritty post-apocalyptic survival, wild-west gunfights, Nazi-clobbering, low fantasy, and grounded science fiction. This focus on so-called "mundane" heroics caters to an often-overlooked style of play and lays down a solid framework for the underlying game system. Upcoming games may indulge settings that rely on magic, superpowers, or miracles of science.
+This Core game favors street-level tales of bravery, mystery, and intrigue. It is ideal for detective stories, crime dramas, B-movie mayhem, daring rescues, tense exploration, gritty post-apocalyptic survival, wild-west gunfights, Nazi-clobbering, low fantasy, and grounded science fiction. This focus on so-called "mundane" heroics caters to an often-overlooked style of play and lays down a solid framework for the underlying game system.
 
 To ask questions, provide feedback, or just talk about what you are doing with
-METTLE Core, check out our [**Bluesky**](https://bsky.app/profile/jakeeldritch.bsky.social),
+METTLE Core, check out:
+
+[**Bluesky**](https://bsky.app/profile/jakeeldritch.bsky.social),
 [**Discord**](https://discord.gg/Rmv3PBN), or
-[**Facebook**](https://www.facebook.com/PlanarianGames/) sites.
+[**Facebook**](https://www.facebook.com/PlanarianGames/)
+
+## Dice
+METTLE Core relies on a handful of ordinary six-sided dice, their special use detailed in the Engine chapter. However, tables and such still use a regular read of the die faces. For example, “1d6”, “2d6”, etc. means roll that many six-sided dice (d6) and add them up.
+
+Some tables use a D66 roll. To do this, roll 1d6 and then another 1d6, keeping them in the order rolled. For example, if the roll is a 3 and a 2, the result is 32.
 
 ## Features
 

@@ -15,31 +15,18 @@ title: Engine
 
 ---
 
-## Rolls
-
-Call for a **Roll** when you need a random number and are not worried about success or failure. This is useful for encounter tables, enemy numbers, damage from hazards, falls, traps, etc. To do this, roll the dice and add up the numbers on the faces. The “d” in a Roll is always lowercase. For example, a “3d6” roll results in a number from 3-18.
-
-While uncommon, you may see fractional rolls for narrower ranges, such as 1-2 (1d6 ÷ 3 or flip a coin) or 1-3 (1d6 ÷ 2). Sometimes you halve or double the result of a Roll. If halved, the general halving rule in this game is to round up. To keep things simple, avoid the use of fractions beyond this.
-
-### Roll Modifiers
-
-***Bonuses*** (+) or ***Penalties*** (-) may apply to a Roll, such as “2d6+4” giving a result from 6 to 16, or “2d6-4” for a result from 0 to +8. The result of a roll never drops below zero. As a general rule, do not stack bonuses or penalties from multiple sources, only apply the highest bonus and penalty from the situation.
-
-1.  Roll the required dice.
-2.  Add up the die face results.
-3.  Apply any bonuses or penalties.
-
----
-
 ## Checks
 
-A ***Check*** is when you are “checking” to see if an action succeeds or fails by rolling a pool of dice. These are central to working with the METTLE engine, so just learning these lets you easily handle the rest of the system. A Check may also yield unexpected benefits or drawbacks, making it a useful prompt for interesting scenes.
+***Check*** to see if an action succeeds or fails by rolling a pool of dice. This method is the key to the rest of the METTLE engine.
 
 ### Success & Failure
 
-To make a Check, declare what your character is doing, then roll dice equal to the Attribute they are doing it with. For Attributes, use CONCEPT if it fits the task, otherwise default to MOTIVE for mental, NATURE for social, or POISE for athletics. Add up the face numbers of all the dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling [4, 1, 3, 5, 2, 2] yields a Score of 8 (from 1 + 3 + 2 + 2) and 2 Edge (from 4 & 5). Score determines if you succeed, while Edge reflects the quality of success.
+To make a Check, declare what the character is doing, then roll dice equal to the Attribute they are doing it with. For Attributes, use CALLING if it fits the task, otherwise default to MOTIVE for mental, NATURE for social, or POISE for athletics.
 
-Your Check succeeds if the Score equals or exceeds (≥) the **Difficulty** of the task. This can be an arbitrary number set by the Guide or a target’s defensive Attribute. Most Checks do not count excess Score, so once you reach the Difficulty you can stop adding it up.
+Add the face numbers of dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling [4, 1, 3, 5, 2, 2] yields a Score of 8 (1 + 3 + 2 + 2) and 2 Edge (4 & 5). Score determines if they succeed, while Edge reveals how well.
+
+ A Check succeeds if the Score equals or exceeds (≥) the ***Difficulty*** of the task. This is a number set by the Guide or a target’s defensive (“passive”) Attribute. Most Checks do not count excess Score, so there is no need to keep adding beyond that. Zero Difficulty is an automatic success, so skip straight to counting Edge in that case.
+
 
 {: .text-center }
 **READING the DICE**
@@ -61,7 +48,7 @@ Your Check succeeds if the Score equals or exceeds (≥) the **Difficulty** of t
 | 10 | Formidable |
 | 15 | Nigh Impossible |
 
-The more Edge you get and still succeed, the better. A higher Edge may mean they did it faster, made it harder to undo, yielded more info, improved quality, added special effects, etc. Even if you fail, having Edge lets you propose a Twist to get a second chance.
+The more Edge on a success, the better it was. A higher Edge may mean they did it faster, made it harder to undo, yielded more info, improved quality, added special effects, etc. Even on a failure, having Edge lets you propose a Twist to get a second chance.
 
 <center>
 <strong>EDGE</strong>
@@ -77,9 +64,9 @@ The more Edge you get and still succeed, the better. A higher Edge may mean they
 | 4 | Amazing |
 | 5+ | Legendary |
 
-It is best for the Guide to assume competence and only call for a Check when the outcome is interesting or uncertain. For their part, Players should brazenly presume success and only stop for a Check if the Guide demands it.
+The Guide should assume competence and only call for a Check when the outcome is interesting or uncertain. Players should brazenly presume success and only Check if the Guide demands it.
 
-One may often just assume success if their Pool is higher than the Difficulty. On the other hand, you might notice it is impossible to beat a Difficulty three times your pool or higher. Try something else!
+Players may also just assume success if a Pool is higher than the Difficulty. On the other hand, it is impossible to beat a Difficulty higher than three times the Pool. Try something else!
 
 {: .highlight }
 >-	Roll a number of dice equal to the Attribute being used.
@@ -88,9 +75,8 @@ One may often just assume success if their Pool is higher than the Difficulty. O
 >-	Check succeeds if the Score is at or above Difficulty.
 >-	Edge is the quality of success or potential for a Twist on failure.
 
-
 {: .note }
-blanking out the 4-6 faces with crayon, tape, marker, paint, etc. can make Checks much easier!
+don’t be afraid to modify your dice with tape, paint, or washable markers to make Checks easier. The easiest method for most groups is to use dark dice with light pips or numbers, then fill in the 4-6 faces with a dark marker.
 
 {: .note }
 The average Score of a single die is 1, making it easy to
@@ -100,9 +86,9 @@ passive Difficulty.
 
 ### Check Modifiers
 
-A character may have Bonuses to a Check stemming from good equipment or clever ideas. These add dice to the base pool made from the relevant Attribute. For example, “+2D” means add two dice. Die penalties only come from falling into negative Mettle. Do not stack multiple bonuses, only count the largest.
+A character may have Bonuses to a Check stemming from good equipment or clever ideas. These add dice to the base pool from the relevant Attribute. For example, “+2D” means add two dice. Die penalties only come from falling into negative Mettle.
 
-The Difficulty of a Check reflects the situation, and you can raise or lower these as needed. For example, “+1 Difficulty” or “-2 Difficulty. If multiple modifiers apply to the Difficulty, only count the largest bonus and largest (-) penalty.
+The Difficulty of a Check reflects the situation; raise or lower these as needed. For example, “+1 Difficulty” or “-2 Difficulty. This is a tool used by the Guide to set the challenge for players.
 
 {: .highlight }
 >- Bonuses add dice to Checks, penalties subtract.
@@ -110,19 +96,20 @@ The Difficulty of a Check reflects the situation, and you can raise or lower the
 
 ### Twists
 
-These give a chance to turn a failure into a messy success. If you fail a Check but have Edge, you may call upon the table for a Twist. After the Guide or another Player proposes a suitable Twist, re-roll all Edge dice. Tally up the new Score and Edge. For example, a player Checks 5 dice against a Difficulty of 3. They come up [1, 4, 4, 5, 6]: Failure! They call for a Twist, keeping their Score of 1 and re-rolling the four Edge dice. They get [1, 3, 5, 5] and combine it with their old Score of 1 for [1, 1, 3, 5, 5]. The result is a Score of 5 and an Edge of 2 – success!
+These give a chance to turn a failure into a messy success. A player who fails a Check but has Edge may call upon the table for a ***Twist***. The Guide or other Players then come up with a good complication, and the Guide chooses the best one. The player may then re-roll all Edge dice, tallying up the new Score and Edge.
 
- The default Twist is ***Delay,*** meaning you lose your next Action dealing with a complication from the current one. For example, a weapon gets stuck, travelers get lost, a gun jams, a runner stumbles, shaken by the horrors of war, etc. Delay is the default because the effect is simple, aversive, and explanations are easy to come up with.
+For example, a player Checks 5D against Difficulty 3. They come up [1, 4, 4, 5, 6]: Failure! They call for a Twist and accept it. Keeping their Score die of 1 and re-rolling the four Edge dice, they get [1, 3, 5, 5] and combine it with their old Score of 1 for [1, 1, 3, 5, 5]. The adjusted result is a Score of 5 and an Edge of 2 – success!
 
 Other types of Twists are *immediate setbacks* that apply *regardless of success or failure* and *derive from the fiction*. For example, losing a weapon, breaking gear, harming a relationship, inflicting collateral damage, blurting out something incriminating, etc. These should be directly connected to the action triggering the twist – not unrelated coincidences, however unfortunate.
 
-The Guide and *other* Players come up with the creative Twist, not the Player making the Check. If the acting Player (or the Guide!) does not like it, they can always fall back to Delay. This is a safety valve to settle the matter so play can continue. The Player can also just call off the Twist entirely and accept failure as the gift it is.
+The Guide and other Players come up with the Twist, not the Player making the Check. ***If the acting Player or the Guide does not like it, either can just call off the Twist and accept failure as the gift it is.***
+
+Guides can also call for Twists for their NPCs. They benefit from player ideas but still hold all the power over what to accept.
 
 {: .highlight }
->- On a failure, you may call for a Twist if you have Edge.
+>- On a failure with Edge, Players or Guides may call for a Twist.
 >- Ask the table for a suitable complication then reroll Edge dice.
 >- Use the new, partially rerolled result but suffer the Twist.
-
 
 <center>
 <strong>TWIST SEEDS</strong>
@@ -148,8 +135,7 @@ graph TD
 	Twist == Yes ==> Table{{Table Twist Acceptable?}}
 	Twist == No ==> Fail
 		Table == Yes ==> Reroll[Reroll Edge]
-		Table == No ==> Delay[Default to Delay Twist]
-	Delay ==> Reroll
+		Table == No ==> Fail
 {% endraw %}
 ```
 
@@ -171,8 +157,8 @@ graph TD
 	Risky == Yes ==> Check
 	Risky == No ==> Success
 	Success ==> Narrate[Guide describes outcome]
-	Check ==> Concept{{Fits CONCEPT?}}
-	Concept == Yes ==> Pool[Pool = CONCEPT]
+	Check ==> Concept{{Fits CALLING?}}
+	Concept == Yes ==> Pool[Pool = CALLING]
 	Concept == No ==> Default["Pool = MOTIVE for mental
 	Pool = NATURE for social
 	Pool = POISE for athletic"]
@@ -218,7 +204,7 @@ The Guide has gotten together with a few good friends as players: *Dana* and *Tr
 
 **Guide:** kind of a fancy Russian tea kettle.
 
-**Dana:** Oh, Viktor would know that! He has a backstory that involves Russian culture.
+**Dana:** Oh, Viktor would know that! He has a background that involves Russian culture.
 
 **Guide:** Good enough.
 
@@ -234,7 +220,7 @@ The Guide has gotten together with a few good friends as players: *Dana* and *Tr
 
 **Guide:** Oh, good idea, but he might get suspicious or think you will run off with it, let's do a NATURE Check.
 
-**Dana/Viktor:** My "Itinerant Gambler" CONCEPT is 6D, which is much better. Can I use that?
+**Dana/Viktor:** My "Itinerant Gambler" CALLING is 6D, which is much better. Can I use that?
 
 **Guide:** Maybe, can you tell me how it applies?
 
@@ -260,7 +246,7 @@ Dana throws the pool of six dice, landing on 3, 2, 2, 4, 4 and 6. This is a Scor
 
 Troy throws his five dice, landing on 1, 2, 2, 5, & 6. That's a Score of 5 (1+2+2) and 2 Effect. The Guide had judged this as a 5 Difficulty task, so Kirin fails despite his natural prowess!
 
-**Troy/Kirin:** But wait, I have two Edge! I want to take a Twist but don't want to delay my progress, we need to be quick - anyone have a good idea?
+**Troy/Kirin:** But wait, I have two Edge! I want a Twist - anyone have a good idea?
 
 **Dana:** Hmm... you lifted on the hinges, what if the door is so loose it just came off the hinges?
 
