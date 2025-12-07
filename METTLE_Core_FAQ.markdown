@@ -26,11 +26,17 @@ METTLE Dice were a reaction to playing and loving all sorts of regular dice pool
 
 In terms of difficulty it lies between a standard White Wolf dice pool and the special "funky dice" used by Fantasy Flight games.
 
-### Who came up with this method and When?
+### What Inspired this Die Method?
+
+The first time I used this sort of dice mechanism was back in 1991-1992, playing the first version of MUTANANNY (then ROACH), a post-apocalyptic game I ran for my high school and scouting buddies. At one point I was using a system where a d6 roll of 1 counted as zero, 2-5 counted as 1, and a 6 counted as 2. What I wanted was to have a result that averaged out at zero so I could contest Attributes against each other directly without having to make derived attributes or use contested rolls like other dice pool systems at the time, i.e. white wolf.
+
+This die method got a lot of pushback from the players, because it was no longer intuitive what the d6 results meant. One of them told me bluntly they didn't like being told that a one was actually a zero or that a six was actually a two. It was my system or their lying eyes. This took me aback because of how dumb I was being. From then on it was reading the dice directly, but ignoring 4-6s which also conveniently worked out to an average of 1 per die. The idea of Edge did not occur to me until later.
+
+### When Did It Enter Actual Games Discourse?
 
 This was probably first written about in [RISUS](https://www.risusiverse.com/home/optional-rules/static-clich%C3%A9s) a long time ago, as the "Demi-dice" option for static cliches. They did not use the 4-6 dice for anything however. For the timeline, it is hard to work out when this was. Out of respect for RISUS, which is great, I am going to assume it is the first publicized incidence. Until anyone shows otherwise.
 
-As far as when I thought of it, this traces back pretty far to ([**2015**](https://forum.rpg.net/threads/how-to-get-the-right-successes-from-a-roll.768093/#post-19477224) and [**2016**](https://forum.rpg.net/threads/d6-system-but-reading-the-dice-differently.782505/#post-20113769) on RPG.net back when you were allowed to argue about game mechanics on the game design section. Believe it or not, what is now nearly a silent desert was once a thriving little ecosystem of horrible nerds.
+As far as when I first wrote about it, this traces back pretty far to ([**2015**](https://forum.rpg.net/threads/how-to-get-the-right-successes-from-a-roll.768093/#post-19477224) and [**2016**](https://forum.rpg.net/threads/d6-system-but-reading-the-dice-differently.782505/#post-20113769) on RPG.net back when you were allowed to argue about game mechanics on the game design section. Believe it or not, what is now nearly a silent desert was once a thriving little ecosystem of horrible nerds.
 
 They did bring up a fair criticism that the modal value of the dice was a little odd at lower dice pools (<5), but this is also a reason I avoid using die penalties and raise Difficulty instead.
 
@@ -38,7 +44,7 @@ Since then I have seen a few people or groups come up with it apparently on thei
 
 And yes, I saw the 2019 blog post where Ben Milton comes up with it and starts calling them [Milton dice](https://questingblog.com/milton-dice-transparent-dice-pool-system/). Who really owns such an idea, really? Hopefully not the first person to slap their name on it.
 
-### What do the probabilities look like on METTLE dice?
+### What about the Probabilities on METTLE dice?
 
 The central conceit here is that the average score on any die is 1, ranging from 0 to 3. You can check this yourself: adding the Scoring faces and dividing by the total faces gives us:
 
