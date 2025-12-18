@@ -35,6 +35,8 @@ Characters get a free move into an adjacent Zone as part of their Action. This i
 
 Range and movement vary depending on how many Zones an area holds! Small, cluttered areas are hard to aim around or move through. In these, the effective range of a move or weapon is not going to be as ideal as it would be on a spacious flat plain.
 
+Races use long Zones called Stretches, each about a half mile. These also replace Rounds as a unit of time during a race.
+
 Sometimes you just want a quick zone setup for an encounter. In this case, just draw a square or circle in the middle for melee combatants to duke it out and a zone to either side for ranged combat:
 
 {: .text-center}
@@ -44,7 +46,7 @@ Sometimes you just want a quick zone setup for an encounter. In this case, just 
 
 ### Initiative
 
-This decides who goes when in Scenes where the order of action matters. Usually, this means combat, but it can apply just as well to tightly paced social or stealth scenes. METTLE uses a modified “elective” or “popcorn” Initiative where the acting character passes the next turn to their target, only choosing another if their target has no Action. Keep in mind these formal turns only take place at the table, to the characters everything is happening at once!
+Combatants each get on Action in combat, and Initiative decides when they can spend it. Briefly, acting characters pass the next turn to their target, only choosing another if their target has no Action.
 
 - **Start**: The one who calls for the first attack seizes Initiative, becoming the first holder. If this is disputed, the Guide should err towards giving PCs the privilege. Time is then split into 6-second rounds, and everyone gets an Action to spend within them.
 - **Main**: Initiative then passes from the current holder to the target of the Action, whether enemy or ally. They become the new holder and get to act next. If the target has no Action to spend, the holder must instead pass it to someone who does. If the Action was targeted at oneself or has no apparent target, the holder also just passes it to anyone with an Action.
@@ -52,7 +54,8 @@ This decides who goes when in Scenes where the order of action matters. Usually,
 
 Normally, combatants must take their turn when chosen. One may Wait by selecting a specific Action, such as “Attack” and holding off until the right moment. They may use their Wait Action any time later, even interrupting someone else’s. They cannot change the type of Action. If no opportunity arises, they choose at the start of the next Round to keep waiting or rejoin the regular Initiative scheme.
 
-Surges restore the character’s Attack Action that round and make them eligible for Initiative again. A surging combatant must have acted already, have at least 2 Mettle, and the Action can only be an Attack.
+Surges restore the character’s Attack Action that round and make them eligible for Initiative again. A surging combatant must have acted already and have least 2 Mettle.
+
 Initiative ends when the conflict is over, by whatever means.
 
 {: .highlight}
@@ -92,84 +95,63 @@ The default Twist for Actions is Delay, meaning they lose their next Action beca
 
 ### Attack
 
-Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check NATURE for melee Attacks and MOTIVE for ranged Attacks, always vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CONCEPT includes the name of a weapon or fighting style, they may use it in place of NATURE or MOTIVE.
+Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check NATURE for melee Attacks and CULTURE for ranged Attacks, always vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CALLING includes the name of a weapon or fighting style, they may use it in place of NATURE or CULTURE.
 
-**Check** NATURE vs. POISE for melee, MOTIVE vs. POISE for ranged.
+**Check** NATURE vs. POISE for melee, CULTURE vs. POISE for ranged.
 
 {: .outcomes }
 
 > -   **Success:** Hit and inflict the weapon's DM on the target.
 > -   **Edge:** *adds to DM.*
-> -   **Failure:** Target evades, parries, or dodges.
-> -   **Twists:** *Delay, drop weapon, hits unintended target, runs out of ammo, etc.* See below for detailed combat Twists.
+> -   **Failure:** attack misses or target evades.
+> -   **Twists:** *lose next Action in confusion, drop weapon, hit unintended target instead, run out of ammo, break weapon, accidentally lose Cover, jam weapon, attract more foes to the battle, etc.*
 
 -   **Melee Attacks** are close combat strikes on a foe in the same Zone. Narrate these as decisive strikes or flurries of blows, depending on the character’s fighting style or weapon.
--   **Ranged Attacks** travel through Zones up to the weapon’s Range. A single Attack may represent multiple shots, especially with firearms. Double range by Aiming, but halve POISE until next Action.
--   **Area Attacks** skip the Check and auto-hit everyone in a Zone or more. Damage is 1d6 + DM for each target. Pass Initiative to any surviving target who has an Action, if none choose elsewhere,
--   **Gambit Attacks** inflict non-lethal consequences like disarms, grapples (lose next Action), tripping (lose free Charge), provoking an attack, pushing or pulling, losing items, knockiuts, subdual, etc. To do these and more, just declare the gambit and attack. On a hit, the target either accepts the gambit or takes the damage.
+-   **Ranged Attacks** fire through Zones up to their Range. Every Zone beyond is a cumulative +1 Difficulty. Double range by Aiming but suffer half POISE until next Action. A single Attack may represent multiple shots, especially with firearms.
+-   **Area Attacks** apply the same Score vs. base Difficulty 0 to everyone in the target Zone to see who takes the damage. Pass Initiative to any survivor with an Action. If none, choose elsewhere.
+-   **Disarm Attacks** remove a weapon from the foe’s grasp instead of doing damage. The spared damage must have been high enough to have otherwise put them into negative Mettle.
+-   **Grapple Attacks** hold, grab, or pin a foe. Instead of doing damage, each unsoaked point inflicts +1 Difficulty to their next Action. Armor and weapons do not usually count for either side.
+-   **Shove Attacks** push or pull a foe into something or out of a Zone instead of doing damage. The spared damage must have been high enough to have otherwise put them into negative Mettle.
 -   **Split Attacks** divide the dice pool between two different targets. Each must also be aimed at a different target. Any modifiers affect each split pool separately. Pass Initiative to any surviving target who has an Action, if none choose elsewhere.
 -   **Vehicle Attacks** like ramming work much like regular Attacks but factor in current Speed. See Vehicles section in Resources for details.
 
-{: .text-center}
-**COMBAT TWISTS**
-
-Twists can be a little loosey-goosey during most Scenes, but Players tend to demand more clarity in combat. After all, they might be losing their character! These are generally well-balanced, but either side may default to Delay as usual if they seem unacceptably harsh or mild.
-
-{: .lh-1}
-| **Twist**              | **Example Consequences**                                                                                                                                         |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alienate ally**      | Careless words or deeds under high stress. Lose the aid of an NPC ally or play up a conflict between PCs.                                                        |
-| **Broken**             | Weapon or item breaks. Simple melee weapons like a broken sword may still do half damage, complex items become useless unless fixed later.                       |
-| **Butter fingers**     | A weapon or item related to the Action slips from your grasp or is disarmed. Requires a Use or Move Action to retrieve, lest fate or foes find it first.         |
-| **Clash** |	A trade of blows instead of a clean hit or miss. Target does their raw damage with a wielded weapon either way. Not an option if they cannot harm the attacker. |
-| **Delay**              | The default Twist of losing next Action. Describe as a stumble, pulling a weapon out of a foe or object, being justifiably awed by the horrors of violence, etc. |
-| **Guarded**      | A bodyguard or other willing ally in the target’s Zone takes the hit for them. Apply the new result to the new target instead.                                         |
-| **Jammed**             | A firearm or other complex item bungs up. Make a Use Action on Motive or relevant Concept vs. Difficulty 1d6 to get it working again.                            |
-| **Out of ammo**        | An attack may use multiple shots, especially with firearms. Using this Twist means the weapon needs an early reload (Use Action) to fire again.                  |
-| **Provoke foes**       | Unwanted attention. Foes focus Attacks on the character, call for reinforcements, or go all-out with their most fearsome tactics.                                |
-| **Sitting Duck**       | A careless move in the enemy’s sights. Lose all benefit of Cover. Must have cover and foes must present a ranged threat for this to be valid.             |
-
-When making up or describing your own Twists, always let the situation be your guide. Avoid overt humiliation in particular, as it spoils the heroic tone.
-
-Keep in mind that these detailed options are not the only ones you can take. They absolutely should not prevent the group from making their own! These only clarify common cock-ups.
-
 ### Heal
 
-This is for life-or-death trauma well beyond bruises and stitches. As such, it works only on those who have dropped into negative Mettle. Heal is a Check of the character’s MOTIVE vs. their negative Mettle or ***Stagger***, counting the negative as a positive for Difficulty’s sake. Success means they are stable for the time being. Any Edge heals Mettle over the course of a day’s rest. Failure means the character dies.
+This is for life-or-death trauma well beyond bruises and stitches. As such, it works only on those who have dropped to 0 Mettle or below. Heal is a Check of CULTURE vs. Difficulty 3, lower if in a hospital and higher in unsanitary conditions. Success means they are stable for the time being. Edge heals negative Mettle over the course of a day’s rest. Failure means the character dies.
 
-**Check:** CONCEPT vs. current Mettle.
+**Check:** CULTURE vs. Fiat Difficulty (usually 3)
 
 {: .outcomes }
 
 > -   **Success:** the patient is alive and somewhat stable.
 > -   **Edge:** each point restores a point of Mettle after a day's rest.
 > -   **Failure:** patient succumbs to their wounds or died before the aid.
-> -   **Twists:** *Delay, patient disfigured, lost part, wasted gear or surgical tools, arrogant healer aggravates everyone, etc.*
+> -   **Twists:** *patient disfigured, lost a part, wasted gear or surgical tools, arrogant healer aggravates everyone, etc.*
 
-Staggered (and even Fallen) characters can take this Action and recover on their own, though the Fallen cannot use medical tools or kits for their bonus.  Penalties for negative Mettle do not count for Heal Checks as they already form the Difficulty. Status effects and situation can still raise or lower Difficulty.
+Staggered (and even Fallen) characters can attempt this Action to recover on their own but their chances are slim due to the die penalty for negative Mettle.
 
-If a PC is too debilitated, the best thing to do is to play another character until they are back on their feet. The Guide can just handwave that they are OK by the next campaign.
+If a character is too debilitated, the best thing to do is switch to an alternate character for a while. As payback for everyone’s convenience, the Guide can just handwave their recovery by next campaign.
 
 ### Know
 
-There is a difference between what a player knows, and what their character does. This can go either way. When in doubt, players may ask the Guide if their character would know something. For example, what car an obscure salvaged auto part fits in, the weight of a fugitive murderer from their footprints, or who has a revealing “tell” when gambling. Know is a Check of MOTIVE vs. a fiat Difficulty for facts, or vs. MOTIVE if used to gain insight into a person. Success means the Guide gives them extra information in line with their CONCEPT.
+There is a difference between what a player knows, and what their character does. This can go either way. When in doubt, players may ask the Guide if their character would know something. For example, what car an obscure salvaged auto part fits in, the weight of a fugitive murderer from their footprints, or who has a revealing “tell” when gambling. Know is a Check of MOTIVE vs. a fiat Difficulty for facts, or vs. MOTIVE if used to gain insight into a person. Success means the Guide gives them extra information.
 
-**Check:** CONCEPT vs. Difficulty (or vs. MOTIVE if a person)
+**Check:** CALLING vs. Difficulty (or vs. MOTIVE if a person)
 
 {: .outcomes }
 
 > -   **Success:** Guide answers the question in line with the character's best understanding.
 > -   **Edge:** Answers more questions or finer details.
-> -   **Failure:** Guide tells what their CONCEPT should know outright.
+> -   **Failure:** Guide tells what their CALLING should know outright.
 > -   **Twists:** *Delay, half-truth, target alerted, one wrong clue, etc.*
 
-The Player should frame their question carefully if they want useful info, and Guides should be generous with answers! Having the right CONCEPT or MOTIVE often grants information without a Check. Always err towards giving out information to keep the game moving.
+The Player should frame their question carefully if they want useful info, and Guides should be generous with answers! Having the right CALLING or MOTIVE often grants information without a Check. Always err towards giving out information to keep the game moving.
 
-This Action helps to understand, not perceive. As such, Know does not detect traps, loot, lies, or ambushes. Hidden foes rely on their Sneak Check, and hidden Traps are foiled by Move Checks. In other cases, the Guide should just tell the players what is there without gating it behind a Check. A thorough search should reveal just about anything, for example.
+This Action helps to understand, not perceive. As such, Know does not detect traps, loot, lies, or ambushes. Hidden foes rely on their Sneak Check, and hidden Traps are treated as Hazards with their own Check. In other cases, the Guide should just tell the players what is there without gating it behind a Check. A thorough search should reveal just about anything, for example.
 
 ### Move
 
-Enters an adjacent Zone. This is usually done with a free move called a Charge, which does not use up an Action unless hindered somehow. More complex moves like avoiding traps, ducking through brambles, swimming, clambering over debris, etc. may call for this Action and a Check of POISE vs. a Difficulty set by the Guide.
+Enters an adjacent Zone. This is usually done with a free move called a Charge, which does not use up an Action unless hindered somehow. More complex moves like ducking through brambles, swimming, clambering over debris, etc. may call for this Action and a Check of POISE vs. a Difficulty set by the Guide.
 
 **Check:** POISE vs. Difficulty
 
@@ -178,15 +160,15 @@ Enters an adjacent Zone. This is usually done with a free move called a Charge, 
 > -   **Success:** Overcome obstacle or trap.
 > -   **Edge:** compare to see who got there first.
 > -   **Failure:** Stopped by an obstacle or triggered trap.
-> -   **Twists:** *Delay, drop item, cause a hazard, reveal location, etc.*
+> -   **Twists:** *drop item, cause a hazard, reveal location, etc.*
 
-Fast creatures or vehicles with a higher Speed can Move that many Zones in a Round. If they face multiple obstacles along their path, add up the Difficulties – on a failure you can use their Score to see how far they got. Slow movers with fractional speeds (1/2, etc.) take two Moves or more to cross a single Zone.
+Creatures or vehicles with a higher Speed can Move that many Zones in a Round. If they face multiple obstacles along their path, add up the Difficulties – on a failure use their Score to see how many they passed. Slow movers with fractional speeds (1/2, etc.) take two Moves or more to cross a single Zone.
 
-- **Obstacles** like walls, rivers, brambles, etc. hinder movement into the Zone. For example, you must hurdle a broken wall to enter. These usually provide Cover to those who cross them.
+- **Obstacles** like walls, rivers, brambles, etc. hinder movement into the Zone. For example, hurdling a broken wall to enter. These usually provide Cover (p.56) to those who cross them.
 - **Climbing** lets one enter Zones that extend up or down, like cliffs, pits, or large vehicle/creatures. Very large creatures or vehicles may present their own Zone(s) to climb, making it possible for the bold to deal with riders, find entry ports, etc. Difficulty is the large creature’s POISE or vehicle’s max Speed.
-- **Hazards** like falls, pits, quicksand, lava, etc. do not prevent movement but do call for a Check, with injury or inconvenience on a failure. A Hazard is similar to a Trap but is not hidden. For example, entangling vines may trap an intruder in that Zone until they succeed at a later Move Check, while broken bottles just damage those who fail to tread carefully.
-- **Traps** are carefully hidden surprise Hazards. The first to enter a trapped Zone gets a Check to detect it, using a relevant CONCEPT. If successful, the trap does not trigger and may even be disarmed with further Checks. A failure means they suffer the effect. A triggered trap may turn into a Hazard afterward.
 - **Chases** have the quarry and pursuers Move through a set of chase Zones, with the quarry deciding where to go. How well they overcome obstacles, hazards, and climbing along the way decides who wins.
+
+Surges grant an extra Action, but not higher Speed. The maximum Move in a Round is still equal to Speed. A Surge still grants another chance to climb, chase, or overcome an obstacle.
 
 ### Race
 
@@ -208,30 +190,32 @@ A Race expands Zones into much longer stretches of track, each about half mile l
 - **Steady**: races are so intense the driver and passengers cannot normally act. Each Edge spent smooths out the ride so the driver or a chosen passenger may take their Action during the Stretch.
 - **Swerve**: juking or angling, Edge inflicts +1 Difficulty to Attacks made on the vehicle until the next Stretch.
 
-The Steady Stunt above allows an Initiative Round of combat within the current stretch, only for the select drivers or passengers who gained their Action. This special round takes place after all the Stunts above are applied. In case of arguments, highest lead goes first. Ramming or sideswiping (p.65) is an Attack. Current speed is king – a slower vehicle cannot normally ram a faster one. Altitude can also matter; ground vehicles cannot ram an airborne vehicle, except in wild situations. The Guide must wield their best judgment.
+The Steady Stunt above allows a selected driver or passenger to make Attacks, maximum one per character just like a Round. This does not require Initiative as not everyone has a chance to act. Ramming or sideswiping is an Attack.
 
 ### Rally
 
-The character shakes off the pain, stands on their hind legs like a man, and puts their guard back up. A Rally simply doubles current Mettle, not exceeding the maximum of course. Current Mettle must be higher than zero (1+) to Rally. Rallies are aided by parrying weapons and shields, but only under certain circumstances.
+Shaking off the pain, standing up on their hind legs, and putting their guard back up. A Rally doubles current Mettle, up to the maximum. Current Mettle must be higher than zero (1+) to Rally.
 
-- **Block** adds to current Mettle for upcoming Rally vs. all Attacks, meaning they may even Rally while Staggered if this bonus brings their current Mettle to 1 or above. To qualify, the Rally must be their next Action after the hit.
-- **Parry** adds to current Mettle for upcoming Rally vs. melee Attacks, meaning they may even Rally while Staggered if this bonus brings their current Mettle to 1 or above. To qualify, the Rally must be their next Action after the hit by a melee weapon.
+A Rally is most effective at half Mettle, less so when higher or lower. When to Rally is an important tactical choice, made easier if one has strong allies or cover to provide breathing space.
 
-Because of the doubling, a Rally is most effective at half Mettle, and less worthwhile when higher or lower. When to Rally is an important tactical choice, made easier if one has strong allies or cover to give some breathing space during combat.
 
 
 ### Rattle
 
-Taunting, threatening, trash-talking, and demoralizing an enemy makes it harder for them to reach into their personal wellspring of courage. Some nonlethal attacks like cutting off buttons or brandishing a weapon artfully can qualify. This is only effective if the target can grasp the indignity of it. Rattle is a Check of NATURE vs. MOTIVE, but a spiteful, authoritative, or comedic CONCEPT can do. This inflicts the Rattled Status, preventing the target from using a Rally or Surge. Foes discombobulated in this way often opt to surrender or flee.
+Taunting, threatening, trash-talking, or demoralizing a foe makes it harder for them to focus. This is only effective if they can grasp the indignity of it. Rattle is a Check of NATURE vs. MOTIVE, but a spiteful, authoritative, or comedic CALLING can do. This inflicts the ***Rattled*** Status, forcing them to discard their lowest die or dice on any Check.
+
+For example, a Rattled combatant makes an Attack Check and gets [2, 2, 4, 5, 5, 6]. They must discard the 2s and now have only Edge, meaning they have no Score and fail.
+
+Foes discombobulated in this way often surrender or flee.
 
 **Check:** NATURE vs. MOTIVE
 
 {: .outcomes }
 
-> -   **Success:** Target cannot Rally on their next Action.
+> -   **Success:** Target is Rattled (discard lowest) on their next Action.
 > -   **Edge:** *effect lasts until after another Action.*
 > -   **Failure:** target keeps their cool somehow.
-> -   **Twists:** *Delay, reveal secret, offend ally, draw more foes, etc.*
+> -   **Twists:** *reveal secret, offend ally, draw more foes, etc.*
 
 Using some sort of revelation or dirt can grant a bonus. For example, revealing the target’s partner was unfaithful, they made a mistake, are surrounded, etc. True or not, it must be something the target would care about. Events in the game or the Know Action may reveal these. Some may only be used once; this is a tricky tactic and should be treated sensibly at the table.
 
@@ -239,7 +223,7 @@ A rattled target cannot be rattled again until it wears off.
 
 ### Sneak
 
-Moving silently and hiding in shadows are great ways to evade foes and get into places you aren’t supposed to be. This only allows you to remain unnoticed by others. It is not possible if someone is looking right at you, or you do not have anywhere to hide. This is a Check of POISE vs. MOTIVE, or the highest MOTIVE in a group. A Stealthy CONCEPT can swap in for POISE, if higher.
+Moving silently and hiding in shadows are great ways to evade foes and get into forbidden places. This is purely narrative until the sneaker risks being discovered; at that point this Check is called for to remain unnoticed. It is not possible to hide in plain sight without some form of invisibility or technological trickery. Sneak is a Check of POISE vs. MOTIVE, or the highest MOTIVE of a group.
 
 **Check:** POISE vs. MOTIVE
 
@@ -268,7 +252,7 @@ Haggling, seduction, diplomacy, lies, threats, bribery, and negotiation are all 
 > -   **Success:** The social situation sways in your favor.
 > -   **Edge:** Adds to Difficulty to persuade otherwise later.
 > -   **Failure:** The social situation plays out as it would.
-> -   **Twists:** *Delay, lose Contact, offend ally, reveal secret, etc.*
+> -   **Twists:** *lose Contact, offend ally, reveal secret, etc.*
 
 Success shifts the narrative for the better, but the views of those involved still depend on the actual argument. If no one uses Sway, the Guide role-plays the reaction as they would expect it to play out.
 
@@ -284,7 +268,7 @@ METTLE Core defaults to a sort of point-crawl system when needed. The Guide, and
 
 A single Travel Check can stand for hours, days, or weeks depending on the distance and vehicles. Adventurers “travel on their stomachs,” so lacking rations inflicts Deprivation and can turn a poorly planned expedition into a macabre tableau of sun-bleached skeletons for future explorers to puzzle over.
 
-The lead traveler then Checks POISE – or their best navigation or area knowledge CONCEPT, vs. the path Difficulty. Success means the group arrived safely, and failure is an encounter along the way.
+The lead traveler then Checks POISE – or their best navigation or area knowledge CALLING, vs. the path Difficulty. Success means the group arrived safely, and failure is an encounter along the way.
 
 **Check:** POISE vs. Difficulty
 
@@ -293,7 +277,7 @@ The lead traveler then Checks POISE – or their best navigation or area knowled
 > -   **Success:** arrive at destination safely.
 > -   **Edge:** *compare to beat rival parties or foes to destination.*
 > -   **Failure:** arrive at your destination if you survive an encounter.
-> -   **Twists:** *Delay, get lost and move to an adjacent area, ambushed later at the destination, lose supplies or trade goods.*
+> -   **Twists:** *need extra day to get back on track, get lost and move to an adjacent hex, roll another encounter, worse encounter, ambushed at the destination, lose supplies or goods.*
 
 An ***Encounter*** is an event rolled or chosen by the Guide. Whether enemies, obstacles, fortune, or misfortune, they tend to eat up precious time and resources. Examples include running across a hostile patrol, becoming fatigued, getting a flat tire, or finding a mysterious statue. Even on a success, the Guide may want to roll on an encounter table and describe the telltale signs (tracks, noises, spoor, etc.) of what they would have faced.
 
@@ -301,7 +285,7 @@ Rivals or foes can Travel too, giving them their own Edge result. The highest Ed
 
 ### Use
 
-This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. When necessary, Check a suitable CONCEPT or the most relevant of MOTIVE, NATURE, or POISE vs. a fiat Difficulty.
+This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. When necessary, Check a suitable CALLING or the most relevant of MOTIVE, NATURE, or POISE vs. a fiat Difficulty.
 
 Longer projects like auto repairs or picking a complicated lock are not necessarily more difficult. These are better handled by requiring a certain amount of Edge before they are completed. Some tables like to keep track of this by making a progress bar or “clock.” It may take several Checks to build up enough Edge to complete the Use project.
 
@@ -321,127 +305,102 @@ A party may split a lengthy Use project into smaller ones with varying Difficult
 
 ## Scenery
 
-Active foes and enemies are not the only danger faced by characters,
-whether inside or outside of combat. This section holds all sorts of
-hazardous features to spice up a Scene.
+This section describes extra features to spice up a Scene.
 
-Active foes and enemies are not the only dangers to face. This section holds all sorts of hazardous features to spice up a Scene.
+METTLE uses ***Hazards*** to handle ambient damage from the Scene itself, like fire, poison, etc. These use an abbreviated Pool + Bonus, such as 3D+3 (3-6 damage) or 5D (0-5 damage). Hazards are usually Difficulty zero, so skip straight to counting Edge. If an ongoing Hazard like fire or poison rolls no Edge (before Bonus), it ends.
 
 ### Affliction
 
-Adventurers must beware of venomous snakes, blowgun darts, the miasma of the tomb, and a “mickey” slipped in their drink! These impart dreadful urgency to any scene. If exposed to an Affliction, the Guide Rolls its Potence and Soaks with FRAME for poisons and POISE for diseases. If there is anything left, they take the Afflicted Status and raise Difficulty by that amount. Keep rolling each interval for as long as the new Roll is higher than the last. If the Difficulty plus exceeds the target’s CONCEPT, they are dead. Less lethal agents like tranquilizers or chronic illnesses inflict the Incapacitated status instead, only resulting in death beyond twice the victim’s CONCEPT.
+Adventurers must beware of venomous snakes, blowgun darts, the miasma of the tomb, and “mickeys” slipped in their drink! While a bit slow-acting for most combats, these impart dreadful urgency to longer scenes. Afflictions are Hazards with a Pool and Bonus based on their potence, versus 0 Difficulty – just count Edge.
 
-A result equal to or lower than the prior Roll means the affliction has weakened, so do not Roll the next interval. The Difficulty plus remains until they rise the next day or so. A Know Check may suggest a Treatment, which stops the Rolls and clears the Strain effects.
+When exposed, the Guide Checks Potence as a Hazard and Soaks with the victim’s FRAME for poisons, or nothing for disease. Any unsoaked Potence result means the victim takes on the ***Afflicted*** Status, which adds Difficulty to all Checks equal to the total unsoaked Potence.
+
+Check again each Round or other time ***Interval***. If the Affliction +Difficulty exceeds the victim’s max Mettle, they die. If soaked entirely or no Edge is rolled, stop Checking the Affliction but keep the +Difficulty as-is until next Scene.
+
+A Know Check may suggest a ***Treatment***, clearing the Status.
 
 <center>
 <strong>SAMPLE AFFLICTIONS</strong>
 </center>
 
 {: .lh-0}
-| **Source**          | **Potence** | **Soak** | **Interval** | **Symptoms** |
-| ------------------- | ----------- | -------- | ------------ | ------------ |
-| Common cold         | 1d6         | Poise    | Day          | Sneezing     |
-| Monitor lizard bit  | 1d6+2       | Poise    | Day          | Gangrene     |
-| Curare dart         | 1d6+6       | Frame    | Round        | Panting      |
-| Rattler venom       | 1d6+2       | Frame    | Hour         | Swelling     |
-| Cobra venom         | 1d6+4       | Frame    | Hour         | Swelling     |
-| Tranquilizer dart\* | 1d6         | Frame    | Round        | Clumsiness   |
+| **Source**          | **Potence** | **Soak** | **Interval** |
+| ------------------- | ----------- | -------- | ------------ |
+| Common cold         | 2D          | \-       | Week         |
+| Monitor lizard bite | 3D          | \-       | Day          |
+| Curare dart         | 5D+5        | Frame    | Minute       |
+| Rattler venom       | 3D+3        | Frame    | Hour         |
+| Cobra venom         | 4D+4        | Frame    | Hour         |
+| Tranquilizer dart\* | 4D+4        | Frame    | Minute       |
 
-For poisons, the dosage can be adjusted for the victim’s FRAME size. For example, the Potence for a tranquilizer dart must be at least 1d6+6 (7-12) to even slightly affect an 11 FRAME elephant.
+'* *Less lethal, death at 2xMettle.*
 
-{: .highlight }
->-	Potence Roll causes +Difficulty unless Soaked.
->- 	Continue Potence Rolls until one is lower than the last.
->- 	Treatment stops Rolls and clears +Difficulty.
-
-### Breath
-Running out of breath due to being underwater or subject to noxious gases is a rare threat but a great source of tension. Assuming strenuous activity like combat or swimming, a character can hold their breath for 1d6 + POISE (6-second) rounds. After this, they are Incapacitated for another 1d6 + POISE rounds, then Dead. A Heal Check versus the number of minutes Dead can revive them.
-If they have time to prepare, double the effective Poise. For more relaxed breath holds, double or triple the amount of time.
-
-{: .highlight }
->-	Hold breath for 1d6 + POISE rounds before Incapacitation.
-
+For poisons, the dosage can be adjusted for the victim’s FRAME size. For example, the Potence for a tranquilizer dart must be at least 6D+6 (6-12) to affect an 11 FRAME elephant even slightly.
 
 ### Cover
 
-Combatants can freely use nearby obstacles to protect themselves from attacks, referred to as taking **Cover**. This must be called at the start of their Action, and the Cover must be in their current Zone. There are two ways to use Cover: Partial and Total.
+Combatants can use nearby obstacles to protect themselves, referred to as taking ***Cover***. The player must call this at the start of their Action, and the Cover must be in their current Zone. There are three ways to use Cover: Partial, Total, and Guard.
 
-- Partial Cover defender takes half damage from incoming attacks, including area and melee.
-- Total Cover defender takes no damage from incoming attacks but cannot attack either.
+- **Partial Cover**: defender gets +2 POISE defense from incoming attacks, including area and melee.
+- **Total Cover**: defender takes no damage from incoming attacks but cannot attack them either.
+- **Guard Cover**: protecting character takes -2 POISE defense and the protected gains +2. This can be called on either of their rounds as long as they both agree and are in the same Zone.
 
-Combatants may switch between these at the start of their Action. Popping out of Total Cover to attack a foe is common, but it only counts as Partial until their next Action.
+Combatants may switch between these at the start of their Action. Popping out of Total Cover to attack a foe is common but downgrades it to Partial until their next Action.
 
-Whether one has Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only partial against gunshots, etc. If Cover is easily penetrated by an attack, it can only ever count as Partial. Use your judgment as always.
-
-{: .highlight }
->- **Partial Cover:** half damage from incoming Attacks.
->- **Total Cover**: cannot target or be targeted.
+Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only partial against gunshots, etc. If Cover is easily penetrated by an attack, it can only ever count as Partial.
 
 ### Falls
 
-Damage depends on how far the character fell. This is 1d6, plus 1 for every 3 meters (~10 feet) or so.  Fall damage Soaks with POISE instead of FRAME. For example, a short fall like tumbling into a trench does 1d6, a second-story window or tree does 1d6+2, a tall tree or several floors of a building may do 1d6+4, etc. Nearing terminal velocity limits damage to 1d6+20, such as skydiving without a parachute.
+Treat as a Hazard with the Pool and Bonus for a short fall within 10 feet being 3D+3. Add 1 to both Pool and Bonus for every 10 feet fallen. The Difficulty of the Attack is 0 so skip to counting Edge. Soak falls using POISE instead of FRAME. Jumping on purpose halves the Pool. For example, being pushed out of a second-story window is a 5D+5, while jumping on purpose would only be 3D+5. Terminal velocity limits this to 10D+10, such as falling from a plane.
 
-Hard ground like concrete or rubble may inflict +1, spikes or traps +2, water may be -2, jumping instead of falling grants -2, etc.
-
-The truly daring may ***Plummet*** onto an enemy below, applying their falling damage bonus above to damage, up to a maximum of +2 The bold diver still suffers their own falling damage, unless their victim is incredibly soft. This is also a good rule of thumb for damage when dropping a weighty item on someone below.
-
-{: .highlight }
->- **Falls:** 1d6 damage, +1 every 3 meters (~10 feet), Soak with POISE.
->- **Plummet:** +1 DM for each point of falling damage bonus, max +2
+The truly daring may ***Plummet*** onto an enemy below, applying up to +2 DM of the falling distance above to damage. The diver still suffers their own falling damage. This is also a good rule of thumb for dropping a weighty item on someone below.
 
 ### Fire
 
-Fire does damage 1d6 or more damage each round until the target escapes it. This damage depends on how big the fire is and how hot it is burning, soaked by FRAME and armor. For example, a torch or campfire would do 1d6 or so, a raging Bonfire 2d6, and a forge or lava flow 3d6 or more.
+Fire is a Hazard with a Pool + Bonus based on the size and temperature of the fire. Difficulty is 0 so just skip to counting Edge. For example, a campfire is 2D+2, a raging Bonfire 4D+4, a super-hot forge 6D+6, etc.
 
-Some targets are naturally flammable, such as wood, mummies, tree monsters, or rags. Others become so via napalm, gasoline, or magical curses. Flammable targets take on the Burning Status, meaning they cannot Rally and continue to take the same damage each Round until extinguished or burnt to cinders.
-
-Extinguishing a fire requires a Use Action and some way to put it out, such as water, rolling on the ground, or a fire extinguisher.
-
-{: .highlight }
->- **Fire:** 1d6 or more damage, soaked by FRAME.
+Flammable targets take ***Burning*** Status, meaning they cannot Rally and continue to suffer the Hazard each Round until it fails to roll Edge. Extinguishing a fire requires a Use Action and some way to put it out, such as water, rolling on the ground, or a fire extinguisher.
 
 ### Status
 
 Other status effects exist to vex characters aside from the usual Staggered and Fallen conditions. Most are awful but temporary, lasting until their source is removed or addressed. Record them on the upper right-hand corner of the character sheet in the “Other Status” box until then.
-- **Afflicted**: suffering from poison or disease, an ongoing effect. Keep rolling its Potence each interval for as long as the new Roll is higher than the last. If the Difficulty plus exceeds the target’s CONCEPT, they are dead.
+- **Afflicted**: suffering from poison or disease. Add +Difficulty equal to unsoaked potence and may move on to a worse Status next.
 -   **Blinded**: Cannot see or perform tasks reliant on sight, such as reading. Checks less reliant on sight are at +4 Difficulty. Others may use Sneak against them as if they have Cover.
 -   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. Sign language or lip-reading may make up for this. Others may use Sneak against them as if they have cover.
--   **Encumbered**: Carrying more gear weight than their carry step allows. Take a general +1 Difficulty to physical tasks each time Load Step is exceeded. If the Difficulty increase exceeds their POISE, they are Incapacitated.
+-   **Encumbered**: Carrying more gear weight than their FRAME allows. Take a general +1 Difficulty and -1 Speed (to a minimum of 1).
+-   **Fatigued**: tired and vulnerable to simple mistakes. This applies a minimum Difficulty to any task equal to 1 for each day of poor sleep or 2 for each day of no sleep. As a minimum, this only affects the Difficulty of a Check if it is higher than the normal one.
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
 -   **Rattled**: dismayed by a Rattle or other trauma. Prevents Rallies and Surges on their next Action, or more with Edge.
+-  **Shaken**: hesitant or afraid. This forces them to discard their highest die or dice on any Check.
+-  **Starving**: every day without food lowers maximum Mettle by one. This can be deadly if it drops them to 0 or below. Restored by food.
+-  **Suffocating**: characters lose a point of Mettle per Round while holding their breath, or every two Rounds if inactive.
 -   **Surprised**: caught unawares, you do not get an Action for the first Round of Initiative. Next Scene, you are no longer Surprised, and this effect ends.
--   **Hungry:** each day without food inflicts +1 Difficulty to all tasks. When the Difficulty plus exceeds their CONCEPT, they have starved to death. A hungry character may alienate others due to irritability as a Twist.
--   **Thirsty:** each day without water inflicts +2 Difficulty to all tasks. When the Difficulty plus exceeds their CONCEPT, they have died of thirst. A Thirsty character may faint as a Twist.
--   **Fatigued:** each day without rest lowers inflicts +1 Difficulty to all tasks. A Tired character may hallucinate or even fall asleep as a Twist. When the Difficulty plus exceeds their MOTIVE, they fall asleep. If prevented from falling asleep, they die when the Difficulty plus exceeds their CONCEPT.
+-   **Hungry:** each day without food inflicts +1 Difficulty to all tasks. When the Difficulty plus exceeds their CALLING, they have starved to death. A hungry character may alienate others due to irritability as a Twist.
+-   **Thirsty:** each day without water inflicts +2 Difficulty to all tasks. When the Difficulty plus exceeds their CALLING, they have died of thirst. A Thirsty character may faint as a Twist.
 
 ### Traps
 
-Traps are sinister surprises for daring adventurers; faceless, “ambient” dangers without their own will. Every hidden trap has a Trigger, such as the Character walking down the hallway, turning a door handle, etc. At that moment, it is also possible to detect it. Detecting a trap is a Move Check upon encountering the device, using POISE or a relevant trap-related CONCEPT. If they succeed, they do not trigger the trap and may avoid it, or even disarm it with a later (Use) Check. If they fail, they suffer the trap’s effect. A triggered trap may then become a Hazard for everyone else.
+Traps are sinister surprises for daring adventurers; faceless, “ambient” dangers without their own will. Narrative clues can betray their presence to savvy players. For example, tiny pinholes in the wall, footprints, bloodstains, etc.
 
+Failing that, every trap has a ***Trigger***, such as walking down the hallway, turning a door handle, etc. When triggered, the character has a chance to avoid it: the trap is a Hazard but Checks versus POISE like a regular Attack, with only success inflicting the damage or effect.
+
+-  **Anti-personnel mine:*** A buried mine waiting for a foot, or a claymore awaiting a tripwire. Triggered by the first to walk onto it, and very difficult to spot. *6D+8, Blast targets all in that Zone.*
 -   **Flooding room:** this small adjoining room has a strange idol in the
     center. If players linger, the doors close and it begins to fill with
     water, flooding entirely in 5 Rounds. If anyone kneels before the idol
-    the water drains away. *Difficulty 8, Suffocation.*
+    the water drains away.
 -   **Pitfall:** a carefully weighted trapdoor covers a shaft down to the
     next floor. Triggered by the first one to walk onto it, anyone nearby
-    could also blunder in. *Difficulty 4, 1d6+2 Falling damage.*
+    could also blunder in. *4D+4, as Falling damage.*
 -   **Scything blade:** a pressure plate in the hallway triggers a massive
     hidden blade to swing towards the victim. The victim hears a metallic
     whirring at head height and has a split second to get horizontal and
-    avoid decapitation. *Difficulty 6, 2d6 damage.*
+    avoid decapitation. *5D+7, regular damage.*
 -   **Tripwire:** stout twine between two trees around the bandit camp sets
-    off a crude tin-can alarm. *Difficulty 4, alerts the bandits.*
+    off a crude tin-can alarm. *4D, alerts the lookouts.*
 
-Clever parties may come up with alternate ways to escape or avoid traps, Reward these creative ideas instead of forcing them to play out the trap as intended.
-
-An obvious “trap” such as an open pit or lava pool is more of a Hazard the party may just choose to avoid. Some are still irresistible to overly curious parties. This is also true of already-known proper hidden traps, which simply turn into Hazards.
-
-{: .highlight }
->- **Traps:** Move Check to avoid suffering effects.
+An obvious “trap” such as an open pit or mine laid out in the open is more of a hazard the party may just choose to avoid. Some are still irresistible to the overly curious.
 
 ### Visibility
 
-Many actions dependent on vision are hindered by darkness, underbrush, or smoke. In general, dim light inflicts a +1 Difficulty, regular darkness +2, and total darkness +4. Equipment such as torches or night vision goggles can reduce these, unless dealing with smoke. Sudden flashes of bright light can also create obscurement.
-
-{: .highlight }
->- Darkness or smoke adds +1 to +4 Difficulty.
+Darkness, underbrush, or smoke can hinder actions reliant on sight. In general, dim light inflicts a +1 Difficulty, regular darkness +2, and total darkness +4. Equipment such as torches or night vision goggles can reduce these, unless dealing with smoke. Sudden flashes of bright light can also reduce visibility.
