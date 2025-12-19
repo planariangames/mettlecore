@@ -293,19 +293,19 @@ The table below gives the Load step and Shift (max lifted, dragged or pulled) fo
 
 {: .lh-0}
 | **Frame** | **Enc/Ov/Imm (lbs)** | **Shift** |
-| --------- | -------------------- | --------- |
+| :-------: | :------------------: | :-------: |
 | 1         | 9/18/27              | 66        |
-| 2         | 14/28/42             | 104       |
-| 3         | 18/36/54             | 136       |
-| 4         | 25/50/75             | 191       |
-| 5         | 34/68/102            | 261       |
+| 2         | 13/26/39             | 104       |
+| 3         | 17/34/51             | 136       |
+| 4         | 24/48/72             | 191       |
+| 5         | 33/66/99             | 261       |
 | 6         | 45/90/135            | 358       |
-| 7         | 64/128/192           | 492       |
-| 8         | 86/172/258           | 680       |
-| 9         | 118/236/354          | 937       |
-| 10        | 163/326/489          | 1290      |
+| 7         | 62/124/186           | 492       |
+| 8         | 85/170/255           | 680       |
+| 9         | 117/234/351          | 937       |
+| 10        | 162/324/486          | 1290      |
 
-For example, an average guy with a FRAME of 3 is encumbered at 18 kg, so hauling a 20kg mini fridge out of an abandoned department store suffers +1 Difficulty. Their athletic buddy with a FRAME of 4 is encumbered at 25 and can shoulder it with less trouble.
+For example, an average guy with a FRAME of 3 is encumbered at 17 kg, so hauling a 20kg mini fridge out of an abandoned department store suffers +1 Difficulty. Their athletic buddy with a FRAME of 4 is encumbered at 24 and can shoulder it with less trouble.
 
 Do not bother counting most items less than a kilogram or so.
 
@@ -326,9 +326,9 @@ Characters suffer ***Damage*** from hazards or attacks they face. Fortunately, 
 
 Upon falling to zero or below, the character is **Staggered** or **Fallen**:
 
-- *Staggered*: characters suffer real trauma when Mettle drops to zero down to their MOTIVE in the negatives. They also take a die penalty to Checks equal to any negative Mettle and can no longer Rally or Surge (below).
+- **Staggered**: characters suffer real trauma when Mettle drops to zero down to their MOTIVE in the negatives. They also take a die penalty to Checks equal to any negative Mettle and can no longer Rally or Surge (below).
 
-- *Fallen*: past negative MOTIVE, a wounded character falls unconscious. They lose their Action and drop to zero POISE.
+- **Fallen**: past negative MOTIVE, a wounded character falls unconscious. They lose their Action and drop to zero POISE.
 
 {: .highlight }
 >- Damage exceeding Soak reduces Mettle temporarily.
