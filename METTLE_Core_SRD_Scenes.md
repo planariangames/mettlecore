@@ -351,7 +351,7 @@ Cover depends on where the attack is coming from. For example, a stone wall only
 
 ### Falls
 
-Treat as a Hazard with the Pool and Bonus for a short fall within 10 feet being 3D+3. Add 1 to both Pool and Bonus for every 10 feet fallen. The Difficulty of the Attack is 0 so skip to counting Edge. Soak falls using POISE instead of FRAME. Jumping on purpose halves the Pool. For example, being pushed out of a second-story window is a 5D+5, while jumping on purpose would only be 3D+5. Terminal velocity limits this to 10D+10, such as falling from a plane.
+Treat as a Hazard with the Pool and Bonus for a short fall within a story (~3 meters) being 3D+3. Add 1 to both Pool and Bonus for every full story fallen. The Difficulty is 0 so skip to counting Edge. Soak falls using POISE instead of FRAME. Jumping on purpose halves the Pool. For example, being pushed out of a second-story window is a 5D+5, while jumping on purpose would only be 3D+5. Terminal velocity limits this to 10D+10, such as falling from a plane.
 
 The truly daring may ***Plummet*** onto an enemy below, applying up to +2 DM of the falling distance above to damage. The diver still suffers their own falling damage. This is also a good rule of thumb for dropping a weighty item on someone below.
 
