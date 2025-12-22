@@ -71,45 +71,45 @@ Each weapon in the following table has a Name, Atk, Dam, Special, and weight in 
 **WEAPONS**
 
 {: .lh-0}
-| **Weapon**           | **Hit** | **DM**  | **Special**                     | **lbs** |
-| -------------------- | :-----: | :-----: | ------------------------------- | ------- |
-| **Axe**              | +1D     | Frame+4 | _Parry +1_                      | 4       |
-| **Axe, great**       | +1D     | Frame+5 | _Parry +1, 2H_                  | 8       |
-| **Bow**              | \-      | Frame+2 | _2H, Range 4, Ammo 12 (quiver)_ | 3       |
-| **Brass Knuckles**   | \-      | Frame+1 |                                 | \-      |
-| **Rock/Bottle**      | \-      | Frame+1 | _Range 1_                       | 2       |
-| **Bullwhip**         | \-      | Frame+1 | _Reach, Wrap_                   | 1       |
-| **Chainsaw**         | \-      | 8       | _2H, Action to start, fueled_   | 12      |
-| **Club/crowbar**     | +1D     | Frame+2 | _Parry +1_                      | 5       |
-| **Crossbow**         | \-      | 6       | _2H, Range 4, Ammo 1_           | 7       |
-| **Dagger/Knife**     | +1D     | Frame+2 |                                 | 1       |
-| **Molotov cocktail** | \-      | Frame+2 | _Range 1, Burn_                 | 3       |
-| **Flail**            | +1D     | Frame+3 | _Wrap_                          | 5       |
-| **Flail, great**     | +1D     | Frame+4 | _2H, Wrap_                      | 10      |
-| **Garrote**          | \-      | Frame+1 |                                 | \-      |
-| **Grenade, frag.**   | \-      | 9       | _Range 1, Blast_                | 2       |
-| **Hatchet**          | +1D     | Frame+2 | _Parry +1_                      | 2       |
-| **Lance**            | +1D     | Frame+4 | _2H, Reach_                     | 6       |
-| **Machete**          | +1D     | Frame+2 |                                 | 3       |
-| **Net**              | \-      | Frame   | _Entangle_                      | 3       |
-| **Pistol**           | +1D     | 7       | _Range 2, Ammo 9_               | 3       |
-| **Polearm**          | +1D     | Frame+5 | _Parry +1, 2H, Reach_           | 8       |
-| **Quarterstaff**     | +2D     | Frame+2 | _Parry +1, 2H_                  | 4       |
-| **Revolver**         | +1D     | 7       | _Range 2, Ammo 6_               | 3       |
-| **Rifle**            | +1D     | 8       | _2H, Ammo 5, Range 6, Scope_    | 7       |
-| **Rifle, assault**   | +1D     | 8       | _2H, Burst, Ammo 30, Range 5_   | 8       |
-| **Shield, large**    | \-      | Frame   | _Block +2_                      | 15      |
-| **Shield, medium**   | \-      | Frame   | _Parry +2, Block +1_            | 10      |
-| **Shield, small**    | \-      | Frame   | _Parry +2_                      | 5       |
-| **Shotgun**          | +3D     | 9       | _2H, Range 2, Ammo 3_           | 7       |
-| **Sling**            | \-      | Frame+1 | _Range 3_                       | \-      |
-| **SMG**              | +1D     | 7       | _2H, Range 3, Burst, Ammo 30_   | 6       |
-| **Spear**            | +1D     | Frame+3 | _Parry +1, Range 1, Reach_      | 4       |
-| **Stun gun**         | \-      | 7       | _Stun_                          | 1       |
-| **Sword**            | +2D     | Frame+3 | _Parry +1_                      | 3       |
-| **Sword, great**     | +2D     | Frame+4 | _2H_                            | 8       |
-| **Taser**            | \-      | 7       | _Stun, Reach_                   | 1       |
-| **Unarmed**          | \-      | Frame   |                                 | \-      |
+| **Weapon**           | **Hit** | **DM**  | **Special**                     | **kg** |
+| -------------------- | :-----: | :-----: | ------------------------------- | :----: |
+| **Axe**              | +1D     | Frame+4 | _Parry +1_                      | 2      |
+| **Axe, great**       | +1D     | Frame+5 | _Parry +1, 2H_                  | 4      |
+| **Bow**              | \-      | Frame+2 | _2H, Range 4, Ammo 12 (quiver)_ | 2      |
+| **Brass Knuckles**   | \-      | Frame+1 |                                 | \-     |
+| **Rock/Bottle**      | \-      | Frame+1 | _Range 1_                       | 1      |
+| **Bullwhip**         | \-      | Frame+1 | _Reach, Wrap_                   | 1      |
+| **Chainsaw**         | \-      | 8       | _2H, Action to start, fueled_   | 6      |
+| **Club/crowbar**     | +1D     | Frame+2 | _Parry +1_                      | 2      |
+| **Crossbow**         | \-      | 6       | _2H, Range 4, Ammo 1_           | 3      |
+| **Dagger/Knife**     | +1D     | Frame+2 |                                 | \-     |
+| **Molotov cocktail** | \-      | Frame+2 | _Range 1, Burn_                 | 1      |
+| **Flail**            | +1D     | Frame+3 | _Wrap_                          | 3      |
+| **Flail, great**     | +1D     | Frame+4 | _2H, Wrap_                      | 5      |
+| **Garrote**          | \-      | Frame+1 |                                 | \-     |
+| **Grenade, frag.**   | \-      | 9       | _Range 1, Blast_                | 1      |
+| **Hatchet**          | +1D     | Frame+2 | _Parry +1_                      | 1      |
+| **Lance**            | +1D     | Frame+4 | _2H, Reach_                     | 3      |
+| **Machete**          | +1D     | Frame+2 |                                 | 2      |
+| **Net**              | \-      | Frame   | _Entangle_                      | 2      |
+| **Pistol**           | +1D     | 7       | _Range 2, Ammo 9_               | 2      |
+| **Polearm**          | +1D     | Frame+5 | _Parry +1, 2H, Reach_           | 4      |
+| **Quarterstaff**     | +2D     | Frame+2 | _Parry +1, 2H_                  | 2      |
+| **Revolver**         | +1D     | 7       | _Range 2, Ammo 6_               | 1      |
+| **Rifle**            | +1D     | 8       | _2H, Ammo 5, Range 6, Scope_    | 4      |
+| **Rifle, assault**   | +1D     | 8       | _2H, Burst, Ammo 30, Range 5_   | 5      |
+| **Shield, large**    | \-      | Frame   | _Block +2_                      | 7      |
+| **Shield, medium**   | \-      | Frame   | _Parry +2, Block +1_            | 5      |
+| **Shield, small**    | \-      | Frame   | _Parry +2_                      | 3      |
+| **Shotgun**          | +3D     | 9       | _2H, Range 2, Ammo 3_           | 3      |
+| **Sling**            | \-      | Frame+1 | _Range 3_                       | \-     |
+| **SMG**              | +1D     | 7       | _2H, Range 3, Burst, Ammo 30_   | 3      |
+| **Spear**            | +1D     | Frame+3 | _Parry +1, Range 1, Reach_      | 2      |
+| **Stun gun**         | \-      | 7       | _Stun_                          | \-     |
+| **Sword**            | +2D     | Frame+3 | _Parry +1_                      | 2      |
+| **Sword, great**     | +2D     | Frame+4 | _2H_                            | 4      |
+| **Taser**            | \-      | 7       | _Stun, Reach_                   | 1      |
+| **Unarmed**          | \-      | Frame   |                                 | \-     |
 
 {: .note }
 Listings above are for a “typical” weapon of its kind. To model a specific weapon, compare it to the closest one listed. For example, heavier calibers of a firearm lose 1D of their Atk bonus but gain 1 Dam. Smaller calibers (as above) do the reverse, gaining 1D to Atk but losing 1 Dam.
@@ -210,7 +210,7 @@ Vehicles with high Speeds are faster than their Move in human-scaled Zones would
 
 {: .lh-0}
 | **Vehicle**        | **Handling** | **Speed** | **Frame** | **Enc**         | **Cost** |
-| ------------------ | ------------ | --------- | --------- | --------------- | -------- |
+| ------------------ | :----------: | :-------: | :-------: | :-------------: | :------: |
 | Bus, school        | \-           | 4         | 14        | 581/1162/1743   | 6        |
 | Car, compact       | +2D          | 5         | 10        | 162/324/486     | 5        |
 | Car, sedan         | +1D          | 5         | 10        | 162/324/486     | 5        |
