@@ -186,15 +186,15 @@ graph TD
 
 This gives you some insight into how to play this game, at least for the parts where you want to use the rules. Your experience may vary because any RPG depends heavily on the group involved. Play with good people and you will have a good game.
 
-The Guide has gotten together with a few good friends as players: *Dana* and *Troy*. Dana is playing Viktor, the embittered ex-fencer from the character creation example. Troy is playing Kirin, a cunning and stealthy type.
+The Guide has gotten together with a few good friends as players: *Dana* and *Troy*. Dana is playing Viktor, the embittered ex-fencer from the character creation example. Troy is playing Robin, a cunning and stealthy type.
 
 **Guide:** Ok, so last session you two were trying to sneak into the upper floor of a suspicious antique store. It's midday and you are still in the shop posing as customers, where we left off. There are no other customers now and the clerk is at his desk fiddling with the register. He doesn't seem to be watching you. How are you going about this?
 
-**Troy/Kirin:** Is there a door in the shop leading to the upper floor?
+**Troy/Robin:** Is there a door in the shop leading to the upper floor?
 
 **Guide:** yes, there is -- but in the back of the shop in full view of the clerk.
 
-**Troy/Kirin:** hmm, I need cover to sneak in there. Any other way...?
+**Troy/Robin:** hmm, I need cover to sneak in there. Any other way...?
 
 **Dana/Viktor:** Well, I'm not much for sneaking around but I can distract the clerk. I look for an item and pretend I am interested. What's in here anyway?
 
@@ -212,7 +212,7 @@ The Guide has gotten together with a few good friends as players: *Dana* and *Tr
 
 **Guide:** He perks up quickly and kind of shuffles over to you. He has some sort of limp too, but it is different than yours... unnatural.
 
-**Troy/Kirin:** I start to drift over to look at the door but not in a suspicious way. Is it locked?
+**Troy/Robin:** I start to drift over to look at the door but not in a suspicious way. Is it locked?
 
 **Guide:** you can't tell, would have to try the handle.
 
@@ -234,44 +234,44 @@ Dana throws the pool of six dice, landing on 3, 2, 2, 4, 4 and 6. This is a Scor
 
 **Dana/Viktor:** Weird, I nod along.
 
-**Troy/Kirin:** My time to shine. I try the door.
+**Troy/Robin:** My time to shine. I try the door.
 
 **Guide:** It's not locked but it is very, very old and creaky. Maybe loud enough to alert the clerk.
 
-**Troy/Kirin:** I lift a little to relieve the strain on the hinges and sneak in quietly, as is my way.
+**Troy/Robin:** I lift a little to relieve the strain on the hinges and sneak in quietly, as is my way.
 
 **Guide:** Bold but Check POISE - it is very squeaky.
 
-**Troy/Kirin:** Cool, at POISE 5, this character has some moves.
+**Troy/Robin:** Cool, at POISE 5, this character has some moves.
 
-Troy throws his five dice, landing on 1, 2, 2, 5, & 6. That's a Score of 5 (1+2+2) and 2 Effect. The Guide had judged this as a 5 Difficulty task, so Kirin fails despite his natural prowess!
+Troy throws his five dice, landing on 1, 2, 2, 5, & 6. That's a Score of 5 (1+2+2) and 2 Effect. The Guide had judged this as a 5 Difficulty task, so Robin fails despite his natural prowess!
 
-**Troy/Kirin:** But wait, I have two Edge! I want a Twist - anyone have a good idea?
+**Troy/Robin:** But wait, I have two Edge! I want a Twist - anyone have a good idea?
 
 **Dana:** Hmm... you lifted on the hinges, what if the door is so loose it just came off the hinges?
 
 **Guide:** nice, I can work with that. If you fail and make noise, the missing door will make it obvious what you were up to, and if you succeed the shopkeeper might notice a mislaid door.
 
-**Troy/Kirin:** Ha... ok I'll take it for the Twist reroll.
+**Troy/Robin:** Ha... ok I'll take it for the Twist reroll.
 
 Troy grabs the two Edge dice and rerolls them, leaving his original Score dice as they landed. This time he gets a 3 and a 4, making his new Score 8 (1+2+2+**3**) and his new Edge 1 (the 4).
 
 **Guide:** you are perfectly silent, but the door is also perfectly off its hinges.
 
-**Troy/Kirin:** I shake my head in disbelief, rest it against the doorframe, and walk upstairs.
+**Troy/Robin:** I shake my head in disbelief, rest it against the doorframe, and walk upstairs.
 
 **Guide:** Ok. You find yourself in a large empty room with a high ceiling. Soot covers the walls and furniture.
 
-**Troy/Kirin:** Soot? Why? You said it has a high ceiling.., I look up.
+**Troy/Robin:** Soot? Why? You said it has a high ceiling.., I look up.
 
 **Guide:** Ok, you look up and see... well let's move back to Viktor outside.
 
-**Troy/Kirin:** Aaaagh no! What do I see up there?
+**Troy/Robin:** Aaaagh no! What do I see up there?
 
 **Guide:** Heh. Ok Viktor, while you are talking with the clerk, he shudders, looks up to the second-story window, then into the store at the door off its hinges. He kind of wiggle-walks back into the store... hissing.
 
 **Dana/Viktor:** I'm going to follow him in and brain him with the kettle.
 
-**Troy/Kirin:** It's a samovar, not a kettle! Now what is on the ceiling?
+**Troy/Robin:** It's a samovar, not a kettle! Now what is on the ceiling?
 
 **Guide:** you see...

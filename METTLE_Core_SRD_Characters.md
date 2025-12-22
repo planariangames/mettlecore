@@ -344,7 +344,7 @@ Combatants can push themselves beyond their limits, but this takes its toll. Thi
 
 ### Surges
 
-PCombatants can push themselves beyond their limits, at the cost of strain and vulnerability. Halve current Mettle, rounding up, to regain their spent Action. This makes them eligible for Initiative again that round. A Surging character must have at least 2 Mettle.
+Endangered characters can push themselves beyond their limits, at a cost. Halve current Mettle, rounding up, to regain a spent Action. This makes them eligible for Initiative again that round. A Surging character must have at least 2 Mettle and cannot use it to Rally (below).
 
 ## Experience
 
