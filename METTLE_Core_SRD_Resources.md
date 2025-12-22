@@ -227,4 +227,3 @@ Vehicles with high Speeds are faster than their Move in human-scaled Zones would
 | Truck, garbage     | \-           | 4         | 16        | 1104/2208/3312  | 6        |
 | Truck, monster     | +1D          | 4         | 12        | 306/612/918     | 6        |
 | Truck, pickup      | +1D          | 5         | 11        | 222/444/666     | 5        |
-| Truck, pickup      | +1D          | 5         | 10        | 5        |
