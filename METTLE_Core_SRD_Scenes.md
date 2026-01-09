@@ -223,20 +223,20 @@ A rattled target cannot be rattled again until it wears off.
 
 ### Sneak
 
-Moving silently and hiding in shadows are great ways to evade foes and get into forbidden places. This is purely narrative until the sneaker risks being discovered; at that point this Check is called for to remain unnoticed. It is not possible to hide in plain sight without some form of invisibility or technological trickery. Sneak is a Check of POISE vs. MOTIVE, or the highest MOTIVE of a group.
+Stealth and subtlety is a great way for adventurers to evade foes and get into secure areas. This is purely narrative until the sneaker risks being discovered. At the moment of possible reveal, call for this Check to remain unnoticed. This is a Check of POISE vs. MOTIVE, or the highest MOTIVE in a group.
 
 **Check:** POISE vs. MOTIVE
 
 {: .outcomes }
 
 > -   **Success:** Remain unnoticed by your foes.
-> -   **Edge:** Adds to DM during Surprise, steal or plant more small items, etc.
+> -   **Edge:** Surprise attack with double Edge, steal or plant more small items, etc.
 > -   **Failure:** They notice you.
 > -   **Twists:** *Delay, leave telltale clues, end up in different area, drop gear, etc.*  
 
 -   **Hiding** is a matter of finding Cover rather than a checked Action. If their seekers move into a position where the Cover would fail, the hider can try a Sneak Check to slip away. The better the hiding spot, the less likely they will need to slip away from it.
--   **Surprise** attacks can trigger after a successful Sneak. The surprised side goes a Round without an Action. Next Round things go back to normal for the survivors.
--   **Steal/Plant** small objects, with Edge adding extras. Good for framing a suspect, snitching a set of keys, leaving trackers, live grenades, etc. Often done instead of an Attack or Defense, leaving the seemingly victorious foe unaware of their loss or gain.
+-   **Surprise** attack is an automatic hit after Sneaking. The backstabber can skip the target and pass Initiative to anyone they choose afterward. Edge counts as double for that damage.
+-   **Steal/Plant** small objects, with Edge adding extras. Good for framing a suspect, snitching a set of keys, leaving trackers, live grenades, etc. Often done instead of an Attack or Defense, leaving the foe unaware of their loss or gain.
 
 {: .note }
 **Group Option**: Normally, the whole party makes individual Checks when sneaking. This can get a little tedious, makes failure all but certain in large groups, and may trigger an ugly blame game amongst players. To avoid this, the Guide may have only the character with the lowest pool make the Check. In case of ties, they may decide amongst themselves.

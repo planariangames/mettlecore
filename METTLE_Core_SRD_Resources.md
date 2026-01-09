@@ -144,6 +144,28 @@ These are standard personal possessions characters in certain settings may start
 
 ---
 
+## Foes
+
+Challenges from its inhabitants show how the game world pushes back against the players. The example foes given below are meant to be adjusted for the setting or adventure.
+
+The Guide does not need to prepare full stats for unnamed creatures or NPCs. A simplified Threat pool will do. Much like a Hazard pool, this is a broad description of their role and challenge, such as “Stunned Bystander 3D+3” or “Hostile Village Elder 4D+2.”
+
+<p style="text-align: center;">[ Check pool ] D + [ FRAME ]</p>
+
+The number with a D is their dice pool for most combat purposes, and when doubled it forms their base Mettle. If they try something related to their title, raise it by two to mimic a CALLING. The number after the + is their FRAME.
+
+- **Caveman:** Threat 4D+4, Mettle 8, Soak 4, Attack with club (5D Hit, 6 DM, Parry +1), Speed 1. Our primitive forebears, hardy and cunning.
+- **Cop:** Threat 3D+3, Mettle 6, Soak 3, Attack with club (4D Hit, 5 DM, Parry +1) or pistol (4D Hit, 7 DM, Range 2, Ammo 9), Speed 1. Adventurers often deal with these common agents of the law.
+- **Cultist:** Threat 3D+3, Mettle 6, Soak 3, Attack with dagger (4D, 5 DM), Speed 1. Robed devotee of a sinister religion.
+- **Goon:** Threat 3D+4, Mettle 6, Soak 4, Attack with Brass knuckles (4D Hit, 5 DM), Speed 1. Henchmen fluent in physical persuasion.
+- **Guard dog:** 4D+3, Mettle 8, Soak 3, Attack with bite (5D Hit, 4 DM), Speed 2. A large and vicious dog, stats also useful for wolves.
+- **Grizzly Bear:** 4D+6, Mettle 8, Soak 7 (hide and gristle), Attack with bite or claw (5D Hit, 7 DM), Speed 1. A fearsome force of nature.
+- **Soldier:** Threat 4D+4, Mettle 8, Soak 4, Attack with Assault Rifle (5D Hit, 8 DM, 2H, Burst, Ammo 30, Range 5), Speed 1. Acts as part of a team, disciplined and deadly.
+- **Tyrannosaur:** Threat 4D+12, Mettle 8, Soak 12, Attack with Bite (5D, 14 DM), Speed 2. A hazard of the cretaceous period, but things happen.
+- **Zombie:** Threat 2D+5, Mettle 4, Soak 2, Attack with bite (3D+5), Speed 1/2. Special: only Fallen if attacker declares a head shot, otherwise just Staggered. Those damaged by a bite suffer a 5D+5 per hour Affliction, but instead of dying they turn into a Zombie.
+
+---
+
 ## Hirelings
 
 No man is an island, and even a well-rounded party can find they lack the ability or patience for certain tasks. In general, you get what you pay for. A Hireling’s CALLING is usually from 5-7D, depending on how good at their jobs they are and how well the party pays them. Otherwise, they can use an average NPC Extra pool of 3D+3 or so. Favorite hirelings often get regular stats, and are prime candidates to step in as replacement characters in the actual party.
@@ -161,16 +183,16 @@ While not technically hirelings, the party may also bribe passersby or layabouts
 
 Riding atop a mount is a great advantage. In combat, the mount and rider count as a single unit. A mounted rider may use the mount's Speed instead of their own and enjoys Partial Cover against melee attacks. Otherwise, treat them as individuals. Most mounts double their Load Step for encumbrance.
 
-The mount uses an NPC Threat rating (p.79), showing their usual Pool + FRAME. The rider may use a Sway Check (NATURE vs. Mount’s Pool) to get the Mount to do something it does not want to, such as leaping over an obstacle, learning a trick, running to exhaustion, or staying in a battlefield. A trained mount behaves differently. For example, a war horse does not balk at combat or gunfire.
+The mount uses an NPC Threat pool showing their usual Pool + FRAME. The rider may use a Sway Check (NATURE vs. Mount’s Pool) to get the Mount to do something it does not want to, such as leaping over an obstacle, learning a trick, running to exhaustion, or staying in a battlefield. A trained mount behaves differently. For example, a war horse does not balk at combat or gunfire.
 
 {: .text-center}
 **MOUNTS**
 
--   **Camel:** *Threat 3D+7, Mettle 6, Soak 7, Atk (kick 4D Hit, 7 DM), Speed 2, Enc 124/248/372 kg. Ships of the desert, hardy but stubborn.
--   **Donkey:** Threat 3D+5, Mettle 6, Soak 5, Atk (kick 4D Hit, 5 DM), Speed 2, Enc 66/132/198 kg. Shines on rough terrain.
--   **Elephant:** Threat 3D+12, Mettle 6, Soak 12, Atk (stomp 4D Hit, 12 DM), Speed 1, Enc 612/1224/1836 kg. Mighty and steady.
--   **Horse:** Threat 3D+7, Mettle 6, Soak 7, Atk (kick 4D, 7 DM), Speed 3, Enc 124/248/372 kg. Awe-inspiring mount for the ages.
--   **Mule**: Threat 3D+8, Mettle 6, Soak 8, Atk (kick 4D hit, 8 DM), Speed 2, Enc 172/344/516 kg. Sturdy beast of burden.
+- **Camel:** Threat 3D+7, Mettle 6, Soak 7, Attack with kick (4D Hit, 7 DM), Speed 2, Enc 124/248/372 kg. Ships of the desert, hardy but stubborn.
+- **Donkey:** Threat 3D+5, Mettle 6, Soak 5, Attack with kick (4D Hit, 5 DM), Speed 2, Enc 66/132/198 kg. Shines on rough terrain.
+- **Elephant:** Threat 3D+12, Mettle 6, Soak 12, Attack with stomp (4D Hit, 12 DM), Speed 1, Enc 612/1224/1836 kg. Mighty and steady.
+- **Horse:** Threat 3D+7, Mettle 6, Soak 7, Attack with kick (4D Hit, 7 DM), Speed 3, Enc 124/248/372 kg. Awe-inspiring mount for the ages.
+- **Mule:** Threat 3D+8, Mettle 6, Soak 8, Attack with kick (4D Hit, 8 DM), Speed 2, Enc 172/344/516 kg. Sturdy beast of burden.
 
 ---
 
