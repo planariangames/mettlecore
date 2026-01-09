@@ -156,6 +156,17 @@ setting as a sandbox, maybe as a litter box. Always remember, however,
 that you are a kind of player too. if it stops being fun for you, you
 can always stop running it for them.
 
+## Combat Tips
+A well-founded complaint about RPG combat is that boiling the sheer mayhem of fighting into a die roll can get repetitive after a while. While rich narration helps, there actually is a lot more the Guide can do to keep things interesting. Each of the following methods create more opportunity to make interesting and meaningful choices:
+- **Variety:** mix and match foes with different abilities and tactics; throw a big guy into the brawl with the regular bar scum, give the tank a motorcycle escort, reveal one cultist as a famous person, etc.   
+- **Stages:** unveil layers of foes or challenge as the fight escalates. The next Scene changes depending on the outcome. For example, a lengthy fight with one gang leads to their rivals showing up.
+- **Objectives:** present foes as obstacles to a more pressing goal. For example, pressing through a mad scientist’s minions so they can shut off the doomsday device on the balcony.
+- **Spectacle:** nothing suits an adventure putting on a show. Brawling atop a moving train, through the flooding corridors of a sinking ship, a monsoon, the treacherous steps of a ziggurat…
+- **Tactics:** it is not just the players making interesting choices, two can play at that game. Attack from hiding, use distractions, hide your strengths, flee when outmatched.
+- **Zones:** lay out Zones with special features to choose from like cover, elevation, difficult ground, etc.
+
+These tricks and others should help keep your fights bold and memorable. Remember that for a combat to be interesting, there must be interesting things to do in it. As good as METTLE Core is, if you depend *only* upon the system, you will be dice-appointed!
+
 ### Faction Tracker
 
 A web of conspiracy influences an adventure party behind the scenes. The
@@ -250,7 +261,7 @@ story.
 
 ### NPC Creation
 
-The Guide plays perhaps too many NPCs, such as friendly or unfriendly contacts, shopkeepers, enemies, key figures in the setting, and random passersby. Only key NPCs have full Attributes. For the mostly unnamed, unsung Extras, a single NPC pool will do. The first number, followed by a “D,” is their dice pool for combat Attributes as well as their Mettle. This is followed by their FRAME bonus. Think “Stunned Bystander 3D+3” or “Hostile Village Elder 4D+2.” Raise the pool by two for Checks strongly related to their title, as if it were a CONCEPT.
+The Guide plays perhaps too many NPCs, such as friendly or unfriendly contacts, shopkeepers, enemies, key figures in the setting, and random passersby. Only key NPCs have full Attributes. For the mostly unnamed, unsung Extras, a single NPC pool will do. The first number, followed by a “D,” is their dice pool for combat Attributes as well as their Mettle. This is followed by their FRAME bonus. Think “Stunned Bystander 3D+3” or “Hostile Village Elder 4D+2.” Raise the pool by two for Checks strongly related to their title, as if it were a CALLING.
 
 <center>*[ Attribute pool ] D + [ FRAME ]*</center>
 
@@ -258,7 +269,7 @@ As their NPC pool gives them less Mettle than regular characters, they have less
 
 ### What Do You Know?
 
-METTLE Core gives example CONCEPTS but does not limit players to a definitive list of skills. The table decides if a given CONCEPT is relevant to a task. Most of the time, the answer should be yes. If not, default to another Attribute (Motive, Nature, or Poise) and consider their Background for context. It may seem backwards, but one is only unskilled at something if their player says they are – and all this does is downgrade what they are Checking for. For example, someone who can’t speak French can use a Know Check to spit out a few words.
+METTLE Core gives example CALLINGS but does not limit players to a definitive list of skills. The table decides if a given CALLING is relevant to a task. Most of the time, the answer should be yes. If not, default to another Attribute (Motive, Nature, or Poise) and consider their Background for context. It may seem backwards, but one is only unskilled at something if their player says they are – and all this does is downgrade what they are Checking for. For example, someone who can’t speak French can use a Know Check to spit out a few words.
 
 ### Flaws
 
@@ -266,7 +277,7 @@ Some players may want to limit or disadvantage their character in some way, such
 
 ### Weapon Guys
 
-In more combat oriented games, the first instinct is to "build" a character around a weapon to make them more efficient. While not encouraged due to being a bit one-note, it is easy to do in METTLE Core by including the weapon name in their CONCEPT. For example, a Marine Sniper or Mercenary Swordsman. This lets them use the implied weapon or group of similar ones at their full CONCEPT as usual.
+In more combat oriented games, the first instinct is to "build" a character around a weapon to make them more efficient. While not encouraged due to being a bit one-note, it is easy to do in METTLE Core by including the weapon name in their CALLING. For example, a Marine Sniper or Mercenary Swordsman. This lets them use the implied weapon or group of similar ones at their full CALLING as usual.
 
 ### Freeform XP
 
