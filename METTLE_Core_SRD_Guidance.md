@@ -14,6 +14,21 @@ title: Guidance
 {:toc}
 
 ---
+## Settings
+One of the first things to do is decide what world your group is set to explore. The heyday of proper “pulp” magazines was in the era of the 1890s to 1950s or so, but how can anyone truly limit the spirit of this larger than life genre? There are however a few sweet spots in the timeline for these wild stories:
+
+- **Wild West (~1860-1890):** rough and ready cowboys, lawmen, and outlaws fighting to survive in a pitiless land. Play up the theme of law versus chaos. Often mixed with supernatural, horror or “steampunk” elements, to taste. **Examples:** *The Lone Ranger, Zorro, Fistful of Dollars, The Wild Wild West.*
+- **Lost World (~1880-1910):** gentleman explorers or soldiers of fortune exploring uncharted and fantastic lands. Play up the contrast between the familiar old world and the fantastic new one. **Examples:** *King Solomon’s Mines, The Lost World, Tarzan of the Apes.*
+- **Hyperborean (Fantasy earth):** Primitive low tech or ancient settings with some swords and sorcery elements. Such heroes rely on their steel and grit instead of falling to the corruption of magical means. **Examples:** *Conan, Kull the Conqueror, Kane*
+- **Atomic Age (~1945-1960):** secret agents and outlaw inventors. Play up the themes of post-war optimism and cold war paranoia. **Examples:** *Johnny Quest, Sky Captain and the World of Tomorrow, early James Bond.*
+- **Techno Pulp (Modern day):** the modern world dialed up to 11. Play up the themes of isolation and progress. While the stakes are as high as ever, plots reliant on a lack of information must now contend with phones and the internet. **Examples:** *later James Bond, Uncharted, John Wick*
+- **Interwar (~1920-1940):** the golden age of pulp adventure, around 1920-1940. The world reels from the effects of the great depression, the shadow of war, and rapid technological advancement. Often centered on the new ease of world travel. **Examples:** *Indiana Jones, The Mummy, Doc Savage, The Rocketeer, The Gold Monkey*
+
+Further details can be worked out by the Guide and/or the table, ideally in a collaborative world building session.
+
+A note of caution is that these media hold a lot of antiquated, racist, and generally ugly assumptions, some more than others. Of course this does not mean you cannot enjoy them, rather that you should be prepared to thoughtfully explore and examine their more “problematic” elements as they emerge.
+
+---
 
 ## Adventures
 
@@ -121,29 +136,22 @@ Some broad plot types to mine:
 
 -   **Great Escape:** Strand or imprison the party, who must find a means of
     escape. Rich ground for forming allegiances and solving puzzles.
-    **Examples:** *The Great Escape, Lost, Hogan's Heroes, The Running man,
-    Stalag 17, The Count of Monte Cristo, etc.*
+    **Examples:** *The Great Escape, Lost, Hogan's Heroes, The Running man, Stalag 17, The Count of Monte Cristo, etc.*
 -   **Treasure Hunt:** Make the party aware of a lost treasure, fugitive, or
     other irresistible macguffin that could change their lives. Heavy on
-    travel scenes, traps, and rival parties. **Examples:** *every Indiana
-    Jones, The Goonies, The Good, the Bad, and the Ugly, Romancing the
-    Stone, Tales of the Gold Monkey, etc.*
+    travel scenes, traps, and rival parties. **Examples:** *every Indiana Jones, The Goonies, The Good, the Bad, and the Ugly, Romancing the Stone, Tales of the Gold Monkey, etc.*
 -   **Countdown:** The party learns of a scheme or ultimatum threatening
     what they hold dear. Usually followed by infiltrating the threat before
-    directly confronting them. **Examples:** *The Rock, Outbreak, A View to
-    a Kill, Moonraker, Dr. Otto and the Riddle of the Gloom Beam, etc.*
+    directly confronting them. **Examples:** *The Rock, Outbreak, A View to a Kill, Moonraker, Dr. Otto and the Riddle of the Gloom Beam, etc.*
 -   **Rescue Mission:** The party finds out an important person or creature
     is missing or captured and sets out to retrieve them. This always has a
-    cost, whether negotiated with self or others. **Examples:** *Big Trouble
-    in Little China, The Wicker Man, Saving Private Ryan,*
+    cost, whether negotiated with self or others. **Examples:** *Big Trouble in Little China, The Wicker Man, Saving Private Ryan,*
 -   **Special Delivery:** The party must deliver an important message, item,
     or person. Guaranteed to be a stealth or chase scene somewhere.
-    **Examples:** *The Transporter, Pulp Fiction, Children of Men, From
-    Russia with Love, Tears of the Sun, etc.*
+    **Examples:** *The Transporter, Pulp Fiction, Children of Men, From Russia with Love, Tears of the Sun, etc.*
 -   **Whodunit:** Embroil the party in a mystery they must solve.
     These involve lots of Know Checks and player ingenuity, so make sure to drop
-    enough clues to keep it moving. **Examples:** *Chinatown, Live and Let
-    Die, Clue, The Maltese Falcon, etc.*
+    enough clues to keep it moving. **Examples:** *Chinatown, Live and Let Die, Clue, The Maltese Falcon, etc.*
 
 Consider that each of these needs a "hook" - a reason for the party to
 get involved. For example, a rival lets it slip, it is in all the news,

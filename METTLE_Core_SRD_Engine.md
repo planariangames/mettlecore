@@ -116,14 +116,15 @@ Guides can also call for Twists for their NPCs. They benefit from player ideas b
 </center>
 
 {: .lh-0}
-|**Type**|**Example Consequences**|
-|---|---|
-|Confuse|Lose *trust*: mistaken identity, mistranslation, half-truth...|
-|Delay\*|Lose *next Action*: stuck, stalled, distracted, shaken...|
-|Dismay|Lose *morale*: lost contact, harm relations with others...|
-|Expose|Lose *secret*: cover blown, reveal a secret, leave clues...|
-|Imperil|Lose *safety*: friendly fire, obstacle, unwanted attention...|
-|Waste|Lose *resources*, use up credit, lose or break items...|
+| **Type**    | **Example Consequences**                                     |
+| ----------- | ------------------------------------------------------------ |
+| **Confuse** | Lose _trust_: mistaken identity, mistranslation, half-truth… |
+| **Delay\*** | Lose _next Action_: stuck, stalled, distracted, shaken…      |
+| **Dismay**  | Lose _morale_: lost contact, harm relations with others...   |
+| **Expose**  | Lose _secret_: cover blown, reveal a secret, leave clues...  |
+| **Indebt**  | Lose _independence_: requires help from another…             |
+| **Imperil** | Lose _safety_: create hazard, attract unwanted attention...  |
+| **Waste**   | Lose _resources:_ use up credit, lose or break items...      |
 
 ### Twists Flowchart
 ```mermaid
@@ -159,7 +160,7 @@ graph TD
 	Success ==> Narrate[Guide describes outcome]
 	Check ==> Concept{{Fits CALLING?}}
 	Concept == Yes ==> Pool[Pool = CALLING]
-	Concept == No ==> Default["Pool = MOTIVE for mental
+	Concept == No ==> Default["Pool = CULTURE for mental
 	Pool = NATURE for social
 	Pool = POISE for athletic"]
 	Pool ==> Roll["Roll dice pool

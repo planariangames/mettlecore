@@ -18,12 +18,12 @@ After they finish, they can read this:
 *This METTLE Troika! hack is an independent production by Planarian Games and is not affiliated with the Melsonian Arts Council.*
 
 ### Backgrounds
-You can build your own METTLE/Troika! characters by taking a Troika Background and converting it into the CONCEPT of a METTLE Character. Treat any Troika! special abilities as if they were equipment. The scale of bonuses and armor are almost identical between the games, conveniently enough.
+You can build your own METTLE/Troika! characters by taking a Troika Background and converting it into the CALLING of a METTLE Character. Treat any Troika! special abilities as if they were equipment. The scale of bonuses and armor are almost identical between the games, conveniently enough.
 
 Other special abilities will take more rejiggering, and may be mentioned here later.
 
 ### Attributes
-Converted characters use the METTLE set of CONCEPT, FRAME, MOTIVE, NATURE, and POISE. It also adds a GNOSIS Attribute, as described later. You can make a perfectly cromulent character by distributing 26 points; 2 every die for your highest attribute and 1 every die for the others. This is a bit higher than a standard METTLE Core character due to the extra GNOSIS Attribute. All Attributes have a minimum of 1, but no maximum because this genre is very permissive of weird power levels.
+Converted characters use the METTLE set of CALLING, FRAME, MOTIVE, NATURE, and POISE. It also adds a GNOSIS Attribute, as described later. You can make a perfectly cromulent character by distributing 26 points; 2 every die for your highest attribute and 1 every die for the others. This is a bit higher than a standard METTLE Core character due to the extra GNOSIS Attribute. All Attributes have a minimum of 1, but no maximum because this genre is very permissive of weird power levels.
 
 Alternately, you can use an array:
 
@@ -74,7 +74,7 @@ All those under the humpbacked sky enjoy a GNOSIS Attribute. This tells you thei
 Like most additional Attributes, GNOSIS does not have a Descriptor.
 
 ### New Action: Cast
-Casting a Spell is a reckless choice every time; a thumb in the eye of the gods. Unlike regular actions that only require a Check if the Guide steps in, casting a Spell always flirts with disaster. After Spending the Mettle cost, Check GNOSIS versus whatever is used to resist the Spell. Many are unresisted, with a Difficulty of zero! Others are unlikely hail-Mary gambits with a high Difficulty. Checks can be made with a relevant CONCEPT if well-justified, for example by having those Spells in their description.
+Casting a Spell is a reckless choice every time; a thumb in the eye of the gods. Unlike regular actions that only require a Check if the Guide steps in, casting a Spell always flirts with disaster. After Spending the Mettle cost, Check GNOSIS versus whatever is used to resist the Spell. Many are unresisted, with a Difficulty of zero! Others are unlikely hail-Mary gambits with a high Difficulty. Checks can be made with a relevant CALLING if well-justified, for example by having those Spells in their description.
 
 **Check**: GNOSIS vs. Difficulty (varies by Spell)
 

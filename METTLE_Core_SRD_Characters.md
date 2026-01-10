@@ -356,7 +356,7 @@ Hand out XP at the *beginning* of each game session after the first. Think of th
 
 **"Tell us one of your favorite moments from the last game."**
 
-Each player then gets a turn to talk about this highlight from the last game, netting them an XP. This can be something they did individually, as a group, or just a wild occurrence. Even failures or bad ideas count if they are significant. If a player mentions something another player did, the other player can still use it for their turn. Others at the table can help – if a player asks for it.
+Each player then gets a turn to talk about this highlight from the last game, netting them an XP. This can be something they did individually, as a group, or just a wild occurrence. Even failures or bad ideas count if they are significant. If a player mentions something another player did, the other player can still use it for their turn. Others at the table can help.
 
 Give them two rounds of this for a medium-length game session, and three for a long one. This means typical XP awards are from one to three XP, depending on the length of the last session.
 

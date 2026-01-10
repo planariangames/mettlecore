@@ -374,7 +374,6 @@ Other status effects exist to vex characters aside from the usual Staggered and 
 -  **Shaken**: hesitant or afraid. This forces them to discard their highest die or dice on any Check.
 -  **Starving**: every day without food lowers maximum Mettle by one. This can be deadly if it drops them to 0 or below. Restored by food.
 -  **Suffocating**: characters lose a point of Mettle per Round while holding their breath, or every two Rounds if inactive.
--   **Surprised**: caught unawares, you do not get an Action for the first Round of Initiative. Next Scene, you are no longer Surprised, and this effect ends.
 -   **Hungry:** each day without food inflicts +1 Difficulty to all tasks. When the Difficulty plus exceeds their CALLING, they have starved to death. A hungry character may alienate others due to irritability as a Twist.
 -   **Thirsty:** each day without water inflicts +2 Difficulty to all tasks. When the Difficulty plus exceeds their CALLING, they have died of thirst. A Thirsty character may faint as a Twist.
 
