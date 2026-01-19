@@ -31,11 +31,11 @@ Less formal means of measuring time can include ***Session***; the entire real-
 
 Measure distance in ***Zones*** for most Scenes. These are flexible spaces, but usually about 10 square meters and 5 meters high. A small closet can be a Zone, as can an amphitheater. Split large areas into several Zones to keep things sensible. Zones can have interesting features or ***Scenery*** (p.52), such as cover, traps, obstacles, etc.
 
-Characters get a free move into an adjacent Zone as part of their Action. This is called a ***Charge***. They only need to spend their Action to Move if hindered somehow. Some creatures or vehicles can move more Zones in a Round, up to their ***Speed***.
+Characters get a free move into an adjacent Zone as part of their Action. This is called a ***Charge***. They only need to spend their Action to Move if hindered somehow. Some creatures or vehicles can move more than one Zone in a Round, up to their ***Speed***.
 
 Range and movement vary depending on how many Zones an area holds! Small, cluttered areas are hard to aim around or move through. In these, the effective range of a move or weapon is not going to be as ideal as it would be on a spacious flat plain.
 
-Races use long Zones called Stretches, each about a half mile. These also replace Rounds as a unit of time during a race.
+Races use long Zones called Stretches, each about a half-mile. These also replace Rounds as a unit of time during a race.
 
 Sometimes you just want a quick zone setup for an encounter. In this case, just draw a square or circle in the middle for melee combatants to duke it out and a zone to either side for ranged combat:
 
@@ -54,7 +54,7 @@ Combatants each get on Action in combat, and Initiative decides when they can sp
 
 Normally, combatants must take their turn when chosen. One may Wait by selecting a specific Action, such as “Attack” and holding off until the right moment. They may use their Wait Action any time later, even interrupting someone else’s. They cannot change the type of Action. If no opportunity arises, they choose at the start of the next Round to keep waiting or rejoin the regular Initiative scheme.
 
-Surges restore the character’s Attack Action that round and make them eligible for Initiative again. A surging combatant must have acted already and have least 2 Mettle.
+Surges restore the character’s Action that round and make them eligible for Initiative again. A surging combatant must have acted already and have least 2 Mettle.
 
 Initiative ends when the conflict is over, by whatever means.
 
@@ -107,10 +107,10 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 > -   **Twists:** *lose next Action in confusion, drop weapon, hit unintended target instead, run out of ammo, break weapon, accidentally lose Cover, jam weapon, attract more foes to the battle, etc.*
 
 -   **Melee Attacks** are close combat strikes on a foe in the same Zone. Narrate these as decisive strikes or flurries of blows, depending on the character’s fighting style or weapon.
--   **Ranged Attacks** fire through Zones up to their Range. Every Zone beyond is a cumulative +1 Difficulty. Double range by Aiming but suffer half POISE until next Action. A single Attack may represent multiple shots, especially with firearms.
+-   **Ranged Attacks** fire through Zones up to their Range. Every Zone beyond is a cumulative +1 Difficulty (target POISE). Double range by Aiming but suffer half POISE until next Action. A single Attack may represent multiple shots, especially with firearms.
 -   **Area Attacks** apply the same Score vs. base Difficulty 0 to everyone in the target Zone to see who takes the damage. Pass Initiative to any survivor with an Action. If none, choose elsewhere.
 -   **Disarm Attacks** remove a weapon from the foe’s grasp instead of doing damage. The spared damage must have been high enough to have otherwise put them into negative Mettle.
--   **Grapple Attacks** hold, grab, or pin a foe. Instead of doing damage, each unsoaked point inflicts +1 Difficulty to their next Action. Armor and weapons do not usually count for either side.
+-   **Grapple Attacks** hold, grab, or pin a foe. Instead of doing damage, each unsoaked point inflicts +1 Difficulty to their next Action. Armor and weapons do not usually add to FRAME for grapples.
 -   **Shove Attacks** push or pull a foe into something or out of a Zone instead of doing damage. The spared damage must have been high enough to have otherwise put them into negative Mettle.
 -   **Split Attacks** divide the dice pool between two different targets. Each must also be aimed at a different target. Any modifiers affect each split pool separately. Pass Initiative to any surviving target who has an Action, if none choose elsewhere.
 -   **Vehicle Attacks** like ramming work much like regular Attacks but factor in current Speed. See Vehicles section in Resources for details.
@@ -142,16 +142,16 @@ There is a difference between what a player knows, and what their character does
 
 > -   **Success:** Guide answers the question in line with the character's best understanding.
 > -   **Edge:** Answers more questions or finer details.
-> -   **Failure:** Guide tells what their CALLING should know outright.
+> -   **Failure:** Guide reveals only what they should know outright.
 > -   **Twists:** *Delay, half-truth, target alerted, one wrong clue, etc.*
 
-The Player should frame their question carefully if they want useful info, and Guides should be generous with answers! Having the right CALLING or MOTIVE often grants information without a Check. Always err towards giving out information to keep the game moving.
+The Player should frame their question carefully if they want useful info, and Guides should be generous with answers! Having the right CALLING or CULTURE often grants information without a Check. Always err towards giving out information to keep the game moving.
 
 This Action helps to understand, not perceive. As such, Know does not detect traps, loot, lies, or ambushes. Hidden foes rely on their Sneak Check, and hidden Traps are treated as Hazards with their own Check. In other cases, the Guide should just tell the players what is there without gating it behind a Check. A thorough search should reveal just about anything, for example.
 
 ### Move
 
-Enters an adjacent Zone. This is usually done with a free move called a Charge, which does not use up an Action unless hindered somehow. More complex moves like ducking through brambles, swimming, clambering over debris, etc. may call for this Action and a Check of POISE vs. a Difficulty set by the Guide.
+Enters an adjacent Zone. This is usually done with a free move called a Charge, which does not use up an Action unless the mover is hindered somehow. More complex moves like ducking through brambles, swimming, clambering over debris, etc. may call for this Action and a Check of POISE vs. a Difficulty set by the Guide.
 
 **Check:** POISE vs. Difficulty
 
@@ -162,13 +162,13 @@ Enters an adjacent Zone. This is usually done with a free move called a Charge, 
 > -   **Failure:** Stopped by an obstacle or triggered trap.
 > -   **Twists:** *drop item, cause a hazard, reveal location, etc.*
 
-Creatures or vehicles with a higher Speed can Move that many Zones in a Round. If they face multiple obstacles along their path, add up the Difficulties – on a failure use their Score to see how many they passed. Slow movers with fractional speeds (1/2, etc.) take two Moves or more to cross a single Zone.
+Mutants and Humans on foot have a Speed of 1 Zone. Faster creatures or vehicles with a higher Speed can Move that many Zones in a Round. If they face multiple obstacles along their path, add up the Difficulties – on a failure use their Score to see how many they passed. Slow movers with fractional speeds (1/2, etc.) take two Moves or more to cross a single Zone.
 
 - **Obstacles** like walls, rivers, brambles, etc. hinder movement into the Zone. For example, hurdling a broken wall to enter. These usually provide Cover (p.56) to those who cross them.
 - **Climbing** lets one enter Zones that extend up or down, like cliffs, pits, or large vehicle/creatures. Very large creatures or vehicles may present their own Zone(s) to climb, making it possible for the bold to deal with riders, find entry ports, etc. Difficulty is the large creature’s POISE or vehicle’s max Speed.
 - **Chases** have the quarry and pursuers Move through a set of chase Zones, with the quarry deciding where to go. How well they overcome obstacles, hazards, and climbing along the way decides who wins.
 
-Surges grant an extra Action, but not higher Speed. The maximum Move in a Round is still equal to Speed. A Surge still grants another chance to climb, chase, or overcome an obstacle.
+A Surge may grant another attempt to overcome an obstacle, but it does not let a mover cross more Zones than their Speed allows.
 
 ### Race
 
@@ -187,18 +187,16 @@ A Race expands Zones into much longer stretches of track, each about half mile l
 
 - **Muscle**: aggressive maneuvering hinders another driver’s Stunts. Spent Edge reduces the Edge of another driver in the same stretch. This can be done at any time to cancel someone else’s Edge Stunt on a one for one basis.
 - **Splatter**: skid up mud or dirt onto the target vehicle with the same lead or lower. Edge inflicts +1 Difficulty due to low Visibility (max +4) for everyone on the vehicle until each of them cleans it off with an Action.
-- **Steady**: races are so intense the driver and passengers cannot normally act. Each Edge spent smooths out the ride so the driver or a chosen passenger may take their Action during the Stretch.
+- **Steady**: races are so intense and bumpy the driver and passengers cannot normally act. Each Edge spent smooths out the ride so the driver or a chosen passenger may take their Action during the Stretch.
 - **Swerve**: juking or angling, Edge inflicts +1 Difficulty to Attacks made on the vehicle until the next Stretch.
 
 The Steady Stunt above allows a selected driver or passenger to make Attacks, maximum one per character just like a Round. This does not require Initiative as not everyone has a chance to act. Ramming or sideswiping is an Attack.
 
 ### Rally
 
-Shaking off the pain, standing up on their hind legs, and putting their guard back up. A Rally doubles current Mettle, up to the maximum. Current Mettle must be higher than zero (1+) to Rally.
+Shaking off the pain, standing up on their hind legs, and putting their guard back up. A primal display of stubbornness that shows the world not to count them down yet. A Rally doubles current Mettle, up to the maximum. Current Mettle must be higher than zero (1+) to Rally, and Surges cannot be spent on a Rally.
 
-A Rally is most effective at half Mettle, less so when higher or lower. When to Rally is an important tactical choice, made easier if one has strong allies or cover to provide breathing space.
-
-
+A Rally is most effective at half Mettle, less so when higher or lower. For example, if max Mettle is 10 and current Mettle is 5, a Rally boosts them back to full. If they waited until they were down to only 1 Mettle, it would only get them back to 2. When to Rally is an important tactical choice, made easier with strong allies or cover to provide breathing space.
 
 ### Rattle
 
@@ -235,7 +233,7 @@ Stealth and subtlety is a great way for adventurers to evade foes and get into s
 > -   **Twists:** *Delay, leave telltale clues, end up in different area, drop gear, etc.*  
 
 -   **Hiding** is a matter of finding Cover rather than a checked Action. If their seekers move into a position where the Cover would fail, the hider can try a Sneak Check to slip away. The better the hiding spot, the less likely they will need to slip away from it.
--   **Surprise** attack is an automatic hit after Sneaking. The backstabber can skip the target and pass Initiative to anyone they choose afterward. Edge counts as double for that damage.
+-   **Surprise** attack is an automatic hit after Sneaking, with any Sneak Edge counting double for damage. The backstabber can also skip the target and pass Initiative to anyone they choose afterward.
 -   **Steal/Plant** small objects, with Edge adding extras. Good for framing a suspect, snitching a set of keys, leaving trackers, live grenades, etc. Often done instead of an Attack or Defense, leaving the foe unaware of their loss or gain.
 
 {: .note }
@@ -285,7 +283,7 @@ Rivals or foes can Travel too, giving them their own Edge result. The highest Ed
 
 ### Use
 
-This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. When necessary, Check a suitable CALLING or the most relevant of MOTIVE, NATURE, or POISE vs. a fiat Difficulty.
+This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. When necessary, Check a suitable CALLING or the most relevant of MOTIVE, NATURE, or POISE, usually vs. a fiat Difficulty set by the Guide.
 
 Longer projects like auto repairs or picking a complicated lock are not necessarily more difficult. These are better handled by requiring a certain amount of Edge before they are completed. Some tables like to keep track of this by making a progress bar or “clock.” It may take several Checks to build up enough Edge to complete the Use project.
 
@@ -295,9 +293,8 @@ Longer projects like auto repairs or picking a complicated lock are not necessar
 
 > -   **Success:** Completes the task as intended, may or may not be *complete*.
 > -   **Edge:** fill in progress bar or clock for longer tasks.
-> -   **Failure:** task fails and must be restarted from the beginning.
-> -   **Twists:** Delay (gonna need more time here!), break tools, attract
->     unwanted attention, weird flaw, lower Resources., etc. \*
+> -   **Failure:** task stalls, remains at current state.
+> -   **Twists:** need more time, lose progress (on longer tasks), break tools, attract unwanted attention, weird flaw, temporarily lower Resources, etc. \*
 
 A party may split a lengthy Use project into smaller ones with varying Difficulties. This allows for incremental progress and taking advantage of specialized assistants. Naturally, the more people in a cohesive team working on a project, the less time it will also take.
 
@@ -343,9 +340,9 @@ Combatants can use nearby obstacles to protect themselves, referred to as taking
 
 - **Partial Cover**: defender gets +2 POISE defense from incoming attacks, including area and melee.
 - **Total Cover**: defender takes no damage from incoming attacks but cannot attack them either.
-- **Guard Cover**: protecting character takes -2 POISE defense and the protected gains +2. This can be called on either of their rounds as long as they both agree and are in the same Zone.
+- **Guard Cover**: protecting character takes -2 POISE defense and the protected gains +2. This can be called at the start of either of their Actions if they both agree and are in the same Zone.
 
-Combatants may switch between these at the start of their Action. Popping out of Total Cover to attack a foe is common but downgrades it to Partial until their next Action.
+Combatants may switch between these at the start of their Action. This does not cost an Action. Popping out of Total Cover to attack a foe is common but downgrades it to Partial until their next Action.
 
 Cover depends on where the attack is coming from. For example, a stone wall only grants Cover against those on the other side. A chain link fence grants full Cover against throwing axes but only partial against gunshots, etc. If Cover is easily penetrated by an attack, it can only ever count as Partial.
 
@@ -353,7 +350,7 @@ Cover depends on where the attack is coming from. For example, a stone wall only
 
 Treat as a Hazard with a Pool and Bonus of 1D+1 for every meter fallen. Difficulty is 0 so skip to counting Edge. Soak falls using POISE instead of FRAME. For example, being pushed out of a 5 meter second-story window is a 5D+5. The maximum fall damage is 15D+15.
 
-The truly daring may ***Plummet*** onto an enemy below, applying up to +2 DM of the falling distance above to damage. The diver still suffers their own falling damage. This is also a good rule of thumb for dropping a weighty item on someone below.
+The truly daring may ***Plummet*** onto an enemy below, applying up to +2 DM of the falling distance above to damage on their Attack. The diver still suffers their own falling damage. This is also a good rule of thumb for dropping a weighty item on someone below.
 
 ### Fire
 
@@ -369,6 +366,7 @@ Other status effects exist to vex characters aside from the usual Staggered and 
 -   **Deafened**: cannot perform hearing-related tasks, like listening to speech or music. Sign language or lip-reading may make up for this. Others may use Sneak against them as if they have cover.
 -   **Encumbered**: Carrying more gear weight than their FRAME allows. Take a general +1 Difficulty and -1 Speed (to a minimum of 1).
 -   **Fatigued**: tired and vulnerable to simple mistakes. This applies a minimum Difficulty to any task equal to 1 for each day of poor sleep or 2 for each day of no sleep. As a minimum, this only affects the Difficulty of a Check if it is higher than the normal one.
+-   **Immobile**: aware but unable to move, can still speak and observe. POISE 0 and no Action.
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
 -   **Rattled**: dismayed by a Rattle or other trauma. Prevents Rallies and Surges on their next Action, or more with Edge.
 -  **Shaken**: hesitant or afraid. This forces them to discard their highest die or dice on any Check.
@@ -396,7 +394,7 @@ Failing that, every trap has a ***Trigger***, such as walking down the hallway, 
     whirring at head height and has a split second to get horizontal and
     avoid decapitation. *5D+7, regular damage.*
 -   **Tripwire:** stout twine between two trees around the bandit camp sets
-    off a crude tin-can alarm. *4D, alerts the lookouts.*
+    off a crude tin-can alarm. *4D, if failed it alerts the lookouts.*
 
 An obvious “trap” such as an open pit or mine laid out in the open is more of a hazard the party may just choose to avoid. Some are still irresistible to the overly curious.
 

@@ -178,7 +178,7 @@ Adventurers come in all shapes and sizes. The Pool reflects their physical might
 {: .lh-0}
 | D66 | 1 | 2 | 3 | 4 | 5 | 6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Apple | Athletic | Burly | Burly | Chunky | Curvy |
+| 1 | Apple | Athletic | Bulky | Burly | Chunky | Curvy |
 | 2 | Gaunt | Giant | Husky | Imposing | Lanky | Leggy |
 | 3 | Medium | Pear | Petite | Plump | Portly | Robust |
 | 4 | Rugged | Shapely | Short | Slender | Slight | Squat |
@@ -240,7 +240,7 @@ An adventurer’s bearing is often the first thing to catch the eye. For an enem
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | Brutish | Casual | Creaky | Drowsy | Feral | Fidgety |
 | 2 | Formal | Frantic | Gentle | Graceful | Hasty | Jerky |
-| 3 | Jittery | Leaning | Lively | Looming | Loose | Perky |
+| 3 | Jittery | Leaning | Lively | Looming | Loose | Bouncy |
 | 4 | Quivers | Regal | Relaxed | Shaky | Shifting | Shuffling |
 | 5 | Slinky | Slouching | Sluggish | Smooth | Steady | Stiff |
 | 6 | Stilted | Swagger | Tense | Tranquil | Waddling | Wiggly |
@@ -283,7 +283,7 @@ How much weight they can handle depends on their FRAME. Exceeding this threshold
 
 - **Encumbered**: +1 Difficulty for POISE-related tasks, -1 Speed (min 1)
 - **Overloaded**: +2 Difficulty for POISE-related tasks, -2 Speed (min 1)
-- **Incapacitated**: no movement or other actions, POISE 0
+- **Immobile**: no movement or other actions, POISE 0
 
 The table below gives the Load step and Shift (max lifted, dragged or pulled) for most FRAMEs. Load steps are given in kilograms (kg), due to the international nature of pulp adventure.
 
@@ -335,6 +335,8 @@ Upon falling to zero or below, the character is **Staggered** or **Fallen**:
 >- Staggered: zero to negative MOTIVE. No Rally or Surge, negative Mettle is penalty.
 >- Fallen: past negative MOTIVE, lose Action and POISE is zero
 
+For example, the same character above with 10 Mettle and a MOTIVE of 3 is Staggered at 0 to -3. Past that they are Fallen.
+
 Both Staggered and Fallen characters are in mortal danger, risking death if they fail a Heal Check next Scene.
 
 Damage is not the only thing that affects Mettle. Mettle refills upon starting a new scene unless the character is Staggered or Fallen. Beyond that, Rallies can restore it, and Surges exhaust it:
@@ -373,7 +375,7 @@ Calling must always be the highest Attribute. If raising another Attribute would
 You may spend XP during the actual game, especially during a tense conflict! This represents learning an opponent’s moves, growing from a rivalry, or lengthy training finally coming to fruition.
 
 {: .highlight }
->- Raise CALLING: XP cost = CALLING x 2
+>- Raise CALLING: XP cost = current CALLING x 2
 >- Raise other: XP cost = CALLING
 
 ---

@@ -70,8 +70,8 @@ Players may also just assume success if a Pool is higher than the Difficulty. On
 
 {: .highlight }
 >-	Roll a number of dice equal to the Attribute being used.
->-	Add up dice showing 1–3 for the Score.
->-	Count the number of dice showing 4–6 for the Edge.
+>-	Add up dice showing 1, 2, or 3 for the Score.
+>-	Count the number of dice showing 4, 5, or 6 for the Edge.
 >-	Check succeeds if the Score is at or above Difficulty.
 >-	Edge is the quality of success or potential for a Twist on failure.
 
