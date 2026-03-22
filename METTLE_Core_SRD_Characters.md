@@ -95,7 +95,7 @@ Unusual settings may introduce entirely new Attributes to account for things lik
 
 ### CALLING
 
-This is the Adventurer’s lot in life, and the size of their dice pool tells you how good they are at it. CALLING is special because it can replace other Attributes if better suited for the task. For example, a *Royal Fencing Instructor* could use their CALLING instead of NATURE when wielding a fencing blade. This is only for the active side of a Check; CALLING cannot swap in for other Attributes used as a passive Difficulty/defense.
+This is the Adventurer’s lot in life, and the size of their dice pool tells you how good they are at it. CALLING is special because it can replace other Attributes if better suited for the task. For example, a *Royal Fencing Instructor* could use their CALLING instead of POISE when wielding a fencing blade. This is only for the active side of a Check; CALLING cannot swap in for other Attributes used as a passive Difficulty/defense.
 
 Guides often grant free information or automatic success with the right CALLING Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon without their player so much as touching the dice, while those with less relevant Descriptors may be stuck making Checks.
 
@@ -146,7 +146,7 @@ Guides often grant free information or automatic success with the right CALLING 
 
 ### CULTURE
 
-The mind is honed by its environment, like a butterfly struggling out of its cocoon. The Pool is used for general knowledge, sharpness of wit, and handling ranged weapons. The Descriptor is the place the adventurer grew up in and sets their native language.
+The mind is honed by its environment, like a butterfly struggling out of its cocoon. The Pool is for general knowledge that does not fall under their CALLING, and sharpness of wit. The Descriptor is the place the adventurer grew up in and determines their native language.
 
 **<u>Example Descriptors:</u>** *Kansas Farm Boy, Somalian Immigrant, Chicago Street Urchin, Brigadoon Villager, etc.*
 
@@ -163,7 +163,7 @@ The mind is honed by its environment, like a butterfly struggling out of its coc
 | 5       | Immigrant from another country               |
 | 6       | Visitor from another country                 |
 
-For ease of play, assume characters from other countries speak both languages unless the player decides otherwise.
+For ease of play, assume characters from other countries speak their native language and that of the main setting unless the player decides otherwise. Other languages can be CALLINGs or Resources.
 
 ### FRAME
 
@@ -207,7 +207,7 @@ An overarching goal that keeps them going even when things seem hopeless. The Po
 
 ### NATURE
 
-Force of personality and discerning the hearts of others. The Pool is used for social persuasion and melee combat, both expressions of the fire burning within. The Descriptor should describe how they interact with the world.
+Force of personality and discerning the hearts of others. The Pool is used for social persuasion and forms part of the Mettle score. The Descriptor should describe how they interact with the world.
 
 **<u>Example Descriptors:</u>** *Icy smile, a raincloud with legs, still water deep currents, friendly and gregarious, grossly incandescent, etc.*
 
@@ -227,7 +227,7 @@ Force of personality and discerning the hearts of others. The Pool is used for s
 
 ### POISE
 
-An adventurer’s bearing is often the first thing to catch the eye. For an enemy, it may be the last! The Pool is used for coordinated feats like dancing, dodging, climbing, swimming, and sneaking. The Descriptor is how they strut upon the world’s stage.
+An adventurer’s bearing is often the first thing to catch the eye. For an enemy, it may be the last! The Pool is used for feats of coordination like fighting, shooting, dancing, climbing, swimming, and sneaking. The Descriptor is how they strut upon the world’s stage.
 
 **<u>Example Descriptors:</u>** *Smooth & graceful, lightning reflexes, clumsy, walks with a limp, stiff-legged gait, fast-paced, takes it slow.*
 
@@ -275,6 +275,9 @@ A character can afford items with up to as many digits in their price as their C
 
 List discrete windfalls, suitcases full of cash, stolen piggybanks, or other treasures as separate items. This preserves the appeal of special loot.
 
+### Languages
+A globe-trotting pulp Adventurer can support the lifestyle needed to learn and practice a number of languages equal to their Resources. These are at conversational level; Fluency takes up two slots. If Resources drop, they will get rusty with a language or more
+
 ### Encumbrance
 
 Most of the time, Players should be able to avoid tracking how heavy their gear is just by not going overboard with it. On the other hand, one can only carry so much, especially when lugging loads of lovely loot from a lucrative locale.
@@ -315,10 +318,10 @@ Overloaded characters may drop bulky gear such as backpacks to avoid encumbrance
 
 ## Step 5: Mettle
 
-A mixture of luck, stamina and willpower, but best thought of as morale or fighting spirit. Mettle is equal to the CALLING + MOTIVE of the character. This works to withstand damage and fuel desperate actions. Only dropping to zero or lower results in lasting injury.
+A mixture of luck, stamina and willpower, but best thought of as morale or fighting spirit. Mettle is equal to the MOTIVE + NATURE of the character. This works to withstand damage and fuel desperate actions. Only dropping to zero or lower results in lasting injury.
 
 {: .highlight }
->- Mettle = CALLING + MOTIVE
+>- Mettle = MOTIVE + NATURE
 
 ### Taking Damage
 
@@ -326,7 +329,7 @@ Characters suffer ***Damage*** from hazards or attacks they face. Fortunately, 
 
 Upon falling to zero or below, the character is **Staggered** or **Fallen**:
 
-- **Staggered**: characters suffer real trauma when Mettle drops to zero down to their MOTIVE in the negatives. They also take a die penalty to Checks equal to any negative Mettle and can no longer Rally or Surge (below).
+- **Staggered**: characters suffer real trauma when Mettle drops to zero down to their MOTIVE in the negatives. They also take a die penalty to Checks equal to any negative Mettle and can no longer Rally (below).
 
 - **Fallen**: past negative MOTIVE, a wounded character falls unconscious. They lose their Action and drop to zero POISE.
 
@@ -341,12 +344,11 @@ Both Staggered and Fallen characters are in mortal danger, risking death if they
 
 Damage is not the only thing that affects Mettle. Mettle refills upon starting a new scene unless the character is Staggered or Fallen. Beyond that, Rallies can restore it, and Surges exhaust it:
 
-### Rallies
-Combatants can push themselves beyond their limits, but this takes its toll. This costs an Action but doubles current Mettle – up to the maximum of course. A Rallying character must have at least 1 Mettle. More info on Rallies is in the Actions section.
+### Rallies & Rattles
+Combatants may take a moment to shrug off lesser wounds and trauma. This Rally costs an Action but doubles current Mettle – up to the maximum of course. Conversely, a foe can Rattle them with a threat or insult, halving their Mettle. More info is in the Actions section.
 
 ### Surges
-
-Endangered characters can push themselves beyond their limits, at a cost. Halve current Mettle, rounding up, to regain a spent Action. This makes them eligible for Initiative again that round. A Surging character must have at least 2 Mettle and cannot use it to Rally (below).
+Endangered characters can push themselves beyond their limits, but it costs them dearly. When Initiative is in play, spend a point of Mettle to get +1D on any Check. If the Check aligns with their Motive, spend up to 2 points for +2D. A character may do great harm to themselves by surging into the negatives.
 
 ## Experience
 
@@ -388,13 +390,13 @@ Dana is making a new character for an upcoming game. Her Guide set it in an alte
 
 **Step 2 -- Appearance** Dana thinks it would be fun to play a sardonic H.R. Mencken type with a sword cane. She decides on a thin, well-dressed mature gentleman. Maybe suffering from an old leg injury? She writes *"A crisply attired gentleman in a burgundy suit, with a telling limp in his right leg."*
 
-**Step 3** **-- Attributes:** Dana rolls “Gambler” as his CALLING, spices it up as “Itinerant Gambler,” and gives it the mandatory 6 levels. That’s what he does now that he can’t fence competitively. Now she spends the 17 free points. She rolls “Immigrant from another country” as his Culture, so she decides he comes from a family of Russian Immigrants and puts 3 points in it.  She sees him as difficult to deal with, so she chooses “Competition” as his MOTIVE at 4D, and “Curmudgeon” as his NATURE at 5D, reflecting his sharp tongue and fencer’s bravado. The low 2D goes in POISE to reflect his “old fencing injury” to the leg – he is not as agile as he was. The other 3D goes in FRAME as he is “svelte but wiry.”
+**Step 3** **-- Attributes:** Dana rolls “Fencer” as his CALLING, spices it up as “Down & Out Fencer,” and gives it the mandatory 6 levels. That’s what he does now that he can’t fence competitively. Now she spends the 17 free points. She rolls “Immigrant from another country” as his Culture, so she decides he comes from a family of Russian Immigrants and puts 3 points in it.  She sees him as difficult to deal with, so she chooses “Competition” as his MOTIVE at 4D, and “Curmudgeon” as his NATURE at 5D, reflecting his sharp tongue and fencer’s bravado. The low 2D goes in POISE to reflect his “old fencing injury” to the leg – he is not as agile as he was. The other 3D goes in FRAME as he is “svelte but wiry.”
 
 **Step 4 -- Resources:** Dana’s Guide assigns 2 (Struggling) for Credit based on Viktor’s situation. He wears a finely Tailored Burgundy Suit but that goes into appearance. He carries an elegant sword cane, which is probably only 1 kg at the most, and no armor. For carried items, he has a pocketknife, a pocket watch & fob, and a deck of cards.
 
-**Step 5 -- Mettle**: is 10 because his CALLING is 6 and Motive is 4.
+**Step 5 -- Mettle**: is 9 because his MOTIVE is 4 and his NATURE is 5.
 
-She pauses for a second; Viktor honestly seems like a bit of a jerk, but a lot of fun to play.
+Reading between the lines of the Descriptors suggests he dropped out of competitive fencing after a leg injury. His Attributes reflect this as still using his well-trained Calling to Attack but being a bit of a sitting duck due to his low Poise. He is still very competitive but now expresses it largely with his acerbic wit. She pauses for a second; Viktor honestly seems like a bit of a jerk, but a lot of fun to play. At this point, she is ready and the game is on.
 
 <center>
 <strong>EXAMPLE CHARACTER</strong>

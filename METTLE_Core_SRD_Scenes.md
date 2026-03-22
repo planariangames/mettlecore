@@ -54,8 +54,6 @@ Combatants each get on Action in combat, and Initiative decides when they can sp
 
 Normally, combatants must take their turn when chosen. One may Wait by selecting a specific Action, such as “Attack” and holding off until the right moment. They may use their Wait Action any time later, even interrupting someone else’s. They cannot change the type of Action. If no opportunity arises, they choose at the start of the next Round to keep waiting or rejoin the regular Initiative scheme.
 
-Surges restore the character’s Action that round and make them eligible for Initiative again. A surging combatant must have acted already and have least 2 Mettle.
-
 Initiative ends when the conflict is over, by whatever means.
 
 {: .highlight}
@@ -95,9 +93,9 @@ The default Twist for Actions is Delay, meaning they lose their next Action beca
 
 ### Attack
 
-Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check NATURE for melee Attacks and CULTURE for ranged Attacks, always vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CALLING includes the name of a weapon or fighting style, they may use it in place of NATURE or CULTURE.
+Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check the Attacker’s POISE vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CALLING includes the name of a weapon or fighting style, they may use it in place of POISE.
 
-**Check** NATURE vs. POISE for melee, CULTURE vs. POISE for ranged.
+**Check** POISE vs. POISE.
 
 {: .outcomes }
 
@@ -112,7 +110,7 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 -   **Disarm Attacks** remove a weapon from the foe’s grasp instead of doing damage. The spared damage must have been high enough to have otherwise put them into negative Mettle.
 -   **Grapple Attacks** hold, grab, or pin a foe. Instead of doing damage, each unsoaked point inflicts +1 Difficulty to their next Action. Armor and weapons do not usually add to FRAME for grapples.
 -   **Shove Attacks** push or pull a foe into something or out of a Zone instead of doing damage. The spared damage must have been high enough to have otherwise put them into negative Mettle.
--   **Split Attacks** divide the dice pool between two different targets. Each must also be aimed at a different target. Any modifiers affect each split pool separately. Pass Initiative to any surviving target who has an Action, if none choose elsewhere.
+-   **Split Attacks** divide the POISE pool between two different targets. Each must also be aimed at a different target. Any modifiers affect each split pool separately. Pass Initiative to any surviving target who has an Action, if none choose elsewhere.
 -   **Vehicle Attacks** like ramming work much like regular Attacks but factor in current Speed. See Vehicles section in Resources for details.
 
 ### Heal
@@ -168,8 +166,6 @@ Mutants and Humans on foot have a Speed of 1 Zone. Faster creatures or vehicles 
 - **Climbing** lets one enter Zones that extend up or down, like cliffs, pits, or large vehicle/creatures. Very large creatures or vehicles may present their own Zone(s) to climb, making it possible for the bold to deal with riders, find entry ports, etc. Difficulty is the large creature’s POISE or vehicle’s max Speed.
 - **Chases** have the quarry and pursuers Move through a set of chase Zones, with the quarry deciding where to go. How well they overcome obstacles, hazards, and climbing along the way decides who wins.
 
-A Surge may grant another attempt to overcome an obstacle, but it does not let a mover cross more Zones than their Speed allows.
-
 ### Race
 
 High stakes race or chase scenes often benefit from some structure. After dealing with obstacles and dirty tricks, the driver reaching the end with the highest Speed wins. If tied for Speed, the highest Edge wins. Race Checks are POISE vs. current Speed, with obstacles adding Difficulty.
@@ -194,15 +190,13 @@ The Steady Stunt above allows a selected driver or passenger to make Attacks, ma
 
 ### Rally
 
-Shaking off the pain, standing up on their hind legs, and putting their guard back up. A primal display of stubbornness that shows the world not to count them down yet. A Rally doubles current Mettle, up to the maximum. Current Mettle must be higher than zero (1+) to Rally, and Surges cannot be spent on a Rally.
+Shaking off the pain, standing up on their hind legs, and putting their guard back up. A primal display of stubbornness that shows the world not to count them down yet. A Rally doubles current Mettle, up to the maximum. Current Mettle must be higher than zero (1+) to Rally.
 
 A Rally is most effective at half Mettle, less so when higher or lower. For example, if max Mettle is 10 and current Mettle is 5, a Rally boosts them back to full. If they waited until they were down to only 1 Mettle, it would only get them back to 2. When to Rally is an important tactical choice, made easier with strong allies or cover to provide breathing space.
 
 ### Rattle
 
-Taunting, threatening, trash-talking, or demoralizing a foe makes it harder for them to focus. This is only effective if they can grasp the indignity of it. Rattle is a Check of NATURE vs. MOTIVE, but a spiteful, authoritative, or comedic CALLING can do. This inflicts the ***Rattled*** Status, forcing them to discard their lowest die or dice on any Check.
-
-For example, a Rattled combatant makes an Attack Check and gets [2, 2, 4, 5, 5, 6]. They must discard the 2s and now have only Edge, meaning they have no Score and fail.
+Taunting, threatening, trash-talking, or demoralizing a foe grants a powerful advantage, perhaps as much as physical damage. This is only effective if they can grasp the indignity of it. Rattle is a Check of NATURE vs. MOTIVE, but a spiteful, authoritative, or comedic CALLING can do. This cuts their current Mettle in half, rounding up as always. Any Edge inflicts the Rattled Status, which keeps them from Rallying it back on that many future Actions.
 
 Foes discombobulated in this way often surrender or flee.
 
@@ -210,8 +204,8 @@ Foes discombobulated in this way often surrender or flee.
 
 {: .outcomes }
 
-> -   **Success:** Target is Rattled (discard lowest) on their next Action.
-> -   **Edge:** *effect lasts until after another Action.*
+> -   **Success:** Target halves their current Mettle (round up).
+> -   **Edge:** target cannot Rally for that many future Actions.
 > -   **Failure:** target keeps their cool somehow.
 > -   **Twists:** *reveal secret, offend ally, draw more foes, etc.*
 
@@ -368,8 +362,7 @@ Other status effects exist to vex characters aside from the usual Staggered and 
 -   **Fatigued**: tired and vulnerable to simple mistakes. This applies a minimum Difficulty to any task equal to 1 for each day of poor sleep or 2 for each day of no sleep. As a minimum, this only affects the Difficulty of a Check if it is higher than the normal one.
 -   **Immobile**: aware but unable to move, can still speak and observe. POISE 0 and no Action.
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
--   **Rattled**: dismayed by a Rattle or other trauma. Prevents Rallies and Surges on their next Action, or more with Edge.
--  **Shaken**: hesitant or afraid. This forces them to discard their highest die or dice on any Check.
+-   **Rattled**: agitated by a Rattle from a clever foe. They cannot Rally for a number of coming Actions equal to the Rattler’s Edge.
 -  **Starving**: every day without food lowers maximum Mettle by one. This can be deadly if it drops them to 0 or below. Restored by food.
 -  **Suffocating**: characters lose a point of Mettle per Round while holding their breath, or every two Rounds if inactive.
 -   **Hungry:** each day without food inflicts +1 Difficulty to all tasks. When the Difficulty plus exceeds their CALLING, they have starved to death. A hungry character may alienate others due to irritability as a Twist.
