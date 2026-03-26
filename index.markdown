@@ -2,6 +2,7 @@
 layout: home
 nav_order: 1
 title: About
+search_keywords: "mettle, dice, action, adventure, rpg, ttrpg, mutananny"
 ---
 
 <center><img src="images/ItchCover.png" title="METTLE Core cover"/></center>
