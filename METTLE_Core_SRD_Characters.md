@@ -15,16 +15,16 @@ title: Characters
 
 ---
 ## Overview
-1.	Name: pick a good evocative handle.
-2.	Appearance: describe how they look when introduced.
-3.	Attributes: set their power in the narrative and system.
+1.	**Name**: pick a good evocative handle.
+2.	**Appearance**: describe how they look when introduced.
+3.	**Attributes**: set their power in the narrative and system.
 - CALLING: primary occupation or expertise.
 - FRAME: physical presence, strength and stamina.
 - MOTIVE: mental focus, wits and willpower.
 - NATURE: martial and social savvy
 - POISE: agility and reflexes.
-4.	Resources: decide starting wealth level and choose gear.
-5.	Mettle: morale and stamina, equal to CALLING + MOTIVE.
+4.	**Resources**: decide starting wealth level and choose gear.
+5.	**Mettle**: morale and stamina, equal to CALLING + MOTIVE.
 
 ## Step 1: Name
 
@@ -107,14 +107,15 @@ Unusual settings may introduce entirely new Attributes to account for things lik
 
 ### CALLING
 
-*	Replaces other Attributes for Checks, if higher and relevant
-*	Forms the bulk of the Mettle score.
-
 This is the Adventurer’s lot in life, and the size of their dice pool tells you how good they are at it. CALLING is special because it can replace other Attributes if better suited for the task. For example, a *Royal Fencing Instructor* could use their CALLING instead of POISE when wielding a fencing blade. This is only for the active side of a Check; CALLING cannot swap in for other Attributes used as a passive Difficulty/defense.
 
 Guides often grant free information or automatic success with the right CALLING Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon without their player so much as touching the dice, while those with less relevant Descriptors may be stuck making Checks.
 
 **<u>Example Descriptors</u>:** *cat burglar, astromech pilot, village blacksmith, unemployed librarian, time-traveling lunatic, courtier, etc.*
+
+{: .highlight }
+>- Replaces other Attributes for Checks, if higher and relevant
+>- Forms the bulk of the Mettle score.
 
 <center>
 <strong>CALLING Descriptor Seeds</strong>
@@ -161,13 +162,14 @@ Guides often grant free information or automatic success with the right CALLING 
 
 ### FRAME
 
-*	Feats of strength such as lifting and carrying
-*	Inflicting damage with most physical attacks
-*	Resisting damage from physical attacks
-
 Adventurers come in all shapes and sizes. The Pool reflects their physical might for taking damage, dishing it out, and carrying heavy loads. The Descriptor is their body type or build.
 
 **<u>Example Descriptors:</u>** *Built like a scarecrow, Broad as a barn door, charmingly asymmetric, mighty thews and gristle, serpentine, etc.*
+
+{: .highlight }
+>-	Feats of strength such as lifting and carrying
+>-	Inflicting damage with most physical attacks
+>-	Resisting damage from physical attacks
 
 <center>
 <strong>FRAME Descriptor Seeds</strong>
@@ -185,10 +187,6 @@ Adventurers come in all shapes and sizes. The Pool reflects their physical might
 
 ### MOTIVE
 
-*	Default pool for mental tasks
-*	Resisting stealth and charm
-*	Forms part of the Mettle score
-
 An overarching goal that drives the will to survive and understand their world. The pool is used for mental tasks and makes them less susceptible to trickery. The Descriptor is that goal, and an adventurer who fulfills it may retire or take on a new mission in life.
 
 **<u>Example Descriptors</u>:** *Avenge my master, bring justice to the oppressed, consume great quantities, escape from the oubliette, kill vampires, etc.*
@@ -196,6 +194,11 @@ An overarching goal that drives the will to survive and understand their world. 
 <center>
 <strong>MOTIVE Descriptor Seeds</strong>
 </center>
+
+{: .highlight }
+>-	Default pool for mental tasks
+>-	Resisting stealth and charm
+>-	Forms part of the Mettle score
 
 {: .lh-0}
 | D66 | 1 | 2 | 3 | 4 | 5 | 6 |
@@ -209,12 +212,13 @@ An overarching goal that drives the will to survive and understand their world. 
 
 ### NATURE
 
-*	Default pool for social tasks
-*	Default pool for attacks
-
 Force of personality and discerning the hearts of others. This pool is used for social feats and melee combat, both expressions of the fire burning within. The Descriptor is how they interact with the world.
 
 **<u>Example Descriptors:</u>** *Icy smile, a raincloud with legs, still water deep currents, friendly and gregarious, grossly incandescent, etc.*
+
+{: .highlight }
+>-	Default pool for social tasks
+>-	Default pool for attacks
 
 <center>
 <strong>NATURE Descriptor Seeds</strong>
@@ -232,12 +236,13 @@ Force of personality and discerning the hearts of others. This pool is used for 
 
 ### POISE
 
-*	Default pool for physical tasks
-*	Avoiding physical attacks
-
 An adventurer’s bearing is often the first thing to catch the eye. For an enemy, it may be the last! The pool is used for physical feats like dancing, dodging, climbing, swimming, and sneaking. The Descriptor is how they strut upon the world’s stage.
 
 **<u>Example Descriptors:</u>** *Smooth & graceful, lightning reflexes, clumsy, walks with a limp, stiff-legged gait, fast-paced, takes it slow.*
+
+{: .highlight }
+>-	Default pool for physical tasks
+>-	Avoiding physical attacks
 
 <center>
 <strong>POISE Descriptor Seeds</strong>
