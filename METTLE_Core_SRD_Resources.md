@@ -212,9 +212,13 @@ Vehicles with roll bars or cabins grant Partial Cover to the driver and passenge
 
 ### Vehicle Damage
 
-Vehicles are harder to break than living things, but less resilient. They have no Mettle score of their own – unsoaked damage becomes a penalty to Handling. If the penalty is enough to drop the driver’s Handling Check to zero dice, the vehicle won’t move for them. Someone with more dice may have better luck.
+Vehicles are an extension of their driver and as such share their Mettle for most purposes. Hits to the vehicle apply to the driver’s Mettle as long as it is above the negatives. A hit that drops them below zero Staggers the vehicle instead, sparing the driver. Sometimes it is a good idea to swap drivers if their Mettle is getting low.
 
-- **Crashing** is when a vehicle hits an obstacle or rolls over. Vehicle and passengers take damage as a Hazard pool equal to their current Speed, with no Soak! Occupants not wearing seatbelts add a bonus equal to current Speed. For example, a Crash at 3 Speed inflicts 3D damage, or 3D+3 without seatbelts.
+For example, a driver with 9 Mettle behind the wheel of a souped-up spy Mustang gets hit by an autocannon for 6 damage. This drops the vehicle-and-driver pair to 3 Mettle. When a nazi warbot lands on the trunk for a further 5 damage, this puts the vehicle at -2 Mettle and inflicts Stagger. The driver’s Mettle remains at 3, so the penalty applies to any driving actions they make using the vehicle itself.
+
+Rallies only raise Mettle if above zero, so if the vehicle is Staggered and the driver is not, only the driver’s Mettle recovers. The car needs a stint in the repair shop.
+
+- **Crashing** is when a vehicle hits an obstacle or rolls over. Vehicle and passengers take damage as a Hazard pool equal to their current Speed plus a bonus also equal to current Speed. If not wearing seatbelts or other safety devices, double the bonus. For example, a Crash at 3 Speed inflicts 3D+3 damage, but the guy too cool to wear a seatbelt takes 3D+6.
 - **Ramming** turns a vehicle into a deadly weapon by sideswiping, t-boning, or rear-ending. Against another vehicle, make an Attack Check of the Vehicle’s Handling versus the target’s current Speed (or POISE if a pedestrian!). Ram damage to the target is the rammer’s FRAME + Speed + Edge. The Ramming vehicle also takes damage, equal to the target’s FRAME + Speed. Double effective Speed for both in a head-on collision.
 
 ### Repairs
@@ -232,20 +236,20 @@ Vehicles with high Speeds are faster than their Move in human-scaled Zones would
 
 {: .lh-0}
 | **Vehicle**        | **Handling** | **Speed** | **Frame** | **Enc**         | **Cost** |
-| ------------------ | :----------: | :-------: | :-------: | :-------------: | :------: |
-| Bus, school        | \-           | 4         | 14        | 581/1162/1743   | 6        |
-| Car, compact       | +2D          | 5         | 10        | 162/324/486     | 5        |
-| Car, sedan         | +1D          | 5         | 10        | 162/324/486     | 5        |
-| Car, sports        | +2D          | 6         | 10        | 162/324/486     | 6        |
-| Car, SUV           | +1D          | 5         | 11        | 222/444/666     | 5        |
-| Dirt bike          | +2D          | 3         | 5         | 33/66/99        | 4        |
-| Helicopter, attack | +1D          | 6         | 12        | 306/612/918     | 7        |
-| Helicopter, light  | +2D          | 5         | 9         | 117/234/351     | 6        |
-| Jet, Fighter       | +1D          | 10        | 15        | 801/1602/2403   | 7        |
-| Jet, Jumbo         | \-           | 8         | 20        | 3984/7968/11952 | 7        |
-| Motorcycle         | +2D          | 5         | 6         | 45/90/135       | 5        |
-| Seaplane           | \-           | 6         | 12        | 306/612/918     | 6        |
-| Tank, combat       | +1D          | 3         | 17        | 1522/3044/4566  | 7        |
-| Truck, garbage     | \-           | 4         | 16        | 1104/2208/3312  | 6        |
-| Truck, monster     | +1D          | 4         | 12        | 306/612/918     | 6        |
-| Truck, pickup      | +1D          | 5         | 11        | 222/444/666     | 5        |
+| ------------------ | ------------ | --------- | --------- | --------------- | -------- |
+| Bus, school        | \-           | 4         | 13        | 581/1162/1743   | 6        |
+| Car, compact       | +2D          | 5         | 9         | 162/324/486     | 5        |
+| Car, sedan         | +1D          | 5         | 9         | 162/324/486     | 5        |
+| Car, sports        | +2D          | 6         | 9         | 162/324/486     | 6        |
+| Car, SUV           | +1D          | 5         | 10        | 222/444/666     | 5        |
+| Dirt bike          | +2D          | 3         | 4         | 33/66/99        | 4        |
+| Helicopter, attack | +1D          | 6         | 11        | 306/612/918     | 7        |
+| Helicopter, light  | +2D          | 5         | 8         | 117/234/351     | 6        |
+| Jet, Fighter       | +1D          | 10        | 14        | 801/1602/2403   | 7        |
+| Jet, Jumbo         | \-           | 8         | 19        | 3984/7968/11952 | 7        |
+| Motorcycle         | +2D          | 5         | 5         | 45/90/135       | 5        |
+| Seaplane           | \-           | 6         | 11        | 306/612/918     | 6        |
+| Tank, combat       | +1D          | 3         | 16        | 1522/3044/4566  | 7        |
+| Truck, garbage     | \-           | 4         | 15        | 1104/2208/3312  | 6        |
+| Truck, monster     | +1D          | 4         | 11        | 306/612/918     | 6        |
+| Truck, pickup      | +1D          | 5         | 10        | 222/444/666     | 5        |
