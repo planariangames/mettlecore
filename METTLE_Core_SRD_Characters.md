@@ -5,7 +5,7 @@ parent: SRD
 title: Characters
 ---
 
-*Players and Guides both need **Characters**, and here is where your journey begins. The Character is your alter ego during a game, akin to how an actor embodies an improv role. You have the freedom to base them on yourself, favorite fictional figures, or entirely original ideas. METTLE Core defaults to a roughly modern setting and this influences the options found below. Character sheets are available online or at the end of this book.*
+*Players and Guides both need **characters**, and here is where your journey begins. The character is your alter ego during a game, akin to how an actor embodies an improv role. You have the freedom to base them on yourself, favorite fictional figures, or entirely original ideas. METTLE Core defaults to a roughly modern setting and this influences the options found below. Character sheets are available online or at the end of this book.*
 
 ## Table of Contents
 
@@ -14,6 +14,18 @@ title: Characters
 {:toc}
 
 ---
+## Overview
+1.	Name: pick a good evocative handle.
+2.	Appearance: describe how they look when introduced.
+3.	Attributes: set their power in the narrative and system.
+- CALLING: primary occupation or expertise.
+- FRAME: physical presence, strength and stamina.
+- MOTIVE: mental focus, wits and willpower.
+- NATURE: martial and social savvy
+- POISE: agility and reflexes.
+4.	Resources: decide starting wealth level and choose gear.
+5.	Mettle: morale and stamina, equal to CALLING + MOTIVE.
+
 ## Step 1: Name
 
 This can be a tough choice unless you have a Dickensian knack for clever names. A solid idea is to go with something audacious and easy to pronounce. This also helps others at your table remember it. If you get stuck, come back to it later. There is space at the end for pronouns to reflect sex and/or gender.
@@ -81,11 +93,11 @@ if you roll a 6 and a 2, go to the distinctive feature in the row for "6, 2."
 
 ## Step 3: Attributes
 
-These are your character's ***CALLING, CULTURE, FRAME, MOTIVE, NATURE,*** and ***POISE*** pools.  Attributes lend a character substance within the rules of the game. The more dice there are in an Attribute ***Pool***, the better they are at things related to it. Attributes range from 1 to 6 for starting characters, with a 3 being average. Experienced adventurers may exceed those bounds at the Guide's discretion.
+These are your character's ***CALLING, FRAME, MOTIVE, NATURE,*** and ***POISE*** pools.  Attributes lend a character substance within the rules of the game. The more dice there are in an Attribute ***Pool***, the better they are at things related to it. Attributes range from 1 to 6 for starting characters, with a 3 being average. Experienced adventurers may exceed those bounds at the Guide's discretion.
 
 Each Attribute may also bear a ***Descriptor***; a word or phrase fleshing out what the Attribute covers. This defined scope is vital for the ***CALLING*** Attribute and useful for the others. Having the right Descriptor for a task may even let you just assume success. Players may leave Descriptors blank at creation and discover them as they play.
 
-Starting characters are well above average with plenty of room to grow. Put a [6] into CALLING. Put 17 points into the rest of the Attributes, with a minimum of 1 and a maximum of 5. For example, putting 3 in CULTURE, 2 in FRAME, 5 in MOTIVE, 4 in NATURE, and 3 in POISE, for a total of 17.
+Starting characters are well above average with plenty of room to grow. Put a **[6]** into CALLING. Put **14** points into the rest of the Attributes, with a minimum of 1 and a maximum of 5. For example, 2 in FRAME, 5 in MOTIVE, 4 in NATURE, and 3 in POISE.
 
 Attribute pools can improve later with experience points. Gain these by recounting memorable events from the last adventure.
 
@@ -94,6 +106,9 @@ Circumstances or equipment may change an Attribute pool. In this case, put the a
 Unusual settings may introduce entirely new Attributes to account for things like cybernetics, magic, superpowers, and martial arts.
 
 ### CALLING
+
+*	Replaces other Attributes for Checks, if higher and relevant
+*	Forms the bulk of the Mettle score.
 
 This is the Adventurer’s lot in life, and the size of their dice pool tells you how good they are at it. CALLING is special because it can replace other Attributes if better suited for the task. For example, a *Royal Fencing Instructor* could use their CALLING instead of POISE when wielding a fencing blade. This is only for the active side of a Check; CALLING cannot swap in for other Attributes used as a passive Difficulty/defense.
 
@@ -105,67 +120,50 @@ Guides often grant free information or automatic success with the right CALLING 
 <strong>CALLING Descriptor Seeds</strong>
 </center>
 
-| **d66** | **Calling**    | **What they are good at:**                    |
-| ------- | -------------- | --------------------------------------------- |
-| 1,1     | Acrobat        | Incredible physical feats of agility          |
-| 1,2     | Artist         | Creating expressive works of art              |
-| 1,3     | Assassin       | Murder by stealth or trickery                 |
-| 1,4     | Athlete        | Competing in a physical sport                 |
-| 1,5     | Boxer          | Fighting an opponent with their fists         |
-| 1,6     | Burglar        | Breaking, entering, and sneaking              |
-| 2,1     | Butler         | Managing a household and its staff            |
-| 2,2     | Celebrity      | Staying famous and managing attention         |
-| 2,3     | Clown          | Wit and physical comedy                       |
-| 2,4     | Cowboy         | Riding a horse and herding cattle             |
-| 2,5     | Inventor       | Thinking up wild new inventions               |
-| 2,6     | Detective      | Solving crimes by diligent investigation      |
-| 3,1     | Dilettante     | Dabbling in many arts and sciences            |
-| 3,2     | Doctor         | Diagnosis and treatment of medical conditions |
-| 3,3     | Drifter        | Moving from one place to another              |
-| 3,4     | Driver         | Expert working of a car or land vehicle       |
-| 3,5     | Engineer       | Designing or building machines or structures  |
-| 3,6     | Explorer       | Traveling to discover unknown places          |
-| 4,1     | Fencer         | Dueling with swords                           |
-| 4,2     | Gambler        | Betting money on games of chance              |
-| 4,3     | Hacker         | Illicit manipulation of computers             |
-| 4,4     | Laborer        | Physical work, the sweat of their brow        |
-| 4,5     | Martial artist | Practicing a specific fighting skill          |
-| 4,6     | Mercenary      | Fighting as a private warrior for pay         |
-| 5,1     | Occultist      | A student of the mystical arts                |
-| 5,2     | Pilot          | Expert working of a plane or air vehicle      |
-| 5,3     | Royalty        | Wielding the power of a hereditary title      |
-| 5,4     | Sailor         | Expert working of a ship or water vehicle     |
-| 5,5     | Scholar        | Studies and researches a specific topic       |
-| 5,6     | Scientist      | Conduct experiments to gain knowledge         |
-| 6,1     | Socialite      | Uses their standing in fashionable society    |
-| 6,2     | Soldier        | Fighting as a warrior in a national force     |
-| 6,3     | Spy            | Secretly gathering intelligence on targets    |
-| 6,4     | Student        | Studying and learning a field or discipline   |
-| 6,5     | Priest         | Studying and preaching a recognized religion  |
-| 6,6     | Vigilante      | Enforceing justice outside the law            |
-
-### CULTURE
-
-The mind is honed by its environment, like a butterfly struggling out of its cocoon. The Pool is for general knowledge that does not fall under their CALLING, and sharpness of wit. The Descriptor is the place the adventurer grew up in and determines their native language.
-
-**<u>Example Descriptors:</u>** *Kansas Farm Boy, Somalian Immigrant, Chicago Street Urchin, Brigadoon Villager, etc.*
-
-<center>
-<strong>CULTURE Descriptor Seeds</strong>
-</center>
-
-| **1d6** | **Culture Descriptor Seeds**                 |
-| ------- | -------------------------------------------- |
-| 1       | Roaming native of the country game is set in |
-| 2       | Rural native of country game is set in       |
-| 3       | Suburban native of country game is set in    |
-| 4       | Urban native of country game is set in       |
-| 5       | Immigrant from another country               |
-| 6       | Visitor from another country                 |
-
-For ease of play, assume characters from other countries speak their native language and that of the main setting unless the player decides otherwise. Other languages can be CALLINGs or Resources.
+| **d66** | **Calling**        | **What they are good at:**                 |
+| ------- | ------------------ | ------------------------------------------ |
+| 1,1     | **Acrobat**        | Incredible physical feats of agility       |
+| 1,2     | **Archaeologist**  | Spout ancient lore and navigate ruins      |
+| 1,3     | **Assassin**       | Murder by stealth or trickery              |
+| 1,4     | **Boxer**          | Fighting an opponent with their fists      |
+| 1,5     | **Burglar**        | Breaking, entering, and sneaking           |
+| 1,6     | **Celebrity**      | Staying famous and managing attention      |
+| 2,1     | **Codebreaker**    | Cracking ciphers, safes, and security      |
+| 2,2     | **Confidant**      | Managing logistics and secrets             |
+| 2,3     | **Daredevil**      | Perform death-defying stunts               |
+| 2,4     | **Detective**      | Solving crimes by diligent investigation   |
+| 2,5     | **Dilettante**     | Dabbling in many arts and sciences         |
+| 2,6     | **Drifter**        | Moving from one place to another           |
+| 3,1     | **Driver**         | Expert working of a car or land vehicle    |
+| 3,2     | **Engineer**       | Building machines or structures            |
+| 3,3     | **Escapologist**   | Slipping bonds, traps, and contortion      |
+| 3,4     | **Explorer**       | Traveling to discover unknown places       |
+| 3,5     | **Fatale**         | Femme or Homme, a deadly seducer           |
+| 3,6     | **Fencer**         | Civilized dueling with swords              |
+| 4,1     | **Forger**         | Mimic documents and artifacts              |
+| 4,2     | **Gadgeteer**      | Thinking up wild new inventions            |
+| 4,3     | **Gambler**        | Betting money on games of chance           |
+| 4,4     | **Gunslinger**     | Trick shots, fast draws, and survival      |
+| 4,5     | **Journalist**     | Chasing leads, interviews, finding “truth” |
+| 4,6     | **Martial artist** | Practicing a specific fighting skill       |
+| 5,1     | **Mercenary**      | Fighting as a private warrior for pay      |
+| 5,2     | **Occultist**      | A student of the mystical arts             |
+| 5,3     | **Physician**      | Diagnosis, medicine, and surgery           |
+| 5,4     | **Pilot**          | Expert working of a plane or air vehicle   |
+| 5,5     | **Priest**         | Studying and preaching a religion          |
+| 5,6     | **Royalty**        | Wielding the power of a hereditary title   |
+| 6,1     | **Sailor**         | Expert working of a ship or water vehicle  |
+| 6,2     | **Socialite**      | Uses their standing in fashionable society |
+| 6,3     | **Soldier**        | Fighting as a warrior in a national force  |
+| 6,4     | **Spy**            | Secretly gathering intelligence on targets |
+| 6,5     | **Street rat**     | Navigating the city’s underbelly           |
+| 6,6     | **Vigilante**      | Enforcing justice outside the law          |
 
 ### FRAME
+
+*	Feats of strength such as lifting and carrying
+*	Inflicting damage with most physical attacks
+*	Resisting damage from physical attacks
 
 Adventurers come in all shapes and sizes. The Pool reflects their physical might for taking damage, dishing it out, and carrying heavy loads. The Descriptor is their body type or build.
 
@@ -187,7 +185,11 @@ Adventurers come in all shapes and sizes. The Pool reflects their physical might
 
 ### MOTIVE
 
-An overarching goal that keeps them going even when things seem hopeless. The Pool is part of the Mettle score and helps resist being manipulated by others. The Descriptor is that goal, and an adventurer who fulfills it may retire or take on a new mission in life.
+*	Default pool for mental tasks
+*	Resisting stealth and charm
+*	Forms part of the Mettle score
+
+An overarching goal that drives the will to survive and understand their world. The pool is used for mental tasks and makes them less susceptible to trickery. The Descriptor is that goal, and an adventurer who fulfills it may retire or take on a new mission in life.
 
 **<u>Example Descriptors</u>:** *Avenge my master, bring justice to the oppressed, consume great quantities, escape from the oubliette, kill vampires, etc.*
 
@@ -207,7 +209,10 @@ An overarching goal that keeps them going even when things seem hopeless. The Po
 
 ### NATURE
 
-Force of personality and discerning the hearts of others. The Pool is used for social persuasion and forms part of the Mettle score. The Descriptor should describe how they interact with the world.
+*	Default pool for social tasks
+*	Default pool for attacks
+
+Force of personality and discerning the hearts of others. This pool is used for social feats and melee combat, both expressions of the fire burning within. The Descriptor is how they interact with the world.
 
 **<u>Example Descriptors:</u>** *Icy smile, a raincloud with legs, still water deep currents, friendly and gregarious, grossly incandescent, etc.*
 
@@ -227,7 +232,10 @@ Force of personality and discerning the hearts of others. The Pool is used for s
 
 ### POISE
 
-An adventurer’s bearing is often the first thing to catch the eye. For an enemy, it may be the last! The Pool is used for feats of coordination like fighting, shooting, dancing, climbing, swimming, and sneaking. The Descriptor is how they strut upon the world’s stage.
+*	Default pool for physical tasks
+*	Avoiding physical attacks
+
+An adventurer’s bearing is often the first thing to catch the eye. For an enemy, it may be the last! The pool is used for physical feats like dancing, dodging, climbing, swimming, and sneaking. The Descriptor is how they strut upon the world’s stage.
 
 **<u>Example Descriptors:</u>** *Smooth & graceful, lightning reflexes, clumsy, walks with a limp, stiff-legged gait, fast-paced, takes it slow.*
 
@@ -318,37 +326,27 @@ Overloaded characters may drop bulky gear such as backpacks to avoid encumbrance
 
 ## Step 5: Mettle
 
-A mixture of luck, stamina and willpower, but best thought of as morale or fighting spirit. Mettle is equal to the MOTIVE + NATURE of the character. This works to withstand damage and fuel desperate actions. Only dropping to zero or lower results in lasting injury.
+The fighting spirit of the character. Mettle is equal to the CALLING + MOTIVE of the character, so usually around 9 at creation. Combatants only suffering lasting injury when Mettle falls into the negatives.
 
 {: .highlight }
->- Mettle = MOTIVE + NATURE
+>- Mettle = CALLING + MOTIVE
 
 ### Taking Damage
 
-Characters suffer ***Damage*** from hazards or attacks they face. Fortunately, they can Soak to reduce incoming damage by an amount equal to their FRAME plus Armor. Any damage left after Soak lowers current Mettle. For example, a character with 3 FRAME Soak and 10 Mettle takes 7 points of damage. Soaking 3 means only 4 get through, dropping Mettle from 10 to 6. Still in the fight!
+Characters suffer ***Damage*** from hazards or attacks they face. Fortunately, they can Soak to reduce incoming damage by an amount equal to their FRAME plus Armor. Any damage left after Soak lowers current Mettle. For example, a character with 3 FRAME Soak and 9 Mettle takes 7 points of damage. Soaking 3 means only 4 get through, dropping Mettle from 9 to 5. Still in the fight!
 
-Upon falling to zero or below, the character is **Staggered** or **Fallen**:
+Upon reaching negative Mettle, the character is **Staggered** or **Fallen**:
 
-- **Staggered**: characters suffer real trauma when Mettle drops to zero down to their MOTIVE in the negatives. They also take a die penalty to Checks equal to any negative Mettle and can no longer Rally (below).
+- **Staggered**: characters suffer real trauma when their Mettle drops below zero, into the negatives. At this point, they can no longer Rally and face a die penalty to all Checks equal to their negative Mettle.
 
-- **Fallen**: past negative MOTIVE, a wounded character falls unconscious. They lose their Action and drop to zero POISE.
+- **Fallen**: at negative MOTIVE, a wounded character falls unconscious. They lose their Action and drop to zero POISE. They are also in mortal danger, risking death if they fail a Heal Check next Scene.
+
+Mettle refills to the maximum upon starting a new scene, unless the character is Staggered or Fallen. A Rally Action may also refill some Mettle during combat.
 
 {: .highlight }
 >- Damage exceeding Soak reduces Mettle temporarily.
->- Staggered: zero to negative MOTIVE. No Rally or Surge, negative Mettle is penalty.
->- Fallen: past negative MOTIVE, lose Action and POISE is zero
-
-For example, the same character above with 10 Mettle and a MOTIVE of 3 is Staggered at 0 to -3. Past that they are Fallen.
-
-Both Staggered and Fallen characters are in mortal danger, risking death if they fail a Heal Check next Scene.
-
-Damage is not the only thing that affects Mettle. Mettle refills upon starting a new scene unless the character is Staggered or Fallen. Beyond that, Rallies can restore it, and Surges exhaust it:
-
-### Rallies & Rattles
-Combatants may take a moment to shrug off lesser wounds and trauma. This Rally costs an Action but doubles current Mettle – up to the maximum of course. Conversely, a foe can Rattle them with a threat or insult, halving their Mettle. More info is in the Actions section.
-
-### Surges
-Endangered characters can push themselves beyond their limits, but it costs them dearly. When Initiative is in play, spend a point of Mettle to get +1D on any Check. If the Check aligns with their Motive, spend up to 2 points for +2D. A character may do great harm to themselves by surging into the negatives.
+>- Staggered: at negative Mettle. No Rally, negative Mettle is penalty.
+>- Fallen: at negative MOTIVE, lose Action and POISE is zero
 
 ## Experience
 
@@ -390,11 +388,11 @@ Dana is making a new character for an upcoming game. Her Guide set it in an alte
 
 **Step 2 -- Appearance** Dana thinks it would be fun to play a sardonic H.R. Mencken type with a sword cane. She decides on a thin, well-dressed mature gentleman. Maybe suffering from an old leg injury? She writes *"A crisply attired gentleman in a burgundy suit, with a telling limp in his right leg."*
 
-**Step 3** **-- Attributes:** Dana rolls “Fencer” as his CALLING, spices it up as “Down & Out Fencer,” and gives it the mandatory 6 levels. That’s what he does now that he can’t fence competitively. Now she spends the 17 free points. She rolls “Immigrant from another country” as his Culture, so she decides he comes from a family of Russian Immigrants and puts 3 points in it.  She sees him as difficult to deal with, so she chooses “Competition” as his MOTIVE at 4D, and “Curmudgeon” as his NATURE at 5D, reflecting his sharp tongue and fencer’s bravado. The low 2D goes in POISE to reflect his “old fencing injury” to the leg – he is not as agile as he was. The other 3D goes in FRAME as he is “svelte but wiry.”
+**Step 3** **-- Attributes:** Dana rolls “Fencer” as his CALLING, spices it up as “Down & Out Fencer” and gives it the mandatory 6 levels. Now she spends the 14 free points. She sees him as difficult to deal with, so she chooses “Competition” as his MOTIVE at 4D, and “Curmudgeon” as his NATURE at 5D, reflecting his sharp tongue. The low 2D goes in POISE to reflect his “old fencing injury” to the leg – he is not as agile as he was. The other 3D goes in FRAME as he is “svelte but wiry.”
 
 **Step 4 -- Resources:** Dana’s Guide assigns 2 (Struggling) for Credit based on Viktor’s situation. He wears a finely Tailored Burgundy Suit but that goes into appearance. He carries an elegant sword cane, which is probably only 1 kg at the most, and no armor. For carried items, he has a pocketknife, a pocket watch & fob, and a deck of cards.
 
-**Step 5 -- Mettle**: is 9 because his MOTIVE is 4 and his NATURE is 5.
+**Step 5 -- Mettle**: adding his CALLING of 6 and MOTIVE of 4 gives him a Mettle of 10.
 
 Reading between the lines of the Descriptors suggests he dropped out of competitive fencing after a leg injury. His Attributes reflect this as still using his well-trained Calling to Attack but being a bit of a sitting duck due to his low Poise. He is still very competitive but now expresses it largely with his acerbic wit. She pauses for a second; Viktor honestly seems like a bit of a jerk, but a lot of fun to play. At this point, she is ready and the game is on.
 
