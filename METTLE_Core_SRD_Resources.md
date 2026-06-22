@@ -218,7 +218,7 @@ For example, a driver with 9 Mettle behind the wheel of a souped-up spy Mustang 
 
 Rallies only raise Mettle if above zero, so if the vehicle is Staggered and the driver is not, only the driver’s Mettle recovers. The car needs a stint in the repair shop.
 
-- **Crashing** is when a vehicle hits an obstacle or rolls over. Vehicle and passengers take damage as a Hazard pool equal to their current Speed plus a bonus also equal to current Speed. If not wearing seatbelts or other safety devices, double the bonus. For example, a Crash at 3 Speed inflicts 3D+3 damage, but the guy too cool to wear a seatbelt takes 3D+6.
+- **Crashing** is when a vehicle hits an obstacle or rolls over. Vehicle and passengers take damage as a Hazard pool equal to their current Speed plus a bonus also equal to current Speed. The Vehicle gets no FRAME Soak, but the driver and passengers Soak normally. This can mean that the driver loses Mettle twice, first for the vehicle damage and next for the passenger damage. For example, a Crash at 3 Speed inflicts 3D+3. The driver takes this hit to their Mettle unsoaked, then the driver and any passengers take 3D+3 damage with their usual Soak values.
 - **Ramming** turns a vehicle into a deadly weapon by sideswiping, t-boning, or rear-ending. Against another vehicle, make an Attack Check of the Vehicle’s Handling versus the target’s current Speed (or POISE if a pedestrian!). Ram damage to the target is the rammer’s FRAME + Speed + Edge. The Ramming vehicle also takes damage, equal to the target’s FRAME + Speed. Double effective Speed for both in a head-on collision.
 
 ### Repairs
