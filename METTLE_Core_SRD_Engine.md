@@ -205,7 +205,7 @@ The Guide has gotten together with a few good friends as players: *Dana* and *Tr
 
 **Guide:** kind of a fancy Russian tea kettle.
 
-**Dana:** Oh, Viktor would know that! He has a background that involves Russian culture.
+**Dana:** Oh, Viktor would know that! He grew up in a Russian immigrant family.
 
 **Guide:** Good enough.
 

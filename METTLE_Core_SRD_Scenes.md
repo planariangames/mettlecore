@@ -52,9 +52,9 @@ Combatants each get on Action in combat, and Initiative decides when they can sp
 - **Main**: Initiative then passes from the current holder to the target of the Action, whether enemy or ally. They become the new holder and get to act next. If the target has no Action to spend, the holder must instead pass it to someone who does. If the Action was targeted at oneself or has no apparent target, the holder also just passes it to anyone with an Action.
 - **End**: When everyone has taken their Action, a new Round begins. Everyone gets their Action back, so the last one to go can now pass Initiative to their target (or choose, if not applicable).
 
-Normally, combatants must take their turn when chosen. One may Wait by selecting a specific Action, such as “Attack” and holding off until the right moment. They may use their Wait Action any time later, even interrupting someone else’s. They cannot change the type of Action. If no opportunity arises, they choose at the start of the next Round to keep waiting or rejoin the regular Initiative scheme.
+Combatants may ***Wait*** by selecting a specific Action, such as “Attack,” and holding off until the right moment. This can even interrupt someone else’s Action. If no opportunity arises, they choose at the start of the next Round to keep waiting or re-enter Initiative.
 
-Initiative ends when the conflict is over, by whatever means.
+Initiative ends when the conflict ends, by whatever means.
 
 {: .highlight}
 >- First to declare Action triggers Initiative.
@@ -89,13 +89,15 @@ Most games spend a good amount of time resolving *Actions.* While it is fun to r
 
 Do not fret if you run into events in the game that genuinely call for a Check but are not listed here. Just as described in the Checks section; find a likely Attribute for the pool, take a guess at the Difficulty, and make up your mind about what success and failure mean. Then just throw the dice. If it's something you end up doing a lot, save some time by writing up a formal Action for it. The ones to follow are just the most common actions, pre-baked so you don't have to cook them up from scratch every time.
 
+While every Action pairs with an Attribute, this is just for your convenience! If another Attribute make sense in the situation, use it instead. This is always true for well-suited CALLINGS.
+
 The default Twist for Actions is Delay, meaning they lose their next Action because they are still dealing with the consequences of their last. The Outcomes section of each Action also lists a few likely alternate Twists to liven things up. These are not exhaustive, and many other possibilities exist. Be creative!
 
 ### Attack
 
-Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check the Attacker’s POISE vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CALLING includes the name of a weapon or fighting style, they may use it in place of POISE.
+Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check the Attacker’s NATURE vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CALLING includes the name of a weapon or fighting style, they may use it in place of POISE.
 
-**Check** POISE vs. POISE.
+**Check** NATURE vs. POISE.
 
 {: .outcomes }
 
@@ -110,38 +112,38 @@ Adventurers get a lot of mileage out of bone-headed violence, so learn this Acti
 -   **Disarm Attacks** remove a weapon from the foe’s grasp instead of doing damage. The spared damage must have been high enough to have otherwise put them into negative Mettle.
 -   **Grapple Attacks** hold, grab, or pin a foe. Instead of doing damage, each unsoaked point inflicts +1 Difficulty to their next Action. Armor and weapons do not usually add to FRAME for grapples.
 -   **Shove Attacks** push or pull a foe into something or out of a Zone instead of doing damage. The spared damage must have been high enough to have otherwise put them into negative Mettle.
--   **Split Attacks** divide the POISE pool between two different targets. Each must also be aimed at a different target. Any modifiers affect each split pool separately. Pass Initiative to any surviving target who has an Action, if none choose elsewhere.
+-   **Split Attacks** divide the Attack pool between two different targets. Each must also be aimed at a different target. Any modifiers affect each split pool separately. Pass Initiative to any surviving target who has an Action, if none choose elsewhere.
 -   **Vehicle Attacks** like ramming work much like regular Attacks but factor in current Speed. See Vehicles section in Resources for details.
 
 ### Heal
 
-This is for life-or-death trauma well beyond bruises and stitches. As such, it works only on those who have dropped to 0 Mettle or below. Heal is a Check of CULTURE vs. Difficulty 3, lower if in a hospital and higher in unsanitary conditions. Success means they are stable for the time being. Edge heals negative Mettle over the course of a day’s rest. Failure means the character dies.
+Each day of rest, a Staggered or Fallen character can recover with a Check of MOTIVE vs. a Difficulty equal to the amount of negative Mettle. For example, -2 Mettle is Difficulty 2. Success means their health is stable and any Edge removes that much negative Mettle. Failure worsens their condition: the Staggered become Fallen and the Fallen die.
 
-**Check:** CULTURE vs. Fiat Difficulty (usually 3)
+**Check:** MOTIVE vs. |negative Mettle|
 
 {: .outcomes }
 
-> -   **Success:** the patient is alive and somewhat stable.
-> -   **Edge:** each point restores a point of Mettle after a day's rest.
-> -   **Failure:** patient succumbs to their wounds or died before the aid.
+> -   **Success:** alive and somewhat stable.
+> -   **Edge:** each clears a point of negative Mettle.
+> -   **Failure:** condition worsens (Staggered > Fallen > Dead)
 > -   **Twists:** *patient disfigured, lost a part, wasted gear or surgical tools, arrogant healer aggravates everyone, etc.*
 
-Staggered (and even Fallen) characters can attempt this Action to recover on their own but their chances are slim due to the die penalty for negative Mettle.
+Penalties due to negative Mettle still apply to this Check, but as a special rule these cannot lower the dice pool below the patient’s MOTIVE. Aid from a healthy ally is best, especially one with a medical CALLING.
 
 If a character is too debilitated, the best thing to do is switch to an alternate character for a while. As payback for everyone’s convenience, the Guide can just handwave their recovery by next campaign.
 
 ### Know
 
-There is a difference between what a player knows, and what their character does. This can go either way. When in doubt, players may ask the Guide if their character would know something. For example, what car an obscure salvaged auto part fits in, the weight of a fugitive murderer from their footprints, or who has a revealing “tell” when gambling. Know is a Check of MOTIVE vs. a fiat Difficulty for facts, or vs. MOTIVE if used to gain insight into a person. Success means the Guide gives them extra information.
+There is a difference between what a player knows, and what their character does. This can go either way. When in doubt, players may ask the Guide if their character would know something. For example, what car an obscure salvaged auto part fits in, the weight of a fugitive murderer from their footprints, or who has a revealing “tell” when gambling. Know is a Check of MOTIVE vs. a fiat Difficulty for facts, or vs. MOTIVE if used to gain insight into a person. Success means the Guide gives them the extra information or a reminder of a forgotten clue.
 
-**Check:** CALLING vs. Difficulty (or vs. MOTIVE if a person)
+**Check:** MOTIVE vs. Difficulty (or MOTIVE vs. MOTIVE if a person)
 
 {: .outcomes }
 
 > -   **Success:** Guide answers the question in line with the character's best understanding.
-> -   **Edge:** Answers more questions or finer details.
+> -   **Edge:** The overall quality of the revealed extra info.
 > -   **Failure:** Guide reveals only what they should know outright.
-> -   **Twists:** *Delay, half-truth, target alerted, one wrong clue, etc.*
+> -   **Twists:** *Half-truth, suspect wary, one wrong clue out of several, etc.*
 
 The Player should frame their question carefully if they want useful info, and Guides should be generous with answers! Having the right CALLING or CULTURE often grants information without a Check. Always err towards giving out information to keep the game moving.
 
@@ -160,7 +162,7 @@ Enters an adjacent Zone. This is usually done with a free move called a Charge, 
 > -   **Failure:** Stopped by an obstacle or triggered trap.
 > -   **Twists:** *drop item, cause a hazard, reveal location, etc.*
 
-Mutants and Humans on foot have a Speed of 1 Zone. Faster creatures or vehicles with a higher Speed can Move that many Zones in a Round. If they face multiple obstacles along their path, add up the Difficulties – on a failure use their Score to see how many they passed. Slow movers with fractional speeds (1/2, etc.) take two Moves or more to cross a single Zone.
+Humans on foot have a Speed of 1 Zone. Faster creatures or vehicles with a higher Speed can Move that many Zones in a Round. If they face multiple obstacles along their path, add up the Difficulties – on a failure use their Score to see how many they passed. Slow movers with fractional speeds (1/2, etc.) take two Moves or more to cross a single Zone.
 
 - **Obstacles** like walls, rivers, brambles, etc. hinder movement into the Zone. For example, hurdling a broken wall to enter. These usually provide Cover (p.56) to those who cross them.
 - **Climbing** lets one enter Zones that extend up or down, like cliffs, pits, or large vehicle/creatures. Very large creatures or vehicles may present their own Zone(s) to climb, making it possible for the bold to deal with riders, find entry ports, etc. Difficulty is the large creature’s POISE or vehicle’s max Speed.
@@ -168,7 +170,7 @@ Mutants and Humans on foot have a Speed of 1 Zone. Faster creatures or vehicles 
 
 ### Race
 
-High stakes race or chase scenes often benefit from some structure. After dealing with obstacles and dirty tricks, the driver reaching the end with the highest Speed wins. If tied for Speed, the highest Edge wins. Race Checks are POISE vs. current Speed, with obstacles adding Difficulty.
+High stakes vehicular race or chase scenes use an altered version of the Move Action above. The Zones are larger, failure is a crash instead of a delay, and the vehicles must hold the same current Speed. At the end of a Race, the driver with the highest Edge wins. Race Checks are POISE vs. current Speed, with obstacles adding Difficulty.
 
 **Check:** POISE vs. current Speed
 
@@ -176,42 +178,34 @@ High stakes race or chase scenes often benefit from some structure. After dealin
 
 > -   **Success:** Maintains control and keeps pace with the Speed group.
 > -   **Edge:** Their lead on other racers or spent on Stunts.
-> -   **Failure:** 1d6+Speed crash damage to vehicle and occupants.
-> -   **Twists:** *Delay (drop 1 Speed, falling out of current group until next stretch), waste fuel, lose parts, mod fails, etc.*
+> -   **Failure:** Crash damage to vehicle and occupants.
+> -   **Twists:** *wrong turn, waste fuel, lose parts, modification fails, etc.*
 
-A Race expands Zones into much longer stretches of track, each about half mile long and lasting a minute or so. All racers make their checks and compare Edge for the lead. Lead mostly matters in the final stretch, until then Edge can be spent on the Stunts below. These are decided after everyone makes their Check and do not require Initiative. Mixing and matching Edge on different Stunts is allowed:
+A Race expands Zones into much longer Stretches of track, each about half mile long and lasting a minute or so. All racers make their checks and compare Edge for the lead. Lead mostly matters in the final stretch, until then they should spend Edge on the Stunts below. Decide on these after everyone makes their Check. Mixing and matching Edge on different Stunts is allowed:
 
-- **Muscle**: aggressive maneuvering hinders another driver’s Stunts. Spent Edge reduces the Edge of another driver in the same stretch. This can be done at any time to cancel someone else’s Edge Stunt on a one for one basis.
-- **Splatter**: skid up mud or dirt onto the target vehicle with the same lead or lower. Edge inflicts +1 Difficulty due to low Visibility (max +4) for everyone on the vehicle until each of them cleans it off with an Action.
-- **Steady**: races are so intense and bumpy the driver and passengers cannot normally act. Each Edge spent smooths out the ride so the driver or a chosen passenger may take their Action during the Stretch.
-- **Swerve**: juking or angling, Edge inflicts +1 Difficulty to Attacks made on the vehicle until the next Stretch.
+- **Steady**: races are so intense and bumpy the driver and passengers cannot normally act. Each Edge spent smooths out the ride so the driver or a chosen passenger may take an Action during the Stretch. Each person may take only one Action per Stretch. Attack, Rally, and Use (Jury-rig) are popular.
+- **Swerve**: juking or angling defensively. Each Edge spent negates one Edge spent on a Ram. This can Soak some damage or avoid it entirely if all the Ram Edge is negated. Dusty or muddy roads can double the Edge granted on Swerves due to poor visibility.
+- **Ram**: attacking by bumping, striking, or sideswiping another racer. This inflicts Frame + Edge damage, soaked by target’s FRAME as usual. The Ramming vehicle also takes counter damage equal to the target’s Frame, soaked by their own Frame as usual. Ramming targets outside of the race is possible; use the Race Score to see if it hits and add Speed difference to damage.
 
-The Steady Stunt above allows a selected driver or passenger to make Attacks, maximum one per character just like a Round. This does not require Initiative as not everyone has a chance to act. Ramming or sideswiping is an Attack.
+Stunts follow Initiative just like regular combat, with the highest lead vehicle going first. More detailed information about crashes, rams, and vehicular damage is in the Vehicles section
+
+More detailed information about crashes, rams, and vehicular damage is in the Vehicles section
+
 
 ### Rally
 
-Shaking off the pain, standing up on their hind legs, and putting their guard back up. A primal display of stubbornness that shows the world not to count them down yet. A Rally doubles current Mettle, up to the maximum. Current Mettle must be higher than zero (1+) to Rally.
-
-A Rally is most effective at half Mettle, less so when higher or lower. For example, if max Mettle is 10 and current Mettle is 5, a Rally boosts them back to full. If they waited until they were down to only 1 Mettle, it would only get them back to 2. When to Rally is an important tactical choice, made easier with strong allies or cover to provide breathing space.
-
-### Rattle
-
-Taunting, threatening, trash-talking, or demoralizing a foe grants a powerful advantage, perhaps as much as physical damage. This is only effective if they can grasp the indignity of it. Rattle is a Check of NATURE vs. MOTIVE, but a spiteful, authoritative, or comedic CALLING can do. This cuts their current Mettle in half, rounding up as always. Any Edge inflicts the Rattled Status, which keeps them from Rallying it back on that many future Actions.
-
-Foes discombobulated in this way often surrender or flee.
+Shaking off the pain and standing up on their hind legs. A primal display of stubbornness that shows the world not to count them out yet. A Rally is a MOTIVE Check with a Difficulty of 0 – no chance of failure so just count Edge! Every Edge recovers a point of Mettle, up to the maximum.
 
 **Check:** NATURE vs. MOTIVE
 
 {: .outcomes }
 
-> -   **Success:** Target halves their current Mettle (round up).
-> -   **Edge:** target cannot Rally for that many future Actions.
-> -   **Failure:** target keeps their cool somehow.
-> -   **Twists:** *reveal secret, offend ally, draw more foes, etc.*
+> -   **Success:** not applicable, always succeeds at Difficulty 0.
+> -   **Edge:** each point of Edge recovers one Mettle.
+> -   **Failure:** not applicable, always Difficulty 0.
+> -   **Twists:** not applicable, always Difficulty 0.
 
-Using some sort of revelation or dirt can grant a bonus. For example, revealing the target’s partner was unfaithful, they made a mistake, are surrounded, etc. True or not, it must be something the target would care about. Events in the game or the Know Action may reveal these. Some may only be used once; this is a tricky tactic and should be treated sensibly at the table.
-
-A rattled target cannot be rattled again until it wears off.
+When to Rally is an important tactical choice, made easier with strong allies or cover to provide safety.
 
 ### Sneak
 
@@ -224,7 +218,7 @@ Stealth and subtlety is a great way for adventurers to evade foes and get into s
 > -   **Success:** Remain unnoticed by your foes.
 > -   **Edge:** Surprise attack with double Edge, steal or plant more small items, etc.
 > -   **Failure:** They notice you.
-> -   **Twists:** *Delay, leave telltale clues, end up in different area, drop gear, etc.*  
+> -   **Twists:** *delay due to slow movement or lack of opportunity, leave telltale clues, end up in different area, drop gear, etc.*  
 
 -   **Hiding** is a matter of finding Cover rather than a checked Action. If their seekers move into a position where the Cover would fail, the hider can try a Sneak Check to slip away. The better the hiding spot, the less likely they will need to slip away from it.
 -   **Surprise** attack is an automatic hit after Sneaking, with any Sneak Edge counting double for damage. The backstabber can also skip the target and pass Initiative to anyone they choose afterward.
@@ -235,7 +229,7 @@ Stealth and subtlety is a great way for adventurers to evade foes and get into s
 
 ### Sway
 
-Haggling, seduction, diplomacy, lies, threats, bribery, and negotiation are all good alternatives or preludes to battle. This is not mind-control and merely shifts the social situation in favor of the winner. Sway is a Check of NATURE vs. MOTIVE. The side with more leverage may get a bonus or better narrative outcome.
+Persuasion, haggling, seduction, diplomacy, lies, threats, bribery, and negotiation are all good alternatives or preludes to battle. This is not mind-control and merely shifts the social situation in favor of the winner. Sway is a Check of NATURE vs. MOTIVE. The side with more leverage or knowledge of their target’s Background may enjoy a bonus or better narrative outcome.
 
 **Check:** NATURE vs. MOTIVE (or highest MOTIVE of an audience)
 
@@ -269,7 +263,7 @@ The lead traveler then Checks POISE – or their best navigation or area knowled
 > -   **Success:** arrive at destination safely.
 > -   **Edge:** *compare to beat rival parties or foes to destination.*
 > -   **Failure:** arrive at your destination if you survive an encounter.
-> -   **Twists:** *need extra day to get back on track, get lost and move to an adjacent hex, roll another encounter, worse encounter, ambushed at the destination, lose supplies or goods.*
+> -   **Twists:** *need extra day to get back on track, get lost and move to an adjacent hex, ambushed at the destination, lose supplies.*
 
 An ***Encounter*** is an event rolled or chosen by the Guide. Whether enemies, obstacles, fortune, or misfortune, they tend to eat up precious time and resources. Examples include running across a hostile patrol, becoming fatigued, getting a flat tire, or finding a mysterious statue. Even on a success, the Guide may want to roll on an encounter table and describe the telltale signs (tracks, noises, spoor, etc.) of what they would have faced.
 
@@ -279,16 +273,17 @@ Rivals or foes can Travel too, giving them their own Edge result. The highest Ed
 
 This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. When necessary, Check a suitable CALLING or the most relevant of MOTIVE, NATURE, or POISE, usually vs. a fiat Difficulty set by the Guide.
 
-Longer projects like auto repairs or picking a complicated lock are not necessarily more difficult. These are better handled by requiring a certain amount of Edge before they are completed. Some tables like to keep track of this by making a progress bar or “clock.” It may take several Checks to build up enough Edge to complete the Use project.
+Longer projects like auto repairs or picking a complicated lock are not necessarily more difficult but may need an amount of Edge before completion. For example, every Edge when fixing a car gets rid of one point of vehicular damage. Some tables like to keep track of this by making a progress bar or “clock.” It may take several Checks to build up enough Edge to complete the Use project.
+
 
 **Check:** MOTIVE, NATURE or POISE vs. Difficulty
 
 {: .outcomes }
 
 > -   **Success:** Completes the task as intended, may or may not be *complete*.
-> -   **Edge:** fill in progress bar or clock for longer tasks.
+> -   **Edge:** raise Difficulty to undo project, fix damage penalties.
 > -   **Failure:** task stalls, remains at current state.
-> -   **Twists:** need more time, lose progress (on longer tasks), break tools, attract unwanted attention, weird flaw, temporarily lower Resources, etc. \*
+> -   **Twists:** need more time, lose progress (on longer tasks), break tools, attract unwanted attention, weird flaw, temporarily lower Resources, etc.*
 
 A party may split a lengthy Use project into smaller ones with varying Difficulties. This allows for incremental progress and taking advantage of specialized assistants. Naturally, the more people in a cohesive team working on a project, the less time it will also take.
 
@@ -362,7 +357,6 @@ Other status effects exist to vex characters aside from the usual Staggered and 
 -   **Fatigued**: tired and vulnerable to simple mistakes. This applies a minimum Difficulty to any task equal to 1 for each day of poor sleep or 2 for each day of no sleep. As a minimum, this only affects the Difficulty of a Check if it is higher than the normal one.
 -   **Immobile**: aware but unable to move, can still speak and observe. POISE 0 and no Action.
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
--   **Rattled**: agitated by a Rattle from a clever foe. They cannot Rally for a number of coming Actions equal to the Rattler’s Edge.
 -  **Starving**: every day without food lowers maximum Mettle by one. This can be deadly if it drops them to 0 or below. Restored by food.
 -  **Suffocating**: characters lose a point of Mettle per Round while holding their breath, or every two Rounds if inactive.
 -   **Hungry:** each day without food inflicts +1 Difficulty to all tasks. When the Difficulty plus exceeds their CALLING, they have starved to death. A hungry character may alienate others due to irritability as a Twist.
