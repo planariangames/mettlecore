@@ -229,7 +229,7 @@ Nearby foes may leap onto a vehicle. This is a Move Action with a Difficulty of 
 
 ### Speed Scaling
 
-Vehicles with high Speeds are faster than their Move in human-scaled Zones would imply. Attribute this to the difficulty of accelerating within a confined arena. If a vehicular scene breaks out into more spacious areas the Zones also expand to accommodate. The half-mile Stretch used in Mutananny is one such Zone, well suited for the common Speed 4 vehicles found in this environment.
+Vehicles with high Speeds are faster than their Move in human-scaled Zones would imply. Attribute this to the difficulty of accelerating within a confined arena. If a vehicular scene breaks out into more spacious areas the Zones also expand to accommodate. The half-mile Stretch used in races is one such Zone.
 
 {: .text-center}
 **VEHICLES**
