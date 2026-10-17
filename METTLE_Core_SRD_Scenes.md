@@ -89,13 +89,13 @@ Most games spend a good amount of time resolving *Actions.* While it is fun to r
 
 Do not fret if you run into events in the game that genuinely call for a Check but are not listed here. Just as described in the Checks section; find a likely Attribute for the pool, take a guess at the Difficulty, and make up your mind about what success and failure mean. Then just throw the dice. If it's something you end up doing a lot, save some time by writing up a formal Action for it. The ones to follow are just the most common actions, pre-baked so you don't have to cook them up from scratch every time.
 
-While every Action pairs with an Attribute, this is just for your convenience! If another Attribute make sense in the situation, use it instead. This is always true for well-suited CALLINGS.
+While every Action pairs with an Attribute, this is just for your convenience! If another Attribute make sense in the situation, use it instead. This is always true for well-suited CONCEPTS.
 
 The default Twist for Actions is Delay, meaning they lose their next Action because they are still dealing with the consequences of their last. The Outcomes section of each Action also lists a few likely alternate Twists to liven things up. These are not exhaustive, and many other possibilities exist. Be creative!
 
 ### Attack
 
-Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check the Attacker’s NATURE vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CALLING includes the name of a weapon or fighting style, they may use it in place of POISE.
+Adventurers get a lot of mileage out of bone-headed violence, so learn this Action well. Check the Attacker’s NATURE vs. the target’s POISE. If successful, they inflict the weapon’s DM plus any Edge as damage. If a CONCEPT includes the name of a weapon or fighting style, they may use it in place of POISE.
 
 **Check** NATURE vs. POISE.
 
@@ -128,7 +128,7 @@ Each day of rest, a Staggered or Fallen character can recover with a Check of MO
 > -   **Failure:** condition worsens (Staggered > Fallen > Dead)
 > -   **Twists:** *patient disfigured, lost a part, wasted gear or surgical tools, arrogant healer aggravates everyone, etc.*
 
-Penalties due to negative Mettle still apply to this Check, but as a special rule these cannot lower the dice pool below the patient’s MOTIVE. Aid from a healthy ally is best, especially one with a medical CALLING.
+This is a harsh Check when alone and wounded, due to negative Mettle forming the Difficulty and inflicting a die penalty on their own Actions. Aid from a healthy ally is best, especially one with a medical CONCEPT.
 
 If a character is too debilitated, the best thing to do is switch to an alternate character for a while. As payback for everyone’s convenience, the Guide can just handwave their recovery by next campaign.
 
@@ -145,7 +145,7 @@ There is a difference between what a player knows, and what their character does
 > -   **Failure:** Guide reveals only what they should know outright.
 > -   **Twists:** *Half-truth, suspect wary, one wrong clue out of several, etc.*
 
-The Player should frame their question carefully if they want useful info, and Guides should be generous with answers! Having the right CALLING or CULTURE often grants information without a Check. Always err towards giving out information to keep the game moving.
+The Player should frame their question carefully if they want useful info, and Guides should be generous with answers! Having the right CONCEPT or CULTURE often grants information without a Check. Always err towards giving out information to keep the game moving.
 
 This Action helps to understand, not perceive. As such, Know does not detect traps, loot, lies, or ambushes. Hidden foes rely on their Sneak Check, and hidden Traps are treated as Hazards with their own Check. In other cases, the Guide should just tell the players what is there without gating it behind a Check. A thorough search should reveal just about anything, for example.
 
@@ -190,7 +190,6 @@ A Race expands Zones into much longer Stretches of track, each about half mile l
 Stunts follow Initiative just like regular combat, with the highest lead vehicle going first. More detailed information about crashes, rams, and vehicular damage is in the Vehicles section
 
 More detailed information about crashes, rams, and vehicular damage is in the Vehicles section
-
 
 ### Rally
 
@@ -254,7 +253,7 @@ METTLE Core defaults to a sort of point-crawl system when needed. The Guide, and
 
 A single Travel Check can stand for hours, days, or weeks depending on the distance and vehicles. Adventurers “travel on their stomachs,” so lacking rations inflicts Deprivation and can turn a poorly planned expedition into a macabre tableau of sun-bleached skeletons for future explorers to puzzle over.
 
-The lead traveler then Checks POISE – or their best navigation or area knowledge CALLING, vs. the path Difficulty. Success means the group arrived safely, and failure is an encounter along the way.
+The lead traveler then Checks POISE – or their best navigation or area knowledge CONCEPT, vs. the path Difficulty. Success means the group arrived safely, and failure is an encounter along the way.
 
 **Check:** POISE vs. Difficulty
 
@@ -271,7 +270,7 @@ Rivals or foes can Travel too, giving them their own Edge result. The highest Ed
 
 ### Use
 
-This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. When necessary, Check a suitable CALLING or the most relevant of MOTIVE, NATURE, or POISE, usually vs. a fiat Difficulty set by the Guide.
+This catch-all Action covers miscellaneous feats, normally using a device, tool, or item. Pulling a sticky lever, forging a famous painting, starting an unfamiliar vehicle, fixing a car, picking a lock, etc. For trivial but Round-consuming Actions like reloading a weapon or pulling a lever, this is usually unchecked. When necessary, Check a suitable CONCEPT or the most relevant of MOTIVE, NATURE, or POISE, usually vs. a fiat Difficulty set by the Guide.
 
 Longer projects like auto repairs or picking a complicated lock are not necessarily more difficult but may need an amount of Edge before completion. For example, every Edge when fixing a car gets rid of one point of vehicular damage. Some tables like to keep track of this by making a progress bar or “clock.” It may take several Checks to build up enough Edge to complete the Use project.
 
@@ -359,8 +358,8 @@ Other status effects exist to vex characters aside from the usual Staggered and 
 -   **Incapacitated**: unconscious or paralyzed. A safer version of Fallen. POISE drops to zero and they lose their Action.
 -  **Starving**: every day without food lowers maximum Mettle by one. This can be deadly if it drops them to 0 or below. Restored by food.
 -  **Suffocating**: characters lose a point of Mettle per Round while holding their breath, or every two Rounds if inactive.
--   **Hungry:** each day without food inflicts +1 Difficulty to all tasks. When the Difficulty plus exceeds their CALLING, they have starved to death. A hungry character may alienate others due to irritability as a Twist.
--   **Thirsty:** each day without water inflicts +2 Difficulty to all tasks. When the Difficulty plus exceeds their CALLING, they have died of thirst. A Thirsty character may faint as a Twist.
+-   **Hungry:** each day without food inflicts +1 Difficulty to all tasks. When the Difficulty plus exceeds their CONCEPT, they have starved to death. A hungry character may alienate others due to irritability as a Twist.
+-   **Thirsty:** each day without water inflicts +2 Difficulty to all tasks. When the Difficulty plus exceeds their CONCEPT, they have died of thirst. A Thirsty character may faint as a Twist.
 
 ### Traps
 

@@ -18,13 +18,13 @@ title: Characters
 1.	**Name**: pick a good evocative handle.
 2.	**Appearance**: describe how they look when introduced.
 3.	**Attributes**: set their power in the narrative and system.
-- CALLING: primary occupation or expertise.
+- CONCEPT: overarching idea or occupation.
 - FRAME: physical presence, strength and stamina.
 - MOTIVE: mental focus, wits and willpower.
 - NATURE: martial and social savvy
 - POISE: agility and reflexes.
-4.	**Resources**: decide starting wealth level and choose gear.
-5.	**Mettle**: morale and stamina, equal to CALLING + MOTIVE.
+4.	**Resources**: decide starting wealth, perks, and gear.
+5.	**Mettle**: morale and stamina, equal to CONCEPT + MOTIVE.
 
 ## Step 1: Name
 
@@ -93,11 +93,11 @@ if you roll a 6 and a 2, go to the distinctive feature in the row for "6, 2."
 
 ## Step 3: Attributes
 
-These are your character's ***CALLING, FRAME, MOTIVE, NATURE,*** and ***POISE*** pools.  Attributes lend a character substance within the rules of the game. The more dice there are in an Attribute ***Pool***, the better they are at things related to it. Attributes range from 1 to 6 for starting characters, with a 3 being average. Experienced adventurers may exceed those bounds at the Guide's discretion.
+These are your character's ***CONCEPT, FRAME, MOTIVE, NATURE,*** and ***POISE*** pools.  Attributes lend a character substance within the rules of the game. The more dice there are in an Attribute ***Pool***, the better they are at things related to it. Attributes range from 1 to 6 for starting characters, with a 3 being average. Experienced adventurers may exceed those bounds at the Guide's discretion.
 
-Each Attribute may also bear a ***Descriptor***; a word or phrase fleshing out what the Attribute covers. This defined scope is vital for the ***CALLING*** Attribute and useful for the others. Having the right Descriptor for a task may even let you just assume success. Players may leave Descriptors blank at creation and discover them as they play.
+Each Attribute may also bear a ***Descriptor***; a word or phrase fleshing out what the Attribute covers. This defined scope is vital for the ***CONCEPT*** Attribute and useful for the others. Having the right Descriptor for a task may even let you just assume success. Players may leave Descriptors blank at creation and discover them as they play.
 
-Starting characters are well above average with plenty of room to grow. Put a **[6]** into CALLING. Put **14** points into the rest of the Attributes, with a minimum of 1 and a maximum of 5. For example, 2 in FRAME, 5 in MOTIVE, 4 in NATURE, and 3 in POISE.
+Starting characters are well above average with plenty of room to grow. Put a **[6]** into CONCEPT. Put **14** points into the rest of the Attributes, with a minimum of 1 and a maximum of 5. For example, 2 in FRAME, 5 in MOTIVE, 4 in NATURE, and 3 in POISE.
 
 Attribute pools can improve later with experience points. Gain these by recounting memorable events from the last adventure.
 
@@ -105,11 +105,11 @@ Circumstances or equipment may change an Attribute pool. In this case, put the a
 
 Unusual settings may introduce entirely new Attributes to account for things like cybernetics, magic, superpowers, and martial arts.
 
-### CALLING
+### CONCEPT
 
-This is the Adventurer’s lot in life, and the size of their dice pool tells you how good they are at it. CALLING is special because it can replace other Attributes if better suited for the task. For example, a *Royal Fencing Instructor* could use their CALLING instead of POISE when wielding a fencing blade. This is only for the active side of a Check; CALLING cannot swap in for other Attributes used as a passive Difficulty/defense.
+This is the overarching theme of the Adventurer, usually expressed as their occupation or lot in life. CONCEPT is special because it can replace other Attributes if better suited for the task. For example, a *Royal Fencing Instructor* could use their CONCEPT instead of POISE when wielding a fencing blade. This is only for the active side of a Check; CONCEPT cannot swap in for other Attributes used as a passive Difficulty/defense.
 
-Guides often grant free information or automatic success with the right CALLING Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon without their player so much as touching the dice, while those with less relevant Descriptors may be stuck making Checks.
+Guides often grant free information or automatic success with the right CONCEPT Descriptor. For example, a *Professor of Ancient History* or *Greek Citizen* would know plenty about the Parthenon without their player so much as touching the dice, while those with less relevant Descriptors may be stuck making Checks.
 
 **<u>Example Descriptors</u>:** *cat burglar, astromech pilot, village blacksmith, unemployed librarian, time-traveling lunatic, courtier, etc.*
 
@@ -118,10 +118,10 @@ Guides often grant free information or automatic success with the right CALLING 
 >- Forms the bulk of the Mettle score.
 
 <center>
-<strong>CALLING Descriptor Seeds</strong>
+<strong>CONCEPT Descriptor Seeds</strong>
 </center>
 
-| **d66** | **Calling**        | **What they are good at:**                 |
+| **d66** | **CONCEPT**        | **What they are good at:**                 |
 | ------- | ------------------ | ------------------------------------------ |
 | 1,1     | **Acrobat**        | Incredible physical feats of agility       |
 | 1,2     | **Archaeologist**  | Spout ancient lore and navigate ruins      |
@@ -162,7 +162,7 @@ Guides often grant free information or automatic success with the right CALLING 
 
 ### FRAME
 
-Adventurers come in all shapes and sizes. The Pool reflects their physical might for taking damage, dishing it out, and carrying heavy loads. The Descriptor is their body type or build.
+Adventurers come in all shapes and sizes. The pool reflects their physical might for taking damage, dishing it out, and carrying heavy loads. Unlike other Attributes, FRAME always acts as a bonus and is never Checked as a dice pool. The Descriptor is their body type or build.
 
 **<u>Example Descriptors:</u>** *Built like a scarecrow, Broad as a barn door, charmingly asymmetric, mighty thews and gristle, serpentine, etc.*
 
@@ -288,8 +288,20 @@ A character can afford items with up to as many digits in their price as their C
 
 List discrete windfalls, suitcases full of cash, stolen piggybanks, or other treasures as separate items. This preserves the appeal of special loot.
 
-### Languages
-A globe-trotting pulp Adventurer can support the lifestyle needed to learn and practice a number of languages equal to their Resources. These are at conversational level; Fluency takes up two slots. If Resources drop, they will get rusty with a language or more
+### Perks
+It’s not fair, but money and power provides more opportunities in life. Specifically, better supported pulp adventurers can afford more extra-curricular activities or Perks to broaden their already impressive skill sets. A Perk is not passive thing they learned once upon a time, rather it is a pursuit they actively spend effort on maintaining. A character can take as many Perks as their Credit. In addition to the narrative benefits, having a Perk grants +1D to related Checks on MOTIVE, NATURE, or POISE. If it falls under CONCEPT, it would be redundant and grants no bonus. It is best to take Perks in areas outside of the CONCEPT.
+
+If their Credit drops, they lose one due to not being able to afford to support it: skills get rusty, faces change, methods advance without them. Players may also switch the character’s Perks later.
+
+ On the other hand, an adventurer does not need to declare all their Perks at creation. When something happens, they can retroactively declare they had the Perk all along. This is a convenience to easily fit the character into the setting. For example, if the party runs into a survivor who speaks another language, an adventurer with an empty Perk slot can declare they were taking lessons in that language, and the game can move along as if it were true. It is now!
+
+The different types of Perks are:
+- **Languages** (choose language): a globe-trotting pulp Adventurer can support the lifestyle needed to learn and practice a foreign language, by instruction or immersion. These are at conversational level; Fluency takes up two slots.
+- **Sub-concept** (choose CONCEPT): sometimes an adventurer used to be something else, wants to be something else, or is just heavily involved with that sort of people and it rubbed off.
+- **Job** (choose occupation): sometimes your job is not your Concept, but you still gotta do it. Not so common with pulp adventurers unless they have an alter ego or are down on their luck.
+- **Hobby** (choose): even things like gambling, chess, basket-weaving and other esoteric skills can come into play when you least expect them. Especially if the player leans into it and makes it happen.
+- **Martial Arts Instruction** (choose style): it’s almost a necessity for even the most docile looking adventurer to have training in unarmed combat. This can be boxing, wrestling, karate, jiu-jitsu, etc.
+- **Firearms Instruction**: basic training in conventional firearms like pistols and rifles is easy to come by in most places. Anything more focused or exotic is usually a CONCEPT.
 
 ### Encumbrance
 
@@ -308,7 +320,7 @@ The table below gives the Load step and Shift (max lifted, dragged or pulled) fo
 </center>
 
 {: .lh-0}
-| **Frame** | **Enc/Ov/Imm (lbs)** | **Shift** |
+| **Frame** | **Enc/Ov/Imm (kg)** | **Lift/push/pull (kg)** |
 | :-------: | :------------------: | :-------: |
 | 1         | 9/18/27              | 66        |
 | 2         | 13/26/39             | 104       |
@@ -331,10 +343,10 @@ Overloaded characters may drop bulky gear such as backpacks to avoid encumbrance
 
 ## Step 5: Mettle
 
-The fighting spirit of the character. Mettle is equal to the CALLING + MOTIVE of the character, so usually around 9 at creation. Combatants only suffering lasting injury when Mettle falls into the negatives.
+The fighting spirit of the character. Mettle is equal to the CONCEPT + MOTIVE of the character, so usually around 9 at creation. Combatants only suffering lasting injury when Mettle falls into the negatives.
 
 {: .highlight }
->- Mettle = CALLING + MOTIVE
+>- Mettle = CONCEPT + MOTIVE
 
 ### Taking Damage
 
@@ -373,15 +385,15 @@ Players who miss a session can still get XP from the last one they attended, and
 
 ### Spending XP
 
-To raise CALLING by one, spend twice its current level in XP. To raise any other Attribute by one, spend XP equal to CALLING. For example, if their Calling is 6 it costs 12 XP to raise it to 7, but only 6 XP to raise any other Attribute.
+To raise CONCEPT by one, spend twice its current level in XP. To raise any other Attribute by one, spend XP equal to CONCEPT. For example, if their CONCEPT is 6 it costs 12 XP to raise it to 7, but only 6 XP to raise any other Attribute.
 
-Calling must always be the highest Attribute. If raising another Attribute would make it equal to Calling, raise Calling first.
+CONCEPT must always be the highest Attribute. If raising another Attribute would make it equal to CONCEPT, raise CONCEPT first.
 
 You may spend XP during the actual game, especially during a tense conflict! This represents learning an opponent’s moves, growing from a rivalry, or lengthy training finally coming to fruition.
 
 {: .highlight }
->- Raise CALLING: XP cost = current CALLING x 2
->- Raise other: XP cost = CALLING
+>- Raise CONCEPT: XP cost = current CONCEPT x 2
+>- Raise other: XP cost = CONCEPT
 
 ---
 
@@ -389,17 +401,19 @@ You may spend XP during the actual game, especially during a tense conflict! Thi
 
 Dana is making a new character for an upcoming game. Her Guide set it in an alternate Baltimore circa 1904, centering on mysteries with subtle plot-related supernatural elements -- sort of a cross between *Gangs of New York, Bloodborne,* and *True Detective*.
 
-**Step 1 -- Name:** Viktor seems like a catchy name and a good play on words for a character meant to be a good fighter. He needs a last name too, but she decides to skip it for now.
+**Step 1 -- Name:** Viktor seems like a catchy name and a good play on words for a character meant to be a good fighter. She picks the last name “Alkaev” from a search of Russian family names.
 
 **Step 2 -- Appearance** Dana thinks it would be fun to play a sardonic H.R. Mencken type with a sword cane. She decides on a thin, well-dressed mature gentleman. Maybe suffering from an old leg injury? She writes *"A crisply attired gentleman in a burgundy suit, with a telling limp in his right leg."*
 
-**Step 3** **-- Attributes:** Dana rolls “Fencer” as his CALLING, spices it up as “Down & Out Fencer” and gives it the mandatory 6 levels. Now she spends the 14 free points. She sees him as difficult to deal with, so she chooses “Competition” as his MOTIVE at 4D, and “Curmudgeon” as his NATURE at 5D, reflecting his sharp tongue. The low 2D goes in POISE to reflect his “old fencing injury” to the leg – he is not as agile as he was. The other 3D goes in FRAME as he is “svelte but wiry.”
+**Step 3** **-- Attributes:** Dana rolls “Fencer” as his CONCEPT, spices it up as “Down & Out Fencer” and gives it the mandatory 6 levels. Now she spends the 14 free points. She sees him as difficult to deal with, so she chooses “Competition” as his MOTIVE at 4D, and “Curmudgeon” as his NATURE at 5D, reflecting his sharp tongue. The low 2D goes in POISE to reflect his “old fencing injury” to the leg – he is not as agile as he was. The other 3D goes in FRAME as he is “svelte but wiry.”
 
 **Step 4 -- Resources:** Dana’s Guide assigns 2 (Struggling) for Credit based on Viktor’s situation. He wears a finely Tailored Burgundy Suit but that goes into appearance. He carries an elegant sword cane, which is probably only 1 kg at the most, and no armor. For carried items, he has a pocketknife, a pocket watch & fob, and a deck of cards.
 
-**Step 5 -- Mettle**: adding his CALLING of 6 and MOTIVE of 4 gives him a Mettle of 10.
+He gets two Perks and Dana assigns one of them to Russian language from his upbringing and another to bump his competence at his current card dealer job in a local casino. Note that his current job is not his CONCEPT! He still envisions himself as a Fencer despite all odds.
 
-Reading between the lines of the Descriptors suggests he dropped out of competitive fencing after a leg injury. His Attributes reflect this as still using his well-trained Calling to Attack but being a bit of a sitting duck due to his low Poise. He is still very competitive but now expresses it largely with his acerbic wit. She pauses for a second; Viktor honestly seems like a bit of a jerk, but a lot of fun to play. At this point, she is ready and the game is on.
+**Step 5 -- Mettle**: adding his CONCEPT of 6 and MOTIVE of 4 gives him a Mettle of 10.
+
+Reading between the lines of the Descriptors suggests he dropped out of competitive fencing after a leg injury. His Attributes reflect this as still using his well-trained CONCEPT to Attack but being a bit of a sitting duck due to his low Poise. He is still very competitive but now expresses it largely with his acerbic wit. She pauses for a second; Viktor honestly seems like a bit of a jerk, but a lot of fun to play. At this point, she is ready and the game is on.
 
 <center>
 <strong>EXAMPLE CHARACTER</strong>

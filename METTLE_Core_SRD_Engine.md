@@ -21,7 +21,7 @@ title: Engine
 
 ### Success & Failure
 
-To make a Check, declare what the character is doing, then roll dice equal to the Attribute they are doing it with. For Attributes, use CALLING if it fits the task, otherwise default to MOTIVE for mental, NATURE for social, or POISE for athletics.
+To make a Check, declare what the character is doing, then roll dice equal to the Attribute they are doing it with. For Attributes, use CONCEPT if it fits the task, otherwise default to MOTIVE for mental, NATURE for social, or POISE for athletics.
 
 Add the face numbers of dice showing 1-3; this is the ***Score***. Count the number of dice showing 4-6; this is the ***Edge***. For example, rolling [4, 1, 3, 5, 2, 2] yields a Score of 8 (1 + 3 + 2 + 2) and 2 Edge (4 & 5). Score determines if they succeed, while Edge reveals how well.
 
@@ -158,8 +158,8 @@ graph TD
 	Risky == Yes ==> Check
 	Risky == No ==> Success
 	Success ==> Narrate[Guide describes outcome]
-	Check ==> Concept{{Fits CALLING?}}
-	Concept == Yes ==> Pool[Pool = CALLING]
+	Check ==> Concept{{Fits CONCEPT?}}
+	Concept == Yes ==> Pool[Pool = CONCEPT]
 	Concept == No ==> Default["Pool = CULTURE for mental
 	Pool = NATURE for social
 	Pool = POISE for athletic"]
@@ -221,7 +221,7 @@ The Guide has gotten together with a few good friends as players: *Dana* and *Tr
 
 **Guide:** Oh, good idea, but he might get suspicious or think you will run off with it, let's do a NATURE Check.
 
-**Dana/Viktor:** My "Itinerant Gambler" CALLING is 6D, which is much better. Can I use that?
+**Dana/Viktor:** My "Itinerant Gambler" CONCEPT is 6D, which is much better. Can I use that?
 
 **Guide:** Maybe, can you tell me how it applies?
 

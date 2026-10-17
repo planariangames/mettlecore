@@ -152,7 +152,7 @@ The Guide does not need to prepare full stats for unnamed creatures or NPCs. A s
 
 <p style="text-align: center;">[ Check pool ] D + [ FRAME ]</p>
 
-The number with a D is their dice pool for most combat purposes, and when doubled it forms their base Mettle. If they try something related to their title, raise it by two to mimic a CALLING. The number after the + is their FRAME.
+The number with a D is their dice pool for most combat purposes, and when doubled it forms their base Mettle. If they try something related to their title, raise it by two to mimic a CONCEPT. The number after the + is their FRAME.
 
 - **Caveman:** Threat 4D+4, Mettle 8, Soak 4, Attack with club (5D Hit, 6 DM, Parry +1), Speed 1. Our primitive forebears, hardy and cunning.
 - **Cop:** Threat 3D+3, Mettle 6, Soak 3, Attack with club (4D Hit, 5 DM, Parry +1) or pistol (4D Hit, 7 DM, Range 2, Ammo 9), Speed 1. Adventurers often deal with these common agents of the law.
@@ -168,7 +168,7 @@ The number with a D is their dice pool for most combat purposes, and when double
 
 ## Hirelings
 
-No man is an island, and even a well-rounded party can find they lack the ability or patience for certain tasks. In general, you get what you pay for. A Hireling’s CALLING is usually from 5-7D, depending on how good at their jobs they are and how well the party pays them. Otherwise, they can use an average NPC Extra pool of 3D+3 or so. Favorite hirelings often get regular stats, and are prime candidates to step in as replacement characters in the actual party.
+No man is an island, and even a well-rounded party can find they lack the ability or patience for certain tasks. In general, you get what you pay for. A Hireling’s CONCEPT is usually from 5-7D, depending on how good at their jobs they are and how well the party pays them. Otherwise, they can use an average NPC Extra pool of 3D+3 or so. Favorite hirelings often get regular stats, and are prime candidates to step in as replacement characters in the actual party.
 
 -   **Lawyer:** adventurers get into all sorts of shenanigans, lawbreaking, and general stupidity. Fair or foul, a lawyer can get them out of it. Keeping one on retainer can make escaping the consequences of your actions faster and easier.
 -   **Local Guide:** hiring a local or street urchin to show you around a new place is a great way to avoid trouble, but they can also expose you to scams. Most want repeat business however and try to take advantage of your naivety in ways you don't notice.
@@ -212,13 +212,11 @@ Vehicles with roll bars or cabins grant Partial Cover to the driver and passenge
 
 ### Vehicle Damage
 
-Vehicles are an extension of their driver and as such share their Mettle for most purposes. Hits to the vehicle apply to the driver’s Mettle as long as it is above the negatives. A hit that drops them below zero Staggers the vehicle instead, sparing the driver. Sometimes it is a good idea to swap drivers if their Mettle is getting low.
+Vehicles start up at the same Mettle as their driver but track damage separately. If they switch drivers, the current Mettle does not change but the maximum does. If the driver Rallies, both the driver and vehicle recover that amount of Mettle.
 
-For example, a driver with 9 Mettle behind the wheel of a souped-up spy Mustang gets hit by an autocannon for 6 damage. This drops the vehicle-and-driver pair to 3 Mettle. When a nazi warbot lands on the trunk for a further 5 damage, this puts the vehicle at -2 Mettle and inflicts Stagger. The driver’s Mettle remains at 3, so the penalty applies to any driving actions they make using the vehicle itself.
+For example, a driver with 9 Mettle hops behind the wheel of a souped-up spy Mustang, which now also gets 9 Mettle. When a nazi warbot lands on the trunk for 6 damage (after Soak), this puts the vehicle at 3 Mettle. The driver leaps out onto the roof to deal with the warbot and their copilot with Mettle 11 takes over. At this point the vehicle still has only 3 Mettle but their maximum bumps up to 11.
 
-Rallies only raise Mettle if above zero, so if the vehicle is Staggered and the driver is not, only the driver’s Mettle recovers. The car needs a stint in the repair shop.
-
-- **Crashing** is when a vehicle hits an obstacle or rolls over. Vehicle and passengers take damage as a Hazard pool equal to their current Speed plus a bonus also equal to current Speed. The Vehicle and passengers get no FRAME Soak but may Soak with any armor. The driver loses Mettle twice, first for the vehicle damage and next for the passenger damage. For example, a Crash at 3 Speed inflicts 3D+3. The driver takes this hit to their Mettle, then the driver and any passengers also take 3D+3 damage.
+- **Crashing** is when a vehicle hits an obstacle or rolls over. Vehicle and passengers take damage as a Hazard pool equal 1D+1 per point of current Speed. The vehicle and passengers get no FRAME Soak but may Soak with their armor bonus only. The driver loses Mettle twice, first for the vehicle damage and next for the passenger damage. For example, a Crash at 3 Speed inflicts 3D+3. The driver takes this hit to their Mettle, then the driver and any passengers also take 3D+3 damage.
 - **Ramming** turns a vehicle into a deadly weapon by sideswiping, t-boning, or rear-ending. Against another vehicle, make an Attack Check of the Vehicle’s Handling versus the target’s current Speed (or POISE if a pedestrian!). Ram damage to the target is the rammer’s FRAME + Speed + Edge. The Ramming vehicle also takes damage, equal to the target’s FRAME + Speed. Double effective Speed for both in a head-on collision.
 
 ### Repairs
@@ -235,21 +233,21 @@ Vehicles with high Speeds are faster than their Move in human-scaled Zones would
 **VEHICLES**
 
 {: .lh-0}
-| **Vehicle**        | **Handling** | **Speed** | **Frame** | **Enc**         | **Cost** |
-| ------------------ | ------------ | --------- | --------- | --------------- | -------- |
-| Bus, school        | \-           | 4         | 13        | 581/1162/1743   | 6        |
-| Car, compact       | +2D          | 5         | 9         | 162/324/486     | 5        |
-| Car, sedan         | +1D          | 5         | 9         | 162/324/486     | 5        |
-| Car, sports        | +2D          | 6         | 9         | 162/324/486     | 6        |
-| Car, SUV           | +1D          | 5         | 10        | 222/444/666     | 5        |
-| Dirt bike          | +2D          | 3         | 4         | 33/66/99        | 4        |
-| Helicopter, attack | +1D          | 6         | 11        | 306/612/918     | 7        |
-| Helicopter, light  | +2D          | 5         | 8         | 117/234/351     | 6        |
-| Jet, Fighter       | +1D          | 10        | 14        | 801/1602/2403   | 7        |
-| Jet, Jumbo         | \-           | 8         | 19        | 3984/7968/11952 | 7        |
-| Motorcycle         | +2D          | 5         | 5         | 45/90/135       | 5        |
-| Seaplane           | \-           | 6         | 11        | 306/612/918     | 6        |
-| Tank, combat       | +1D          | 3         | 16        | 1522/3044/4566  | 7        |
-| Truck, garbage     | \-           | 4         | 15        | 1104/2208/3312  | 6        |
-| Truck, monster     | +1D          | 4         | 11        | 306/612/918     | 6        |
-| Truck, pickup      | +1D          | 5         | 10        | 222/444/666     | 5        |
+| **Vehicle**            | **Handle** | **Spd** | **Frame** | **Enc / Over / Imm**    | **Cost** |
+| ---------------------- | ---------- | ------- | --------- | ----------------------- | -------- |
+| **Bus, school**        | \-         | 4       | 14        | 1,162 / 2,324 / 3,486   | 6        |
+| **Car, compact**       | +2D        | 5       | 10        | 324 / 648 / 972         | 5        |
+| **Car, sedan**         | +1D        | 5       | 10        | 324 / 648 / 972         | 5        |
+| **Car, sports**        | +2D        | 6       | 10        | 324 / 648 / 972         | 6        |
+| **Car, SUV**           | +1D        | 5       | 11        | 444 / 888 / 1,332       | 5        |
+| **Dirt bike**          | +2D        | 3       | 5         | 66 / 132 / 198          | 4        |
+| **Helicopter, attack** | +1D        | 6       | 12        | 612 / 1,224 / 1,836     | 7        |
+| **Helicopter, light**  | +2D        | 5       | 9         | 234 / 468 / 702         | 6        |
+| **Jet, Fighter**       | +1D        | 10      | 15        | 1,602 / 3,204 / 4,806   | 7        |
+| **Jet, Jumbo**         | \-         | 8       | 20        | 7,968 / 15,936 / 23,904 | 7        |
+| **Motorcycle**         | +2D        | 5       | 6         | 90 / 180 / 270          | 5        |
+| **Seaplane**           | \-         | 6       | 12        | 612 / 1,224 / 1,836     | 6        |
+| **Tank, combat**       | +1D        | 3       | 17        | 3,044 / 6,088 / 9,132   | 7        |
+| **Truck, garbage**     | \-         | 4       | 16        | 2,208 / 4,416 / 6,624   | 6        |
+| **Truck, monster**     | +1D        | 4       | 12        | 612 / 1,224 / 1,836     | 6        |
+| **Truck, pickup**      | +1D        | 5       | 11        | 444 / 888 / 1,332       | 5        |
