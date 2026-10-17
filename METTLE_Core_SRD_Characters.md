@@ -121,6 +121,7 @@ Guides often grant free information or automatic success with the right CONCEPT 
 <strong>CONCEPT Descriptor Seeds</strong>
 </center>
 
+{: .lh-0}
 | **d66** | **CONCEPT**        | **What they are good at:**                 |
 | ------- | ------------------ | ------------------------------------------ |
 | 1,1     | **Acrobat**        | Incredible physical feats of agility       |
